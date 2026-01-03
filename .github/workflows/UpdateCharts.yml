@@ -1,9 +1,15 @@
 name: UpdateCharts
 
+# on:
+#   schedule:
+#     - cron: '0 */6 * * *'
 on:
-  schedule:
-    - cron: '0 */6 * * *'
-
+  push:
+    branches:
+      - main
+  repository_dispatch:
+  workflow_dispatch:
+  
 jobs:
   build:
     runs-on: ubuntu-latest
