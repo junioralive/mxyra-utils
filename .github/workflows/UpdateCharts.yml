@@ -1,14 +1,14 @@
 name: UpdateCharts
 
-# on:
-#   schedule:
-#     - cron: '0 */6 * * *'
 on:
-  push:
-    branches:
-      - main
-  repository_dispatch:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+# on:
+#   push:
+#     branches:
+#       - main
+#   repository_dispatch:
+#   workflow_dispatch:
   
 jobs:
   build:
