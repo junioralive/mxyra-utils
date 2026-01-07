@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-01-07T12:39:53.325583+00:00",
+  "captured_at_utc": "2026-01-07T18:29:00.892229+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgt2OUIzV052M0VRayiPqPnKBjIKCgJVUxIEGgAgJw%3D%3D"
+      "visitorData": "CgtyTS1IeFpJQWJ4NCjjy_rKBjIKCgJVUxIEGgAgSw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,16 +25,22 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-01"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-01"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-05"
+                      "latestEndDate": "2026-01-06"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -49,16 +55,10 @@
                       "latestEndDate": "2026-01-01"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-05"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-01"
+                      "latestEndDate": "2026-01-06"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -664,12 +664,12 @@
                         },
                         "artists": [
                           {
-                            "kgMid": "/m/01p1rjc",
-                            "name": "Vishal - Shekhar"
-                          },
-                          {
                             "kgMid": "/m/0c26vs",
                             "name": "Sukhwinder Singh"
+                          },
+                          {
+                            "kgMid": "/m/01p1rjc",
+                            "name": "Vishal - Shekhar"
                           }
                         ],
                         "isVisible": true,
@@ -683,7 +683,7 @@
                           "Vishal-Shekhar",
                           "Javed Akhtar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIosCCAIStwEKDEJhbmt1IEJoYWl5YRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2ZGRVFEa0xtdWFCelV5WFpBSElhUUhVbTc4TVJzTjVvYXRYTnNjU0pmRTdlN0lPRmMzY1ZVcXFnRW9WbzZtdllocC0zRDR6ZDk0blpaZ1k9dzkwMC1oOTAwLXAaAjE0IhBWaXNoYWwgLSBTaGVraGFyIhBTdWtod2luZGVyIFNpbmdoKgAaNwoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoPSmFudWFyeSAxLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvcBCAISowEKDEJhbmt1IEJoYWl5YRJpaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1ValZtaW85Mlc1R0Faak1rU0s4VlV0YjNjMTBWcmczcFktX1B1SmwzcjNkNFFodUhjRE1BPXc5MDAtaDkwMC1wGgIxNCIQU3VraHdpbmRlciBTaW5naCIQVmlzaGFsIC0gU2hla2hhcioAGjcKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaD0phbnVhcnkgMSwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
                       },
                       {
                         "id": "G:Iq5q6GGpJmY",
@@ -2360,9 +2360,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjH-raxufmRAxUyssIBHULdN5w="
+        "trackingParams": "CAEQui8iEwiAtoC2h_qRAxXfxD8EHTT0Fn0="
       }
     },
-    "trackingParams": "CAAQhGciEwjH-raxufmRAxUyssIBHULdN5w="
+    "trackingParams": "CAAQhGciEwiAtoC2h_qRAxXfxD8EHTT0Fn0="
   }
 }

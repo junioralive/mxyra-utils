@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-01-07T12:39:19.612518+00:00",
+  "captured_at_utc": "2026-01-07T18:28:26.279735+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtraDF6Y2pTTUNlMCjup_nKBjIKCgJVUxIEGgAgEA%3D%3D"
+      "visitorData": "CgtCLVY1M0NFZ2dBUSjAy_rKBjIKCgJVUxIEGgAgbA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,16 +25,22 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-01"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-01"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-05"
+                      "latestEndDate": "2026-01-06"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -49,16 +55,10 @@
                       "latestEndDate": "2026-01-01"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-05"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-01"
+                      "latestEndDate": "2026-01-06"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -3518,7 +3518,7 @@
                       },
                       {
                         "id": "tKLcFy1HDUA",
-                        "title": "Seet Lehar",
+                        "title": "Seet Lehar (Dekh Le)",
                         "viewCount": "7078338",
                         "thumbnail": {
                           "thumbnails": [
@@ -3577,7 +3577,7 @@
                         "songProducers": [
                           "Riyaazi"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqgBCAISWAoKU2VldCBMZWhhchI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS90S0xjRnkxSERVQS9tYXhyZXNkZWZhdWx0LmpwZxoCNTEiBUZpbG15IgdSaXlhYXppKgAaNAoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoPSmFudWFyeSAxLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrIBCAISYgoUU2VldCBMZWhhciAoRGVraCBMZSkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvdEtMY0Z5MUhEVUEvbWF4cmVzZGVmYXVsdC5qcGcaAjUxIgVGaWxteSIHUml5YWF6aSoAGjQKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaD0phbnVhcnkgMSwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
                         "externalChannelId": "UCUpDXLq4dcMecEJvAskCu5A",
                         "channelName": "Real Music"
                       },
@@ -6905,9 +6905,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjJ8aqhufmRAxXtexIBHTweCGg="
+        "trackingParams": "CAEQui8iEwiD9Lylh_qRAxVq0j8EHQNWIuc="
       }
     },
-    "trackingParams": "CAAQhGciEwjJ8aqhufmRAxXtexIBHTweCGg="
+    "trackingParams": "CAAQhGciEwiD9Lylh_qRAxVq0j8EHQNWIuc="
   }
 }
