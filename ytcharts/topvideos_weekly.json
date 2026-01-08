@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-01-08T12:39:20.892401+00:00",
+  "captured_at_utc": "2026-01-08T18:24:16.771220+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtGLU5IZmlEWTlINCjvyv7KBjIKCgJVUxIEGgAgaw%3D%3D"
+      "visitorData": "Cgt0YlBUeGtKeWVzNCjH7P_KBjIKCgJVUxIEGgAgJw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -40,13 +40,7 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-06"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-01-01"
+                      "latestEndDate": "2026-01-07"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -55,10 +49,16 @@
                       "latestEndDate": "2026-01-01"
                     },
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-01-01"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-06"
+                      "latestEndDate": "2026-01-07"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1604,6 +1604,10 @@
                         "isAvailable": true,
                         "artists": [
                           {
+                            "kgMid": "/g/11wc909c89",
+                            "name": "Dancing Green Alien"
+                          },
+                          {
                             "kgMid": "/m/082hb9",
                             "name": "El Chombo"
                           }
@@ -1617,7 +1621,7 @@
                         "songwriters": [
                           "Rodney Sebastian Clark Donalds"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqcBCAISVwoORGFtZSBUdSBDb3NpdGESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRnpHNHVEZ2plM00vbWF4cmVzZGVmYXVsdC5qcGcaAjIyIglFbCBDaG9tYm8qABo0ChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg9KYW51YXJ5IDEsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrwBCAISbAoORGFtZSBUdSBDb3NpdGESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRnpHNHVEZ2plM00vbWF4cmVzZGVmYXVsdC5qcGcaAjIyIhNEYW5jaW5nIEdyZWVuIEFsaWVuIglFbCBDaG9tYm8qABo0ChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg9KYW51YXJ5IDEsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UC4rasfm9J-X4jNl9SvXp8xA",
                         "channelName": "Ultra Records"
                       },
@@ -6905,9 +6909,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwimhtaQ-_uRAxUfShIBHRWiN2Q="
+        "trackingParams": "CAEQui8iEwi4hZ-dyPyRAxU4q8IBHRgOOiM="
       }
     },
-    "trackingParams": "CAAQhGciEwimhtaQ-_uRAxUfShIBHRWiN2Q="
+    "trackingParams": "CAAQhGciEwi4hZ-dyPyRAxU4q8IBHRgOOiM="
   }
 }
