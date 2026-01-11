@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-01-11T01:40:00.781222+00:00",
+  "captured_at_utc": "2026-01-11T06:27:29.502876+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgsxVXBXQ29nUkZ6SSjn_ovLBjIKCgJVUxIEGgAgaQ%3D%3D"
+      "visitorData": "CgtXUlVPTnZtbmdpQSjIhY3LBjIKCgJVUxIEGgAgTw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -26,6 +26,18 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-01-08"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-08"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-01-09"
@@ -34,31 +46,19 @@
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-01"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-01"
+                      "latestEndDate": "2026-01-08"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-01"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-09"
+                      "latestEndDate": "2026-01-08"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-01-01"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-09"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -2423,6 +2423,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
+                            "kgMid": "/g/11nns5yvnq",
                             "name": "Mirjalol Nematov"
                           }
                         ],
@@ -3770,13 +3771,6 @@
                           "month": 1,
                           "day": 8
                         },
-                        "songwriters": [
-                          "Priyanshu Singh",
-                          "Vijay Chauhan"
-                        ],
-                        "songProducers": [
-                          "Surinder Yadav"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpwCCAISzAEKgQEjVmlkZW8gLSAjUGF3YW4gU2luZ2ggLSDgpLjgpLLgpLXgpLDgpLXgpL4g4KSy4KS-4KSy4KWHIOCkueCliyDgpLLgpL7gpLIgLSAjU2hpbHBpIFJhaiAtICNDaGFuZGFuaSBTaW5naCAtIE5ldyBCaG9qcHVyaSBTb25nIDIwMjYSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvbmpfLS00VHF6MjQvbWF4cmVzZGVmYXVsdC5qcGcaAjU0IgpTdXIgTXVzaWMgKgAaMwoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg9KYW51YXJ5IDksIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UCW1BEAegBZdCOq4M7JtDSQw",
                         "channelName": "Sur Music "
@@ -6844,9 +6838,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiv-ZGtrYKSAxWSIq0GHcr3IR4="
+        "trackingParams": "CAEQui8iEwjTzfvN7YKSAxVjCK0GHcjFIA0="
       }
     },
-    "trackingParams": "CAAQhGciEwiv-ZGtrYKSAxWSIq0GHcr3IR4="
+    "trackingParams": "CAAQhGciEwjTzfvN7YKSAxVjCK0GHcjFIA0="
   }
 }
