@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-01-11T12:35:07.198767+00:00",
+  "captured_at_utc": "2026-01-11T18:25:14.190157+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgsyeF9sbzluWV9ZTSjxsY7LBjIKCgJVUxIEGgAgUg%3D%3D"
+      "visitorData": "CgszVnV5ZDNTSVFnZyiA1o_LBjIKCgJVUxIEGgAgag%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,25 +25,7 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-01-08"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-08"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-09"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-08"
@@ -55,10 +37,28 @@
                       "latestEndDate": "2026-01-08"
                     },
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-10"
+                    },
+                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-09"
+                      "latestEndDate": "2026-01-10"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-01-08"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-08"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -157,7 +157,7 @@
                       },
                       {
                         "id": "lOHVMmZ6n3o",
-                        "title": "Ghar Kab Aaoge (From “BORDER 2”)",
+                        "title": "Ghar Kab Aaoge",
                         "viewCount": "25365297",
                         "thumbnail": {
                           "thumbnails": [
@@ -200,20 +200,20 @@
                             "name": "Vishal Mishra"
                           },
                           {
-                            "kgMid": "/m/026_9c2",
-                            "name": "Mithoon"
-                          },
-                          {
                             "kgMid": "/m/0bwjc2c",
                             "name": "Diljit Dosanjh"
                           },
                           {
-                            "kgMid": "/m/01mz9lt",
-                            "name": "Anu Malik"
+                            "kgMid": "/m/026_9c2",
+                            "name": "Mithoon"
                           },
                           {
                             "kgMid": "/g/11b6rch4nd",
                             "name": "Manoj Muntashir"
+                          },
+                          {
+                            "kgMid": "/m/01mz9lt",
+                            "name": "Anu Malik"
                           },
                           {
                             "kgMid": "/m/01qqxqf",
@@ -238,7 +238,7 @@
                           "month": 1,
                           "day": 2
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrACCAIS3wEKJEdoYXIgS2FiIEFhb2dlIChGcm9tIOKAnEJPUkRFUiAy4oCdKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9sT0hWTW1aNm4zby9tYXhyZXNkZWZhdWx0LmpwZxoBMiINVmlzaGFsIE1pc2hyYSIHTWl0aG9vbiIORGlsaml0IERvc2FuamgiCUFudSBNYWxpayIPTWFub2ogTXVudGFzaGlyIhBSb29wa3VtYXIgUmF0aG9kIgpTb251IE5pZ2FtIgxBcmlqaXQgU2luZ2giDEphdmVkIEFraHRhcioAGjQKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaD0phbnVhcnkgOCwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpoCCAISyQEKDkdoYXIgS2FiIEFhb2dlEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2xPSFZNbVo2bjNvL21heHJlc2RlZmF1bHQuanBnGgEyIg1WaXNoYWwgTWlzaHJhIg5EaWxqaXQgRG9zYW5qaCIHTWl0aG9vbiIPTWFub2ogTXVudGFzaGlyIglBbnUgTWFsaWsiEFJvb3BrdW1hciBSYXRob2QiClNvbnUgTmlnYW0iDEFyaWppdCBTaW5naCIMSmF2ZWQgQWtodGFyKgAaNAoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoPSmFudWFyeSA4LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
                         "channelName": "T-Series"
                       },
@@ -6885,9 +6885,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiI3vLjv4OSAxVjzsIEHUemL_E="
+        "trackingParams": "CAEQui8iEwjXgeeEjoSSAxXLbxIBHXacJ88="
       }
     },
-    "trackingParams": "CAAQhGciEwiI3vLjv4OSAxVjzsIEHUemL_E="
+    "trackingParams": "CAAQhGciEwjXgeeEjoSSAxXLbxIBHXacJ88="
   }
 }
