@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-01-15T12:39:31.858215+00:00",
+  "captured_at_utc": "2026-01-15T18:32:32.477530+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs5QTFhcVk1U0tnWSj6v6PLBjIKCgJVUxIEGgAgSA%3D%3D"
+      "visitorData": "CgtIU0JjWHlKQmJBSSi35aTLBjIKCgJVUxIEGgAgDg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,30 +25,24 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-01-08"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-08"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-13"
-                    },
-                    {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-08"
                     },
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-14"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-01-08"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -58,7 +52,13 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-13"
+                      "latestEndDate": "2026-01-14"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-08"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -3525,7 +3525,7 @@
                       },
                       {
                         "id": "w_LJ7_0YLBk",
-                        "title": "El Bogueto , Yung Beef , Cuando No Era Cantante , No Hay Loco Que No Corone 👑 ( Visualizer )",
+                        "title": "Cuando No Era Cantante",
                         "viewCount": "6194806",
                         "thumbnail": {
                           "thumbnails": [
@@ -3589,7 +3589,7 @@
                         "songProducers": [
                           "QueHicisteBella"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoUCCAIStAEKX0VsIEJvZ3VldG8gLCBZdW5nIEJlZWYgLCBDdWFuZG8gTm8gRXJhIENhbnRhbnRlICwgTm8gSGF5IExvY28gUXVlIE5vIENvcm9uZSDwn5GRICggVmlzdWFsaXplciApEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3dfTEo3XzBZTEJrL21heHJlc2RlZmF1bHQuanBnGgI1MSIJWXVuZyBCZWVmIgpFbCBCb2d1ZXRvKgAaNAoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoPSmFudWFyeSA4LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrsBCAISawoWQ3VhbmRvIE5vIEVyYSBDYW50YW50ZRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93X0xKN18wWUxCay9tYXhyZXNkZWZhdWx0LmpwZxoCNTEiCVl1bmcgQmVlZiIKRWwgQm9ndWV0byoAGjQKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaD0phbnVhcnkgOCwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
                         "externalChannelId": "UC-6lK20fJE_YVW_nshsDwaA",
                         "channelName": "El Bogueto"
                       },
@@ -6869,9 +6869,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiL64KdyI2SAxXTKK0GHfFnHGA="
+        "trackingParams": "CAEQui8iEwjT-dyQl46SAxX52z8EHQD8NUs="
       }
     },
-    "trackingParams": "CAAQhGciEwiL64KdyI2SAxXTKK0GHfFnHGA="
+    "trackingParams": "CAAQhGciEwjT-dyQl46SAxX52z8EHQD8NUs="
   }
 }
