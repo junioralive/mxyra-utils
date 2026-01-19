@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-01-19T12:42:10.315455+00:00",
+  "captured_at_utc": "2026-01-19T18:27:40.244171+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtkQlZ2T1NWUmNiNCiYzbjLBjIKCgJVUxIEGgAgNQ%3D%3D"
+      "visitorData": "Cgt0WmMxaEdDTHFrbyiS77nLBjIKCgJVUxIEGgAgGg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,16 +25,10 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-01-17"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-15"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -43,7 +37,19 @@
                       "latestEndDate": "2026-01-15"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-15"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-15"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-01-17"
@@ -52,12 +58,6 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-01-15"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-15"
                     }
                   ],
@@ -848,7 +848,7 @@
                       },
                       {
                         "id": "F0d8JJUNkqo",
-                        "title": "Tabola Bale (Elart Mix)",
+                        "title": "TABOLA BALE",
                         "viewCount": "2149256",
                         "thumbnail": {
                           "thumbnails": [
@@ -915,7 +915,7 @@
                           "siprianus bhuka",
                           "siprianus bhuka"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItoBCAISiQEKF1RhYm9sYSBCYWxlIChFbGFydCBNaXgpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL0YwZDhKSlVOa3FvL21heHJlc2RlZmF1bHQuanBnGgIxMiINU0lMRVQgT1BFTiBVUCIMSmFjc29uIFplcmFuIglKdWFuIFJlemEiCkRpdmEgQXVyZWwqABo0ChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEEphbnVhcnkgMTcsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIs0BCAISfQoLVEFCT0xBIEJBTEUSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRjBkOEpKVU5rcW8vbWF4cmVzZGVmYXVsdC5qcGcaAjEyIg1TSUxFVCBPUEVOIFVQIgxKYWNzb24gWmVyYW4iCUp1YW4gUmV6YSIKRGl2YSBBdXJlbCoAGjQKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoQSmFudWFyeSAxNywgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
                         "externalChannelId": "UCspujPBVU6NAuq5yQx3AiEw",
                         "channelName": "SILET OPEN UP"
                       },
@@ -3524,7 +3524,7 @@
                       },
                       {
                         "id": "nBqiC9Yl9j4",
-                        "title": "Ni Tengo Ni Necesito (Video Oficial)",
+                        "title": "Ni Tengo Ni Necesito",
                         "viewCount": "1235556",
                         "thumbnail": {
                           "thumbnails": [
@@ -3581,7 +3581,7 @@
                         "songProducers": [
                           "Yohan Usuga Sierra"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIsIBCAIScgokTmkgVGVuZ28gTmkgTmVjZXNpdG8gKFZpZGVvIE9maWNpYWwpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL25CcWlDOVlsOWo0L21heHJlc2RlZmF1bHQuanBnGgI1MiIOWWVpc29uIEppbWVuZXoqABo0ChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEEphbnVhcnkgMTcsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrIBCAISYgoUTmkgVGVuZ28gTmkgTmVjZXNpdG8SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvbkJxaUM5WWw5ajQvbWF4cmVzZGVmYXVsdC5qcGcaAjUyIg5ZZWlzb24gSmltZW5leioAGjQKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoQSmFudWFyeSAxNywgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
                         "externalChannelId": "UCgep6_wmt-IXmfMwN6-zg6A",
                         "channelName": "YeisonJimenezVEVO"
                       },
@@ -6797,9 +6797,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiE9sGj0JeSAxXwscIBHY7qNaU="
+        "trackingParams": "CAEQui8iEwiVu6jAnZiSAxU2JLMAHedPKyk="
       }
     },
-    "trackingParams": "CAAQhGciEwiE9sGj0JeSAxXwscIBHY7qNaU="
+    "trackingParams": "CAAQhGciEwiVu6jAnZiSAxU2JLMAHedPKyk="
   }
 }
