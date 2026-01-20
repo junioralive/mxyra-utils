@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-01-19T18:27:51.721864+00:00",
+  "captured_at_utc": "2026-01-20T01:23:27.829598+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgtza0FRSU1rMFJLMCie77nLBjIKCgJVUxIEGgAgIw%3D%3D"
+      "visitorData": "CgtJdzhqNzFBWjE5RSiGsrvLBjIKCgJVUxIEGgAgDw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,10 +25,22 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-15"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-17"
+                      "latestEndDate": "2026-01-18"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-01-15"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -37,27 +49,15 @@
                       "latestEndDate": "2026-01-15"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-15"
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-18"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-15"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-17"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-01-15"
                     }
                   ],
@@ -5293,7 +5293,8 @@
                           "Kevin Radames Rubio Gutiérrez"
                         ],
                         "songProducers": [
-                          "Kevin Radames Rubio Gutiérrez"
+                          "Kevin Radames Rubio Gutiérrez",
+                          "Georgy Parra"
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIr4BCAISbQoQRWwgTWVqb3IgKFJlbWl4KRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9hUFFOX3hPQ2Z2Zy9tYXhyZXNkZWZhdWx0LmpwZxoCNzYiDUNoYXnDrW4gUnViaW8iDlllaXNvbiBKaW1lbmV6KgAaNQoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoQSmFudWFyeSAxNSwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
                         "externalChannelId": "UCykfeHMWpnfWkfxZtqesMYA",
@@ -6876,9 +6877,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiV3eLFnZiSAxVJwD8EHZe8AYk="
+        "trackingParams": "CAEQui8iEwjx0J64-piSAxXQqsIBHW3uGho="
       }
     },
-    "trackingParams": "CAAQhGciEwiV3eLFnZiSAxVJwD8EHZe8AYk="
+    "trackingParams": "CAAQhGciEwjx0J64-piSAxXQqsIBHW3uGho="
   }
 }
