@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-01-20T12:42:42.584818+00:00",
+  "captured_at_utc": "2026-01-20T18:32:08.274804+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtRZmViRWliSXhfNCi58L3LBjIKCgJVUxIEGgAgUQ%3D%3D"
+      "visitorData": "CgtMWUNwenlub2RycyielL_LBjIKCgJVUxIEGgAgOA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,7 +25,7 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-15"
@@ -37,10 +37,16 @@
                       "latestEndDate": "2026-01-18"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
+                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-15"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-18"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -50,14 +56,8 @@
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-18"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-01-15"
                     }
                   ],
@@ -5691,21 +5691,6 @@
                           "month": 6,
                           "day": 21
                         },
-                        "songwriters": [
-                          "EJAE",
-                          "Mark Sonnenblick",
-                          "Joong Gyu Kwak",
-                          "Yu Han Lee",
-                          "Hee Dong Nam",
-                          "Jeong Hoon Seo",
-                          "Park Hong Jun"
-                        ],
-                        "songProducers": [
-                          "IDO",
-                          "24",
-                          "TEDDY",
-                          "Ian Eisendrath"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItkBCAIShwEKPuKAmEdvbGRlbuKAmSBMeXJpYyBWaWRlbyB8IEtQb3AgRGVtb24gSHVudGVycyB8IE5ldGZsaXggRmFtaWx5EjRodHRwczovL2kueXRpbWcuY29tL3ZpL093cGd2U29fRzBnL21heHJlc2RlZmF1bHQuanBnGgI4MiIJU2FqYSBCb3lzKgAaNQoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoQSmFudWFyeSAxNSwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
                         "externalChannelId": "UCpInjhuJ1WUekcFeXPPyGGg",
                         "channelName": "Netflix Family"
@@ -6877,9 +6862,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiu786hkpqSAxUU2D8EHdPgHRE="
+        "trackingParams": "CAEQui8iEwiK_equ4JqSAxU8E60GHUaDA2w="
       }
     },
-    "trackingParams": "CAAQhGciEwiu786hkpqSAxUU2D8EHdPgHRE="
+    "trackingParams": "CAAQhGciEwiK_equ4JqSAxU8E60GHUaDA2w="
   }
 }
