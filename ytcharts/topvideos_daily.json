@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-01-24T12:35:01.373030+00:00",
+  "captured_at_utc": "2026-01-24T18:25:50.059561+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtMV3hwME1jNVVKOCjs-NLLBjIKCgJVUxIEGgAgSw%3D%3D"
+      "visitorData": "CgtnTWZoNktRanI0cyikndTLBjIKCgJVUxIEGgAgXA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,16 +25,22 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-22"
+                    },
+                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-01-15"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-22"
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-15"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
@@ -46,16 +52,10 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-22"
+                      "latestEndDate": "2026-01-23"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-15"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-15"
@@ -2050,7 +2050,7 @@
                       },
                       {
                         "id": "NVLgkXylEuQ",
-                        "title": "El Bogueto ❌ Anuel AA ❌ Yung Beef ❌ Fuerza Regida - Cuando No Era Cantante Remix , Official video",
+                        "title": "Cuando No Era Cantante (Remix)",
                         "viewCount": "1214124",
                         "thumbnail": {
                           "thumbnails": [
@@ -2128,7 +2128,7 @@
                           "Meñostyle",
                           "Cashbtz"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqYCCAIS1QEKZ0VsIEJvZ3VldG8g4p2MIEFudWVsIEFBIOKdjCBZdW5nIEJlZWYg4p2MIEZ1ZXJ6YSBSZWdpZGEgLSBDdWFuZG8gTm8gRXJhIENhbnRhbnRlIFJlbWl4ICwgT2ZmaWNpYWwgdmlkZW8SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvTlZMZ2tYeWxFdVEvbWF4cmVzZGVmYXVsdC5qcGcaAjMwIgpFbCBCb2d1ZXRvIghBbnVlbCBBQSINRnVlcnphIFJlZ2lkYSIJWXVuZyBCZWVmKgAaNAoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMCgB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIt0BCAISjAEKHkN1YW5kbyBObyBFcmEgQ2FudGFudGUgKFJlbWl4KRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9OVkxna1h5bEV1US9tYXhyZXNkZWZhdWx0LmpwZxoCMzAiCkVsIEJvZ3VldG8iCEFudWVsIEFBIg1GdWVyemEgUmVnaWRhIglZdW5nIEJlZWYqABo0ChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UC-6lK20fJE_YVW_nshsDwaA",
                         "channelName": "El Bogueto"
                       },
@@ -6808,9 +6808,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjXz86AmKSSAxUhAq0GHXvREw8="
+        "trackingParams": "CAEQui8iEwiw5LS15qSSAxXTKK0GHaksFdI="
       }
     },
-    "trackingParams": "CAAQhGciEwjXz86AmKSSAxUhAq0GHXvREw8="
+    "trackingParams": "CAAQhGciEwiw5LS15qSSAxXTKK0GHaksFdI="
   }
 }

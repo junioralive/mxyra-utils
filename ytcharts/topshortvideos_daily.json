@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-01-24T12:35:36.301872+00:00",
+  "captured_at_utc": "2026-01-24T18:26:24.009425+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtvTlJWN1pKU2xicyiO-dLLBjIKCgJVUxIEGgAgDA%3D%3D"
+      "visitorData": "CgtHX3psbG85bWlzYyjGndTLBjIKCgJVUxIEGgAgbA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,16 +25,22 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-22"
+                    },
+                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-01-15"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-22"
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-15"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
@@ -46,16 +52,10 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-22"
+                      "latestEndDate": "2026-01-23"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-15"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-15"
@@ -68,38 +68,50 @@
                     "listType": "TOP_SHORTS_BY_USAGE",
                     "trackViews": [
                       {
-                        "id": "G:frxKOp8_3x0",
-                        "name": "Dil Ne Tera Naam Liya 2.0",
+                        "id": "G:OGiH4B8lQzw",
+                        "name": "NO BATIDÃO (SLOWED)",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/IJ30mQ3EOpqd4Yy3sIPT1kkQauyk4MGkv68Jw6gPYqSASUENTa-19iIkYwSqOzHAH7y7rWHdXDF0GEhi=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/eEXqI0KeotuaiRx4PjiopjPnlTBj9aiSXbY1NmzielYry7Mvs-WRANaJiivV62Zl6ufFtOwDMUtRmKVf=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "Z6G-QekDEWE",
+                        "encryptedVideoId": "MeOoJOt1P0Y",
                         "chartEntryMetadata": {
                           "currentPosition": 1,
                           "previousPosition": 3,
-                          "percentViewsChange": 0.033906914,
-                          "periodsOnChart": 10
+                          "percentViewsChange": -0.00914491,
+                          "periodsOnChart": 82
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11mrjlz8bz",
-                            "name": "Aman Yadav"
+                            "kgMid": "/g/11xcv1m0y7",
+                            "name": "ZXKAI"
+                          },
+                          {
+                            "kgMid": "/g/11ss7pc1st",
+                            "name": "slxughter"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "MqTzs3RC_gU",
+                        "atvExternalVideoId": "zeKCzmAKKP4",
                         "releaseDate": {
                           "year": 2025,
-                          "month": 11,
-                          "day": 23
+                          "month": 9,
+                          "day": 4
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoACCAISrAEKGURpbCBOZSBUZXJhIE5hYW0gTGl5YSAyLjASfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9kRVNSOGNreUVjYWk1M0I3MGVnUmRjcTJka1UtdUs2VnllSDQ4cGlpX0U0RWNzNE1EcU84eGJjb3kzMEhlNHYxWjQ5dXRvQzE0bEpzU1Q5UT13OTAwLWg5MDAtcBoBMSIKQW1hbiBZYWRhdioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                        "songwriters": [
+                          "ZXKAI",
+                          "slxughter"
+                        ],
+                        "songProducers": [
+                          "ZXKAI",
+                          "slxughter"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoECCAISrQEKFE5PIEJBVElEw4NPIChTTE9XRUQpEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vdVc2eWpnN0xvSXlCMGhXRWgtSnNNc1p0N01LVURGcE5aR1d4SlZEZkloR1BEY0FNTDhaNUR1WkN5TFdjMktjSmJKNWF4bXUweTR5d043TWo9dzkwMC1oOTAwLXAaATEiBVpYS0FJIglzbHh1Z2h0ZXIqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
                         "id": "G:QkBZy361r7c",
@@ -137,8 +149,8 @@
                         "chartEntryMetadata": {
                           "currentPosition": 2,
                           "previousPosition": 2,
-                          "percentViewsChange": -0.1269355,
-                          "periodsOnChart": 252
+                          "percentViewsChange": -0.108462445,
+                          "periodsOnChart": 253
                         },
                         "artists": [
                           {
@@ -152,53 +164,79 @@
                           "month": 4,
                           "day": 23
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvkBCAISpQEKGFBBU1NPIEJFTSBTT0xUTyAoU2xvd2VkKRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2lYTDh4TmxIV1ZqdlhDdWdNUWxoWW9fZUZZT0pjaWNySHp2QlEtcnkxYzIyQTRWQUFCSlUxNzRaQ3h3c2t4ZFpPYThKd3dmaVNMY2RsdG89dzkwMC1oOTAwLXAaATIiBUFUTFhTKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvkBCAISpQEKGFBBU1NPIEJFTSBTT0xUTyAoU2xvd2VkKRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2lYTDh4TmxIV1ZqdlhDdWdNUWxoWW9fZUZZT0pjaWNySHp2QlEtcnkxYzIyQTRWQUFCSlUxNzRaQ3h3c2t4ZFpPYThKd3dmaVNMY2RsdG89dzkwMC1oOTAwLXAaATIiBUFUTFhTKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
-                        "id": "G:OGiH4B8lQzw",
-                        "name": "NO BATIDÃO (SLOWED)",
+                        "id": "G:frxKOp8_3x0",
+                        "name": "Dil Ne Tera Naam Liya 2.0",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/eEXqI0KeotuaiRx4PjiopjPnlTBj9aiSXbY1NmzielYry7Mvs-WRANaJiivV62Zl6ufFtOwDMUtRmKVf=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/IJ30mQ3EOpqd4Yy3sIPT1kkQauyk4MGkv68Jw6gPYqSASUENTa-19iIkYwSqOzHAH7y7rWHdXDF0GEhi=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "MeOoJOt1P0Y",
+                        "encryptedVideoId": "Z6G-QekDEWE",
                         "chartEntryMetadata": {
                           "currentPosition": 3,
                           "previousPosition": 1,
-                          "percentViewsChange": -0.18051873,
-                          "periodsOnChart": 81
+                          "percentViewsChange": -0.3121768,
+                          "periodsOnChart": 11
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11xcv1m0y7",
-                            "name": "ZXKAI"
-                          },
-                          {
-                            "kgMid": "/g/11ss7pc1st",
-                            "name": "slxughter"
+                            "kgMid": "/g/11mrjlz8bz",
+                            "name": "Aman Yadav"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "zeKCzmAKKP4",
+                        "atvExternalVideoId": "MqTzs3RC_gU",
                         "releaseDate": {
                           "year": 2025,
-                          "month": 9,
-                          "day": 4
+                          "month": 11,
+                          "day": 23
+                        },
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoACCAISrAEKGURpbCBOZSBUZXJhIE5hYW0gTGl5YSAyLjASfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9kRVNSOGNreUVjYWk1M0I3MGVnUmRjcTJka1UtdUs2VnllSDQ4cGlpX0U0RWNzNE1EcU84eGJjb3kzMEhlNHYxWjQ5dXRvQzE0bEpzU1Q5UT13OTAwLWg5MDAtcBoBMyIKQW1hbiBZYWRhdioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                      },
+                      {
+                        "id": "G:TVThpCss13Y",
+                        "name": "Shiv Hi Satya Hai Shiv Hi Sunder",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/w08U7aHzBJinGjvVuho2nA6u1effAqWnciMzqIsbxXqlJTFGjOsp-87DVBKAKQ2OLD3muZLO_jnDJVFhGg=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "VEAzNmljZpA",
+                        "chartEntryMetadata": {
+                          "currentPosition": 4,
+                          "previousPosition": 20,
+                          "percentViewsChange": 3.161518,
+                          "periodsOnChart": 2
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/m/01wv4bd",
+                            "name": "Pamela Jain"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "mMHlF1eIcy8",
+                        "releaseDate": {
+                          "year": 2000,
+                          "month": 12,
+                          "day": 15
                         },
                         "songwriters": [
-                          "ZXKAI",
-                          "slxughter"
+                          "Samuel Paul",
+                          "Devendra Rana"
                         ],
-                        "songProducers": [
-                          "ZXKAI",
-                          "slxughter"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoECCAISrQEKFE5PIEJBVElEw4NPIChTTE9XRUQpEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vdVc2eWpnN0xvSXlCMGhXRWgtSnNNc1p0N01LVURGcE5aR1d4SlZEZkloR1BEY0FNTDhaNUR1WkN5TFdjMktjSmJKNWF4bXUweTR5d043TWo9dzkwMC1oOTAwLXAaATMiBVpYS0FJIglzbHh1Z2h0ZXIqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoYCCAISsgEKIFNoaXYgSGkgU2F0eWEgSGFpIFNoaXYgSGkgU3VuZGVyEnxodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vVXZiV3NfcmhoQ21YZzFRRHZKQ0l4RzZ3UHI3NFNQc3A5bTRmeHNtQ05CU2g0dnNxb0xMQldHT1luWjNoRVU5OWtjMGtFb053T2hwNFFBPXc5MDAtaDkwMC1wGgE0IgtQYW1lbGEgSmFpbioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       },
                       {
                         "id": "G:nIB-BmyU2Uw",
@@ -214,10 +252,10 @@
                         },
                         "encryptedVideoId": "1g3Toj4-RMg",
                         "chartEntryMetadata": {
-                          "currentPosition": 4,
+                          "currentPosition": 5,
                           "previousPosition": 4,
-                          "percentViewsChange": 0.09866544,
-                          "periodsOnChart": 341
+                          "percentViewsChange": -0.054364208,
+                          "periodsOnChart": 342
                         },
                         "artists": [
                           {
@@ -244,7 +282,7 @@
                           "Andrei Mihai",
                           "Andrei Mihai"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoYCCAISsgEKGUZyaWVuZHNoaXBzIChmZWF0LiBMZW9ueSkSfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS93YVdaOG12NGlkd21sVHM1emJMTFhWaGE3d2Y4Y1Z1eHF3MV8wMy1VQ1lUdWhOZldIQklpRGR4WFM2YjJtT0x3ZzdvVUp6OHNveVpqMEJSMD13OTAwLWg5MDAtcBoBNCIQUGFzY2FsIExldG91YmxvbioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoYCCAISsgEKGUZyaWVuZHNoaXBzIChmZWF0LiBMZW9ueSkSfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS93YVdaOG12NGlkd21sVHM1emJMTFhWaGE3d2Y4Y1Z1eHF3MV8wMy1VQ1lUdWhOZldIQklpRGR4WFM2YjJtT0x3ZzdvVUp6OHNveVpqMEJSMD13OTAwLWg5MDAtcBoBNSIQUGFzY2FsIExldG91YmxvbioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       },
                       {
                         "id": "G:Iq5q6GGpJmY",
@@ -280,10 +318,10 @@
                         },
                         "encryptedVideoId": "JJjEl_EVsLA",
                         "chartEntryMetadata": {
-                          "currentPosition": 5,
+                          "currentPosition": 6,
                           "previousPosition": 5,
-                          "percentViewsChange": -0.14598551,
-                          "periodsOnChart": 71
+                          "percentViewsChange": 0.114744104,
+                          "periodsOnChart": 72
                         },
                         "artists": [
                           {
@@ -297,104 +335,45 @@
                           "month": 9,
                           "day": 17
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIu8BCAISmwEKDU1vbnRhZ2VtIE1pYXUSfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9xQU9ldmFZWHhVb1lzd3RHc0gtY25VS2xBYXlJeWdoWllEMWRMNm9UZTN5dVJ0WXhrQlNEZXJPWWJMMGlWMDZlV1MzODlDaVFsdzBmMjBlcj13OTAwLWg5MDAtcBoBNSIFTGVuYXIqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIu8BCAISmwEKDU1vbnRhZ2VtIE1pYXUSfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9xQU9ldmFZWHhVb1lzd3RHc0gtY25VS2xBYXlJeWdoWllEMWRMNm9UZTN5dVJ0WXhrQlNEZXJPWWJMMGlWMDZlV1MzODlDaVFsdzBmMjBlcj13OTAwLWg5MDAtcBoBNiIFTGVuYXIqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
-                        "id": "G:uq4rea7uBgU",
-                        "name": "فصلة",
+                        "id": "G:ufTxt5EZqcY",
+                        "name": "Rotiya Belahi Ke Pari",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/2gp3UlcF2oVgiBFkAa4tBRKH64pY2lOIG98QCAAlUM76Nfk0RLkqfCkV98KArmIXZskiThCOq5lS2k4=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/t27H_Es9R6ts734XYEHDsP20d1W0ASkoCMKRjeUIpr-oYPsEYWz7Ux1CwzVopkj4a4-_TLED4zYHCkXF=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "1XOJFuKHCck",
-                        "chartEntryMetadata": {
-                          "currentPosition": 6,
-                          "previousPosition": 6,
-                          "percentViewsChange": -0.25099233,
-                          "periodsOnChart": 44
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11f4y_2j66",
-                            "name": "Flipperachi"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "V3cN7MX2qnI",
-                        "releaseDate": {
-                          "year": 2024,
-                          "month": 5,
-                          "day": 30
-                        },
-                        "songwriters": [
-                          "Hussam Assim"
-                        ],
-                        "songProducers": [
-                          "DJ Outlaw"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvABCAISnAEKCNmB2LXZhNipEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vZkNJTWFLLU9LY24tYkZ1VUg4NDVjcnVucE1GN2pEb0tSemNHWmgxMDlteE9OeG05aWFWU2VnRGxod2hqTkl2dkdJWlMyVFBvZTFjdURWYUs9dzkwMC1oOTAwLXAaATYiC0ZsaXBwZXJhY2hpKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
-                      },
-                      {
-                        "id": "G:ca1i0pJtjII",
-                        "name": "VOCE NA MIRA (Slowed)",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://i.ytimg.com/vi/B091oc37QeY/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/B091oc37QeY/mqdefault.jpg",
-                              "width": 320,
-                              "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/B091oc37QeY/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/B091oc37QeY/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/B091oc37QeY/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "B091oc37QeY",
+                        "encryptedVideoId": "bOyXIIuUaDI",
                         "chartEntryMetadata": {
                           "currentPosition": 7,
-                          "previousPosition": 7,
-                          "percentViewsChange": -0.19318087,
-                          "periodsOnChart": 14
+                          "previousPosition": 9,
+                          "percentViewsChange": 0.37231752,
+                          "periodsOnChart": 3
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11x2y2cd08",
-                            "name": "Hwungii"
-                          },
-                          {
-                            "kgMid": "/g/11y6cb8z40",
-                            "name": "DJ VGK1"
+                            "kgMid": "/g/11rtqzjwvv",
+                            "name": "Srishti Bharti"
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "AOJ-x5tMwVk",
                         "releaseDate": {
-                          "year": 2025,
-                          "month": 5,
-                          "day": 29
+                          "year": 2026,
+                          "month": 1,
+                          "day": 4
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoICCAISrgEKFVZPQ0UgTkEgTUlSQSAoU2xvd2VkKRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1NXTk5UNE1iakZQSjhVUy01TU5MWXdBM3IxLTlXY3k5VUtJdTJPd0w0eEFPMDY4cW1hNEU0dF9WT1FIejdSaUpVMUNIb3o1cWlCQjlYUDRtPXc5MDAtaDkwMC1wGgE3IgdId3VuZ2lpIgdESiBWR0sxKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "songwriters": [
+                          "Santosh Kumar Yadav",
+                          "Shubh Dayal Sohra"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIv8BCAISqwEKFVJvdGl5YSBCZWxhaGkgS2UgUGFyaRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3pLbVhqU2V1Z25QYXpJYzRQRXBYa21PT29mSVRUdl9hWUNhTDAtOXlHY1ZjTEpCdEw2ekt0c1ZVYzg5alRtM3hPa29wX1FEaUlxNEtzOHM9dzkwMC1oOTAwLXAaATciDlNyaXNodGkgQmhhcnRpKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
                         "id": "G:tENyThVvQ24",
@@ -431,9 +410,9 @@
                         "encryptedVideoId": "_LtAZDujqIw",
                         "chartEntryMetadata": {
                           "currentPosition": 8,
-                          "previousPosition": 9,
-                          "percentViewsChange": -0.11452692,
-                          "periodsOnChart": 24
+                          "previousPosition": 8,
+                          "percentViewsChange": 0.12709646,
+                          "periodsOnChart": 25
                         },
                         "artists": [
                           {
@@ -447,45 +426,64 @@
                           "month": 9,
                           "day": 25
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIugBCAISlAEKBkdPWkFMTxJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2ZLeDJoMnBDcWdLQTM0UFIySzd5VlNvLTdVc2dzX0RjYzQyYnI1dkxlWUJGVVNPZTNVLVN0OUIydjVjY3B1Sm9jX1JaVlJrN0c0dFZCbDhSPXc5MDAtaDkwMC1wGgE4IgVBcmlpcyoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIugBCAISlAEKBkdPWkFMTxJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2ZLeDJoMnBDcWdLQTM0UFIySzd5VlNvLTdVc2dzX0RjYzQyYnI1dkxlWUJGVVNPZTNVLVN0OUIydjVjY3B1Sm9jX1JaVlJrN0c0dFZCbDhSPXc5MDAtaDkwMC1wGgE4IgVBcmlpcyoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       },
                       {
-                        "id": "G:ufTxt5EZqcY",
-                        "name": "Rotiya Belahi Ke Pari",
+                        "id": "G:ca1i0pJtjII",
+                        "name": "VOCE NA MIRA (Slowed)",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/t27H_Es9R6ts734XYEHDsP20d1W0ASkoCMKRjeUIpr-oYPsEYWz7Ux1CwzVopkj4a4-_TLED4zYHCkXF=w180-h180-l90-rj",
-                              "width": 180,
+                              "url": "https://i.ytimg.com/vi/B091oc37QeY/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/B091oc37QeY/mqdefault.jpg",
+                              "width": 320,
                               "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/B091oc37QeY/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/B091oc37QeY/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/B091oc37QeY/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
                             }
                           ]
                         },
-                        "encryptedVideoId": "bOyXIIuUaDI",
+                        "encryptedVideoId": "B091oc37QeY",
                         "chartEntryMetadata": {
                           "currentPosition": 9,
-                          "previousPosition": 28,
-                          "percentViewsChange": 1.3510383,
-                          "periodsOnChart": 2
+                          "previousPosition": 7,
+                          "percentViewsChange": -0.023141386,
+                          "periodsOnChart": 15
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11rtqzjwvv",
-                            "name": "Srishti Bharti"
+                            "kgMid": "/g/11x2y2cd08",
+                            "name": "Hwungii"
+                          },
+                          {
+                            "kgMid": "/g/11y6cb8z40",
+                            "name": "DJ VGK1"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "AOJ-x5tMwVk",
                         "releaseDate": {
-                          "year": 2026,
-                          "month": 1,
-                          "day": 4
+                          "year": 2025,
+                          "month": 5,
+                          "day": 29
                         },
-                        "songwriters": [
-                          "Santosh Kumar Yadav",
-                          "Shubh Dayal Sohra"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIv8BCAISqwEKFVJvdGl5YSBCZWxhaGkgS2UgUGFyaRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3pLbVhqU2V1Z25QYXpJYzRQRXBYa21PT29mSVRUdl9hWUNhTDAtOXlHY1ZjTEpCdEw2ekt0c1ZVYzg5alRtM3hPa29wX1FEaUlxNEtzOHM9dzkwMC1oOTAwLXAaATkiDlNyaXNodGkgQmhhcnRpKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoICCAISrgEKFVZPQ0UgTkEgTUlSQSAoU2xvd2VkKRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1NXTk5UNE1iakZQSjhVUy01TU5MWXdBM3IxLTlXY3k5VUtJdTJPd0w0eEFPMDY4cW1hNEU0dF9WT1FIejdSaUpVMUNIb3o1cWlCQjlYUDRtPXc5MDAtaDkwMC1wGgE5IgdId3VuZ2lpIgdESiBWR0sxKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
                         "id": "G:3L2BONSmm9o",
@@ -522,9 +520,9 @@
                         "encryptedVideoId": "lOHVMmZ6n3o",
                         "chartEntryMetadata": {
                           "currentPosition": 10,
-                          "previousPosition": 15,
-                          "percentViewsChange": 0.26616547,
-                          "periodsOnChart": 18
+                          "previousPosition": 10,
+                          "percentViewsChange": 0.03761444,
+                          "periodsOnChart": 19
                         },
                         "artists": [
                           {
@@ -570,7 +568,47 @@
                           "month": 1,
                           "day": 2
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuYCCAISkgIKDkdoYXIgS2FiIEFhb2dlEnxodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vX2xkMGVmVkZBVXEtQlpfNURRYkJoXzVIRS1XOU5RSlhxUncyRTJwMlBaUWFnanRrS2t3LTNndWQxQWtCcURZSlFzWk5YUDQzbU85Rkt3PXc5MDAtaDkwMC1wGgIxMCIJQW51IE1hbGlrIgdNaXRob29uIgpTb251IE5pZ2FtIgxBcmlqaXQgU2luZ2giEFJvb3BrdW1hciBSYXRob2QiDVZpc2hhbCBNaXNocmEiDkRpbGppdCBEb3NhbmpoIgxKYXZlZCBBa2h0YXIiD01hbm9qIE11bnRhc2hpcioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuYCCAISkgIKDkdoYXIgS2FiIEFhb2dlEnxodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vX2xkMGVmVkZBVXEtQlpfNURRYkJoXzVIRS1XOU5RSlhxUncyRTJwMlBaUWFnanRrS2t3LTNndWQxQWtCcURZSlFzWk5YUDQzbU85Rkt3PXc5MDAtaDkwMC1wGgIxMCIJQW51IE1hbGlrIgdNaXRob29uIgpTb251IE5pZ2FtIgxBcmlqaXQgU2luZ2giEFJvb3BrdW1hciBSYXRob2QiDVZpc2hhbCBNaXNocmEiDkRpbGppdCBEb3NhbmpoIgxKYXZlZCBBa2h0YXIiD01hbm9qIE11bnRhc2hpcioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                      },
+                      {
+                        "id": "G:uq4rea7uBgU",
+                        "name": "فصلة",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/2gp3UlcF2oVgiBFkAa4tBRKH64pY2lOIG98QCAAlUM76Nfk0RLkqfCkV98KArmIXZskiThCOq5lS2k4=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "1XOJFuKHCck",
+                        "chartEntryMetadata": {
+                          "currentPosition": 11,
+                          "previousPosition": 6,
+                          "percentViewsChange": -0.22859256,
+                          "periodsOnChart": 45
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11f4y_2j66",
+                            "name": "Flipperachi"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "V3cN7MX2qnI",
+                        "releaseDate": {
+                          "year": 2024,
+                          "month": 5,
+                          "day": 30
+                        },
+                        "songwriters": [
+                          "Hussam Assim"
+                        ],
+                        "songProducers": [
+                          "DJ Outlaw"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvEBCAISnQEKCNmB2LXZhNipEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vZkNJTWFLLU9LY24tYkZ1VUg4NDVjcnVucE1GN2pEb0tSemNHWmgxMDlteE9OeG05aWFWU2VnRGxod2hqTkl2dkdJWlMyVFBvZTFjdURWYUs9dzkwMC1oOTAwLXAaAjExIgtGbGlwcGVyYWNoaSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       },
                       {
                         "id": "G:tSB3QuTttE0",
@@ -586,10 +624,10 @@
                         },
                         "encryptedVideoId": "7yaU0qXlgbo",
                         "chartEntryMetadata": {
-                          "currentPosition": 11,
-                          "previousPosition": 8,
-                          "percentViewsChange": -0.38532457,
-                          "periodsOnChart": 46
+                          "currentPosition": 12,
+                          "previousPosition": 11,
+                          "percentViewsChange": -0.024850013,
+                          "periodsOnChart": 47
                         },
                         "artists": [
                           {
@@ -611,54 +649,89 @@
                         "songProducers": [
                           "RIOTUSA"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIu0BCAISmQEKB0JpZyBHdXkSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS84V0dCeGxrWlVEakYxa0dtZnhvcFFwTzB5ZGJ2QkFILTE4TGZZbGNDdW93YW53SGdDWGtfeGxMMFZkUXFTNVY1QV9KdG9uNVRwMG50ZWVrPXc5MDAtaDkwMC1wGgIxMSIJSWNlIFNwaWNlKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIu0BCAISmQEKB0JpZyBHdXkSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS84V0dCeGxrWlVEakYxa0dtZnhvcFFwTzB5ZGJ2QkFILTE4TGZZbGNDdW93YW53SGdDWGtfeGxMMFZkUXFTNVY1QV9KdG9uNVRwMG50ZWVrPXc5MDAtaDkwMC1wGgIxMiIJSWNlIFNwaWNlKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
-                        "id": "G:N5GmVEjL65w",
-                        "name": "Status",
+                        "id": "G:GOlSJE3zDZE",
+                        "name": "Sheesha",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/CVCRXeTvKq-RO7-5fXTAPxDfI5PjKJyQHuueB1p0efgZpqV7aE5vUCVsNH_sJFz6RrV5txcgiJeLJpU=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/qSLRDoW9xku1Tn0g5cH-1Xfw4NF7HjSdPU8j0rfsNoPSl3r5TN-5OEC8g8mF_I1TbpxDDMZp4t_mlE6y=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "A7Dk-ixHKjY",
+                        "encryptedVideoId": "i52TYO13Nyg",
                         "chartEntryMetadata": {
-                          "currentPosition": 12,
-                          "previousPosition": 10,
-                          "percentViewsChange": -0.28047347,
-                          "periodsOnChart": 22
+                          "currentPosition": 13,
+                          "previousPosition": 16,
+                          "percentViewsChange": 0.0849032,
+                          "periodsOnChart": 4
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11h1hv5qlb",
-                            "name": "Khasa Aala Chahar"
+                            "kgMid": "/g/11w96h_18z",
+                            "name": "Mitta Ror"
                           },
                           {
-                            "kgMid": "/g/11yjf4q0zb",
-                            "name": "Anny Kathwar"
+                            "kgMid": "/g/11yvpj_q39",
+                            "name": "Swara Verma"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "q_345u_Zbmo",
+                        "atvExternalVideoId": "JPfoLgd3uKg",
                         "releaseDate": {
-                          "year": 2025,
-                          "month": 10,
-                          "day": 9
+                          "year": 2024,
+                          "month": 9,
+                          "day": 10
                         },
                         "songwriters": [
-                          "Khasa Aala Chahar",
-                          "Khasa Aala Chahar",
-                          "Anny Kathwar",
-                          "Anny Kathwar"
+                          "Mitta Ror",
+                          "Mitta Ror"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuYBCAISkgEKB1NoZWVzaGESaWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BTFYtVWpVWG9MdFhGUlBhN2hZSzhBSkhpWWZObHpZTEhRUU9aSlFDendxYm9Gc3REbVgxYTZqUD13OTAwLWg5MDAtcBoCMTMiCU1pdHRhIFJvciILU3dhcmEgVmVybWEqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                      },
+                      {
+                        "id": "G:dTJnNlCWZv4",
+                        "name": "EEEE A",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/HkhiaulmLGDSDyWhfv05flM-1icEq38WVR3MYQuPud1DABjjQAPObmYbHcqQD9MCEfP7_TtUrSO_nwAfNg=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "Wvl-UASEEQY",
+                        "chartEntryMetadata": {
+                          "currentPosition": 14,
+                          "previousPosition": 14,
+                          "percentViewsChange": -0.03685071,
+                          "periodsOnChart": 28
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11yky676mr",
+                            "name": "Dia"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "gB8n3ZIWcUk",
+                        "releaseDate": {
+                          "year": 2025,
+                          "month": 11,
+                          "day": 20
+                        },
+                        "songwriters": [
+                          "Yosua Albert Simanjuntak"
                         ],
                         "songProducers": [
-                          "Dollar Music"
+                          "dia"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIu0BCAISmQEKBlN0YXR1cxJoaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1ValZ2SWtleHk5Q0JMTW85NHdldHV6YkhHcEl3UWN4SERXZlBzeEdRdlM3Wmhnd0ZUQnc9dzkwMC1oOTAwLXAaAjEyIhFLaGFzYSBBYWxhIENoYWhhciIMQW5ueSBLYXRod2FyKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuYBCAISkgEKBkVFRUUgQRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL09ERnBpLVk0RGxUcU1NeUZYbG5KbDZ5Rkwybm1hQTkxUHQ1WUk2S3Q3Xy1nc3llcm91RjUxUmh1bGU0bndlMmtqWmpGSE5MVnZySkpLUjQ9dzkwMC1oOTAwLXAaAjE0IgNEaWEqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
                         "id": "G:ZyVs62gC1Vc",
@@ -694,10 +767,10 @@
                         },
                         "encryptedVideoId": "sTHhz9LXdjw",
                         "chartEntryMetadata": {
-                          "currentPosition": 13,
-                          "previousPosition": 12,
-                          "percentViewsChange": -0.2543252,
-                          "periodsOnChart": 67
+                          "currentPosition": 15,
+                          "previousPosition": 13,
+                          "percentViewsChange": -0.06385638,
+                          "periodsOnChart": 68
                         },
                         "artists": [
                           {
@@ -723,47 +796,92 @@
                           "month": 11,
                           "day": 6
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvkBCAISpQEKFUZyb20gVGhlIFN0YXJ0IChGdW5rKRJpaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1ValYxSkcybzJ6N0Ryamkxdnk4bE1JNTRYSk5JVmY1cG1xbnJaNVpuM0E1bmExTnc4RGZMPXc5MDAtaDkwMC1wGgIxMyIFLVByZXkiBlpNQUpPUiIEenhuYyIGRW1ybGQhKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvkBCAISpQEKFUZyb20gVGhlIFN0YXJ0IChGdW5rKRJpaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1ValYxSkcybzJ6N0Ryamkxdnk4bE1JNTRYSk5JVmY1cG1xbnJaNVpuM0E1bmExTnc4RGZMPXc5MDAtaDkwMC1wGgIxNSIFLVByZXkiBlpNQUpPUiIEenhuYyIGRW1ybGQhKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
-                        "id": "G:dTJnNlCWZv4",
-                        "name": "EEEE A",
+                        "id": "G:GakKv5W4PtQ",
+                        "name": "Cry For Me (WA WA WA) (feat. Bubi)",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/HkhiaulmLGDSDyWhfv05flM-1icEq38WVR3MYQuPud1DABjjQAPObmYbHcqQD9MCEfP7_TtUrSO_nwAfNg=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/wCR66gU-pkPSPb7wnTPj2U6r-4we1qVW0gz-xVMRiCobw66Xvr1NkDmHsqACrKRKAsslBFkNnXUGJCqe=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "Wvl-UASEEQY",
+                        "encryptedVideoId": "J7Xzgcu6vVk",
                         "chartEntryMetadata": {
-                          "currentPosition": 14,
-                          "previousPosition": 14,
-                          "percentViewsChange": -0.12591153,
-                          "periodsOnChart": 27
+                          "currentPosition": 16,
+                          "previousPosition": 17,
+                          "percentViewsChange": -0.0654047,
+                          "periodsOnChart": 7
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11yky676mr",
-                            "name": "Dia"
+                            "kgMid": "/g/11smbl7bfg",
+                            "name": "Ironmouse"
+                          },
+                          {
+                            "kgMid": "/g/11fk4qrvdh",
+                            "name": "shirobeats"
+                          },
+                          {
+                            "kgMid": "/g/11dfwrrtnj",
+                            "name": "HalaCG"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "gB8n3ZIWcUk",
+                        "atvExternalVideoId": "tupuZFm3jo8",
                         "releaseDate": {
-                          "year": 2025,
-                          "month": 11,
-                          "day": 20
+                          "year": 2023,
+                          "month": 12,
+                          "day": 11
                         },
                         "songwriters": [
-                          "Yosua Albert Simanjuntak"
+                          "HalaCG"
                         ],
-                        "songProducers": [
-                          "dia"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpwCCAISyAEKIkNyeSBGb3IgTWUgKFdBIFdBIFdBKSAoZmVhdC4gQnViaSkSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9CbXFfUHlWaTEzNzRZQXdneFBLdWJwakQyU216VWVzWldhOHRDZF9ocDZxekNpZ2RDdXdMdXRETzctN1Nxd2E2RHA3Nms0U3Nza0NsVGhvPXc5MDAtaDkwMC1wGgIxNiIJSXJvbm1vdXNlIgpzaGlyb2JlYXRzIgZIYWxhQ0cqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                      },
+                      {
+                        "id": "G:iXp1dnxnIRQ",
+                        "name": "Lutt Le Gaya",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/md9ovLK0Sq8mpU-REuzCkWyj6pKSPUETny0goj91-WZ6uZxrCKlCgg6tDWBav1jmSIXo8jE3v-EtX6jS=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "VWCBZpvjZfc",
+                        "chartEntryMetadata": {
+                          "currentPosition": 17,
+                          "periodsOnChart": 3
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11g6k1l4yh",
+                            "name": "Shashwat Sachdev"
+                          },
+                          {
+                            "kgMid": "/g/11g0ml9mfk",
+                            "name": "Simran Choudhary"
+                          }
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuYBCAISkgEKBkVFRUUgQRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL09ERnBpLVk0RGxUcU1NeUZYbG5KbDZ5Rkwybm1hQTkxUHQ1WUk2S3Q3Xy1nc3llcm91RjUxUmh1bGU0bndlMmtqWmpGSE5MVnZySkpLUjQ9dzkwMC1oOTAwLXAaAjE0IgNEaWEqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                        "isVisible": true,
+                        "atvExternalVideoId": "duOH5cKyS2A",
+                        "releaseDate": {
+                          "year": 2025,
+                          "month": 12,
+                          "day": 5
+                        },
+                        "songwriters": [
+                          "Shashwat Sachdev",
+                          "Simran Choudhary"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIosCCAIStwEKDEx1dHQgTGUgR2F5YRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0U4WGZjbElPWDRQZHhaXzNsOXd0bjVWcXp0cHM3Tkw0YVdFY0RvcU5FUUlGenVwTjFDYzNnUTh1UzRlVzUwamFuSjhHMF9uRW9QM1VhZ2s9dzkwMC1oOTAwLXAaAjE3IhBTaGFzaHdhdCBTYWNoZGV2IhBTaW1yYW4gQ2hvdWRoYXJ5KgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
                         "id": "G:OKmcErZmDn8",
@@ -779,10 +897,10 @@
                         },
                         "encryptedVideoId": "8qCVXCFREkQ",
                         "chartEntryMetadata": {
-                          "currentPosition": 15,
-                          "previousPosition": 16,
-                          "percentViewsChange": -0.12188768,
-                          "periodsOnChart": 39
+                          "currentPosition": 18,
+                          "previousPosition": 15,
+                          "percentViewsChange": -0.13499194,
+                          "periodsOnChart": 40
                         },
                         "artists": [
                           {
@@ -827,94 +945,54 @@
                           "Irshad Kamil",
                           "Sahir Ludhianvi"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIt4CCAISigIKF0lzaHEgSmFsYWthciAtIEthcnZhYW4gEn1odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vRThYZmNsSU9YNFBkeFpfM2w5d3RuNVZxenRwczdOTDRhV0VjRG9xTkVRSUZ6dXBOMUNjM2dROHVTNGVXNTBqYW5KOEcwX25Fb1AzVWFnaz13OTAwLWg5MDAtcBoCMTUiEFNoYXNod2F0IFNhY2hkZXYiC1NoYWh6YWQgQWxpIhdTdWJoYWRlZXAgRGFzIENob3dkaHVyeSILQXJtYWFuIEtoYW4iDElyc2hhZCBLYW1pbCIGUm9zaGFuIg9TYWhpciBMdWRoaWFudmkqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIt4CCAISigIKF0lzaHEgSmFsYWthciAtIEthcnZhYW4gEn1odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vRThYZmNsSU9YNFBkeFpfM2w5d3RuNVZxenRwczdOTDRhV0VjRG9xTkVRSUZ6dXBOMUNjM2dROHVTNGVXNTBqYW5KOEcwX25Fb1AzVWFnaz13OTAwLWg5MDAtcBoCMTgiEFNoYXNod2F0IFNhY2hkZXYiC1NoYWh6YWQgQWxpIhdTdWJoYWRlZXAgRGFzIENob3dkaHVyeSILQXJtYWFuIEtoYW4iDElyc2hhZCBLYW1pbCIGUm9zaGFuIg9TYWhpciBMdWRoaWFudmkqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
-                        "id": "G:GOlSJE3zDZE",
-                        "name": "Sheesha",
+                        "id": "G:X4ld6D_G6_w",
+                        "name": "Shararat",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/qSLRDoW9xku1Tn0g5cH-1Xfw4NF7HjSdPU8j0rfsNoPSl3r5TN-5OEC8g8mF_I1TbpxDDMZp4t_mlE6y=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/7Zsektrtwnf2UlL5CWGtSxi8JDfT8h4me73j31Mk-bDe5qbfUz7dtt1MUy-QlwkaGBWaIXucHF-r2KiCUQ=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "i52TYO13Nyg",
+                        "encryptedVideoId": "YyepU5ztLf4",
                         "chartEntryMetadata": {
-                          "currentPosition": 16,
-                          "previousPosition": 25,
-                          "percentViewsChange": 0.39836115,
-                          "periodsOnChart": 3
+                          "currentPosition": 19,
+                          "previousPosition": 19,
+                          "percentViewsChange": -0.038558133,
+                          "periodsOnChart": 34
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11w96h_18z",
-                            "name": "Mitta Ror"
+                            "kgMid": "/g/11g6k1l4yh",
+                            "name": "Shashwat Sachdev"
                           },
                           {
-                            "kgMid": "/g/11yvpj_q39",
-                            "name": "Swara Verma"
+                            "kgMid": "/g/11bxgnpptm",
+                            "name": "Madhubanti Bagchi"
+                          },
+                          {
+                            "kgMid": "/m/0wt4rg2",
+                            "name": "Jasmine Sandlas"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "JPfoLgd3uKg",
+                        "atvExternalVideoId": "Gayw5AQvWcQ",
                         "releaseDate": {
-                          "year": 2024,
-                          "month": 9,
-                          "day": 10
-                        },
-                        "songwriters": [
-                          "Mitta Ror",
-                          "Mitta Ror"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuYBCAISkgEKB1NoZWVzaGESaWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BTFYtVWpVWG9MdFhGUlBhN2hZSzhBSkhpWWZObHpZTEhRUU9aSlFDendxYm9Gc3REbVgxYTZqUD13OTAwLWg5MDAtcBoCMTYiCU1pdHRhIFJvciILU3dhcmEgVmVybWEqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
-                      },
-                      {
-                        "id": "G:GakKv5W4PtQ",
-                        "name": "Cry For Me (WA WA WA) (feat. Bubi)",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/wCR66gU-pkPSPb7wnTPj2U6r-4we1qVW0gz-xVMRiCobw66Xvr1NkDmHsqACrKRKAsslBFkNnXUGJCqe=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "J7Xzgcu6vVk",
-                        "chartEntryMetadata": {
-                          "currentPosition": 17,
-                          "previousPosition": 11,
-                          "percentViewsChange": -0.34324092,
-                          "periodsOnChart": 6
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11smbl7bfg",
-                            "name": "Ironmouse"
-                          },
-                          {
-                            "kgMid": "/g/11fk4qrvdh",
-                            "name": "shirobeats"
-                          },
-                          {
-                            "kgMid": "/g/11dfwrrtnj",
-                            "name": "HalaCG"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "tupuZFm3jo8",
-                        "releaseDate": {
-                          "year": 2023,
+                          "year": 2025,
                           "month": 12,
-                          "day": 11
+                          "day": 1
                         },
                         "songwriters": [
-                          "HalaCG"
+                          "Shashwat Sachdev",
+                          "Shashwat Sachdev",
+                          "Jasmine Sandlas"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpwCCAISyAEKIkNyeSBGb3IgTWUgKFdBIFdBIFdBKSAoZmVhdC4gQnViaSkSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9CbXFfUHlWaTEzNzRZQXdneFBLdWJwakQyU216VWVzWldhOHRDZF9ocDZxekNpZ2RDdXdMdXRETzctN1Nxd2E2RHA3Nms0U3Nza0NsVGhvPXc5MDAtaDkwMC1wGgIxNyIJSXJvbm1vdXNlIgpzaGlyb2JlYXRzIgZIYWxhQ0cqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpkCCAISxQEKCFNoYXJhcmF0En1odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vRThYZmNsSU9YNFBkeFpfM2w5d3RuNVZxenRwczdOTDRhV0VjRG9xTkVRSUZ6dXBOMUNjM2dROHVTNGVXNTBqYW5KOEcwX25Fb1AzVWFnaz13OTAwLWg5MDAtcBoCMTkiEFNoYXNod2F0IFNhY2hkZXYiEU1hZGh1YmFudGkgQmFnY2hpIg9KYXNtaW5lIFNhbmRsYXMqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
                         "id": "G:0cgdetwXHdk",
@@ -930,10 +1008,10 @@
                         },
                         "encryptedVideoId": "xiZUf98A1Ts",
                         "chartEntryMetadata": {
-                          "currentPosition": 18,
-                          "previousPosition": 13,
-                          "percentViewsChange": -0.2810393,
-                          "periodsOnChart": 67
+                          "currentPosition": 20,
+                          "previousPosition": 18,
+                          "percentViewsChange": -0.11614822,
+                          "periodsOnChart": 68
                         },
                         "artists": [
                           {
@@ -962,90 +1040,54 @@
                           "Ian Kirkpatrick",
                           "P2J"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIucBCAISkwEKBkNIQU5FTBJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL01jcnBiV3hEc2Q5aGR2NElhcFNYbTRfem1FdWx3Y3NyQWNOOTZIdWdFWXpqRFU1YnVUYUJlTkFnS2xHM29UVnlpdFN0Sk5pU0lNQ2VMS0k9dzkwMC1oOTAwLXAaAjE4IgRUeWxhKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIucBCAISkwEKBkNIQU5FTBJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL01jcnBiV3hEc2Q5aGR2NElhcFNYbTRfem1FdWx3Y3NyQWNOOTZIdWdFWXpqRFU1YnVUYUJlTkFnS2xHM29UVnlpdFN0Sk5pU0lNQ2VMS0k9dzkwMC1oOTAwLXAaAjIwIgRUeWxhKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
-                        "id": "G:X4ld6D_G6_w",
-                        "name": "Shararat",
+                        "id": "G:N5GmVEjL65w",
+                        "name": "Status",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/7Zsektrtwnf2UlL5CWGtSxi8JDfT8h4me73j31Mk-bDe5qbfUz7dtt1MUy-QlwkaGBWaIXucHF-r2KiCUQ=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/CVCRXeTvKq-RO7-5fXTAPxDfI5PjKJyQHuueB1p0efgZpqV7aE5vUCVsNH_sJFz6RrV5txcgiJeLJpU=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "YyepU5ztLf4",
+                        "encryptedVideoId": "A7Dk-ixHKjY",
                         "chartEntryMetadata": {
-                          "currentPosition": 19,
-                          "previousPosition": 24,
-                          "percentViewsChange": 0.05021721,
-                          "periodsOnChart": 33
+                          "currentPosition": 21,
+                          "previousPosition": 12,
+                          "percentViewsChange": -0.27799168,
+                          "periodsOnChart": 23
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11g6k1l4yh",
-                            "name": "Shashwat Sachdev"
+                            "kgMid": "/g/11h1hv5qlb",
+                            "name": "Khasa Aala Chahar"
                           },
                           {
-                            "kgMid": "/g/11bxgnpptm",
-                            "name": "Madhubanti Bagchi"
-                          },
-                          {
-                            "kgMid": "/m/0wt4rg2",
-                            "name": "Jasmine Sandlas"
+                            "kgMid": "/g/11yjf4q0zb",
+                            "name": "Anny Kathwar"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "Gayw5AQvWcQ",
+                        "atvExternalVideoId": "q_345u_Zbmo",
                         "releaseDate": {
                           "year": 2025,
-                          "month": 12,
-                          "day": 1
+                          "month": 10,
+                          "day": 9
                         },
                         "songwriters": [
-                          "Shashwat Sachdev",
-                          "Shashwat Sachdev",
-                          "Jasmine Sandlas"
+                          "Khasa Aala Chahar",
+                          "Khasa Aala Chahar",
+                          "Anny Kathwar",
+                          "Anny Kathwar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpkCCAISxQEKCFNoYXJhcmF0En1odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vRThYZmNsSU9YNFBkeFpfM2w5d3RuNVZxenRwczdOTDRhV0VjRG9xTkVRSUZ6dXBOMUNjM2dROHVTNGVXNTBqYW5KOEcwX25Fb1AzVWFnaz13OTAwLWg5MDAtcBoCMTkiEFNoYXNod2F0IFNhY2hkZXYiEU1hZGh1YmFudGkgQmFnY2hpIg9KYXNtaW5lIFNhbmRsYXMqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
-                      },
-                      {
-                        "id": "G:TVThpCss13Y",
-                        "name": "Shiv Hi Satya Hai Shiv Hi Sunder",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/w08U7aHzBJinGjvVuho2nA6u1effAqWnciMzqIsbxXqlJTFGjOsp-87DVBKAKQ2OLD3muZLO_jnDJVFhGg=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "VEAzNmljZpA",
-                        "chartEntryMetadata": {
-                          "currentPosition": 20,
-                          "periodsOnChart": 1
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/m/01wv4bd",
-                            "name": "Pamela Jain"
-                          }
+                        "songProducers": [
+                          "Dollar Music"
                         ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "mMHlF1eIcy8",
-                        "releaseDate": {
-                          "year": 2000,
-                          "month": 12,
-                          "day": 15
-                        },
-                        "songwriters": [
-                          "Samuel Paul",
-                          "Devendra Rana"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIocCCAISswEKIFNoaXYgSGkgU2F0eWEgSGFpIFNoaXYgSGkgU3VuZGVyEnxodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vVXZiV3NfcmhoQ21YZzFRRHZKQ0l4RzZ3UHI3NFNQc3A5bTRmeHNtQ05CU2g0dnNxb0xMQldHT1luWjNoRVU5OWtjMGtFb053T2hwNFFBPXc5MDAtaDkwMC1wGgIyMCILUGFtZWxhIEphaW4qABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIu0BCAISmQEKBlN0YXR1cxJoaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1ValZ2SWtleHk5Q0JMTW85NHdldHV6YkhHcEl3UWN4SERXZlBzeEdRdlM3Wmhnd0ZUQnc9dzkwMC1oOTAwLXAaAjIxIhFLaGFzYSBBYWxhIENoYWhhciIMQW5ueSBLYXRod2FyKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
                         "id": "G:GyrF6K5FdIM",
@@ -1061,10 +1103,10 @@
                         },
                         "encryptedVideoId": "tD4HCZe-tew",
                         "chartEntryMetadata": {
-                          "currentPosition": 21,
-                          "previousPosition": 17,
-                          "percentViewsChange": -0.26956555,
-                          "periodsOnChart": 32
+                          "currentPosition": 22,
+                          "previousPosition": 21,
+                          "percentViewsChange": -0.032159764,
+                          "periodsOnChart": 33
                         },
                         "artists": [
                           {
@@ -1097,81 +1139,83 @@
                           "Freedo",
                           "Shuko"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvMBCAISnwEKCUx1c2ggTGlmZRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0pCU1pkbkNLdHVCRUwzYm5yYkswWEtjdllyOUl5c3NEVERNVTJmcDhDVEZ0NDdEcVdhaThXeFpvTVNTSVR6djJNeHpGQXVXRF9jZmowTEdPPXc5MDAtaDkwMC1wGgIyMSIMWmFyYSBMYXJzc29uKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvMBCAISnwEKCUx1c2ggTGlmZRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0pCU1pkbkNLdHVCRUwzYm5yYkswWEtjdllyOUl5c3NEVERNVTJmcDhDVEZ0NDdEcVdhaThXeFpvTVNTSVR6djJNeHpGQXVXRF9jZmowTEdPPXc5MDAtaDkwMC1wGgIyMiIMWmFyYSBMYXJzc29uKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
-                        "id": "G:kdaQfupjqjE",
-                        "name": "Ram Aayenge",
+                        "id": "G:io-G9L-ziVA",
+                        "name": "FALL FROM THE SKY PT. 2",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/dWOcoa7UxO73xJdlQDVj00TSJuWArzh31Owhd09feXi3Aas-5WqQILPgImbGjVuTuFYZKIHq-_b7uK4=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/qmjaqHqwF3HTSnZbp3locgnMbjnHbVoLSOrB69_vSPux1BP0W-hQu7Mav8CZNqCC3rVDrjjVXRYEZkaO=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "3TylP-ux8W0",
-                        "chartEntryMetadata": {
-                          "currentPosition": 22,
-                          "periodsOnChart": 70
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11c5s5cwqs",
-                            "name": "Vishal Mishra"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "NEOPNI8f7J0",
-                        "releaseDate": {
-                          "year": 2023,
-                          "month": 11,
-                          "day": 10
-                        },
-                        "songwriters": [
-                          "Payal Dev",
-                          "Manoj Muntashir"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuEBCAISjQEKC1JhbSBBYXllbmdlEmlodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQUxWLVVqVTNQY0FaRGpZT3djYVFmRGhsVTR3c0w3X1pibUg0dzJQQ1ZLZlpqSU9oSHg3QUdOUDc9dzkwMC1oOTAwLXAaAjIyIg1WaXNoYWwgTWlzaHJhKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
-                      },
-                      {
-                        "id": "G:QYBzJXJdai0",
-                        "name": "Zindagi Sohni Aee",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/XBHQSgQN9-iq9tJH7GJPrvnTQ9QGKlEbn6nCo9M1xpYEAHrFjCJm6i_XL0RJUxczSoOrSUqIxnbkdr1c=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "GCg1sViClYw",
+                        "encryptedVideoId": "Cpc1akSzjPY",
                         "chartEntryMetadata": {
                           "currentPosition": 23,
-                          "previousPosition": 31,
-                          "percentViewsChange": 0.16739337,
-                          "periodsOnChart": 2
+                          "previousPosition": 26,
+                          "percentViewsChange": 0.07154972,
+                          "periodsOnChart": 89
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11w1r894h2",
-                            "name": "Bishan Dass"
+                            "kgMid": "/g/11hyjwsb13",
+                            "name": "ROMANCEPLANET"
+                          },
+                          {
+                            "kgMid": "/g/11q889r9cs",
+                            "name": "STAKILLAZ"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "F74eRxVdUkQ",
+                        "atvExternalVideoId": "_j0zh4vmvaQ",
                         "releaseDate": {
                           "year": 2025,
-                          "month": 12,
-                          "day": 11
+                          "month": 3,
+                          "day": 14
+                        },
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIo0CCAISuQEKF0ZBTEwgRlJPTSBUSEUgU0tZIFBULiAyEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vNkV1eVBxcEYyNjFGM2Juc2U1UnA4TXAwWjJMU1pNaWpZa3pYYWlSUDZnUXRKUm1hSEE4a1dlaWpkRkJXQkR5SHRBRFp4OWZUdnFSSWZEVlE9dzkwMC1oOTAwLXAaAjIzIg1ST01BTkNFUExBTkVUIglTVEFLSUxMQVoqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                      },
+                      {
+                        "id": "G:qMMKlMeTLes",
+                        "name": "Kahe Ka Chudi Hamar Kahe Ka Kanganwa",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/NNX5xGqWIwskF54shiHrMUDGfeORGSbO4h3hDgwsi2PzlyPNbQyWq_SijMzboLO9_r1DtMwKSfhDowo7kQ=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "BoAZspDmsGI",
+                        "chartEntryMetadata": {
+                          "currentPosition": 24,
+                          "periodsOnChart": 3
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11b7_v73l3",
+                            "name": "Madhukar Anand"
+                          },
+                          {
+                            "name": "Kalpana"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "l_3L8QWieDE",
+                        "releaseDate": {
+                          "year": 2015,
+                          "month": 1,
+                          "day": 14
                         },
                         "songwriters": [
-                          "Bishan Dass",
-                          "Ganesh Salal"
+                          "Madhukar Anand"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvoBCAISpgEKEVppbmRhZ2kgU29obmkgQWVlEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vWEJIUVNnUU45LWlxOXRKSDdHSlBydm5UUTlRR0tsRWJuNm5DbzlNMXhwWUVBSHJGakNKbTZpX1hMMFJKVXhjelNvT3JTVXFJeG5ia2RyMWM9dzkwMC1oOTAwLXAaAjIzIgtCaXNoYW4gRGFzcyoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpwCCAISyAEKJEthaGUgS2EgQ2h1ZGkgSGFtYXIgS2FoZSBLYSBLYW5nYW53YRKAAWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9GLXktYWFUOHhDQTdCSUhlaUN1bkFVUkhyZHAxclVmUnNFaTFxZmRnWTB5TXRsSlVUNWlqelQ1dlFkQV9wNlRqd1dwbmk1TnNCd0JHZElmZl9RPXc5MDAtaDkwMC1wGgIyNCIOTWFkaHVrYXIgQW5hbmQiB0thbHBhbmEqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
                         "id": "G:Ltbno_SH4N8",
@@ -1207,10 +1251,10 @@
                         },
                         "encryptedVideoId": "jfpQaR5E5Mc",
                         "chartEntryMetadata": {
-                          "currentPosition": 24,
-                          "previousPosition": 29,
-                          "percentViewsChange": 0.1153975,
-                          "periodsOnChart": 21
+                          "currentPosition": 25,
+                          "previousPosition": 24,
+                          "percentViewsChange": -0.013570313,
+                          "periodsOnChart": 22
                         },
                         "artists": [
                           {
@@ -1228,7 +1272,7 @@
                           "month": 6,
                           "day": 15
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqwCCAIS2AEKNeCkpOClh-CksOClgCDgpKbgpYHgpLLgpY3gpLngpKgg4KS44KSc4KS-4KSK4KSC4KSX4KWAEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vX3dQWEtSQ0g1ckFYOEFLMWtKWjFiTmhTcE55eUVnQlJObVJFZFBtTGJ2VHkzc1hfbGRpS01SWUZjNXVDaHlnVl9LUnhfU0RySDFLZ1VpZms9dzkwMC1oOTAwLXAaAjI0IgtBbGthIFlhZ25payIMS2FpbGFzaCBLaGVyKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqwCCAIS2AEKNeCkpOClh-CksOClgCDgpKbgpYHgpLLgpY3gpLngpKgg4KS44KSc4KS-4KSK4KSC4KSX4KWAEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vX3dQWEtSQ0g1ckFYOEFLMWtKWjFiTmhTcE55eUVnQlJObVJFZFBtTGJ2VHkzc1hfbGRpS01SWUZjNXVDaHlnVl9LUnhfU0RySDFLZ1VpZms9dzkwMC1oOTAwLXAaAjI1IgtBbGthIFlhZ25payIMS2FpbGFzaCBLaGVyKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
                         "id": "G:APj4Ecg6eog",
@@ -1244,10 +1288,10 @@
                         },
                         "encryptedVideoId": "x_RYZsOfpKY",
                         "chartEntryMetadata": {
-                          "currentPosition": 25,
-                          "previousPosition": 23,
-                          "percentViewsChange": -0.15574646,
-                          "periodsOnChart": 36
+                          "currentPosition": 26,
+                          "previousPosition": 25,
+                          "percentViewsChange": -0.0397977,
+                          "periodsOnChart": 37
                         },
                         "artists": [
                           {
@@ -1262,45 +1306,346 @@
                           "month": 11,
                           "day": 24
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvEBCAISnQEKEE5PVCBDVVRFIEFOWU1PUkUSfGh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS92SWdlWUVPcU92Y29wQzdkaUszRDB6R1daaWlGTWMtZ0duR0d3N0VtTmdzVkFYNXVKLXNTV2xoNW9wTEdISGRPWjN1aDZIbVFSci01QXc9dzkwMC1oOTAwLXAaAjI1IgVJTExJVCoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvEBCAISnQEKEE5PVCBDVVRFIEFOWU1PUkUSfGh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS92SWdlWUVPcU92Y29wQzdkaUszRDB6R1daaWlGTWMtZ0duR0d3N0VtTmdzVkFYNXVKLXNTV2xoNW9wTEdISGRPWjN1aDZIbVFSci01QXc9dzkwMC1oOTAwLXAaAjI2IgVJTExJVCoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       },
                       {
-                        "id": "G:io-G9L-ziVA",
-                        "name": "FALL FROM THE SKY PT. 2",
+                        "id": "G:wwJkibm0FZM",
+                        "name": "Saraswati Mantra",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/qmjaqHqwF3HTSnZbp3locgnMbjnHbVoLSOrB69_vSPux1BP0W-hQu7Mav8CZNqCC3rVDrjjVXRYEZkaO=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/Cx3mMMfsZIm8PuvWvkyhQfciTsC7v00WpaUdQp2CtvuGvXkn43zu5liaRlOJ37XLMKBAVBBizDJA7Tc=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "Cpc1akSzjPY",
+                        "encryptedVideoId": "cT_ymRPd51M",
                         "chartEntryMetadata": {
-                          "currentPosition": 26,
-                          "previousPosition": 21,
-                          "percentViewsChange": -0.26701355,
-                          "periodsOnChart": 88
+                          "currentPosition": 27,
+                          "periodsOnChart": 1
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11hyjwsb13",
-                            "name": "ROMANCEPLANET"
-                          },
-                          {
-                            "kgMid": "/g/11q889r9cs",
-                            "name": "STAKILLAZ"
+                            "kgMid": "/g/11tn9rmp1b",
+                            "name": "Surbhi kashyap"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "_j0zh4vmvaQ",
+                        "atvExternalVideoId": "vHcoLlvXovY",
+                        "releaseDate": {
+                          "year": 2022,
+                          "month": 12,
+                          "day": 26
+                        },
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvwBCAISqAEKEFNhcmFzd2F0aSBNYW50cmESfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS80LUZhRjl2V2tTeGhFUmI0eWJIaEozVmZVbkExQ1hDOEg1cWtOLWYwc3ZiZFpLZU12NWV4RU9TXzFfYXdYc0RpT09ydEV3cUliYlZya0tyQz13OTAwLWg5MDAtcBoCMjciDlN1cmJoaSBrYXNoeWFwKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                      },
+                      {
+                        "id": "G:QYBzJXJdai0",
+                        "name": "Zindagi Sohni Aee",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/XBHQSgQN9-iq9tJH7GJPrvnTQ9QGKlEbn6nCo9M1xpYEAHrFjCJm6i_XL0RJUxczSoOrSUqIxnbkdr1c=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "GCg1sViClYw",
+                        "chartEntryMetadata": {
+                          "currentPosition": 28,
+                          "previousPosition": 23,
+                          "percentViewsChange": -0.14899328,
+                          "periodsOnChart": 3
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11w1r894h2",
+                            "name": "Bishan Dass"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "F74eRxVdUkQ",
                         "releaseDate": {
                           "year": 2025,
-                          "month": 3,
-                          "day": 14
+                          "month": 12,
+                          "day": 11
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIo0CCAISuQEKF0ZBTEwgRlJPTSBUSEUgU0tZIFBULiAyEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vNkV1eVBxcEYyNjFGM2Juc2U1UnA4TXAwWjJMU1pNaWpZa3pYYWlSUDZnUXRKUm1hSEE4a1dlaWpkRkJXQkR5SHRBRFp4OWZUdnFSSWZEVlE9dzkwMC1oOTAwLXAaAjI2Ig1ST01BTkNFUExBTkVUIglTVEFLSUxMQVoqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                        "songwriters": [
+                          "Bishan Dass",
+                          "Ganesh Salal"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvoBCAISpgEKEVppbmRhZ2kgU29obmkgQWVlEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vWEJIUVNnUU45LWlxOXRKSDdHSlBydm5UUTlRR0tsRWJuNm5DbzlNMXhwWUVBSHJGakNKbTZpX1hMMFJKVXhjelNvT3JTVXFJeG5ia2RyMWM9dzkwMC1oOTAwLXAaAjI4IgtCaXNoYW4gRGFzcyoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                      },
+                      {
+                        "id": "G:vx1p_RLFyks",
+                        "name": "Seet Lehar",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/2jBYm9Nmc4rppXs3gnGJS6jpIU9vh1BvsiQxtYmoHFo9nzPgijY9gwpGImLOBiXTx2fvqMVylAdkB2Sm=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "tKLcFy1HDUA",
+                        "chartEntryMetadata": {
+                          "currentPosition": 29,
+                          "previousPosition": 31,
+                          "percentViewsChange": 0.061550036,
+                          "periodsOnChart": 28
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11vm7_v32q",
+                            "name": "Filmy"
+                          },
+                          {
+                            "kgMid": "/g/11ybym7vnq",
+                            "name": "Riyaazi"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "lNC6sIbZHVs",
+                        "releaseDate": {
+                          "year": 2025,
+                          "month": 12,
+                          "day": 1
+                        },
+                        "songwriters": [
+                          "Filmy"
+                        ],
+                        "songProducers": [
+                          "Riyaazi"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvQBCAISoAEKClNlZXQgTGVoYXISfGh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9BN3ZMT1NaZTUyN2tydGluQjR2S0ZTUkJiTkhYQWRRMlBqaTZBOXNmNGtWYm5GdExYRmdkcGkxM2U2WDUwdlROaENaenhqMUZ1ZzZlMFE9dzkwMC1oOTAwLXAaAjI5IgVGaWxteSIHUml5YWF6aSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                      },
+                      {
+                        "id": "G:9K1vWzqATPc",
+                        "name": "TIKI TIKI (Slowed)",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://i.ytimg.com/vi/bEYiPCbHAtM/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/bEYiPCbHAtM/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/bEYiPCbHAtM/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/bEYiPCbHAtM/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/bEYiPCbHAtM/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "bEYiPCbHAtM",
+                        "chartEntryMetadata": {
+                          "currentPosition": 30,
+                          "previousPosition": 38,
+                          "percentViewsChange": 0.2625406,
+                          "periodsOnChart": 4
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11kj5hs7jc",
+                            "name": "QMIIR"
+                          }
+                        ],
+                        "isVisible": true,
+                        "releaseDate": {
+                          "year": 2025,
+                          "month": 12,
+                          "day": 11
+                        },
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuABCAISjAEKElRJS0kgVElLSSAoU2xvd2VkKRJpaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1Valh5ZEc3bDZ0M3NFZnRFMkxBcU1kbFJjaFEycDUzZi1GY0FLUDJNaHNiZGNrM0Zjb0MzPXc5MDAtaDkwMC1wGgIzMCIFUU1JSVIqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                      },
+                      {
+                        "id": "G:NCRUxJTzct4",
+                        "name": "Epic Inspiration",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/qKvW--SVVKXzkzjKy2j7n2VtwK7_93uoaKn94VCdwgn_jOEyg9J95UwVadyjxk7h_BVHBmugcNV0r6U=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "CvLHKUtcFg4",
+                        "chartEntryMetadata": {
+                          "currentPosition": 31,
+                          "previousPosition": 30,
+                          "percentViewsChange": -0.004004863,
+                          "periodsOnChart": 100
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11ggs229xh",
+                            "name": "AShamaluevMusic"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "rftw3HgKbBs",
+                        "releaseDate": {
+                          "year": 2017,
+                          "month": 7,
+                          "day": 29
+                        },
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIv0BCAISqQEKEEVwaWMgSW5zcGlyYXRpb24Sfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9FYktBeWp2TGhlbzNzbGpqQUR6al9maHBUdEYtWnpmTXpSTzNpR2h4Z3pqNWV4dURWS2VCai1mcTc0b1FVUTlaSTRqX19EU0lUS3pXOWNuaz13OTAwLWg5MDAtcBoCMzEiD0FTaGFtYWx1ZXZNdXNpYyoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                      },
+                      {
+                        "id": "G:jFXFcQ3lbAc",
+                        "name": "HEAVENLY JUMPSTYLE",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/_cBCKUoFjuJsTPKvNViql9pqLTD_NfiNNn3y13rh1iXXIwpZ2dyQcyn9H2dneW9J9F9-I6zM13zFe4qV=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "pSkW_rR65-g",
+                        "chartEntryMetadata": {
+                          "currentPosition": 32,
+                          "previousPosition": 40,
+                          "percentViewsChange": 0.3722272,
+                          "periodsOnChart": 3
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11y2k7k_kn",
+                            "name": "TWXNY"
+                          },
+                          {
+                            "kgMid": "/g/11vcw88n8b",
+                            "name": "Sxilwix"
+                          },
+                          {
+                            "kgMid": "/g/11wqqjr_gg",
+                            "name": "INNXCENCE"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "D2TB3I9hRgA",
+                        "releaseDate": {
+                          "year": 2025,
+                          "month": 11,
+                          "day": 7
+                        },
+                        "songwriters": [
+                          "John Kell",
+                          "John Kell"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIokCCAIStQEKEkhFQVZFTkxZIEpVTVBTVFlMRRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2x5RmVVd0ZWWGFnWWJVcFNUa1VSRFNGZE9NQ1dXeF9fUmZsTGkycV9Gcmg1c0NTOGRfX2Fxam9MTWZvOUJ1R0tTOV9CU1lWZWVIWkV5XzRnPXc5MDAtaDkwMC1wGgIzMiIFVFdYTlkiB1N4aWx3aXgiCUlOTlhDRU5DRSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                      },
+                      {
+                        "id": "G:fhfvnTErEFc",
+                        "name": "मिले आवा जाड़ के रजाई",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/18ngPiuCXDOwsAMp3MC6h7Lorp8SDtbGn2mmDVfAyvk3MOE_xHoJAdeif8SqCnmP_keKGWL-sICS9E89kA=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "jjkVEwu0rw8",
+                        "chartEntryMetadata": {
+                          "currentPosition": 33,
+                          "periodsOnChart": 2
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11f7hz6w81",
+                            "name": "Tuntun Yadav"
+                          },
+                          {
+                            "kgMid": "/g/11g4bw7hft",
+                            "name": "Shilpi Raj"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "tpJhmsQveLo",
+                        "releaseDate": {
+                          "year": 2021,
+                          "month": 11,
+                          "day": 13
+                        },
+                        "songwriters": [
+                          "Aarya Sharma"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqsCCAIS1wEKN-CkruCkv-CksuClhyDgpIbgpLXgpL4g4KSc4KS-4KSh4KS8IOCkleClhyDgpLDgpJzgpL7gpIgSfGh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hWUlSTGZUYzhhcFBRWnJsWV9FLUZzWFBMUTFtdDdqaXFpM0RZX2VnbjZ0ZURtMlBxNmxFVnFITHY5V0NrdTNja1k1cmhldWo0RlVDSVE9dzkwMC1oOTAwLXAaAjMzIgxUdW50dW4gWWFkYXYiClNoaWxwaSBSYWoqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                      },
+                      {
+                        "id": "G:hDiGqadx8FA",
+                        "name": "Rangdar Ke Bhatar Bhumihar Ji",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://i.ytimg.com/vi/_htNAfrOGvQ/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/_htNAfrOGvQ/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/_htNAfrOGvQ/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/_htNAfrOGvQ/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/_htNAfrOGvQ/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "_htNAfrOGvQ",
+                        "chartEntryMetadata": {
+                          "currentPosition": 34,
+                          "previousPosition": 49,
+                          "percentViewsChange": 0.38897532,
+                          "periodsOnChart": 2
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11qh8n81h_",
+                            "name": "Karan Singh"
+                          }
+                        ],
+                        "isVisible": true,
+                        "releaseDate": {
+                          "year": 2024,
+                          "month": 8,
+                          "day": 28
+                        },
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoQCCAISsAEKHVJhbmdkYXIgS2UgQmhhdGFyIEJodW1paGFyIEppEnxodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vS0hFeExRdVNhbkFKZHNTU0lwNEtQenRrbEVLNFVDbGRSYkZfcDRUbTBGenNBc0Rvc0dDakItSjFZcDE2MlpXWmptbnJxSm5kRWYySjNnPXc5MDAtaDkwMC1wGgIzNCILS2FyYW4gU2luZ2gqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
                         "id": "G:Om7Y6mnxYaU",
@@ -1336,10 +1681,10 @@
                         },
                         "encryptedVideoId": "HaPmy9UIIwc",
                         "chartEntryMetadata": {
-                          "currentPosition": 27,
-                          "previousPosition": 18,
-                          "percentViewsChange": -0.4004561,
-                          "periodsOnChart": 32
+                          "currentPosition": 35,
+                          "previousPosition": 27,
+                          "percentViewsChange": -0.18138137,
+                          "periodsOnChart": 33
                         },
                         "artists": [
                           {
@@ -1353,232 +1698,62 @@
                           "month": 9,
                           "day": 8
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIsUBCAIScgoc5byl5rih5bGx5q2M77yITWlkdSBFY2hvaW5nKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9IYVBteTlVSUl3Yy9tYXhyZXNkZWZhdWx0LmpwZxoCMjciFllhbmcgTXVzaWMgLSDnvorpn7PkuZAqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIsUBCAIScgoc5byl5rih5bGx5q2M77yITWlkdSBFY2hvaW5nKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9IYVBteTlVSUl3Yy9tYXhyZXNkZWZhdWx0LmpwZxoCMzUiFllhbmcgTXVzaWMgLSDnvorpn7PkuZAqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
-                        "id": "G:otaeA-NQCnA",
-                        "name": "Main Om Ka Jaap Karu Shankar",
+                        "id": "G:shVIfTlcpqQ",
+                        "name": "JETSKI",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/EpBJAfQOa3tap1XUyD42zGG8GbJhDBO-gD0sPfSJmTl5yzG4SIObR5dX2xuSPpeuBWks7jjHi7nUjbcC=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/lN5TN7CV_bw_2hNitdC1AhsStU0ifovQ6Q6y2_2Ku1MSPsn4fwkFjECNOGN_lIlmoZfCI9t4M7ACaJ8o=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "1OjgwDQPNC4",
+                        "encryptedVideoId": "7CF5qbw8zec",
                         "chartEntryMetadata": {
-                          "currentPosition": 28,
-                          "previousPosition": 22,
-                          "percentViewsChange": -0.31952497,
-                          "periodsOnChart": 4
+                          "currentPosition": 36,
+                          "previousPosition": 39,
+                          "percentViewsChange": 0.124006055,
+                          "periodsOnChart": 5
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11q9sdw128",
-                            "name": "Arick Amrohi"
+                            "kgMid": "/g/11c53gms_b",
+                            "name": "PEDRO SAMPAIO"
                           },
                           {
-                            "kgMid": "/g/11tgb_1mc9",
-                            "name": "Raviraj"
+                            "kgMid": "/g/11m9pm3n36",
+                            "name": "MC MENO K"
+                          },
+                          {
+                            "kgMid": "/g/11cn69vbf5",
+                            "name": "Melody"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "ztUycDG6TAw",
-                        "releaseDate": {
-                          "year": 2021,
-                          "month": 2,
-                          "day": 2
-                        },
-                        "songwriters": [
-                          "Raviraj"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIo8CCAISuwEKHE1haW4gT20gS2EgSmFhcCBLYXJ1IFNoYW5rYXISfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9mQ2dIWXFrOE1sak0zOUZpczRqQm9QdzNLTW5sOG1xN19lUXJCT18yLWp6cnZxUnE1RWkweUJwc1RLbkZoTXRTcGpfM0cyOFR0YVVDcThxUD13OTAwLWg5MDAtcBoCMjgiDEFyaWNrIEFtcm9oaSIHUmF2aXJhaioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
-                      },
-                      {
-                        "id": "G:qE3PMWOmmi4",
-                        "name": "AGUS FUNK",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://i.ytimg.com/vi/VYlipX7lHg8/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/VYlipX7lHg8/mqdefault.jpg",
-                              "width": 320,
-                              "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/VYlipX7lHg8/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/VYlipX7lHg8/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/VYlipX7lHg8/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "VYlipX7lHg8",
-                        "chartEntryMetadata": {
-                          "currentPosition": 29,
-                          "previousPosition": 32,
-                          "percentViewsChange": -0.031837918,
-                          "periodsOnChart": 109
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11y9_5gqh3",
-                            "name": "ghozx"
-                          },
-                          {
-                            "kgMid": "/g/11v0vlddzx",
-                            "name": "DJ VIBER"
-                          },
-                          {
-                            "kgMid": "/g/11lyd39vgs",
-                            "name": "XENO XID"
-                          }
-                        ],
-                        "isVisible": true,
-                        "releaseDate": {
-                          "year": 2024,
-                          "month": 12,
-                          "day": 2
-                        },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoACCAISrAEKCUFHVVMgRlVOSxJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzBmRTRZakE0YWZiWHJkWXRVeTl6ZGYtYTJieDJEWWdoUGticHd3Q3ZkTlFFR0tqekVPZnNaZTJGVjNFX2pIWGdVZ3lYZ0dGX2k0YVRyb2tvPXc5MDAtaDkwMC1wGgIyOSIFZ2hvengiCERKIFZJQkVSIghYRU5PIFhJRCoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
-                      },
-                      {
-                        "id": "G:NCRUxJTzct4",
-                        "name": "Epic Inspiration",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/qKvW--SVVKXzkzjKy2j7n2VtwK7_93uoaKn94VCdwgn_jOEyg9J95UwVadyjxk7h_BVHBmugcNV0r6U=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "CvLHKUtcFg4",
-                        "chartEntryMetadata": {
-                          "currentPosition": 30,
-                          "previousPosition": 30,
-                          "percentViewsChange": -0.053347778,
-                          "periodsOnChart": 99
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11ggs229xh",
-                            "name": "AShamaluevMusic"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "rftw3HgKbBs",
-                        "releaseDate": {
-                          "year": 2017,
-                          "month": 7,
-                          "day": 29
-                        },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIv0BCAISqQEKEEVwaWMgSW5zcGlyYXRpb24Sfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9FYktBeWp2TGhlbzNzbGpqQUR6al9maHBUdEYtWnpmTXpSTzNpR2h4Z3pqNWV4dURWS2VCai1mcTc0b1FVUTlaSTRqX19EU0lUS3pXOWNuaz13OTAwLWg5MDAtcBoCMzAiD0FTaGFtYWx1ZXZNdXNpYyoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
-                      },
-                      {
-                        "id": "G:vx1p_RLFyks",
-                        "name": "Seet Lehar",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/2jBYm9Nmc4rppXs3gnGJS6jpIU9vh1BvsiQxtYmoHFo9nzPgijY9gwpGImLOBiXTx2fvqMVylAdkB2Sm=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "tKLcFy1HDUA",
-                        "chartEntryMetadata": {
-                          "currentPosition": 31,
-                          "previousPosition": 26,
-                          "percentViewsChange": -0.131259,
-                          "periodsOnChart": 27
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11vm7_v32q",
-                            "name": "Filmy"
-                          },
-                          {
-                            "kgMid": "/g/11ybym7vnq",
-                            "name": "Riyaazi"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "lNC6sIbZHVs",
+                        "atvExternalVideoId": "Sbtd0rlORf8",
                         "releaseDate": {
                           "year": 2025,
                           "month": 12,
-                          "day": 1
+                          "day": 18
                         },
                         "songwriters": [
-                          "Filmy"
+                          "PEDRO SAMPAIO",
+                          "MC Meno K",
+                          "Pedro Breder",
+                          "Carolzinha",
+                          "Shylton",
+                          "Cantini",
+                          "Bella Angel"
                         ],
                         "songProducers": [
-                          "Riyaazi"
+                          "PEDRO SAMPAIO",
+                          "Pedro Breder"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvQBCAISoAEKClNlZXQgTGVoYXISfGh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9BN3ZMT1NaZTUyN2tydGluQjR2S0ZTUkJiTkhYQWRRMlBqaTZBOXNmNGtWYm5GdExYRmdkcGkxM2U2WDUwdlROaENaenhqMUZ1ZzZlMFE9dzkwMC1oOTAwLXAaAjMxIgVGaWxteSIHUml5YWF6aSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
-                      },
-                      {
-                        "id": "G:vdBfo1pUhx0",
-                        "name": "SENCY",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/HkhiaulmLGDSDyWhfv05flM-1icEq38WVR3MYQuPud1DABjjQAPObmYbHcqQD9MCEfP7_TtUrSO_nwAfNg=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "eP3UsuxK30U",
-                        "chartEntryMetadata": {
-                          "currentPosition": 32,
-                          "previousPosition": 47,
-                          "percentViewsChange": 0.15116176,
-                          "periodsOnChart": 6
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11yk6wyvym",
-                            "name": "dia"
-                          },
-                          {
-                            "kgMid": "/g/11j5gkpzk9",
-                            "name": "Tenxi"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "6H6Gz2AKgI0",
-                        "releaseDate": {
-                          "year": 2025,
-                          "month": 11,
-                          "day": 20
-                        },
-                        "songwriters": [
-                          "Yosua Albert Simanjuntak",
-                          "Joan Pasha Syahputra"
-                        ],
-                        "songProducers": [
-                          "dia"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvABCAISnAEKBVNFTkNZEoABaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0hraGlhdWxtTEdEU0R5V2hmdjA1ZmxNLTFpY0VxMzhXVlIzTVlRdVB1ZDFEQUJqalFBUE9ibVliSGNxUUQ5TUNFZlA3X1R0VXJTT19ud0FmTmc9dzkwMC1oOTAwLXAaAjMyIgNkaWEiBVRlbnhpKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoMCCAISrwEKBkpFVFNLSRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3dQOE02emZFaWVZVXV6TVN0VDk1eUlKUFRGaU56RGlFN1UtNm04VlliYUlrcmt3dWt3YlVaSV93a2RKb2tkQktQSnMtRjBhT0pXY3RPZnc9dzkwMC1oOTAwLXAaAjM2Ig1QRURSTyBTQU1QQUlPIglNQyBNRU5PIEsiBk1lbG9keSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       },
                       {
                         "id": "G:2FD2KPSo08o",
@@ -1614,10 +1789,10 @@
                         },
                         "encryptedVideoId": "9sthJUHkzgI",
                         "chartEntryMetadata": {
-                          "currentPosition": 33,
-                          "previousPosition": 46,
-                          "percentViewsChange": 0.099267274,
-                          "periodsOnChart": 13
+                          "currentPosition": 37,
+                          "previousPosition": 33,
+                          "percentViewsChange": -0.061815586,
+                          "periodsOnChart": 14
                         },
                         "artists": [
                           {
@@ -1635,7 +1810,68 @@
                           "month": 11,
                           "day": 5
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIokCCAIStQEKEFNhbmRlc2UgQWF0ZSBIYWkSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9pV0hfWFNJTzh5WnZJcXo4dnhrd0M5Qmp6R000Z2lBaFI2OVo2TFowdDhScDc5QVNORlZ3cHdIWldPeXlvOTRCX2pzWGw4SHRGdWVNZ01BPXc5MDAtaDkwMC1wGgIzMyIKU29udSBOaWdhbSIQUm9vcGt1bWFyIFJhdGhvZCoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIokCCAIStQEKEFNhbmRlc2UgQWF0ZSBIYWkSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9pV0hfWFNJTzh5WnZJcXo4dnhrd0M5Qmp6R000Z2lBaFI2OVo2TFowdDhScDc5QVNORlZ3cHdIWldPeXlvOTRCX2pzWGw4SHRGdWVNZ01BPXc5MDAtaDkwMC1wGgIzNyIKU29udSBOaWdhbSIQUm9vcGt1bWFyIFJhdGhvZCoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                      },
+                      {
+                        "id": "G:qE3PMWOmmi4",
+                        "name": "AGUS FUNK",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://i.ytimg.com/vi/VYlipX7lHg8/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/VYlipX7lHg8/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/VYlipX7lHg8/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/VYlipX7lHg8/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/VYlipX7lHg8/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "VYlipX7lHg8",
+                        "chartEntryMetadata": {
+                          "currentPosition": 38,
+                          "previousPosition": 29,
+                          "percentViewsChange": -0.16285856,
+                          "periodsOnChart": 110
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11y9_5gqh3",
+                            "name": "ghozx"
+                          },
+                          {
+                            "kgMid": "/g/11v0vlddzx",
+                            "name": "DJ VIBER"
+                          },
+                          {
+                            "kgMid": "/g/11lyd39vgs",
+                            "name": "XENO XID"
+                          }
+                        ],
+                        "isVisible": true,
+                        "releaseDate": {
+                          "year": 2024,
+                          "month": 12,
+                          "day": 2
+                        },
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoACCAISrAEKCUFHVVMgRlVOSxJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzBmRTRZakE0YWZiWHJkWXRVeTl6ZGYtYTJieDJEWWdoUGticHd3Q3ZkTlFFR0tqekVPZnNaZTJGVjNFX2pIWGdVZ3lYZ0dGX2k0YVRyb2tvPXc5MDAtaDkwMC1wGgIzOCIFZ2hvengiCERKIFZJQkVSIghYRU5PIFhJRCoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       },
                       {
                         "id": "G:MOPoo3dG8Ws",
@@ -1671,10 +1907,10 @@
                         },
                         "encryptedVideoId": "kPf9i6Wef7M",
                         "chartEntryMetadata": {
-                          "currentPosition": 34,
+                          "currentPosition": 39,
                           "previousPosition": 34,
-                          "percentViewsChange": -0.13387424,
-                          "periodsOnChart": 93
+                          "percentViewsChange": -0.023670124,
+                          "periodsOnChart": 94
                         },
                         "artists": [
                           {
@@ -1692,47 +1928,184 @@
                           "month": 4,
                           "day": 25
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvcBCAISowEKCUFMIE5BQ0VSIRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1LSUcyQ1A0d2tKa3kxVHRNVWRZY0h6X3FoSkNKMmRlV0FkQVlVRzdNTzFlekNRNzcxN1lvZGRhWWNYRjdZdGM1ODBRMFpEcTB2VEhPTnM9dzkwMC1oOTAwLXAaAjM0IghTYXlmYWxzZSIHTnVsdGVleCoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvcBCAISowEKCUFMIE5BQ0VSIRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1LSUcyQ1A0d2tKa3kxVHRNVWRZY0h6X3FoSkNKMmRlV0FkQVlVRzdNTzFlekNRNzcxN1lvZGRhWWNYRjdZdGM1ODBRMFpEcTB2VEhPTnM9dzkwMC1oOTAwLXAaAjM5IghTYXlmYWxzZSIHTnVsdGVleCoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       },
                       {
-                        "id": "G:HB3d9eWFJ_k",
-                        "name": "Ocean Eyes",
+                        "id": "G:vNRBo2zHvdY",
+                        "name": "Maiya Bari Sukwar",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/2vhA3p73paNJ8ptp3K-ALvl7ruhzQDQiOsJLBxHBXCIMRpoHUscQIHurAZXQmbHys7EdBsKRoiEeOV1_=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/dQJT5CseVqKdwsr2VZCIiYX8BUBA8GyXeqZcS_AXIS92v1iDvbQ47yt1nqtq6TkgT-QKy2vDR1goT5FH=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "viimfQi_pUw",
+                        "encryptedVideoId": "yG1ngGJAREY",
                         "chartEntryMetadata": {
-                          "currentPosition": 35,
-                          "previousPosition": 42,
-                          "percentViewsChange": -0.036489647,
-                          "periodsOnChart": 106
+                          "currentPosition": 40,
+                          "periodsOnChart": 1
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11c75ypgws",
-                            "name": "Billie Eilish"
+                            "kgMid": "/g/11wjb602vn",
+                            "name": "Sovita Pandey"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "3IUqoyTxEU8",
+                        "atvExternalVideoId": "mcfzrnDVSm8",
                         "releaseDate": {
-                          "year": 2015,
-                          "month": 11,
-                          "day": 30
+                          "year": 2025,
+                          "month": 9,
+                          "day": 19
                         },
                         "songwriters": [
-                          "Finneas O'Connell"
+                          "Gaurav Vishal Singh"
                         ],
                         "songProducers": [
-                          "Finneas O'Connell"
+                          "Aakash Pandey"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvUBCAISoQEKCk9jZWFuIEV5ZXMSfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS90UUM0ck9MNnh6NkZobUZyMGdnUUV4eHlHYllTT3N5dmVYVlNuUEJoMldqRXlJelE5cE1IYWJsTEotMEdsTUJyTEJsQnJiV1FHbXpyVjZLTj13OTAwLWg5MDAtcBoCMzUiDUJpbGxpZSBFaWxpc2gqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvsBCAISpwEKEU1haXlhIEJhcmkgU3Vrd2FyEn1odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vV0ZxZVZVVzJ3YkdLNUd0dF93TWpxdkQ4anl4QlNHeVUyWTN1LVVuOV84TERXc0lLVThSNi1ZaE1HOW9Uc25VQTd1a0oza1BSXzd4eEZNbz13OTAwLWg5MDAtcBoCNDAiDVNvdml0YSBQYW5kZXkqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                      },
+                      {
+                        "id": "G:i3Usj9Dhm8M",
+                        "name": "FUNK DO SURPRISE",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/q3AhwAlaj1nVdmDTFv0KHJ_68D9Nr29uhT4w-YrZ9CzAOf9qgx8oKsEooYNoYdwarf6zUMFO0FM88SoWuQ=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "b8JtQNhVkB8",
+                        "chartEntryMetadata": {
+                          "currentPosition": 41,
+                          "previousPosition": 41,
+                          "percentViewsChange": 0.17267649,
+                          "periodsOnChart": 26
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11tdm3z9bh",
+                            "name": "KXZINVK"
+                          },
+                          {
+                            "kgMid": "/g/11bt_5qs__",
+                            "name": "MC Roba Cena"
+                          },
+                          {
+                            "kgMid": "/g/11rvd397_p",
+                            "name": "MC da 12"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "bY4kQL7osnE",
+                        "releaseDate": {
+                          "year": 2025,
+                          "month": 7,
+                          "day": 31
+                        },
+                        "songwriters": [
+                          "Tikhonov Anton",
+                          "Tikhonov Anton"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIowCCAISuAEKEEZVTksgRE8gU1VSUFJJU0USfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9WOFBPWURnSXczME5PU0xjZWRwTTE4WWtZME0xZUtLTVJpSFZtVmR3WjhsLTUzLUItYTdIUXNJR0dSdG1Zcm1PRDNleWs3UnpJQUQ5ZUtzPXc5MDAtaDkwMC1wGgI0MSIHS1haSU5WSyIMTUMgUm9iYSBDZW5hIghNQyBkYSAxMioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                      },
+                      {
+                        "id": "G:h52vTBqwrbE",
+                        "name": "Jaate Hue Lamhon",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/_0qTfDGZ0HwNY1iFMm4CpIaCpotLRsjMirKLa0KYoJCTEsUrfFQQ5AlEgA-cJt5KD237alIE4iw1aB2Y=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "hR8JECXccdY",
+                        "chartEntryMetadata": {
+                          "currentPosition": 42,
+                          "periodsOnChart": 1
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/m/01mz9lt",
+                            "name": "Anu Malik"
+                          },
+                          {
+                            "kgMid": "/m/026_9c2",
+                            "name": "Mithoon"
+                          },
+                          {
+                            "kgMid": "/m/01qqxqf",
+                            "name": "Roopkumar Rathod"
+                          },
+                          {
+                            "kgMid": "/g/11c5s5cwqs",
+                            "name": "Vishal Mishra"
+                          },
+                          {
+                            "kgMid": "/m/04rpzr",
+                            "name": "Javed Akhtar"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "TR6u3vBESI0",
+                        "releaseDate": {
+                          "year": 2026,
+                          "month": 1,
+                          "day": 12
+                        },
+                        "songwriters": [
+                          "Anu Malik",
+                          "Mithoon",
+                          "Javed Akhtar"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIq0CCAIS2QEKEEphYXRlIEh1ZSBMYW1ob24SfGh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9fbGQwZWZWRkFVcS1CWl81RFFiQmhfNUhFLVc5TlFKWHFSdzJFMnAyUFpRYWdqdGtLa3ctM2d1ZDFBa0JxRFlKUXNaTlhQNDNtTzlGS3c9dzkwMC1oOTAwLXAaAjQyIglBbnUgTWFsaWsiB01pdGhvb24iEFJvb3BrdW1hciBSYXRob2QiDVZpc2hhbCBNaXNocmEiDEphdmVkIEFraHRhcioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                      },
+                      {
+                        "id": "G:XxWh2d00kgY",
+                        "name": "Danga Hoi",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/gFlphBK_nMVzat0FBEyrrosU8BJ38YrKu6aQCpfd7jksTeEHyx-SD7dKzj4C3kololSoBRf_3tZ5MdGw=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "0eujds_X8J8",
+                        "chartEntryMetadata": {
+                          "currentPosition": 43,
+                          "periodsOnChart": 1
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11lygrc9xl",
+                            "name": "Chand Jee"
+                          },
+                          {
+                            "kgMid": "/g/11g4bw7hft",
+                            "name": "Shilpi Raj"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "9Zys2xokxKI",
+                        "releaseDate": {
+                          "year": 2025,
+                          "month": 12,
+                          "day": 29
+                        },
+                        "songwriters": [
+                          "Aryan Mahtab",
+                          "Vikash Mishra"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvwBCAISqAEKCURhbmdhIEhvaRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2dGbHBoQktfbk1WemF0MEZCRXlycm9zVThCSjM4WXJLdTZhUUNwZmQ3amtzVGVFSHl4LVNEN2RLemo0QzNrb2xvbFNvQlJmXzN0WjVNZEd3PXc5MDAtaDkwMC1wGgI0MyIJQ2hhbmQgSmVlIgpTaGlscGkgUmFqKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
                         "id": "G:2RTjpP3tVoQ",
@@ -1748,10 +2121,10 @@
                         },
                         "encryptedVideoId": "iLfVnU23E34",
                         "chartEntryMetadata": {
-                          "currentPosition": 36,
-                          "previousPosition": 27,
-                          "percentViewsChange": -0.23855102,
-                          "periodsOnChart": 63
+                          "currentPosition": 44,
+                          "previousPosition": 36,
+                          "percentViewsChange": -0.08135475,
+                          "periodsOnChart": 64
                         },
                         "artists": [
                           {
@@ -1794,7 +2167,122 @@
                           "LUNxdiE",
                           "DJ Zarek"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvoBCAISpgEKDUxVQSBOQSBQUkHDh0ESaWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BTFYtVWpYMURETHZwRVd2YXR6cllFUnpGdmVZeWNjOXVwemNlMTkxYlQ4SElJWlVBSmdGZmxQRT13OTAwLWg5MDAtcBoCMzYiCERqIFNhbWlyIghESiBaYXJlayIHRGogRHVkYSIHTFVOeGRpRSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvoBCAISpgEKDUxVQSBOQSBQUkHDh0ESaWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BTFYtVWpYMURETHZwRVd2YXR6cllFUnpGdmVZeWNjOXVwemNlMTkxYlQ4SElJWlVBSmdGZmxQRT13OTAwLWg5MDAtcBoCNDQiCERqIFNhbWlyIghESiBaYXJlayIHRGogRHVkYSIHTFVOeGRpRSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                      },
+                      {
+                        "id": "G:jhAGCx7s8MY",
+                        "name": "Tohra Mein Basela Paranwa Ho",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/USUKviU4cxQTKOx1FCjEuF_owGgKQnXX_Zb_CXckKQN8s3l1EdcvVsptWgrjJB_MSboFcnS0hr4UJRc=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "KVoCuStrO-k",
+                        "chartEntryMetadata": {
+                          "currentPosition": 45,
+                          "periodsOnChart": 1
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11b7_w7mq0",
+                            "name": "Anamika Singh"
+                          },
+                          {
+                            "kgMid": "/g/11cmcy7k_0",
+                            "name": "Khesari Lal Yadav"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "IVNLDQXFdGk",
+                        "releaseDate": {
+                          "year": 2011,
+                          "month": 6,
+                          "day": 11
+                        },
+                        "songwriters": [
+                          "Ashok Kumar Deep",
+                          "Ashok Kumar Deep"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpkCCAISxQEKHFRvaHJhIE1laW4gQmFzZWxhIFBhcmFud2EgSG8SfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS8yRjdBVkE5SDVxeXVlcWduTHhOOTMyLVE1NDJvNGFmRmxpVmZTTWEwZlFEbURGdGQ3NkJiOWgzcWhQSVAyaWxWanM2WEVVbkZJRUVQdHlBPXc5MDAtaDkwMC1wGgI0NSINQW5hbWlrYSBTaW5naCIRS2hlc2FyaSBMYWwgWWFkYXYqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                      },
+                      {
+                        "id": "G:HB3d9eWFJ_k",
+                        "name": "Ocean Eyes",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/2vhA3p73paNJ8ptp3K-ALvl7ruhzQDQiOsJLBxHBXCIMRpoHUscQIHurAZXQmbHys7EdBsKRoiEeOV1_=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "viimfQi_pUw",
+                        "chartEntryMetadata": {
+                          "currentPosition": 46,
+                          "previousPosition": 35,
+                          "percentViewsChange": -0.09732212,
+                          "periodsOnChart": 107
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11c75ypgws",
+                            "name": "Billie Eilish"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "3IUqoyTxEU8",
+                        "releaseDate": {
+                          "year": 2015,
+                          "month": 11,
+                          "day": 30
+                        },
+                        "songwriters": [
+                          "Finneas O'Connell"
+                        ],
+                        "songProducers": [
+                          "Finneas O'Connell"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvUBCAISoQEKCk9jZWFuIEV5ZXMSfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS90UUM0ck9MNnh6NkZobUZyMGdnUUV4eHlHYllTT3N5dmVYVlNuUEJoMldqRXlJelE5cE1IYWJsTEotMEdsTUJyTEJsQnJiV1FHbXpyVjZLTj13OTAwLWg5MDAtcBoCNDYiDUJpbGxpZSBFaWxpc2gqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
+                      },
+                      {
+                        "id": "G:8pGoBUQ5tRQ",
+                        "name": "Rang Dalbau Jarake Lalten",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/6ajqII7B6M33T424ZvOpbQQ6QBG3w4bdckhQ5ssaCaotDDwJ922FYNa5jAiGYpnSAfAaFBHfwT_dEw6X=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "RjRkJRZcKvA",
+                        "chartEntryMetadata": {
+                          "currentPosition": 47,
+                          "periodsOnChart": 1
+                        },
+                        "artists": [
+                          {
+                            "kgMid": "/g/11f7hz6w81",
+                            "name": "Tuntun Yadav"
+                          }
+                        ],
+                        "isVisible": true,
+                        "atvExternalVideoId": "Pa33JveJxJY",
+                        "releaseDate": {
+                          "year": 2024,
+                          "month": 10,
+                          "day": 17
+                        },
+                        "songwriters": [
+                          "Vicky Box"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoECCAISrQEKGVJhbmcgRGFsYmF1IEphcmFrZSBMYWx0ZW4SfGh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hWUlSTGZUYzhhcFBRWnJsWV9FLUZzWFBMUTFtdDdqaXFpM0RZX2VnbjZ0ZURtMlBxNmxFVnFITHY5V0NrdTNja1k1cmhldWo0RlVDSVE9dzkwMC1oOTAwLXAaAjQ3IgxUdW50dW4gWWFkYXYqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
                         "id": "G:2EC-zzuSpQ4",
@@ -1810,10 +2298,10 @@
                         },
                         "encryptedVideoId": "6JoVr1ZGMz0",
                         "chartEntryMetadata": {
-                          "currentPosition": 37,
-                          "previousPosition": 44,
-                          "percentViewsChange": -0.036841206,
-                          "periodsOnChart": 36
+                          "currentPosition": 48,
+                          "previousPosition": 37,
+                          "percentViewsChange": -0.09323534,
+                          "periodsOnChart": 37
                         },
                         "artists": [
                           {
@@ -1832,393 +2320,44 @@
                           "Vikas Nishad",
                           "Sunil Nishad"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqACCAISzAEKN-CkmuCksOCljeCkmuCkviDgpKzgpL4g4KSw4KS-4KSc4KSn4KS-4KSo4KWAIOCkruClh-CkgiASfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9LejFlU0hHbnJabmdhb2JTZmtkUkxHQmpuUzVVTF90RXhSY3gzeGV4Vl9fOS1rR1RvVE9RM3BsVVNRU0hfUk5uRTFvTE5OSG1MdEFvRVZvPXc5MDAtaDkwMC1wGgIzNyIMVmlrYXMgTmlzaGFkKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqACCAISzAEKN-CkmuCksOCljeCkmuCkviDgpKzgpL4g4KSw4KS-4KSc4KSn4KS-4KSo4KWAIOCkruClh-CkgiASfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9LejFlU0hHbnJabmdhb2JTZmtkUkxHQmpuUzVVTF90RXhSY3gzeGV4Vl9fOS1rR1RvVE9RM3BsVVNRU0hfUk5uRTFvTE5OSG1MdEFvRVZvPXc5MDAtaDkwMC1wGgI0OCIMVmlrYXMgTmlzaGFkKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIzLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
-                        "id": "G:9K1vWzqATPc",
-                        "name": "TIKI TIKI (Slowed)",
+                        "id": "G:lvGgWi5W49E",
+                        "name": "Maiya Ke Aarti",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/bEYiPCbHAtM/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/bEYiPCbHAtM/mqdefault.jpg",
-                              "width": 320,
-                              "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/bEYiPCbHAtM/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/bEYiPCbHAtM/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/bEYiPCbHAtM/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "bEYiPCbHAtM",
-                        "chartEntryMetadata": {
-                          "currentPosition": 38,
-                          "previousPosition": 33,
-                          "percentViewsChange": -0.2266797,
-                          "periodsOnChart": 3
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11kj5hs7jc",
-                            "name": "QMIIR"
-                          }
-                        ],
-                        "isVisible": true,
-                        "releaseDate": {
-                          "year": 2025,
-                          "month": 12,
-                          "day": 11
-                        },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuABCAISjAEKElRJS0kgVElLSSAoU2xvd2VkKRJpaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1Valh5ZEc3bDZ0M3NFZnRFMkxBcU1kbFJjaFEycDUzZi1GY0FLUDJNaHNiZGNrM0Zjb0MzPXc5MDAtaDkwMC1wGgIzOCIFUU1JSVIqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
-                      },
-                      {
-                        "id": "G:shVIfTlcpqQ",
-                        "name": "JETSKI",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/lN5TN7CV_bw_2hNitdC1AhsStU0ifovQ6Q6y2_2Ku1MSPsn4fwkFjECNOGN_lIlmoZfCI9t4M7ACaJ8o=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/mnOQ6kj9GT0loe-v32NQ8TbGdtnu89UltVLS2_0n6SHToTRbYwZceY0oZ1ZlZCSfxp_rgMC2kKAhhAgR=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
                           ]
                         },
-                        "encryptedVideoId": "7CF5qbw8zec",
+                        "encryptedVideoId": "hM4GFbDupZo",
                         "chartEntryMetadata": {
-                          "currentPosition": 39,
-                          "previousPosition": 37,
-                          "percentViewsChange": -0.16845088,
-                          "periodsOnChart": 4
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11c53gms_b",
-                            "name": "PEDRO SAMPAIO"
-                          },
-                          {
-                            "kgMid": "/g/11m9pm3n36",
-                            "name": "MC MENO K"
-                          },
-                          {
-                            "kgMid": "/g/11cn69vbf5",
-                            "name": "Melody"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "Sbtd0rlORf8",
-                        "releaseDate": {
-                          "year": 2025,
-                          "month": 12,
-                          "day": 18
-                        },
-                        "songwriters": [
-                          "PEDRO SAMPAIO",
-                          "MC Meno K",
-                          "Pedro Breder",
-                          "Carolzinha",
-                          "Shylton",
-                          "Cantini",
-                          "Bella Angel"
-                        ],
-                        "songProducers": [
-                          "PEDRO SAMPAIO",
-                          "Pedro Breder"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoMCCAISrwEKBkpFVFNLSRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3dQOE02emZFaWVZVXV6TVN0VDk1eUlKUFRGaU56RGlFN1UtNm04VlliYUlrcmt3dWt3YlVaSV93a2RKb2tkQktQSnMtRjBhT0pXY3RPZnc9dzkwMC1oOTAwLXAaAjM5Ig1QRURSTyBTQU1QQUlPIglNQyBNRU5PIEsiBk1lbG9keSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
-                      },
-                      {
-                        "id": "G:jFXFcQ3lbAc",
-                        "name": "HEAVENLY JUMPSTYLE",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/_cBCKUoFjuJsTPKvNViql9pqLTD_NfiNNn3y13rh1iXXIwpZ2dyQcyn9H2dneW9J9F9-I6zM13zFe4qV=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "pSkW_rR65-g",
-                        "chartEntryMetadata": {
-                          "currentPosition": 40,
-                          "previousPosition": 50,
-                          "percentViewsChange": -0.053568065,
+                          "currentPosition": 49,
                           "periodsOnChart": 2
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11y2k7k_kn",
-                            "name": "TWXNY"
-                          },
-                          {
-                            "kgMid": "/g/11vcw88n8b",
-                            "name": "Sxilwix"
-                          },
-                          {
-                            "kgMid": "/g/11wqqjr_gg",
-                            "name": "INNXCENCE"
+                            "kgMid": "/m/010x668m",
+                            "name": "Pawan Singh"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "D2TB3I9hRgA",
+                        "atvExternalVideoId": "ceTzk3TGS0I",
                         "releaseDate": {
-                          "year": 2025,
-                          "month": 11,
-                          "day": 7
-                        },
-                        "songwriters": [
-                          "John Kell",
-                          "John Kell"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIokCCAIStQEKEkhFQVZFTkxZIEpVTVBTVFlMRRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2x5RmVVd0ZWWGFnWWJVcFNUa1VSRFNGZE9NQ1dXeF9fUmZsTGkycV9Gcmg1c0NTOGRfX2Fxam9MTWZvOUJ1R0tTOV9CU1lWZWVIWkV5XzRnPXc5MDAtaDkwMC1wGgI0MCIFVFdYTlkiB1N4aWx3aXgiCUlOTlhDRU5DRSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
-                      },
-                      {
-                        "id": "G:i3Usj9Dhm8M",
-                        "name": "FUNK DO SURPRISE",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/q3AhwAlaj1nVdmDTFv0KHJ_68D9Nr29uhT4w-YrZ9CzAOf9qgx8oKsEooYNoYdwarf6zUMFO0FM88SoWuQ=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "b8JtQNhVkB8",
-                        "chartEntryMetadata": {
-                          "currentPosition": 41,
-                          "previousPosition": 36,
-                          "percentViewsChange": -0.24035494,
-                          "periodsOnChart": 25
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11tdm3z9bh",
-                            "name": "KXZINVK"
-                          },
-                          {
-                            "kgMid": "/g/11bt_5qs__",
-                            "name": "MC Roba Cena"
-                          },
-                          {
-                            "kgMid": "/g/11rvd397_p",
-                            "name": "MC da 12"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "bY4kQL7osnE",
-                        "releaseDate": {
-                          "year": 2025,
-                          "month": 7,
-                          "day": 31
-                        },
-                        "songwriters": [
-                          "Tikhonov Anton",
-                          "Tikhonov Anton"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIowCCAISuAEKEEZVTksgRE8gU1VSUFJJU0USfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9WOFBPWURnSXczME5PU0xjZWRwTTE4WWtZME0xZUtLTVJpSFZtVmR3WjhsLTUzLUItYTdIUXNJR0dSdG1Zcm1PRDNleWs3UnpJQUQ5ZUtzPXc5MDAtaDkwMC1wGgI0MSIHS1haSU5WSyIMTUMgUm9iYSBDZW5hIghNQyBkYSAxMioAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
-                      },
-                      {
-                        "id": "G:U724AXdqUHg",
-                        "name": "OVERDRIVE",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/vab5GPbKS5D6U99K-7G-6hdKF9I2rHL97XJe4YW1eMoCT3_isZkMOfD_Nm0IENDA0OW4ulI7jlfrTQfM=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "TzbGBkEh9ms",
-                        "chartEntryMetadata": {
-                          "currentPosition": 42,
-                          "periodsOnChart": 1
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11y2dgc2b8",
-                            "name": "TWS"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "QPAWJ2FyRRw",
-                        "releaseDate": {
-                          "year": 2025,
-                          "month": 10,
-                          "day": 11
-                        },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuoBCAISlgEKCU9WRVJEUklWRRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1F2cGQ2R3hDOG5iUERzb2p3QWtFTkMwOVBDVEkxSkZrWkxTUzVScGY3aUZzRDI5WWpkMXZXYjJEd0w1UHNhYndnQjJVOFdvbzRwR0wzQk9DPXc5MDAtaDkwMC1wGgI0MiIDVFdTKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
-                      },
-                      {
-                        "id": "G:KGAz55Rd8F0",
-                        "name": "Manasha",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://i.ytimg.com/vi/G58pphuWFwo/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/G58pphuWFwo/mqdefault.jpg",
-                              "width": 320,
-                              "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/G58pphuWFwo/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/G58pphuWFwo/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/G58pphuWFwo/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "G58pphuWFwo",
-                        "chartEntryMetadata": {
-                          "currentPosition": 43,
-                          "previousPosition": 38,
-                          "percentViewsChange": -0.24248672,
-                          "periodsOnChart": 43
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11v193z4sw",
-                            "name": "Ashreveal"
-                          }
-                        ],
-                        "isVisible": true,
-                        "releaseDate": {
-                          "year": 2024,
-                          "month": 11,
-                          "day": 8
-                        },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIu4BCAISmgEKB01hbmFzaGESfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS8zU09YV0g4bElwNlIyd1U4bzZTTkRRcS0tTWgzTU0zUzFuMERIVDdvSXdfQUF0VnR1bUFJQVUxeEpWTFJUdDRqU3lIWWdEVHBqblU1Rmh4Yz13OTAwLWg5MDAtcBoCNDMiCUFzaHJldmVhbCoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
-                      },
-                      {
-                        "id": "G:LbgnCC8c8RM",
-                        "name": "Chanp Ke Reel Banaib Ho",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://i.ytimg.com/vi/vVrSFsvxCxU/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/vVrSFsvxCxU/mqdefault.jpg",
-                              "width": 320,
-                              "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/vVrSFsvxCxU/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/vVrSFsvxCxU/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/vVrSFsvxCxU/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "vVrSFsvxCxU",
-                        "chartEntryMetadata": {
-                          "currentPosition": 44,
-                          "periodsOnChart": 15
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11xsw9z9pp",
-                            "name": "Amarnath SDK"
-                          }
-                        ],
-                        "isVisible": true,
-                        "releaseDate": {
-                          "year": 2025,
-                          "month": 12,
+                          "year": 2019,
+                          "month": 9,
                           "day": 29
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoACCAISrAEKF0NoYW5wIEtlIFJlZWwgQmFuYWliIEhvEn1odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vaF9ZeHRxd1o0QlI3aVU0VEN5SXByV1EzZWRGWHNOYWtsQWxTVkFpUFBDREZwOGNxQXdCWnJITWhjNHMyc19sUV9RUHpHUzdOYlhjdmY4ND13OTAwLWg5MDAtcBoCNDQiDEFtYXJuYXRoIFNESyoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
-                      },
-                      {
-                        "id": "G:sjjuLkyX1iU",
-                        "name": "Run Down The City - Monica",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/H6lZYHIsFNq4pSYN4_4ZSW5ZcFjjm2G_CfhLyWnZJhVj1QXJ4hY5R2Lf1k3w7zQ1n3CGZ_UKKcZrf08=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "aT4N7jn2Eww",
-                        "chartEntryMetadata": {
-                          "currentPosition": 45,
-                          "periodsOnChart": 15
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11sg8g3ghs",
-                            "name": "Reble"
-                          },
-                          {
-                            "kgMid": "/g/11g6k1l4yh",
-                            "name": "Shashwat Sachdev"
-                          },
-                          {
-                            "kgMid": "/m/01l837",
-                            "name": "Asha Bhosle"
-                          },
-                          {
-                            "kgMid": "/m/01q8wk7",
-                            "name": "R. D. Burman"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "IGtIUhNprbk",
-                        "releaseDate": {
-                          "year": 2025,
-                          "month": 12,
-                          "day": 1
-                        },
                         "songwriters": [
-                          "Shashwat Sachdev",
-                          "Reble",
-                          "R.D. Burman",
-                          "Majrooh Sultanpuri"
+                          "Shyam Azad",
+                          "Azad Singh",
+                          "Shyam Dehati"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqkCCAIS1QEKGlJ1biBEb3duIFRoZSBDaXR5IC0gTW9uaWNhEn1odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vVWtyaldGdDg5YXgyV1N0UEZfcjdfYVVRTHhVcWd6ald4MXlxTUhJMG9pY0lMaVZiTW9RbFFRdTFyaHdSTWd5b3V6Z2laTWRrMDJQUi1zRT13OTAwLWg5MDAtcBoCNDUiBVJlYmxlIhBTaGFzaHdhdCBTYWNoZGV2IgtBc2hhIEJob3NsZSIMUi4gRC4gQnVybWFuKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuIBCAISjgEKDk1haXlhIEtlIEFhcnRpEmlodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQUxWLVVqWGFLZnBGYW9DanF5Ry0zNlBoNUxWQkVWU0k1aGpBZjI4aVhnX2VGWEt4aXBoMkY4cWY9dzkwMC1oOTAwLXAaAjQ5IgtQYXdhbiBTaW5naCoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       },
                       {
                         "id": "G:QR0liU8Qt2w",
@@ -2234,10 +2373,10 @@
                         },
                         "encryptedVideoId": "5q9EjSUovc4",
                         "chartEntryMetadata": {
-                          "currentPosition": 46,
-                          "previousPosition": 48,
-                          "percentViewsChange": -0.157804,
-                          "periodsOnChart": 14
+                          "currentPosition": 50,
+                          "previousPosition": 46,
+                          "percentViewsChange": 0.0044176276,
+                          "periodsOnChart": 15
                         },
                         "artists": [
                           {
@@ -2263,225 +2402,25 @@
                           "Justin Tranter",
                           "Shawn Wasabi"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvEBCAISnQEKDUludGVybmV0IEdpcmwSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS96V1N0LWF6RGRMOUFVN1RxYVJkaTdhdDRzYWc2VzgwYmxpWDhSWjZFeC1jbk1JeGVKMGNTZzJtNktHTTRPYTlDLUtoblN0WHJxNDJoSGpvPXc5MDAtaDkwMC1wGgI0NiIHS0FUU0VZRSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
-                      },
-                      {
-                        "id": "G:LIrroerSBjw",
-                        "name": "Da Dumla Dumla Da ( Slowed + Reverb )",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://i.ytimg.com/vi/0dFRsn7IwW0/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/0dFRsn7IwW0/mqdefault.jpg",
-                              "width": 320,
-                              "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/0dFRsn7IwW0/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/0dFRsn7IwW0/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/0dFRsn7IwW0/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "0dFRsn7IwW0",
-                        "chartEntryMetadata": {
-                          "currentPosition": 47,
-                          "periodsOnChart": 1
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11sk9pfvcj",
-                            "name": "1HXSX"
-                          }
-                        ],
-                        "isVisible": true,
-                        "releaseDate": {
-                          "year": 2024,
-                          "month": 5,
-                          "day": 17
-                        },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIocCCAISswEKJURhIER1bWxhIER1bWxhIERhICggU2xvd2VkICsgUmV2ZXJiICkSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9jY1lpb0ppYVQxSHk1S0thZ09jN1ZSN3E1UXBXcGhQM0NtT2dzakJZQUd2aV94bjZMZ3Utc3BCNkNsRFQ5Q3FodUF0eGVLN1BwOGpzME5jPXc5MDAtaDkwMC1wGgI0NyIFMUhYU1gqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
-                      },
-                      {
-                        "id": "G:1099F5tlEIg",
-                        "name": "Soldier Soldier Meethi Baaten",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/fzA0RK2bUPkshz2YMVEwMwVaxaQe0Mrsn6usAzudz-fGj5lGkd8xJEk0I3DEZLm5US6XeZ9gAmnMRC5G=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "qwJxDcuW538",
-                        "chartEntryMetadata": {
-                          "currentPosition": 48,
-                          "previousPosition": 43,
-                          "percentViewsChange": -0.24261798,
-                          "periodsOnChart": 51
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/m/01q8x1z",
-                            "name": "Kumar Sanu"
-                          },
-                          {
-                            "kgMid": "/m/0310_t",
-                            "name": "Alka Yagnik"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "j0luwtxhl2U",
-                        "releaseDate": {
-                          "year": 1998,
-                          "month": 10,
-                          "day": 12
-                        },
-                        "songwriters": [
-                          "Anu Malik",
-                          "Sameer Anjaan"
-                        ],
-                        "songProducers": [
-                          "Tips Films"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpECCAISvQEKHVNvbGRpZXIgU29sZGllciBNZWV0aGkgQmFhdGVuEn1odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vY1B2WWFQNEJ5Ry1pN2ZVRS1kS3JqTWdhTkw4djNoQzkzRXJQNm1lS25sdHZSdXp4by1ESU5MUWtUdHZqZkM2aFZuelJNbG5KRWI5bjN1TT13OTAwLWg5MDAtcBoCNDgiCkt1bWFyIFNhbnUiC0Fsa2EgWWFnbmlrKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
-                      },
-                      {
-                        "id": "G:hDiGqadx8FA",
-                        "name": "Rangdar Ke Bhatar Bhumihar Ji",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://i.ytimg.com/vi/_htNAfrOGvQ/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/_htNAfrOGvQ/mqdefault.jpg",
-                              "width": 320,
-                              "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/_htNAfrOGvQ/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/_htNAfrOGvQ/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/_htNAfrOGvQ/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "_htNAfrOGvQ",
-                        "chartEntryMetadata": {
-                          "currentPosition": 49,
-                          "periodsOnChart": 1
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11qh8n81h_",
-                            "name": "Karan Singh"
-                          }
-                        ],
-                        "isVisible": true,
-                        "releaseDate": {
-                          "year": 2024,
-                          "month": 8,
-                          "day": 28
-                        },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoQCCAISsAEKHVJhbmdkYXIgS2UgQmhhdGFyIEJodW1paGFyIEppEnxodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vS0hFeExRdVNhbkFKZHNTU0lwNEtQenRrbEVLNFVDbGRSYkZfcDRUbTBGenNBc0Rvc0dDakItSjFZcDE2MlpXWmptbnJxSm5kRWYySjNnPXc5MDAtaDkwMC1wGgI0OSILS2FyYW4gU2luZ2gqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
-                      },
-                      {
-                        "id": "G:cxNO6TY-rrk",
-                        "name": "SEM NADA",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/4e-QFlW70z3NFYGiYWxVtJfVC69ucy8QqDmHyZF7g20Fk7k7anHxUPfMqnCxsUnCv4Bp_a3DpxZBJOG0=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "1x-uKH7fzI4",
-                        "chartEntryMetadata": {
-                          "currentPosition": 50,
-                          "periodsOnChart": 16
-                        },
-                        "artists": [
-                          {
-                            "kgMid": "/g/11k4j9r8m4",
-                            "name": "Ogryzek"
-                          },
-                          {
-                            "kgMid": "/g/11xh5t55_c",
-                            "name": "F!xmexed"
-                          },
-                          {
-                            "kgMid": "/g/11lz5tyg5t",
-                            "name": "LeoTHM"
-                          }
-                        ],
-                        "isVisible": true,
-                        "atvExternalVideoId": "ZeCd2qJ5TJE",
-                        "releaseDate": {
-                          "year": 2025,
-                          "month": 10,
-                          "day": 2
-                        },
-                        "songwriters": [
-                          "Sebastian Krystian Ogryzek",
-                          "Sebastian Krystian Ogryzek",
-                          "Madhav Varma",
-                          "Madhav Varma",
-                          "Leonardo Cipriano",
-                          "Leonardo Cipriano"
-                        ],
-                        "songProducers": [
-                          "Ogryzek",
-                          "F!xmexed",
-                          "LeoTHM"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIv8BCAISqwEKCFNFTSBOQURBEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vT1JRUENmZWF2MGR2SUJIVW55ZVFzYTVLNm1Wd3JRRWkxYWdHaU40MXpPSXlMODVKRXlmUVBmWHlzZnF1QWlFN3ZSNWR0ckRpV2lOUDdZM1A9dzkwMC1oOTAwLXAaAjUwIgdPZ3J5emVrIghGIXhtZXhlZCIGTGVvVEhNKgAaNwoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvEBCAISnQEKDUludGVybmV0IEdpcmwSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS96V1N0LWF6RGRMOUFVN1RxYVJkaTdhdDRzYWc2VzgwYmxpWDhSWjZFeC1jbk1JeGVKMGNTZzJtNktHTTRPYTlDLUtoblN0WHJxNDJoSGpvPXc5MDAtaDkwMC1wGgI1MCIHS0FUU0VZRSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       }
                     ],
                     "heroMetadata": {
-                      "title": "Dil Ne Tera Naam Liya 2.0",
-                      "subTitle": "Aman Yadav",
-                      "heroBannerImageUrl": "https://lh3.googleusercontent.com/dESR8ckyEcai53B70egRdcq2dkU-uK6VyeH48pii_E4Ecs4MDqO8xbcoy30He4v1Z49utoC14lJsST9Q"
+                      "title": "NO BATIDÃO (SLOWED)",
+                      "subTitle": "ZXKAI & slxughter",
+                      "heroBannerImageUrl": "https://lh3.googleusercontent.com/uW6yjg7LoIyB0hWEh-JsMsZt7MKUDFpNZGWxJVDfIhGPDcAML8Z5DuZCyLWc2KcJbJ5axmu0y4ywN7Mj"
                     },
                     "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                    "endDate": "2026-01-22"
+                    "endDate": "2026-01-23"
                   }
                 ]
               }
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjGuqSRmKSSAxWcNa0GHcmTCw8="
+        "trackingParams": "CAEQui8iEwiIus3F5qSSAxUexMIEHXUwDDo="
       }
     },
-    "trackingParams": "CAAQhGciEwjGuqSRmKSSAxWcNa0GHcmTCw8="
+    "trackingParams": "CAAQhGciEwiIus3F5qSSAxUexMIEHXUwDDo="
   }
 }
