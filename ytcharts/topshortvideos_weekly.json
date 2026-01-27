@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-01-27T12:42:21.065652+00:00",
+  "captured_at_utc": "2026-01-27T18:34:59.177582+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtONXYxbzNiUmJHRSij5eLLBjIKCgJVUxIEGgAgaw%3D%3D"
+      "visitorData": "CgtxMHRuMUNQQXRQMCjJiuTLBjIKCgJVUxIEGgAgMQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -31,16 +31,16 @@
                       "latestEndDate": "2026-01-22"
                     },
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-26"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-25"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -58,7 +58,7 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-25"
+                      "latestEndDate": "2026-01-26"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -83,7 +83,7 @@
                           }
                         ],
                         "isVisible": true,
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoECCAISrAEKGURpbCBOZSBUZXJhIE5hYW0gTGl5YSAyLjASfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS83ZDFCLUsyZUFVNTJETmxlZnExbG1yZFI4QnJnSlFINVhncU9oSU84Y21vaVFrR2FZZWxkTFVrQWotUGpWY2V0VFNhdE1RMERDQnpYTFdlXz13OTAwLWg5MDAtcBoBMSIKQW1hbiBZYWRhdioAGjgKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoECCAISrAEKGURpbCBOZSBUZXJhIE5hYW0gTGl5YSAyLjASfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9kRVNSOGNreUVjYWk1M0I3MGVnUmRjcTJka1UtdUs2VnllSDQ4cGlpX0U0RWNzNE1EcU84eGJjb3kzMEhlNHYxWjQ5dXRvQzE0bEpzU1Q5UT13OTAwLWg5MDAtcBoBMSIKQW1hbiBZYWRhdioAGjgKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
                         "id": "G:OGiH4B8lQzw",
@@ -778,13 +778,33 @@
                       },
                       {
                         "id": "G:GakKv5W4PtQ",
-                        "name": "Cry For Me (WA WA WA) (feat. Bubi)",
+                        "name": "Fighting for Me",
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/wCR66gU-pkPSPb7wnTPj2U6r-4we1qVW0gz-xVMRiCobw66Xvr1NkDmHsqACrKRKAsslBFkNnXUGJCqe=w180-h180-l90-rj",
-                              "width": 180,
+                              "url": "https://i.ytimg.com/vi/J7Xzgcu6vVk/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/J7Xzgcu6vVk/mqdefault.jpg",
+                              "width": 320,
                               "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/J7Xzgcu6vVk/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/J7Xzgcu6vVk/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/J7Xzgcu6vVk/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
                             }
                           ]
                         },
@@ -797,29 +817,17 @@
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11smbl7bfg",
-                            "name": "Ironmouse"
-                          },
-                          {
-                            "kgMid": "/g/11fk4qrvdh",
-                            "name": "shirobeats"
-                          },
-                          {
-                            "kgMid": "/g/11dfwrrtnj",
-                            "name": "HalaCG"
+                            "kgMid": "/g/11g23671_t",
+                            "name": "Riley Clemmons"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "tupuZFm3jo8",
                         "releaseDate": {
-                          "year": 2023,
-                          "month": 12,
-                          "day": 11
+                          "year": 2025,
+                          "month": 4,
+                          "day": 5
                         },
-                        "songwriters": [
-                          "HalaCG"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIp0CCAISyAEKIkNyeSBGb3IgTWUgKFdBIFdBIFdBKSAoZmVhdC4gQnViaSkSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9CbXFfUHlWaTEzNzRZQXdneFBLdWJwakQyU216VWVzWldhOHRDZF9ocDZxekNpZ2RDdXdMdXRETzctN1Nxd2E2RHA3Nms0U3Nza0NsVGhvPXc5MDAtaDkwMC1wGgIxNiIJSXJvbm1vdXNlIgpzaGlyb2JlYXRzIgZIYWxhQ0cqABo4ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvwBCAISpwEKD0ZpZ2h0aW5nIGZvciBNZRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3o4bjZrREV0aWhhdW03RHZqdERKREFWYlR1bFdyNW5keThGbUdZUW5HVTYxRGJBVmF3dGU4ZkQ5ZGRXeUVHMnVDMENKOEJzVjFEdDluaFdXPXc5MDAtaDkwMC1wGgIxNiIOUmlsZXkgQ2xlbW1vbnMqABo4ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhBKYW51YXJ5IDIyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:GyrF6K5FdIM",
@@ -1002,33 +1010,13 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/lOHVMmZ6n3o/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/lOHVMmZ6n3o/mqdefault.jpg",
-                              "width": 320,
+                              "url": "https://lh3.googleusercontent.com/_0qTfDGZ0HwNY1iFMm4CpIaCpotLRsjMirKLa0KYoJCTEsUrfFQQ5AlEgA-cJt5KD237alIE4iw1aB2Y=w180-h180-l90-rj",
+                              "width": 180,
                               "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/lOHVMmZ6n3o/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/lOHVMmZ6n3o/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/lOHVMmZ6n3o/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
                             }
                           ]
                         },
-                        "encryptedVideoId": "lOHVMmZ6n3o",
+                        "encryptedVideoId": "SslHscyqY1Y",
                         "chartEntryMetadata": {
                           "currentPosition": 21,
                           "previousPosition": 30,
@@ -1074,11 +1062,18 @@
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "KoGOONSG1_g",
                         "releaseDate": {
                           "year": 2026,
                           "month": 1,
                           "day": 2
                         },
+                        "songwriters": [
+                          "Anu Malik",
+                          "Mithoon",
+                          "Javed Akhtar",
+                          "Manoj Muntashir"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIucCCAISkgIKDkdoYXIgS2FiIEFhb2dlEnxodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vX2xkMGVmVkZBVXEtQlpfNURRYkJoXzVIRS1XOU5RSlhxUncyRTJwMlBaUWFnanRrS2t3LTNndWQxQWtCcURZSlFzWk5YUDQzbU85Rkt3PXc5MDAtaDkwMC1wGgIyMSIJQW51IE1hbGlrIgdNaXRob29uIgpTb251IE5pZ2FtIgxBcmlqaXQgU2luZ2giEFJvb3BrdW1hciBSYXRob2QiDVZpc2hhbCBNaXNocmEiDkRpbGppdCBEb3NhbmpoIgxKYXZlZCBBa2h0YXIiD01hbm9qIE11bnRhc2hpcioAGjgKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
@@ -2070,7 +2065,7 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/_43rvLXjSqvoTwLduj_yy6xAu7cIzO4rV_ISkFQKRqkaV5PQ5Dq037oK748Onx3O_apXCuBguTGufC0k=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/zakCc-BHLyeIn12ufuwZ4AxOjg0TX6HyyPq37xrIcBK2_LRmnfjGnVs4s4pSsn4f5kqQK_lC__tgP6AT=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
@@ -2096,7 +2091,7 @@
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "0IXFyKrkKlY",
+                        "atvExternalVideoId": "iXh8xC-qeeg",
                         "releaseDate": {
                           "year": 2025,
                           "month": 3,
@@ -2104,10 +2099,7 @@
                         },
                         "songwriters": [
                           "RD12",
-                          "RD12",
                           "Dj Funks",
-                          "Dj Funks",
-                          "DJ DYLANFK",
                           "DJ DYLANFK"
                         ],
                         "songProducers": [
@@ -2509,7 +2501,7 @@
                     "heroMetadata": {
                       "title": "Dil Ne Tera Naam Liya 2.0",
                       "subTitle": "Aman Yadav",
-                      "heroBannerImageUrl": "https://lh3.googleusercontent.com/7d1B-K2eAU52DNlefq1lmrdR8BrgJQH5XgqOhIO8cmoiQkGaYeldLUkAj-PjVcetTSatMQ0DCBzXLWe_"
+                      "heroBannerImageUrl": "https://lh3.googleusercontent.com/dESR8ckyEcai53B70egRdcq2dkU-uK6VyeH48pii_E4Ecs4MDqO8xbcoy30He4v1Z49utoC14lJsST9Q"
                     },
                     "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                     "endDate": "2026-01-22"
@@ -2519,9 +2511,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj1kr6e36uSAxX9FK0GHQ3DA1Y="
+        "trackingParams": "CAEQui8iEwiXtrqHrqySAxWrUl4DHXSaF4w="
       }
     },
-    "trackingParams": "CAAQhGciEwj1kr6e36uSAxX9FK0GHQ3DA1Y="
+    "trackingParams": "CAAQhGciEwiXtrqHrqySAxWrUl4DHXSaF4w="
   }
 }

@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-01-27T12:41:46.367158+00:00",
+  "captured_at_utc": "2026-01-27T18:34:25.461800+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs1VURTQS15U0FTTSiA5eLLBjIKCgJVUxIEGgAgJw%3D%3D"
+      "visitorData": "Cgt0cTFsaU9ERHZCbyioiuTLBjIKCgJVUxIEGgAgag%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -31,16 +31,16 @@
                       "latestEndDate": "2026-01-22"
                     },
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-26"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-25"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -58,7 +58,7 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-25"
+                      "latestEndDate": "2026-01-26"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -6854,9 +6854,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjAvPWN36uSAxUUM60GHfbpC4A="
+        "trackingParams": "CAEQui8iEwikmq73raySAxVsaxIBHbT5DVM="
       }
     },
-    "trackingParams": "CAAQhGciEwjAvPWN36uSAxUUM60GHfbpC4A="
+    "trackingParams": "CAAQhGciEwikmq73raySAxVsaxIBHbT5DVM="
   }
 }
