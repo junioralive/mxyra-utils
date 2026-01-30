@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-01-30T12:47:41.333331+00:00",
+  "captured_at_utc": "2026-01-30T18:37:57.564486+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs4WldEa1pCQ0hacyjj0PLLBjIKCgJVUxIEGgAgRg%3D%3D"
+      "visitorData": "CgtYTjlMdUw1ako3Zyj89PPLBjIKCgJVUxIEGgAgUQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,6 +25,12 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-29"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -37,25 +43,19 @@
                       "latestEndDate": "2026-01-22"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-28"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-28"
+                      "latestEndDate": "2026-01-29"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-22"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-22"
@@ -247,9 +247,9 @@
                         "isVisible": true,
                         "atvExternalVideoId": "L2Ky4xdhtAs",
                         "releaseDate": {
-                          "year": 2017,
-                          "month": 9,
-                          "day": 5
+                          "year": 2020,
+                          "month": 11,
+                          "day": 12
                         },
                         "songwriters": [
                           "Pascal Letoublon",
@@ -2534,9 +2534,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjwtrKDprOSAxVhgcIBHQPkDE8="
+        "trackingParams": "CAEQui8iEwjQxNuo9LOSAxUuN60GHWqsCIU="
       }
     },
-    "trackingParams": "CAAQhGciEwjwtrKDprOSAxVhgcIBHQPkDE8="
+    "trackingParams": "CAAQhGciEwjQxNuo9LOSAxUuN60GHWqsCIU="
   }
 }
