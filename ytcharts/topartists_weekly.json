@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topartists_weekly",
   "page_url": "https://charts.youtube.com/charts/TopArtists/global/weekly",
-  "captured_at_utc": "2026-02-01T12:42:04.841921+00:00",
+  "captured_at_utc": "2026-02-01T18:30:28.741477+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgtvck1LN2NRUmZzTSiTlP3LBjIKCgJVUxIEGgAgYw%3D%3D"
+      "visitorData": "Cgt2Q2d3WWF0bjVNdyi7t_7LBjIKCgJVUxIEGgAgJw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -639,7 +639,7 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/B--2D8cfNiU_qGs8fhQEOv_4afFOTUXzQYgHcpEOBDj8qJw2vbeM7kfq1tPeuzpyOEV88IaR3ERDqIA"
+                              "url": "https://lh3.googleusercontent.com/SILAdrFsWE9tKqGNVBeTBM4eT8PIqTDbr_lCSUVCGW61Nkr2kw9rOEP8pvOtz2aX16Y6P6SSpVujBg"
                             }
                           ]
                         },
@@ -652,7 +652,7 @@
                           "periodsOnChart": 490
                         },
                         "isVisible": true,
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItkBCAISjAEKBU96dW5hEn1odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vQi0tMkQ4Y2ZOaVVfcUdzOGZoUUVPdl80YWZGT1RVWHpRWWdIY3BFT0JEajhxSncydmJlTTdrZnExdFBldXpweU9FVjg4SWFSM0VSRHFJQT13OTAwLWg5MDAtcBoCMjkqABowChJXZWVrbHkgVG9wIEFydGlzdHMSBkdsb2JhbBoQSmFudWFyeSAyOSwgMjAyNjgBIhIKByNBNTRDRkYSByMwMDAwMDAoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItgBCAISiwEKBU96dW5hEnxodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vU0lMQWRyRnNXRTl0S3FHTlZCZVRCTTRlVDhQSXFURGJyX2xDU1VWQ0dXNjFOa3Iya3c5ck9FUDhwdk90ejJhWDE2WTZQNlNTcFZ1akJnPXc5MDAtaDkwMC1wGgIyOSoAGjAKEldlZWtseSBUb3AgQXJ0aXN0cxIGR2xvYmFsGhBKYW51YXJ5IDI5LCAyMDI2OAEiEgoHI0E1NENGRhIHIzAwMDAwMCgB"
                       },
                       {
                         "id": "/m/01wbl_r",
@@ -2221,21 +2221,27 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-31"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
+                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-29"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-30"
+                      "latestEndDate": "2026-01-31"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-01-30"
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-29"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -2244,15 +2250,9 @@
                       "latestEndDate": "2026-01-29"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-29"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-01-29"
                     }
                   ],
@@ -2262,9 +2262,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj9tLPAqLiSAxUJLK0GHefLCY4="
+        "trackingParams": "CAEQui8iEwi71ZSw9riSAxV7o8IBHbPvBR4="
       }
     },
-    "trackingParams": "CAAQhGciEwj9tLPAqLiSAxUJLK0GHefLCY4="
+    "trackingParams": "CAAQhGciEwi71ZSw9riSAxV7o8IBHbPvBR4="
   }
 }
