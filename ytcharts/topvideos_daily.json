@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-01-31T18:27:42.889050+00:00",
+  "captured_at_utc": "2026-02-01T02:01:28.064555+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtOalVNSlNHQlo2dyiVk_nLBjIKCgJVUxIEGgAgMA%3D%3D"
+      "visitorData": "CgtMYVprMVNjMTZvbyju5_rLBjIKCgJVUxIEGgAgGg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,40 +25,40 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-29"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-29"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-01-29"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-01-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-01-29"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-22"
+                      "latestEndDate": "2026-01-29"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-22"
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-01-29"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1710,7 +1710,7 @@
                       },
                       {
                         "id": "FWHcd8TH7dE",
-                        "title": "O'Romeo: Aashiqon Ki Colony | Shahid K, Disha P | Sajid N | Vishal B | Gulzar | Madhubanti | Javed A",
+                        "title": "Aashiqon Ki Colony",
                         "viewCount": "1253846",
                         "thumbnail": {
                           "thumbnails": [
@@ -1751,7 +1751,20 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "T-Series"
+                            "kgMid": "/m/05q9g1",
+                            "name": "Gulzar"
+                          },
+                          {
+                            "kgMid": "",
+                            "name": "Madhubanti Bagchi"
+                          },
+                          {
+                            "kgMid": "/m/04qr6d",
+                            "name": "Vishal Bhardwaj"
+                          },
+                          {
+                            "kgMid": "/m/03ntg1g",
+                            "name": "Javed Ali"
                           }
                         ],
                         "isVisible": true,
@@ -1764,7 +1777,7 @@
                           "Vishal Bhardwaj",
                           "Gulzar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIv0BCAISrAEKZE8nUm9tZW86IEFhc2hpcW9uIEtpIENvbG9ueSB8IFNoYWhpZCBLLCBEaXNoYSBQIHwgU2FqaWQgTiB8IFZpc2hhbCBCIHwgR3VsemFyIHwgTWFkaHViYW50aSB8IEphdmVkIEESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRldIY2Q4VEg3ZEUvbWF4cmVzZGVmYXVsdC5qcGcaAjI2IghULVNlcmllcyoAGjQKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoQSmFudWFyeSAyOSwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItgBCAIShwEKEkFhc2hpcW9uIEtpIENvbG9ueRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9GV0hjZDhUSDdkRS9tYXhyZXNkZWZhdWx0LmpwZxoCMjYiBkd1bHphciIRTWFkaHViYW50aSBCYWdjaGkiD1Zpc2hhbCBCaGFyZHdhaiIJSmF2ZWQgQWxpKgAaNAoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhBKYW51YXJ5IDI5LCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMCgB",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
                         "channelName": "T-Series"
                       },
@@ -6739,9 +6752,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjwsarys7aSAxWPURIBHaGKFbk="
+        "trackingParams": "CAEQui8iEwjzx6iombeSAxUuYBIBHZHUKFE="
       }
     },
-    "trackingParams": "CAAQhGciEwjwsarys7aSAxWPURIBHaGKFbk="
+    "trackingParams": "CAAQhGciEwjzx6iombeSAxUuYBIBHZHUKFE="
   }
 }
