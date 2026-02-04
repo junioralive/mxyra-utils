@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-02-04T12:53:15.527614+00:00",
+  "captured_at_utc": "2026-02-04T18:44:41.189584+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtBd0dGa3RtRW5hNCiygo3MBjIKCgJVUxIEGgAgag%3D%3D"
+      "visitorData": "CgsyZVpacGFILUZ1OCiPp47MBjIKCgJVUxIEGgAgPg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -28,19 +28,7 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-02"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-01-29"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-29"
+                      "latestEndDate": "2026-02-03"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -52,10 +40,22 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-02"
+                      "latestEndDate": "2026-02-03"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-01-29"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-29"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-29"
@@ -591,6 +591,36 @@
                       {
                         "id": "G:ca1i0pJtjII",
                         "name": "VOCE NA MIRA (Slowed)",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://i.ytimg.com/vi/B091oc37QeY/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/B091oc37QeY/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/B091oc37QeY/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/B091oc37QeY/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/B091oc37QeY/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "B091oc37QeY",
                         "chartEntryMetadata": {
                           "currentPosition": 11,
                           "previousPosition": 9,
@@ -604,6 +634,11 @@
                           }
                         ],
                         "isVisible": true,
+                        "releaseDate": {
+                          "year": 2026,
+                          "month": 1,
+                          "day": 13
+                        },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvoBCAISpQEKFVZPQ0UgTkEgTUlSQSAoU2xvd2VkKRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2RoZXJMVjVHNTlLNFo0eUhpaHBOdnhvWGQ5TjRSQXhJUFI0UmpMYXA3MkZTdlJnOUItUG1sZElaLUxJdDlYR1BPOHkzR2d5Qnh1LVB4bU5tPXc5MDAtaDkwMC1wGgIxMSIGUzNrcmFsKgAaOAoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyOSwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
                       },
                       {
@@ -795,7 +830,7 @@
                           },
                           {
                             "kgMid": "/m/01s60bf",
-                            "name": "Bhai Bhupinder Singh ji"
+                            "name": "Bhupinder Singh"
                           },
                           {
                             "kgMid": "/g/11b6g8bbq_",
@@ -809,7 +844,7 @@
                           "month": 5,
                           "day": 4
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIq0CCAIS2AEKGk1lcmEgUmFuZyBEZSBCYXNhbnRpIENob2xhEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vY29lc1Y0T1ZFVmt1YTNfd0pHLTJCVnZUYzk1eUhGOXNTMVc2bU9BdGw0LXZ2VGpRYjI1MEh5X25WbGZ2dWRtRXVnYjdfazA1dmhZOWFKbTQ9dzkwMC1oOTAwLXAaAjE2IgxVZGl0IE5hcmF5YW4iF0JoYWkgQmh1cGluZGVyIFNpbmdoIGppIg1WZWVyIFJhamluZGVyKgAaOAoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyOSwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqUCCAIS0AEKGk1lcmEgUmFuZyBEZSBCYXNhbnRpIENob2xhEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vY29lc1Y0T1ZFVmt1YTNfd0pHLTJCVnZUYzk1eUhGOXNTMVc2bU9BdGw0LXZ2VGpRYjI1MEh5X25WbGZ2dWRtRXVnYjdfazA1dmhZOWFKbTQ9dzkwMC1oOTAwLXAaAjE2IgxVZGl0IE5hcmF5YW4iD0JodXBpbmRlciBTaW5naCINVmVlciBSYWppbmRlcioAGjgKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjksIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
                         "id": "G:Om7Y6mnxYaU",
@@ -1642,7 +1677,7 @@
                       },
                       {
                         "id": "G:TqCIqK7LLoU",
-                        "name": "BORDER 2: #TheBravesOfTheSoil Tribute Trailer | Sunny Varun Diljit Ahan | Mithoon Sonu Manoj| 23 Jan",
+                        "name": "Mitti Ke Bete",
                         "thumbnail": {
                           "thumbnails": [
                             {
@@ -1652,19 +1687,23 @@
                             }
                           ]
                         },
-                        "encryptedVideoId": "qx6dGxCQD-M",
+                        "encryptedVideoId": "YQqJCk_BjNU",
                         "chartEntryMetadata": {
                           "currentPosition": 35,
                           "periodsOnChart": 1
                         },
                         "artists": [
                           {
+                            "kgMid": "/m/026_9c2",
+                            "name": "Mithoon"
+                          },
+                          {
                             "kgMid": "/m/03nd87",
                             "name": "Sonu Nigam"
                           },
                           {
-                            "kgMid": "/g/11h70hltzv",
-                            "name": "Sachet Parampara"
+                            "kgMid": "/g/11b6rch4nd",
+                            "name": "Manoj Muntashir"
                           }
                         ],
                         "isVisible": true,
@@ -1678,7 +1717,7 @@
                           "Mithoon",
                           "Manoj Muntashir"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIt4CCAISiQIKZEJPUkRFUiAyOiAjVGhlQnJhdmVzT2ZUaGVTb2lsIFRyaWJ1dGUgVHJhaWxlciB8IFN1bm55IFZhcnVuIERpbGppdCBBaGFuIHwgTWl0aG9vbiBTb251IE1hbm9qfCAyMyBKYW4SfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9pV0hfWFNJTzh5WnZJcXo4dnhrd0M5Qmp6R000Z2lBaFI2OVo2TFowdDhScDc5QVNORlZ3cHdIWldPeXlvOTRCX2pzWGw4SHRGdWVNZ01BPXc5MDAtaDkwMC1wGgIzNSIKU29udSBOaWdhbSIQU2FjaGV0IFBhcmFtcGFyYSoAGjgKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjksIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIo8CCAISugEKDU1pdHRpIEtlIEJldGUSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9TXzV0Q01RTjlsOGFvc0NpLXRyZWt1a05vT3NGNTVTUHBEb0t3OFlBZGxtMWUyQUZJRjJQS3FFSjVSS2dPeGhIN1Y4dk9tanlDOENJZkxZPXc5MDAtaDkwMC1wGgIzNSIHTWl0aG9vbiIKU29udSBOaWdhbSIPTWFub2ogTXVudGFzaGlyKgAaOAoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyOSwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
                       },
                       {
                         "id": "G:shVIfTlcpqQ",
@@ -2359,9 +2398,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiEyLPM8L-SAxUJLK0GHQEqOTg="
+        "trackingParams": "CAEQui8iEwiByemSv8CSAxXm2j8EHRW9BoE="
       }
     },
-    "trackingParams": "CAAQhGciEwiEyLPM8L-SAxUJLK0GHQEqOTg="
+    "trackingParams": "CAAQhGciEwiByemSv8CSAxXm2j8EHRW9BoE="
   }
 }
