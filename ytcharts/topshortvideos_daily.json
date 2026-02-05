@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-02-04T18:44:29.986846+00:00",
+  "captured_at_utc": "2026-02-05T01:49:44.372654+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtBVUU2dXhlSFpMOCiEp47MBjIKCgJVUxIEGgAgSA%3D%3D"
+      "visitorData": "CgtMOWgyZmg5SEg2ayiv7o_MBjIKCgJVUxIEGgAgEg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,13 +25,19 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-29"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-03"
                     },
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-29"
@@ -41,12 +47,6 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-03"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-01-29"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -55,9 +55,9 @@
                       "latestEndDate": "2026-01-29"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-01-29"
                     }
                   ],
@@ -1879,7 +1879,7 @@
                       },
                       {
                         "id": "G:66A49X_VB_w",
-                        "name": "Cry for Me WA WA WA - Live Version (feat. Bubi)",
+                        "name": "SAD FUNK (feat. Bubi)",
                         "thumbnail": {
                           "thumbnails": [
                             {
@@ -1928,7 +1928,7 @@
                           "month": 12,
                           "day": 28
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpUCCAISwQEKL0NyeSBmb3IgTWUgV0EgV0EgV0EgLSBMaXZlIFZlcnNpb24gKGZlYXQuIEJ1YmkpEn1odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vQm1xX1B5VmkxMzc0WUF3Z3hQS3VicGpEMlNtelVlc1pXYTh0Q2RfaHA2cXpDaWdkQ3V3THV0RE83LTdTcXdhNkRwNzZrNFNzc2tDbFRobz13OTAwLWg5MDAtcBoCMzkiCUlyb25tb3VzZSoAGjcKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQRmVicnVhcnkgMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvsBCAISpwEKFVNBRCBGVU5LIChmZWF0LiBCdWJpKRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0JtcV9QeVZpMTM3NFlBd2d4UEt1YnBqRDJTbXpVZXNaV2E4dENkX2hwNnF6Q2lnZEN1d0x1dERPNy03U3F3YTZEcDc2azRTc3NrQ2xUaG89dzkwMC1oOTAwLXAaAjM5IglJcm9ubW91c2UqABo3ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEZlYnJ1YXJ5IDMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
                         "id": "G:PDSMmF5mGbk",
@@ -2517,9 +2517,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiHqsONv8CSAxX52z8EHf-bF0U="
+        "trackingParams": "CAEQui8iEwj4sNiTnsGSAxU-fRIBHaosGeM="
       }
     },
-    "trackingParams": "CAAQhGciEwiHqsONv8CSAxX52z8EHf-bF0U="
+    "trackingParams": "CAAQhGciEwj4sNiTnsGSAxU-fRIBHaosGeM="
   }
 }

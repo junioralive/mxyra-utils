@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-02-04T18:43:56.055724+00:00",
+  "captured_at_utc": "2026-02-05T01:49:10.399277+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtHcXBIUVJrRlBxWSjipo7MBjIKCgJVUxIEGgAgQQ%3D%3D"
+      "visitorData": "Cgt2cGs3QjFBR0FVcyiN7o_MBjIKCgJVUxIEGgAgVw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,13 +25,19 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-29"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-03"
                     },
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-29"
@@ -41,12 +47,6 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-03"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-01-29"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -55,9 +55,9 @@
                       "latestEndDate": "2026-01-29"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-01-29"
                     }
                   ],
@@ -6448,7 +6448,7 @@
                       },
                       {
                         "id": "71FnKIOoZn8",
-                        "title": "Let Me Love You",
+                        "title": "Dj Snake & Justin Bieber - Let Me Love You (Traducido al Español + Lyrics)",
                         "viewCount": "685120",
                         "thumbnail": {
                           "thumbnails": [
@@ -6487,8 +6487,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/m/01w65jh",
-                            "name": "DJ Snake"
+                            "name": "Infinite Letters"
                           }
                         ],
                         "isVisible": true,
@@ -6515,7 +6514,7 @@
                           "Andrew Watt",
                           "Louis Bell"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqcBCAISVwoPTGV0IE1lIExvdmUgWW91EjRodHRwczovL2kueXRpbWcuY29tL3ZpLzcxRm5LSU9vWm44L21heHJlc2RlZmF1bHQuanBnGgI5NyIIREogU25ha2UqABo0ChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEEZlYnJ1YXJ5IDMsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuwBCAISmwEKS0RqIFNuYWtlICYgSnVzdGluIEJpZWJlciAtIExldCBNZSBMb3ZlIFlvdSAoVHJhZHVjaWRvIGFsIEVzcGHDsW9sICsgTHlyaWNzKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS83MUZuS0lPb1puOC9tYXhyZXNkZWZhdWx0LmpwZxoCOTciEEluZmluaXRlIExldHRlcnMqABo0ChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEEZlYnJ1YXJ5IDMsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UC32qXzgQ0huNoKmIQVMdW4Q",
                         "channelName": "Infinite Letters"
                       },
@@ -6751,9 +6750,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjez6b9vsCSAxUC7D8EHfY5HHI="
+        "trackingParams": "CAEQui8iEwjdjr-DnsGSAxXHuMIBHaslOII="
       }
     },
-    "trackingParams": "CAAQhGciEwjez6b9vsCSAxUC7D8EHfY5HHI="
+    "trackingParams": "CAAQhGciEwjdjr-DnsGSAxXHuMIBHaslOII="
   }
 }
