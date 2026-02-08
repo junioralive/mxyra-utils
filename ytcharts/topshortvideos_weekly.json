@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-02-07T18:31:16.345532+00:00",
+  "captured_at_utc": "2026-02-08T02:12:35.861466+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtPeHVzSmxUc0JCQSjriZ7MBjIKCgJVUxIEGgAgDA%3D%3D"
+      "visitorData": "Cgt6VG9zM0pfUldoMCiK4p_MBjIKCgJVUxIEGgAgWg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -31,7 +31,13 @@
                       "latestEndDate": "2026-01-29"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-01-29"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-06"
@@ -43,19 +49,13 @@
                       "latestEndDate": "2026-01-29"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-01-29"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-05"
+                      "latestEndDate": "2026-02-06"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-01-29"
@@ -817,7 +817,7 @@
                           },
                           {
                             "kgMid": "/m/01s60bf",
-                            "name": "Bhai Bhupinder Singh ji"
+                            "name": "Bhupinder Singh"
                           },
                           {
                             "kgMid": "/g/11b6g8bbq_",
@@ -831,7 +831,7 @@
                           "month": 5,
                           "day": 4
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIq0CCAIS2AEKGk1lcmEgUmFuZyBEZSBCYXNhbnRpIENob2xhEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vY29lc1Y0T1ZFVmt1YTNfd0pHLTJCVnZUYzk1eUhGOXNTMVc2bU9BdGw0LXZ2VGpRYjI1MEh5X25WbGZ2dWRtRXVnYjdfazA1dmhZOWFKbTQ9dzkwMC1oOTAwLXAaAjE2IgxVZGl0IE5hcmF5YW4iF0JoYWkgQmh1cGluZGVyIFNpbmdoIGppIg1WZWVyIFJhamluZGVyKgAaOAoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoQSmFudWFyeSAyOSwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqUCCAIS0AEKGk1lcmEgUmFuZyBEZSBCYXNhbnRpIENob2xhEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vY29lc1Y0T1ZFVmt1YTNfd0pHLTJCVnZUYzk1eUhGOXNTMVc2bU9BdGw0LXZ2VGpRYjI1MEh5X25WbGZ2dWRtRXVnYjdfazA1dmhZOWFKbTQ9dzkwMC1oOTAwLXAaAjE2IgxVZGl0IE5hcmF5YW4iD0JodXBpbmRlciBTaW5naCINVmVlciBSYWppbmRlcioAGjgKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEEphbnVhcnkgMjksIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
                         "id": "G:Om7Y6mnxYaU",
@@ -2385,9 +2385,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj57p7fgciSAxWzrsIBHWfGCL4="
+        "trackingParams": "CAEQui8iEwi8o-7t6MiSAxXLAq0GHb3NGug="
       }
     },
-    "trackingParams": "CAAQhGciEwj57p7fgciSAxWzrsIBHWfGCL4="
+    "trackingParams": "CAAQhGciEwi8o-7t6MiSAxXLAq0GHb3NGug="
   }
 }
