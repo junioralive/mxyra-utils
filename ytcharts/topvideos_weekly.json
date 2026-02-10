@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-02-09T13:02:06.460010+00:00",
+  "captured_at_utc": "2026-02-10T05:49:35.783434+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs3bFhBMFZNZnFqWSjFtafMBjIKCgJVUxIEGgAgaA%3D%3D"
+      "visitorData": "Cgs0bTh6SzFKUUNaVSjmjavMBjIKCgJVUxIEGgAgLg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,10 +25,16 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-05"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-07"
+                      "latestEndDate": "2026-02-08"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -37,28 +43,22 @@
                       "latestEndDate": "2026-02-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-05"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-07"
-                    },
-                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-05"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-02-08"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -2391,69 +2391,16 @@
                         "channelName": "Saregama Music"
                       },
                       {
-                        "id": "6mFI1ykxAXg",
-                        "title": "Papaoutai",
                         "viewCount": "6120566",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://i.ytimg.com/vi/6mFI1ykxAXg/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/6mFI1ykxAXg/mqdefault.jpg",
-                              "width": 320,
-                              "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/6mFI1ykxAXg/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/6mFI1ykxAXg/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/6mFI1ykxAXg/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
-                            }
-                          ]
-                        },
-                        "videoDuration": 274,
                         "chartEntryMetadata": {
                           "currentPosition": 34,
                           "previousPosition": 60,
                           "percentViewsChange": 0.18829583,
                           "periodsOnChart": 2
                         },
-                        "isAvailable": true,
-                        "artists": [
-                          {
-                            "kgMid": "/g/11vz48l13w",
-                            "name": "Mahmud Bin Asraf"
-                          }
-                        ],
+                        "isAvailable": false,
                         "isVisible": true,
-                        "releaseDate": {
-                          "year": 2026,
-                          "month": 1,
-                          "day": 20
-                        },
-                        "songwriters": [
-                          "Paul Van Haver",
-                          "Paul Van Haver",
-                          "Mandjeku Lengo",
-                          "Mandjeku Lengo",
-                          "Aron Cabernet Ottignon",
-                          "Aron Cabernet Ottignon"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqoBCAISWQoJUGFwYW91dGFpEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzZtRkkxeWt4QVhnL21heHJlc2RlZmF1bHQuanBnGgIzNCIQTWFobXVkIEJpbiBBc3JhZioAGjUKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEEZlYnJ1YXJ5IDUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
-                        "externalChannelId": "UCBHpKSBIuK0grzOV4JxPHeQ",
-                        "channelName": "MahmudBinAsrafVEVO"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIlsIAhIKCgASABoCMzQqABo1ChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhBGZWJydWFyeSA1LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB"
                       },
                       {
                         "id": "XFkzRNyygfk",
@@ -6897,9 +6844,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjctprzu8ySAxWVq8IBHaWEFjo="
+        "trackingParams": "CAEQui8iEwio79iLnc6SAxV92MIEHW_lEn8="
       }
     },
-    "trackingParams": "CAAQhGciEwjctprzu8ySAxWVq8IBHaWEFjo="
+    "trackingParams": "CAAQhGciEwio79iLnc6SAxV92MIEHW_lEn8="
   }
 }
