@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-02-12T13:00:26.146722+00:00",
+  "captured_at_utc": "2026-02-12T18:59:04.949116+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtQenlLMi03LThqcyjgnbfMBjIKCgJVUxIEGgAgOA%3D%3D"
+      "visitorData": "CgthZ3ZZamVwMkxOTSjvxbjMBjIKCgJVUxIEGgAgNw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,10 +25,10 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-02-05"
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-02-10"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -37,10 +37,10 @@
                       "latestEndDate": "2026-02-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-10"
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-05"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -49,16 +49,16 @@
                       "latestEndDate": "2026-02-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-05"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-10"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-02-05"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -283,8 +283,11 @@
                           "day": 16
                         },
                         "songwriters": [
-                          "Devv Sadaana",
-                          "Kunaal Vermaa"
+                          "Chandan Kumar Singh",
+                          "Chandan Kumar Singh"
+                        ],
+                        "songProducers": [
+                          "Chandan Kumar Singh"
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIr8BCAISbgoTRGlsIExhZ2FuYSBNYW5hIFRoYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS81NUJTOFFPNUM5by9tYXhyZXNkZWZhdWx0LmpwZxoBMyIMS3Jpc2ggTW9uZGFsIg5LaXNob3JlIE1vbmRhbCoAGjUKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEEZlYnJ1YXJ5IDUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UCHHIPcqVZ5oOMoFK7qdKufQ",
@@ -560,7 +563,8 @@
                           "Carolzinha",
                           "Shylton",
                           "Cantini",
-                          "Bella Angel"
+                          "Bella Angel",
+                          "Rockwell"
                         ],
                         "songProducers": [
                           "PEDRO SAMPAIO",
@@ -6104,20 +6108,20 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/m/05q9g1",
-                            "name": "Gulzar"
-                          },
-                          {
-                            "kgMid": "/m/04qr6d",
-                            "name": "Vishal Bhardwaj"
-                          },
-                          {
                             "kgMid": "/g/11bxgnpptm",
                             "name": "Madhubanti Bagchi"
                           },
                           {
                             "kgMid": "/m/03ntg1g",
                             "name": "Javed Ali"
+                          },
+                          {
+                            "kgMid": "/m/04qr6d",
+                            "name": "Vishal Bhardwaj"
+                          },
+                          {
+                            "kgMid": "/m/05q9g1",
+                            "name": "Gulzar"
                           }
                         ],
                         "isVisible": true,
@@ -6130,7 +6134,7 @@
                           "Vishal Bhardwaj",
                           "Gulzar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItkBCAIShwEKEkFhc2hpcW9uIEtpIENvbG9ueRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9GV0hjZDhUSDdkRS9tYXhyZXNkZWZhdWx0LmpwZxoCOTAiBkd1bHphciIPVmlzaGFsIEJoYXJkd2FqIhFNYWRodWJhbnRpIEJhZ2NoaSIJSmF2ZWQgQWxpKgAaNQoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoQRmVicnVhcnkgNSwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItkBCAIShwEKEkFhc2hpcW9uIEtpIENvbG9ueRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9GV0hjZDhUSDdkRS9tYXhyZXNkZWZhdWx0LmpwZxoCOTAiEU1hZGh1YmFudGkgQmFnY2hpIglKYXZlZCBBbGkiD1Zpc2hhbCBCaGFyZHdhaiIGR3VsemFyKgAaNQoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoQRmVicnVhcnkgNSwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
                         "channelName": "T-Series"
                       },
@@ -6833,9 +6837,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj24siPgdSSAxUhAq0GHTSMKe4="
+        "trackingParams": "CAEQui8iEwjMo8Ok0dSSAxUCO7MAHenfPCE="
       }
     },
-    "trackingParams": "CAAQhGciEwj24siPgdSSAxUhAq0GHTSMKe4="
+    "trackingParams": "CAAQhGciEwjMo8Ok0dSSAxUCO7MAHenfPCE="
   }
 }
