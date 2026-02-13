@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-02-13T12:52:59.515973+00:00",
+  "captured_at_utc": "2026-02-13T18:43:14.549628+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtZWHd5M3ZZd0tMTSiivbzMBjIKCgJVUxIEGgAgOQ%3D%3D"
+      "visitorData": "CgtjcXctdzJoa2N1TSi54b3MBjIKCgJVUxIEGgAgRA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,6 +25,18 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-05"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-02-12"
+                    },
+                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
@@ -35,18 +47,6 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-11"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-11"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-05"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -1329,13 +1329,33 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/WA30Yx-gxEXMnZ_qQHbsSh0dn0rHaKbyQrv3GVPyqwXZe1uis9CJLz7uY4WzoF7XL1oG9-tqmMX2N28=w180-h180-l90-rj",
-                              "width": 180,
+                              "url": "https://i.ytimg.com/vi/hNU55KK4w1o/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/hNU55KK4w1o/mqdefault.jpg",
+                              "width": 320,
                               "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/hNU55KK4w1o/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/hNU55KK4w1o/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/hNU55KK4w1o/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
                             }
                           ]
                         },
-                        "encryptedVideoId": "s5geihsSVM0",
+                        "encryptedVideoId": "hNU55KK4w1o",
                         "chartEntryMetadata": {
                           "currentPosition": 27,
                           "previousPosition": 35,
@@ -1346,22 +1366,19 @@
                           {
                             "kgMid": "/m/03d6_yq",
                             "name": "Anand Raj Anand"
+                          },
+                          {
+                            "kgMid": "/m/0w1b97j",
+                            "name": "Kalpana"
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "v-ZcZJspDsM",
                         "releaseDate": {
                           "year": 2007,
                           "month": 11,
                           "day": 21
                         },
-                        "songwriters": [
-                          "Anand Raj Anand"
-                        ],
-                        "songProducers": [
-                          "Anand Raj Anand"
-                        ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvwBCAISpwEKDlVjaGEgTGFtYmEgS2FkEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vMU0ybUtmWTJ4eXY1c3NnYjF0dzc3RnQ5eU1MS0djN3FRalBwVEI5OFg0T2d4dUd5OHkwMnFhblN2T2NmLWV2OFdDM0JmMkdpRTZwU1JvMWM9dzkwMC1oOTAwLXAaAjI3Ig9BbmFuZCBSYWogQW5hbmQqABo4ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDExLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoUCCAISsAEKDlVjaGEgTGFtYmEgS2FkEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vMU0ybUtmWTJ4eXY1c3NnYjF0dzc3RnQ5eU1MS0djN3FRalBwVEI5OFg0T2d4dUd5OHkwMnFhblN2T2NmLWV2OFdDM0JmMkdpRTZwU1JvMWM9dzkwMC1oOTAwLXAaAjI3Ig9BbmFuZCBSYWogQW5hbmQiB0thbHBhbmEqABo4ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDExLCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMCgB"
                       },
                       {
                         "id": "G:_Lp-tH1Epw8",
@@ -2355,33 +2372,13 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/YIYBhDeQfT0/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/YIYBhDeQfT0/mqdefault.jpg",
-                              "width": 320,
+                              "url": "https://lh3.googleusercontent.com/gH1tU-FSDevUViOhHAglMNsCeIRxKw9VEhahVj7QnPVrMCurilkOLW9_RA_DVwh7AG-pzq6UO77Urbal=w180-h180-l90-rj",
+                              "width": 180,
                               "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/YIYBhDeQfT0/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/YIYBhDeQfT0/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/YIYBhDeQfT0/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
                             }
                           ]
                         },
-                        "encryptedVideoId": "YIYBhDeQfT0",
+                        "encryptedVideoId": "heLe1u_MMpw",
                         "chartEntryMetadata": {
                           "currentPosition": 49,
                           "periodsOnChart": 3
@@ -2393,11 +2390,19 @@
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "YIYBhDeQfT0",
                         "releaseDate": {
                           "year": 2025,
                           "month": 9,
                           "day": 18
                         },
+                        "songwriters": [
+                          "Jose Murciano",
+                          "Jose Murciano"
+                        ],
+                        "songProducers": [
+                          "DJ Asul"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuwBCAISlwEKCE1BVEFET1JBEnxodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vd0MzdGRYclZPXzVLNnBXN2NCb3NiNS1iSm5JQ1BNaU92NFVZMzI1U2czYVpwWFEtS0VGcmNLOV9WeVFwRkFWSVJSYUNINmJjbWlTbEtRPXc5MDAtaDkwMC1wGgI0OSIHREogQXN1bCoAGjgKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoRRmVicnVhcnkgMTEsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
@@ -2456,9 +2461,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiB36upwdaSAxWRxMIEHSe4M50="
+        "trackingParams": "CAEQui8iEwjevovOj9eSAxVlsMIBHTSDMls="
       }
     },
-    "trackingParams": "CAAQhGciEwiB36upwdaSAxWRxMIEHSe4M50="
+    "trackingParams": "CAAQhGciEwjevovOj9eSAxVlsMIBHTSDMls="
   }
 }
