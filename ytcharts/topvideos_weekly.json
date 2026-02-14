@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-02-13T18:42:52.039116+00:00",
+  "captured_at_utc": "2026-02-14T01:47:50.407162+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtTOE1FV3ZZeU43OCii4b3MBjIKCgJVUxIEGgAgSg%3D%3D"
+      "visitorData": "CgthM1h3ZGVBVDh4RSi-qL_MBjIKCgJVUxIEGgAgEA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,9 +25,9 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-02-05"
                     },
                     {
@@ -38,15 +38,15 @@
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-02-05"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-11"
+                      "latestEndDate": "2026-02-12"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-05"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -2077,6 +2077,18 @@
                           "month": 1,
                           "day": 9
                         },
+                        "songwriters": [
+                          "Dave",
+                          "Tems",
+                          "Jo Caleb",
+                          "Kyle Evans",
+                          "Jonny Leslie"
+                        ],
+                        "songProducers": [
+                          "Jo Caleb",
+                          "Kyle Evans",
+                          "Jonny Leslie"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIp4BCAISTQoJUmFpbmRhbmNlEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1NPSnBFMUtNVWJvL21heHJlc2RlZmF1bHQuanBnGgIyOSIERGF2ZSoAGjUKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEEZlYnJ1YXJ5IDUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UC5-cg5RahETrjGu-r8zjYCQ",
                         "channelName": "Santan Dave"
@@ -6822,9 +6834,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiy1avDj9eSAxWVc14DHSfdBXI="
+        "trackingParams": "CAEQui8iEwjxnPTB7teSAxWp4T8EHZLyMJM="
       }
     },
-    "trackingParams": "CAAQhGciEwiy1avDj9eSAxWVc14DHSfdBXI="
+    "trackingParams": "CAAQhGciEwjxnPTB7teSAxWp4T8EHZLyMJM="
   }
 }
