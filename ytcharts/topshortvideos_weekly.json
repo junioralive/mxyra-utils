@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-02-15T12:43:07.742421+00:00",
+  "captured_at_utc": "2026-02-15T18:31:58.296060+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtHOS14c3kxdWZBOCjS_sbMBjIKCgJVUxIEGgAgOQ%3D%3D"
+      "visitorData": "CgsxUjNuZ2gtMWJWcyiUosjMBjIKCgJVUxIEGgAgXA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -26,8 +26,26 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-02-14"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-12"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-12"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-02-12"
                     },
                     {
@@ -37,28 +55,10 @@
                       "latestEndDate": "2026-02-12"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-13"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-13"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-02-12"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-12"
+                      "latestEndDate": "2026-02-14"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1412,7 +1412,7 @@
                           "month": 11,
                           "day": 8
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvABCAISmgEKB01hbmFzaGESfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS8zU09YV0g4bElwNlIyd1U4bzZTTkRRcS0tTWgzTU0zUzFuMERIVDdvSXdfQUF0VnR1bUFJQVUxeEpWTFJUdDRqU3lIWWdEVHBqblU1Rmh4Yz13OTAwLWg5MDAtcBoCMjgiCUFzaHJldmVhbCoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIu8BCAISmQEKB01hbmFzaGESfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9GUEpOdEdiQVFkRk50S2FEMk9XYnhNcE5aa2huc1FOcHNUc2lWLW1RdVRJc05YTXFja0pISDBURXdycy1ISDFJVHFzWUlNTk5lREZRbk1jPXc5MDAtaDkwMC1wGgIyOCIJQXNocmV2ZWFsKgAaOQoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoRRmVicnVhcnkgMTIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
                         "id": "G:shVIfTlcpqQ",
@@ -1525,7 +1525,8 @@
                         },
                         "artists": [
                           {
-                            "name": "VØJ, TRVNSPORTER & Godmode"
+                            "kgMid": "/g/11ftxnjb21",
+                            "name": "VØJ"
                           },
                           {
                             "kgMid": "/g/11g1yf5v2b",
@@ -1543,7 +1544,7 @@
                           "VØJ",
                           "Narvent"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpECCAISuwEKDU1lbW9yeSBSZWJvb3QSfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9GU0tmZUthWDdlX19sX3lPNjZpMVc0VFh0VDV6RUVfcUZKaHVqS2U4QTd5RlFxVXhrSTluQXpWdVRLUDlycFNzQ0UyVmZoR0RweDNDWkMwdz13OTAwLWg5MDAtcBoCMzEiG1bDmEosIFRSVk5TUE9SVEVSICYgR29kbW9kZSIHTmFydmVudCoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvkBCAISowEKDU1lbW9yeSBSZWJvb3QSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9paTdiRVNqbVFRMi1zckZIOWNmbU5DRldMUkd2NDdOWi1HMS1nOXM5U0hGb1UyTGEzcnRjT0l2S0pRSlJ4UXZfZDdkTDBqdk1RMl91RW9nPXc5MDAtaDkwMC1wGgIzMSIEVsOYSiIHTmFydmVudCoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:QEr4N89csiY",
@@ -2421,9 +2422,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjf3c7swtuSAxWI7j8EHR3qBEs="
+        "trackingParams": "CAEQui8iEwjuhovpkNySAxU0uMIBHTsiFtg="
       }
     },
-    "trackingParams": "CAAQhGciEwjf3c7swtuSAxWI7j8EHR3qBEs="
+    "trackingParams": "CAAQhGciEwjuhovpkNySAxU0uMIBHTsiFtg="
   }
 }
