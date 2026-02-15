@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-02-14T18:30:21.864521+00:00",
+  "captured_at_utc": "2026-02-15T01:57:51.232893+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtSWXNKakNLOWg1QSi0_sLMBjIKCgJVUxIEGgAgZQ%3D%3D"
+      "visitorData": "CgtKN0Vuc0hNMTVxWSiV0MTMBjIKCgJVUxIEGgAgHQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -28,13 +28,19 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-05"
+                      "latestEndDate": "2026-02-12"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-05"
+                      "latestEndDate": "2026-02-12"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-02-13"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -46,19 +52,13 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-02-05"
+                      "latestEndDate": "2026-02-12"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-05"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-13"
+                      "latestEndDate": "2026-02-12"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -799,7 +799,7 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/2gp3UlcF2oVgiBFkAa4tBRKH64pY2lOIG98QCAAlUM76Nfk0RLkqfCkV98KArmIXZskiThCOq5lS2k4=w180-h180-l90-rj",
+                              "url": "https://lh3.googleusercontent.com/6KJnPDT7Um2CF2DCtIec_xnt76KdCQDPvP5Kk0qPMDIJ-nLZWnSfE1sBQayXUjZKSt15L7c_KsjhdIVY=w180-h180-l90-rj",
                               "width": 180,
                               "height": 180
                             }
@@ -819,18 +819,12 @@
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "V3cN7MX2qnI",
+                        "atvExternalVideoId": "-Sl2V-Po0_8",
                         "releaseDate": {
                           "year": 2024,
                           "month": 5,
                           "day": 30
                         },
-                        "songwriters": [
-                          "Hussam Assim"
-                        ],
-                        "songProducers": [
-                          "DJ Outlaw"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvIBCAISnQEKCNmB2LXZhNipEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vZkNJTWFLLU9LY24tYkZ1VUg4NDVjcnVucE1GN2pEb0tSemNHWmgxMDlteE9OeG05aWFWU2VnRGxod2hqTkl2dkdJWlMyVFBvZTFjdURWYUs9dzkwMC1oOTAwLXAaAjE2IgtGbGlwcGVyYWNoaSoAGjgKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoRRmVicnVhcnkgMTMsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwKAE"
                       },
                       {
@@ -2478,9 +2472,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjf26_MztmSAxXDEa0GHaLOCwU="
+        "trackingParams": "CAEQui8iEwihvpPPstqSAxVMQxIBHbmRCY4="
       }
     },
-    "trackingParams": "CAAQhGciEwjf26_MztmSAxXDEa0GHaLOCwU="
+    "trackingParams": "CAAQhGciEwihvpPPstqSAxVMQxIBHbmRCY4="
   }
 }

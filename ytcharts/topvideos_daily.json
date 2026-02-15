@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-02-14T18:29:47.966815+00:00",
+  "captured_at_utc": "2026-02-15T01:57:17.232866+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtiRm1XdnVGbTRURSiS_sLMBjIKCgJVUxIEGgAgTw%3D%3D"
+      "visitorData": "CgtFbjdWQU1oa0syZyjzz8TMBjIKCgJVUxIEGgAgLQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -28,13 +28,19 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-05"
+                      "latestEndDate": "2026-02-12"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-05"
+                      "latestEndDate": "2026-02-12"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-02-13"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -46,19 +52,13 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-02-05"
+                      "latestEndDate": "2026-02-12"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-05"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-13"
+                      "latestEndDate": "2026-02-12"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -206,6 +206,21 @@
                           "month": 6,
                           "day": 23
                         },
+                        "songwriters": [
+                          "EJAE",
+                          "Mark Sonnenblick",
+                          "Joong Gyu Kwak",
+                          "Yu Han Lee",
+                          "Hee Dong Nam",
+                          "Jeong Hoon Seo",
+                          "Park Hong Jun"
+                        ],
+                        "songProducers": [
+                          "IDO",
+                          "24",
+                          "TEDDY",
+                          "Ian Eisendrath"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItMBCAISgQEKBkdvbGRlbhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS95ZWJOSUhLQUM0QS9tYXhyZXNkZWZhdWx0LmpwZxoBMiIHSFVOVFIvWCIERUpBRSILQVVEUkVZIE5VTkEiB1JFSSBBTUkiF0tQb3AgRGVtb24gSHVudGVycyBDYXN0KgAaNQoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhFGZWJydWFyeSAxMywgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
                         "externalChannelId": "UCnLuLSV-Oi0ctqjxGgxFlmg",
                         "channelName": "Sony Pictures Animation"
@@ -6830,9 +6845,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjw05i8ztmSAxWRHq0GHQE8BWo="
+        "trackingParams": "CAEQui8iEwjY-vW-stqSAxVHsMIBHc1kAyY="
       }
     },
-    "trackingParams": "CAAQhGciEwjw05i8ztmSAxWRHq0GHQE8BWo="
+    "trackingParams": "CAAQhGciEwjY-vW-stqSAxVHsMIBHc1kAyY="
   }
 }
