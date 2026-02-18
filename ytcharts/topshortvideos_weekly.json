@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-02-18T12:57:53.553907+00:00",
+  "captured_at_utc": "2026-02-18T18:50:41.670121+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtpQmprcGFMNnNQayjI7tbMBjIKCgJVUxIEGgAgRg%3D%3D"
+      "visitorData": "Cgt1Tk10bi1tbkhwdyj4k9jMBjIKCgJVUxIEGgAgSg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,10 +25,16 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-02-12"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-16"
+                      "latestEndDate": "2026-02-17"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -37,25 +43,19 @@
                       "latestEndDate": "2026-02-12"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
+                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-12"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-16"
+                      "latestEndDate": "2026-02-17"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-12"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-12"
@@ -181,6 +181,14 @@
                           {
                             "kgMid": "/g/11smbl7bfg",
                             "name": "Ironmouse"
+                          },
+                          {
+                            "kgMid": "/g/11fk4qrvdh",
+                            "name": "shirobeats"
+                          },
+                          {
+                            "kgMid": "/g/11dfwrrtnj",
+                            "name": "HalaCG"
                           }
                         ],
                         "isVisible": true,
@@ -193,7 +201,7 @@
                         "songwriters": [
                           "HalaCG"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIokCCAISswEKIkNyeSBGb3IgTWUgKFdBIFdBIFdBKSAoZmVhdC4gQnViaSkSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9CbXFfUHlWaTEzNzRZQXdneFBLdWJwakQyU216VWVzWldhOHRDZF9ocDZxekNpZ2RDdXdMdXRETzctN1Nxd2E2RHA3Nms0U3Nza0NsVGhvPXc5MDAtaDkwMC1wGgEzIglJcm9ubW91c2UqABo5ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhFGZWJydWFyeSAxMiwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIp0CCAISxwEKIkNyeSBGb3IgTWUgKFdBIFdBIFdBKSAoZmVhdC4gQnViaSkSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9CbXFfUHlWaTEzNzRZQXdneFBLdWJwakQyU216VWVzWldhOHRDZF9ocDZxekNpZ2RDdXdMdXRETzctN1Nxd2E2RHA3Nms0U3Nza0NsVGhvPXc5MDAtaDkwMC1wGgEzIglJcm9ubW91c2UiCnNoaXJvYmVhdHMiBkhhbGFDRyoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:QkBZy361r7c",
@@ -330,33 +338,33 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/HaPmy9UIIwc/default.jpg",
+                              "url": "https://i.ytimg.com/vi/eIQqtWOA12c/default.jpg",
                               "width": 120,
                               "height": 90
                             },
                             {
-                              "url": "https://i.ytimg.com/vi/HaPmy9UIIwc/mqdefault.jpg",
+                              "url": "https://i.ytimg.com/vi/eIQqtWOA12c/mqdefault.jpg",
                               "width": 320,
                               "height": 180
                             },
                             {
-                              "url": "https://i.ytimg.com/vi/HaPmy9UIIwc/hqdefault.jpg",
+                              "url": "https://i.ytimg.com/vi/eIQqtWOA12c/hqdefault.jpg",
                               "width": 480,
                               "height": 360
                             },
                             {
-                              "url": "https://i.ytimg.com/vi/HaPmy9UIIwc/sddefault.jpg",
+                              "url": "https://i.ytimg.com/vi/eIQqtWOA12c/sddefault.jpg",
                               "width": 640,
                               "height": 480
                             },
                             {
-                              "url": "https://i.ytimg.com/vi/HaPmy9UIIwc/maxresdefault.jpg",
+                              "url": "https://i.ytimg.com/vi/eIQqtWOA12c/maxresdefault.jpg",
                               "width": 1920,
                               "height": 1080
                             }
                           ]
                         },
-                        "encryptedVideoId": "HaPmy9UIIwc",
+                        "encryptedVideoId": "eIQqtWOA12c",
                         "chartEntryMetadata": {
                           "currentPosition": 7,
                           "previousPosition": 9,
@@ -375,7 +383,7 @@
                           "month": 9,
                           "day": 8
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIsYBCAIScQoc5byl5rih5bGx5q2M77yITWlkdSBFY2hvaW5nKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9IYVBteTlVSUl3Yy9tYXhyZXNkZWZhdWx0LmpwZxoBNyIWWWFuZyBNdXNpYyAtIOe-iumfs-S5kCoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIsYBCAIScQoc5byl5rih5bGx5q2M77yITWlkdSBFY2hvaW5nKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9lSVFxdFdPQTEyYy9tYXhyZXNkZWZhdWx0LmpwZxoBNyIWWWFuZyBNdXNpYyAtIOe-iumfs-S5kCoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:nIB-BmyU2Uw",
@@ -474,7 +482,7 @@
                           "month": 9,
                           "day": 25
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvkBCAISowEKFUdPWkFMTyAoVWx0cmEgU2xvd2VkKRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2ZLeDJoMnBDcWdLQTM0UFIySzd5VlNvLTdVc2dzX0RjYzQyYnI1dkxlWUJGVVNPZTNVLVN0OUIydjVjY3B1Sm9jX1JaVlJrN0c0dFZCbDhSPXc5MDAtaDkwMC1wGgE5IgVBcmlpcyoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvwBCAISpgEKFUdPWkFMTyAoVWx0cmEgU2xvd2VkKRKAAWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9yeGhhRkFIaWtRWG54bGdIVUF4VTJlaEZwMG4temhuRmxDb0I4ZzZnWlpyRTY2RFd4aGJiczVNZ2VhZTJ3UTlQejZicnB0STNqOTJIaVowZXVRPXc5MDAtaDkwMC1wGgE5IgVBcmlpcyoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:tSB3QuTttE0",
@@ -876,7 +884,7 @@
                       },
                       {
                         "id": "G:ZyVs62gC1Vc",
-                        "name": "From The Start (Funk)",
+                        "name": "From The Start",
                         "thumbnail": {
                           "thumbnails": [
                             {
@@ -937,7 +945,7 @@
                           "month": 11,
                           "day": 6
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvsBCAISpQEKFUZyb20gVGhlIFN0YXJ0IChGdW5rKRJpaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1ValYxSkcybzJ6N0Ryamkxdnk4bE1JNTRYSk5JVmY1cG1xbnJaNVpuM0E1bmExTnc4RGZMPXc5MDAtaDkwMC1wGgIxOCIFLVByZXkiBlpNQUpPUiIEenhuYyIGRW1ybGQhKgAaOQoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoRRmVicnVhcnkgMTIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvQBCAISngEKDkZyb20gVGhlIFN0YXJ0EmlodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQUxWLVVqVjFKRzJvMno3RHJqaTF2eThsTUk1NFhKTklWZjVwbXFuclo1Wm4zQTVuYTFOdzhEZkw9dzkwMC1oOTAwLXAaAjE4IgUtUHJleSIGWk1BSk9SIgR6eG5jIgZFbXJsZCEqABo5ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhFGZWJydWFyeSAxMiwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
                       },
                       {
                         "id": "G:uq4rea7uBgU",
@@ -945,33 +953,13 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/Xt50Sodg7sA/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/Xt50Sodg7sA/mqdefault.jpg",
-                              "width": 320,
+                              "url": "https://lh3.googleusercontent.com/2gp3UlcF2oVgiBFkAa4tBRKH64pY2lOIG98QCAAlUM76Nfk0RLkqfCkV98KArmIXZskiThCOq5lS2k4=w180-h180-l90-rj",
+                              "width": 180,
                               "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/Xt50Sodg7sA/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/Xt50Sodg7sA/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/Xt50Sodg7sA/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
                             }
                           ]
                         },
-                        "encryptedVideoId": "Xt50Sodg7sA",
+                        "encryptedVideoId": "1XOJFuKHCck",
                         "chartEntryMetadata": {
                           "currentPosition": 19,
                           "previousPosition": 15,
@@ -985,11 +973,18 @@
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "V3cN7MX2qnI",
                         "releaseDate": {
-                          "year": 2026,
-                          "month": 2,
-                          "day": 2
+                          "year": 2024,
+                          "month": 5,
+                          "day": 30
                         },
+                        "songwriters": [
+                          "Hussam Assim"
+                        ],
+                        "songProducers": [
+                          "DJ Outlaw"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvMBCAISnQEKCNmB2LXZhNipEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vZkNJTWFLLU9LY24tYkZ1VUg4NDVjcnVucE1GN2pEb0tSemNHWmgxMDlteE9OeG05aWFWU2VnRGxod2hqTkl2dkdJWlMyVFBvZTFjdURWYUs9dzkwMC1oOTAwLXAaAjE5IgtGbGlwcGVyYWNoaSoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
@@ -1775,8 +1770,8 @@
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11yky676mr",
-                            "name": "Dia"
+                            "kgMid": "/g/11yk6wyvym",
+                            "name": "dia"
                           }
                         ],
                         "isVisible": true,
@@ -1792,7 +1787,7 @@
                         "songProducers": [
                           "dia"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIugBCAISkgEKBkVFRUUgQRJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL09ERnBpLVk0RGxUcU1NeUZYbG5KbDZ5Rkwybm1hQTkxUHQ1WUk2S3Q3Xy1nc3llcm91RjUxUmh1bGU0bndlMmtqWmpGSE5MVnZySkpLUjQ9dzkwMC1oOTAwLXAaAjM2IgNEaWEqABo5ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhFGZWJydWFyeSAxMiwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIukBCAISkwEKBkVFRUUgQRJ-aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzJmYjc1MU1ETWNLQUhxVlRveU5saHh5T2VvM3prY0k0ZzFlZ3Z6R0NXaFpweEtTZmVBdUprWFJ4bHR1TzdNNHlhcEZXbDJObjFMUktZY3lpPXc5MDAtaDkwMC1wGgIzNiIDZGlhKgAaOQoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoRRmVicnVhcnkgMTIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
                         "id": "G:9HacLfJztZY",
@@ -2053,7 +2048,7 @@
                         "songProducers": [
                           "Aris Parrein"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIu8BCAISmQEKCk1BTkRBIEJBTEESfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9mS3gyaDJwQ3FnS0EzNFBSMks3eVZTby03VXNnc19EY2M0MmJyNXZMZVlCRlVTT2UzVS1TdDlCMnY1Y2NwdUpvY19SWlZSazdHNHRWQmw4Uj13OTAwLWg5MDAtcBoCNDIiBUFyaWlzKgAaOQoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoRRmVicnVhcnkgMTIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvIBCAISnAEKCk1BTkRBIEJBTEESgAFodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vcnhoYUZBSGlrUVhueGxnSFVBeFUyZWhGcDBuLXpobkZsQ29COGc2Z1packU2NkRXeGhiYnM1TWdlYWUyd1E5UHo2YnJwdEkzajkySGlaMGV1UT13OTAwLWg5MDAtcBoCNDIiBUFyaWlzKgAaOQoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoRRmVicnVhcnkgMTIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
                         "id": "G:APj4Ecg6eog",
@@ -2264,7 +2259,7 @@
                         "songProducers": [
                           "Ariis"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoECCAISqwEKHGRhbsOnYSB6aXAgKGZlYXQuIER1ZHV6aW5obykSfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9mS3gyaDJwQ3FnS0EzNFBSMks3eVZTby03VXNnc19EY2M0MmJyNXZMZVlCRlVTT2UzVS1TdDlCMnY1Y2NwdUpvY19SWlZSazdHNHRWQmw4Uj13OTAwLWg5MDAtcBoCNDciBUFyaWlzKgAaOQoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoRRmVicnVhcnkgMTIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoQCCAISrgEKHGRhbsOnYSB6aXAgKGZlYXQuIER1ZHV6aW5obykSgAFodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vcnhoYUZBSGlrUVhueGxnSFVBeFUyZWhGcDBuLXpobkZsQ29COGc2Z1packU2NkRXeGhiYnM1TWdlYWUyd1E5UHo2YnJwdEkzajkySGlaMGV1UT13OTAwLWg5MDAtcBoCNDciBUFyaWlzKgAaOQoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoRRmVicnVhcnkgMTIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
                         "id": "G:Zk_uyfHEiM0",
@@ -2430,9 +2425,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiv7Jnfi-OSAxUXhsIBHQWuLDQ="
+        "trackingParams": "CAEQui8iEwiw7vjM2uOSAxWtWRIBHdc2EQ0="
       }
     },
-    "trackingParams": "CAAQhGciEwiv7Jnfi-OSAxUXhsIBHQWuLDQ="
+    "trackingParams": "CAAQhGciEwiw7vjM2uOSAxWtWRIBHdc2EQ0="
   }
 }
