@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-02-23T12:57:43.661035+00:00",
+  "captured_at_utc": "2026-02-23T18:58:56.570343+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgt6WGhiTm54MnBiVSi-nfHMBjIKCgJVUxIEGgAgPQ%3D%3D"
+      "visitorData": "CgtpQ0Z3T24tbkZ4TSjnxvLMBjIKCgJVUxIEGgAgYw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,25 +25,13 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-21"
-                    },
-                    {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-19"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-21"
@@ -58,6 +46,18 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-02-19"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-02-22"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-19"
                     }
                   ],
@@ -256,16 +256,6 @@
                       {
                         "id": "G:9K1vWzqATPc",
                         "name": "TIKI TIKI (Slowed)",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://lh3.googleusercontent.com/LhPaLnPJS-f6fCFmMw9fF973ykZvdirt5NhyC0e82XKJfmvVxHW3o6aZyoNjRVMGD4K7SStC3z4Bqtr4=w180-h180-l90-rj",
-                              "width": 180,
-                              "height": 180
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "ScMkywEH5JM",
                         "chartEntryMetadata": {
                           "currentPosition": 5,
                           "previousPosition": 5,
@@ -279,16 +269,6 @@
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "bEYiPCbHAtM",
-                        "releaseDate": {
-                          "year": 2025,
-                          "month": 12,
-                          "day": 11
-                        },
-                        "songwriters": [
-                          "Alexander Golovko",
-                          "Alexander Golovko"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIuEBCAISiwEKElRJS0kgVElLSSAoU2xvd2VkKRJpaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1Valh5ZEc3bDZ0M3NFZnRFMkxBcU1kbFJjaFEycDUzZi1GY0FLUDJNaHNiZGNrM0Zjb0MzPXc5MDAtaDkwMC1wGgE1IgVRTUlJUioAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDE5LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
@@ -388,7 +368,7 @@
                           "month": 9,
                           "day": 17
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvEBCAISmwEKDU1vbnRhZ2VtIE1pYXUSfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9kcUxZcFJXaklnMTdZQ2VyYzRsTWlDWEtOb3pxRkJiYkduSDFhaUxaLS1STUQzWmZHbkNrV2ZCWGZxeUx5QlBjR3JWTzdtdzVtNjNzZ0VFaT13OTAwLWg5MDAtcBoBNyIFTGVuYXIqABo5ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhFGZWJydWFyeSAxOSwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvABCAISmgEKDU1vbnRhZ2VtIE1pYXUSfWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS94SXZ5Nk5HWVJRQ2JJSDVxVkxtVGNhYVZJT3FZc0RrYTZsLVkyZnpGenNNRFhDNENnbFFDSUU3VGJxQnpoQkpXelFWck9kcnRvRnVLSUc4PXc5MDAtaDkwMC1wGgE3IgVMZW5hcioAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDE5LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:K4FYrZXDpr0",
@@ -2423,9 +2403,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwi0lJGE1e-SAxXV6j8EHTFtOnY="
+        "trackingParams": "CAEQui8iEwjLv8vipfCSAxWQXxIBHUFBMfo="
       }
     },
-    "trackingParams": "CAAQhGciEwi0lJGE1e-SAxXV6j8EHTFtOnY="
+    "trackingParams": "CAAQhGciEwjLv8vipfCSAxWQXxIBHUFBMfo="
   }
 }
