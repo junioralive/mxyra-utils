@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-02-26T12:58:34.183722+00:00",
+  "captured_at_utc": "2026-02-26T18:48:24.690264+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtDNTVxMEw4eGFyOCjwhoHNBjIKCgJVUxIEGgAgbA%3D%3D"
+      "visitorData": "CgtVWkN0Y0tfS3p1MCjvqoLNBjIKCgJVUxIEGgAgDg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -26,21 +26,27 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-02-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-24"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-24"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-02-19"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-19"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-19"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -50,15 +56,9 @@
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-19"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-02-24"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -212,7 +212,7 @@
                       },
                       {
                         "id": "EY07kVGs_Jk",
-                        "title": "Kâbe'de Hacılar Hû Der Allah | Abdurrahman Önül & Celal Karatüre",
+                        "title": "Kâbe'de Hacılar",
                         "viewCount": "2918749",
                         "thumbnail": {
                           "thumbnails": [
@@ -251,7 +251,8 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "Gönülden Gönüle İlahiler"
+                            "kgMid": "/g/12mb3hdm2",
+                            "name": "Abdurrahman Önül"
                           }
                         ],
                         "isVisible": true,
@@ -260,7 +261,7 @@
                           "month": 2,
                           "day": 21
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvQBCAISogEKRkvDomJlJ2RlIEhhY8SxbGFyIEjDuyBEZXIgQWxsYWggfCBBYmR1cnJhaG1hbiDDlm7DvGwgJiBDZWxhbCBLYXJhdMO8cmUSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRVkwN2tWR3NfSmsvbWF4cmVzZGVmYXVsdC5qcGcaATMiHUfDtm7DvGxkZW4gR8O2bsO8bGUgxLBsYWhpbGVyKgAaNQoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhFGZWJydWFyeSAyNCwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrMBCAISYgoRS8OiYmUnZGUgSGFjxLFsYXISNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRVkwN2tWR3NfSmsvbWF4cmVzZGVmYXVsdC5qcGcaATMiEkFiZHVycmFobWFuIMOWbsO8bCoAGjUKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoRRmVicnVhcnkgMjQsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UCUlEqLQdmfF_6lwmIxJ6JhQ",
                         "channelName": "Gönülden Gönüle İlahiler"
                       },
@@ -6747,9 +6748,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj0_bTomveSAxVE3sIEHUlxNWA="
+        "trackingParams": "CAEQui8iEwiN7rmB6feSAxXKeBIBHRtRDAM="
       }
     },
-    "trackingParams": "CAAQhGciEwj0_bTomveSAxVE3sIEHUlxNWA="
+    "trackingParams": "CAAQhGciEwiN7rmB6feSAxXKeBIBHRtRDAM="
   }
 }
