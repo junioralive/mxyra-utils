@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-02-28T12:39:16.777077+00:00",
+  "captured_at_utc": "2026-02-28T18:29:17.462058+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtSMjZnMkUyc0VKTSjrw4vNBjIKCgJVUxIEGgAgPw%3D%3D"
+      "visitorData": "CgtycGN0V0NsX3Niayj054zNBjIKCgJVUxIEGgAgbQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -24,6 +24,12 @@
                     }
                   },
                   "availableChartsInfo": [
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-02-26"
+                    },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
@@ -53,12 +59,6 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-26"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -2014,7 +2014,7 @@
                         "songProducers": [
                           "Drumma Boy"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpQCCAISvgEKI05vIEhhbmRzIChmZWF0LiBSb3Njb2UgRGFzaCAmIFdhbGUpEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vX2NuaHJ6RjZDd1U0SVpBY3ZSdml3YTQ0VURtNk85YU1fUlp6OERaMVBxUmxQTnVtMEszRzB3djlteTNvNXl4QjZxT01oSWRuR05ZT1RlbjU9dzkwMC1oOTAwLXAaAjQyIhFXYWthIEZsb2NrYSBGbGFtZSoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDE5LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpQCCAISvgEKI05vIEhhbmRzIChmZWF0LiBSb3Njb2UgRGFzaCAmIFdhbGUpEn5odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vX2NuaHJ6RjZDd1U0SVpBY3ZSdml3YTQ0VURtNk85YU1fUlp6OERaMVBxUmxQTnVtMEszRzB3djlteTNvNXl4QjZxT01oSWRuR05ZT1RlbjU9dzkwMC1oOTAwLXAaAjQyIhFXYWthIEZsb2NrYSBGbGFtZSoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDE5LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:NCRUxJTzct4",
@@ -2392,9 +2392,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwips_6dmvySAxUFhcIBHdOgI7Q="
+        "trackingParams": "CAEQui8iEwi34vG76PySAxUCssIBHTmUCmM="
       }
     },
-    "trackingParams": "CAAQhGciEwips_6dmvySAxUFhcIBHdOgI7TKAQQeml9k"
+    "trackingParams": "CAAQhGciEwi34vG76PySAxUCssIBHTmUCmPKAQQlKHGF"
   }
 }
