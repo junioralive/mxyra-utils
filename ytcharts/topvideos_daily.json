@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-03-01T12:40:42.974479+00:00",
+  "captured_at_utc": "2026-03-01T18:28:45.595196+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtiRXZ1WUR1Y0lOVSjB55DNBjIKCgJVUxIEGgAgZQ%3D%3D"
+      "visitorData": "CgtHMi1mOVdPSVhSTSjUipLNBjIKCgJVUxIEGgAgVQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,13 +25,7 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-27"
@@ -40,25 +34,31 @@
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-02-19"
+                      "latestEndDate": "2026-02-26"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-19"
+                      "latestEndDate": "2026-02-26"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-26"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-02-27"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-02-26"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -4114,10 +4114,6 @@
                           {
                             "kgMid": "/g/11k5l3dqg_",
                             "name": "Adilet Zhaugashar"
-                          },
-                          {
-                            "kgMid": "/g/11ks0l3m3j",
-                            "name": "Alisher Bayniyazov"
                           }
                         ],
                         "isVisible": true,
@@ -4133,7 +4129,7 @@
                         "songProducers": [
                           "Adilet Zhaugashar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoMCCAISsQEKTEFkaWxldCBaaGF1Z2FzaGFyICYgQWxpc2hlciBCYXluaXlhem92IC0gTWFnYW4gdW5hZ2FuIFtPZmZpY2lhbCBNdXNpYyB2aWRlb10SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvT0k3UUZYTjUwa2svbWF4cmVzZGVmYXVsdC5qcGcaAjYwIhFBZGlsZXQgWmhhdWdhc2hhciISQWxpc2hlciBCYXluaXlhem92KgAaNQoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhFGZWJydWFyeSAyNywgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIu8BCAISnQEKTEFkaWxldCBaaGF1Z2FzaGFyICYgQWxpc2hlciBCYXluaXlhem92IC0gTWFnYW4gdW5hZ2FuIFtPZmZpY2lhbCBNdXNpYyB2aWRlb10SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvT0k3UUZYTjUwa2svbWF4cmVzZGVmYXVsdC5qcGcaAjYwIhFBZGlsZXQgWmhhdWdhc2hhcioAGjUKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoRRmVicnVhcnkgMjcsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UCGghb-4Jxsfd_fQv8kRihAA",
                         "channelName": "Adilet Jaygashar"
                       },
@@ -6794,9 +6790,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj0jei13P6SAxXft8IBHUXpEzo="
+        "trackingParams": "CAEQui8iEwiBh7Wbqv-SAxUyP60GHT00CB4="
       }
     },
-    "trackingParams": "CAAQhGciEwj0jei13P6SAxXft8IBHUXpEzo="
+    "trackingParams": "CAAQhGciEwiBh7Wbqv-SAxUyP60GHT00CB4="
   }
 }
