@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-03-01T06:41:27.340036+00:00",
+  "captured_at_utc": "2026-03-01T12:40:54.477446+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtYOVJUMnIwbVFQYyiNv4_NBjIKCgJVUxIEGgAgSQ%3D%3D"
+      "visitorData": "CgtacExCQks5aFpGNCjN55DNBjIKCgJVUxIEGgAgEQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,22 +25,16 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-26"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
+                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-19"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-26"
+                      "latestEndDate": "2026-02-27"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -49,9 +43,9 @@
                       "latestEndDate": "2026-02-19"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-02-19"
                     },
                     {
@@ -59,6 +53,12 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-19"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-02-27"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1789,7 +1789,7 @@
                       },
                       {
                         "id": "F1_aOX0acbY",
-                        "title": "LA PLENA",
+                        "title": "La Plena (W Sound 05)",
                         "viewCount": "7151898",
                         "thumbnail": {
                           "thumbnails": [
@@ -1858,7 +1858,7 @@
                         "songProducers": [
                           "Ovy On The Drums"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrsBCAISaQoITEEgUExFTkESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRjFfYU9YMGFjYlkvbWF4cmVzZGVmYXVsdC5qcGcaAjI2IgdXIFNvdW5kIgZCZcOpbGUiEE92eSBPbiBUaGUgRHJ1bXMqABo2ChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhFGZWJydWFyeSAxOSwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIsgBCAISdgoVTGEgUGxlbmEgKFcgU291bmQgMDUpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL0YxX2FPWDBhY2JZL21heHJlc2RlZmF1bHQuanBnGgIyNiIHVyBTb3VuZCIGQmXDqWxlIhBPdnkgT24gVGhlIERydW1zKgAaNgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoRRmVicnVhcnkgMTksIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UCWOVPbJfZ_g1JslVi_OFGfQ",
                         "channelName": "W Sound"
                       },
@@ -6835,9 +6835,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjs8qKPjP6SAxXKeBIBHRtRDAM="
+        "trackingParams": "CAEQui8iEwjpyKS73P6SAxXft8IBHUXpEzo="
       }
     },
-    "trackingParams": "CAAQhGciEwjs8qKPjP6SAxXKeBIBHRtRDAM="
+    "trackingParams": "CAAQhGciEwjpyKS73P6SAxXft8IBHUXpEzo="
   }
 }
