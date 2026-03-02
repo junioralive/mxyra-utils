@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-03-02T12:51:54.155364+00:00",
+  "captured_at_utc": "2026-03-02T18:41:49.229595+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtkSWhGRlJhWHROVSjgj5bNBjIKCgJVUxIEGgAgKQ%3D%3D"
+      "visitorData": "CgsyY3JmNlA3RlFQQSjks5fNBjIKCgJVUxIEGgAgVg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -37,12 +37,6 @@
                       "latestEndDate": "2026-02-28"
                     },
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-26"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
@@ -58,7 +52,13 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-28"
+                      "latestEndDate": "2026-03-01"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-26"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -206,6 +206,21 @@
                           "month": 6,
                           "day": 23
                         },
+                        "songwriters": [
+                          "EJAE",
+                          "Mark Sonnenblick",
+                          "Joong Gyu Kwak",
+                          "Yu Han Lee",
+                          "Hee Dong Nam",
+                          "Jeong Hoon Seo",
+                          "Park Hong Jun"
+                        ],
+                        "songProducers": [
+                          "IDO",
+                          "24",
+                          "TEDDY",
+                          "Ian Eisendrath"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItQBCAISgQEKBkdvbGRlbhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS95ZWJOSUhLQUM0QS9tYXhyZXNkZWZhdWx0LmpwZxoBMiIHSFVOVFIvWCIERUpBRSILQVVEUkVZIE5VTkEiB1JFSSBBTUkiF0tQb3AgRGVtb24gSHVudGVycyBDYXN0KgAaNgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoRRmVicnVhcnkgMjYsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UCnLuLSV-Oi0ctqjxGgxFlmg",
                         "channelName": "Sony Pictures Animation"
@@ -1309,14 +1324,6 @@
                           "month": 9,
                           "day": 13
                         },
-                        "songwriters": [
-                          "ZXKAI",
-                          "slxughter"
-                        ],
-                        "songProducers": [
-                          "ZXKAI",
-                          "slxughter"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqIBCAISUAoLTk8gQkFUSUTDg08SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvR1hpb2lyLWZ1alkvbWF4cmVzZGVmYXVsdC5qcGcaAjE4IgVaWEtBSSoAGjYKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEUZlYnJ1YXJ5IDI2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCKWGfdcnS_fE8giiLTi_CXg",
                         "channelName": "Rubix Records"
@@ -1378,10 +1385,6 @@
                           "month": 1,
                           "day": 16
                         },
-                        "songwriters": [
-                          "Devv Sadaana",
-                          "Kunaal Vermaa"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIsEBCAISbwoTRGlsIExhZ2FuYSBNYW5hIFRoYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS81NUJTOFFPNUM5by9tYXhyZXNkZWZhdWx0LmpwZxoCMTkiDEtyaXNoIE1vbmRhbCIOS2lzaG9yZSBNb25kYWwqABo2ChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhFGZWJydWFyeSAyNiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
                         "externalChannelId": "UCHHIPcqVZ5oOMoFK7qdKufQ",
                         "channelName": "RDC Melodies"
@@ -2870,13 +2873,6 @@
                           "month": 7,
                           "day": 5
                         },
-                        "songwriters": [
-                          "Manish Sonipat Aala",
-                          "Manish Sonipat Aala"
-                        ],
-                        "songProducers": [
-                          "Manish Sonipat Aala"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrcBCAISZQoSQWFraCBZZSBUYWFsaWJhYW5pEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1k0LUx5MGdIR0xFL21heHJlc2RlZmF1bHQuanBnGgI0MSITTWFuaXNoIFNvbmlwYXQgQWFsYSoAGjYKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEUZlYnJ1YXJ5IDI2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCfmcCsDFhIbU6oH-dijc6qQ",
                         "channelName": "Manish Sonipat Aala"
@@ -3978,18 +3974,6 @@
                           "month": 10,
                           "day": 21
                         },
-                        "songwriters": [
-                          "Karan Aujla",
-                          "Karan Aujla",
-                          "Ikwinder Sahota",
-                          "Ikwinder Sahota",
-                          "Milan D'Agostini",
-                          "Milan D'Agostini"
-                        ],
-                        "songProducers": [
-                          "Ikky",
-                          "Milano"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqYBCAISVAoJQm95ZnJpZW5kEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzVHQ2ZZTGd1VElzL21heHJlc2RlZmF1bHQuanBnGgI1NyILS2FyYW4gQXVqbGEqABo2ChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhFGZWJydWFyeSAyNiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
                         "externalChannelId": "UC3XBkDeCVXCoCofFgfUZXGw",
                         "channelName": "Karan Aujla"
@@ -4687,9 +4671,6 @@
                           "month": 12,
                           "day": 5
                         },
-                        "songwriters": [
-                          "Ashutosh Tiwari"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrcBCAISZQoWU2FkaXlhIFNhcmthd2EgUmFqYSBKaRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iemI1d0UyQ28yMC9tYXhyZXNkZWZhdWx0LmpwZxoCNjgiD05lZWxrYW1hbCBTaW5naCoAGjYKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEUZlYnJ1YXJ5IDI2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCpN-WGQgGsOrXm7nHXDdTDA",
                         "channelName": "T-Series Hamaar Bhojpuri"
@@ -5742,10 +5723,6 @@
                           "month": 8,
                           "day": 31
                         },
-                        "songwriters": [
-                          "Shubham SBR",
-                          "Vijay Chauhan"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIr0BCAISawoHQmFidWFhbhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9mMzBOR1BoejM2US9tYXhyZXNkZWZhdWx0LmpwZxoCODQiC1Bhd2FuIFNpbmdoIgpTaGlscGkgUmFqIgtTaHViaGFtIFNCUioAGjYKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEUZlYnJ1YXJ5IDI2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCW1BEAegBZdCOq4M7JtDSQw",
                         "channelName": "Sur Music "
@@ -6238,14 +6215,6 @@
                           "month": 6,
                           "day": 13
                         },
-                        "songwriters": [
-                          "Vincent Poncia",
-                          "Paul Stanley",
-                          "Desmond Child"
-                        ],
-                        "songProducers": [
-                          "Vincent Poncia"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIq8BCAISXQoZSSBXYXMgTWFkZSBGb3IgTG92aW4nIFlvdRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9aaElzQVpPNWdsMC9tYXhyZXNkZWZhdWx0LmpwZxoCOTIiBEtpc3MqABo2ChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhFGZWJydWFyeSAyNiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
                         "externalChannelId": "UCY_ZXmsISy8JUBHPorQ9j6g",
                         "channelName": "KissVEVO"
@@ -6301,12 +6270,6 @@
                           "month": 2,
                           "day": 23
                         },
-                        "songwriters": [
-                          "Kanata Okajima",
-                          "Kanata Okajima",
-                          "Hayato Yamamoto",
-                          "Hayato Yamamoto"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrgBCAISZgoe44Kq44OJ44Ot44Km44K877yBIC0gb2Rvcm91emUhEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1ZFaUJ4THdmVTNFL21heHJlc2RlZmF1bHQuanBnGgI5MyIIU25vdyBNYW4qABo2ChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGhFGZWJydWFyeSAyNiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
                         "externalChannelId": "UCuFPaemAaMR8R5cHzjy23dQ",
                         "channelName": "Snow Man"
@@ -6626,13 +6589,6 @@
                           "month": 10,
                           "day": 9
                         },
-                        "songwriters": [
-                          "Jesus Virlan Baez"
-                        ],
-                        "songProducers": [
-                          "Virlan Garcia",
-                          "Ricardo Orrantia"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqsBCAISWQoKTWkgRW50b3JubxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9PQXU1dlEwUy1Zby9tYXhyZXNkZWZhdWx0LmpwZxoCOTgiD1ZpcmzDoW4gR2FyY8OtYSoAGjYKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEUZlYnJ1YXJ5IDI2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCp0NgWBY-470Ik9J70WFgbA",
                         "channelName": "Virlan Garcia"
@@ -6692,13 +6648,6 @@
                           "month": 9,
                           "day": 2
                         },
-                        "songwriters": [
-                          "Masoom Sharma",
-                          "Amarjeet Singh"
-                        ],
-                        "songProducers": [
-                          "kiara records llp"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrEBCAISXwoFWWFhcmkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvcEVoXzJrRGZ1MncvbWF4cmVzZGVmYXVsdC5qcGcaAjk5IgtSb2hpdCBMYW1iYSINTWFzb29tIFNoYXJtYSoAGjYKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEUZlYnJ1YXJ5IDI2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCSqLTcgOwx-d6G37Az1XQJQ",
                         "channelName": "Kiara Records"
@@ -6783,9 +6732,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjtu8nkoIGTAxXA3D8EHXDxI0U="
+        "trackingParams": "CAEQui8iEwjWs-b_7oGTAxWBgcIBHQH9CaI="
       }
     },
-    "trackingParams": "CAAQhGciEwjtu8nkoIGTAxXA3D8EHXDxI0U="
+    "trackingParams": "CAAQhGciEwjWs-b_7oGTAxWBgcIBHQH9CaLKAQR897nV"
   }
 }
