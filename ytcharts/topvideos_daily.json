@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-03-02T18:41:37.682052+00:00",
+  "captured_at_utc": "2026-03-03T01:52:48.149145+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtyZE9oQXBERTB6TSjYs5fNBjIKCgJVUxIEGgAgKg%3D%3D"
+      "visitorData": "CgttdTNFbE1NbkRVVSjm_ZjNBjIKCgJVUxIEGgAgPQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,31 +25,31 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-26"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-02-28"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-02-26"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-26"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-01"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-26"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-03-01"
@@ -5072,8 +5072,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/m/03ks26",
-                            "name": "Sia"
+                            "name": "Aura Hype"
                           }
                         ],
                         "isVisible": true,
@@ -5082,7 +5081,7 @@
                           "month": 2,
                           "day": 25
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIp0BCAISUAoNQ2hlYXAgVGhyaWxscxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9yZDVLMXpJaEl0MC9tYXhyZXNkZWZhdWx0LmpwZxoCNzUiA1NpYSoAGjEKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNTWFyY2ggMSwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqMBCAISVgoNQ2hlYXAgVGhyaWxscxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9yZDVLMXpJaEl0MC9tYXhyZXNkZWZhdWx0LmpwZxoCNzUiCUF1cmEgSHlwZSoAGjEKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNTWFyY2ggMSwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
                         "externalChannelId": "UCHaspmMwQe-IFFYBdDvUHKA",
                         "channelName": "Aura Hype"
                       },
@@ -6732,9 +6731,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwi386f67oGTAxU7YV4DHU1wPMs="
+        "trackingParams": "CAEQui8iEwiFz6iqz4KTAxU7YV4DHV22FLo="
       }
     },
-    "trackingParams": "CAAQhGciEwi386f67oGTAxU7YV4DHU1wPMs="
+    "trackingParams": "CAAQhGciEwiFz6iqz4KTAxU7YV4DHV22FLo="
   }
 }
