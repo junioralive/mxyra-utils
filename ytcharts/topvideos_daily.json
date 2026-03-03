@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-03-03T12:51:14.769504+00:00",
+  "captured_at_utc": "2026-03-03T18:42:26.206678+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtSVzBZbVVaUHZQbyi5spvNBjIKCgJVUxIEGgAgWA%3D%3D"
+      "visitorData": "CgtZdk1qMENFWmVTVSiI15zNBjIKCgJVUxIEGgAgSA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,9 +25,15 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-01"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
+                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-26"
                     },
                     {
@@ -37,27 +43,21 @@
                       "latestEndDate": "2026-02-26"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-01"
+                      "latestEndDate": "2026-03-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-26"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-01"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-02-26"
                     }
                   ],
@@ -633,7 +633,7 @@
                       },
                       {
                         "id": "7fyufPkXLbs",
-                        "title": "Berghain",
+                        "title": "Berghain (Live)",
                         "viewCount": "2178109",
                         "thumbnail": {
                           "thumbnails": [
@@ -682,7 +682,7 @@
                           "month": 2,
                           "day": 28
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpwBCAISTwoIQmVyZ2hhaW4SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvN2Z5dWZQa1hMYnMvbWF4cmVzZGVmYXVsdC5qcGcaATkiCFJPU0FMw41BKgAaMQoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCAxLCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMCgB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqMBCAISVgoPQmVyZ2hhaW4gKExpdmUpEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzdmeXVmUGtYTGJzL21heHJlc2RlZmF1bHQuanBnGgE5IghST1NBTMONQSoAGjEKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNTWFyY2ggMSwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
                         "externalChannelId": "UCy2bCk5KnIfjmWYFHMZcd5w",
                         "channelName": "RosaliaVEVO"
                       },
@@ -1314,7 +1314,7 @@
                       },
                       {
                         "id": "yrjDEU9F1bw",
-                        "title": "Bairi (Chandni Raat Mein Goli) Virat, Miss Parul | Pradeep Solanki, Heena | New Rajasthani Song 2026",
+                        "title": "Bairi (Lofi)",
                         "viewCount": "1494483",
                         "thumbnail": {
                           "thumbnails": [
@@ -1379,7 +1379,7 @@
                         "songProducers": [
                           "Virat"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIo8CCAISwQEKZEJhaXJpIChDaGFuZG5pIFJhYXQgTWVpbiBHb2xpKSBWaXJhdCwgTWlzcyBQYXJ1bCB8IFByYWRlZXAgU29sYW5raSwgSGVlbmEgfCBOZXcgUmFqYXN0aGFuaSBTb25nIDIwMjYSNGh0dHBzOi8vaS55dGltZy5jb20vdmkveXJqREVVOUYxYncvbWF4cmVzZGVmYXVsdC5qcGcaAjE5IgVWaXJhdCIPUHJhZGVlcCBTb2xhbmtpIgVIZWVuYSoAGjEKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNTWFyY2ggMSwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrYBCAISaQoMQmFpcmkgKExvZmkpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3lyakRFVTlGMWJ3L21heHJlc2RlZmF1bHQuanBnGgIxOSIFVmlyYXQiD1ByYWRlZXAgU29sYW5raSIFSGVlbmEqABoxChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDEsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UCjnD_ck1JPxY9N5dewjLpGw",
                         "channelName": "Jhoom Rajasthan"
                       },
@@ -2705,7 +2705,7 @@
                       },
                       {
                         "id": "yLKKz4-M_y8",
-                        "title": "Endhayya Saami Special Surprise | Ranabaali |Vijay Deverakonda,Rashmika |Rahul Sankrityan |Ajay–Atul",
+                        "title": "Endhayya Saami",
                         "viewCount": "1150001",
                         "thumbnail": {
                           "thumbnails": [
@@ -2746,7 +2746,12 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "T-Series Telugu"
+                            "kgMid": "/m/04f_n53",
+                            "name": "Shweta Mohan"
+                          },
+                          {
+                            "kgMid": "/m/0qzgxpk",
+                            "name": "Ajay Gogavale"
                           }
                         ],
                         "isVisible": true,
@@ -2759,7 +2764,7 @@
                           "Ajay-Atul",
                           "Siju Thuravoor"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoMCCAIStQEKZkVuZGhheXlhIFNhYW1pIFNwZWNpYWwgU3VycHJpc2UgfCBSYW5hYmFhbGkgfFZpamF5IERldmVyYWtvbmRhLFJhc2htaWthIHxSYWh1bCBTYW5rcml0eWFuIHxBamF54oCTQXR1bBI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS95TEtLejQtTV95OC9tYXhyZXNkZWZhdWx0LmpwZxoCNDAiD1QtU2VyaWVzIFRlbHVndSoAGjEKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNTWFyY2ggMSwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrYBCAISaQoORW5kaGF5eWEgU2FhbWkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkveUxLS3o0LU1feTgvbWF4cmVzZGVmYXVsdC5qcGcaAjQwIgxTaHdldGEgTW9oYW4iDUFqYXkgR29nYXZhbGUqABoxChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDEsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UCnJjcn5FrgrOEp5_N45ZLEQ",
                         "channelName": "T-Series Telugu"
                       },
@@ -6597,7 +6602,7 @@
                       },
                       {
                         "id": "x0aMsjhFxeE",
-                        "title": "Ram Ji Aake Bhala Karenge",
+                        "title": "Ram Ji Aake Bhala Karenge (From \"Bhooth Bangla\")",
                         "viewCount": "743644",
                         "thumbnail": {
                           "thumbnails": [
@@ -6660,7 +6665,7 @@
                         "songProducers": [
                           "Pritam"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIroBCAISbQoZUmFtIEppIEFha2UgQmhhbGEgS2FyZW5nZRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS94MGFNc2poRnhlRS9tYXhyZXNkZWZhdWx0LmpwZxoCOTkiDEFybWFhbiBNYWxpayIGQWFydmFuKgAaMQoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCAxLCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMCgB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItIBCAIShAEKMFJhbSBKaSBBYWtlIEJoYWxhIEthcmVuZ2UgKEZyb20gIkJob290aCBCYW5nbGEiKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS94MGFNc2poRnhlRS9tYXhyZXNkZWZhdWx0LmpwZxoCOTkiDEFybWFhbiBNYWxpayIGQWFydmFuKgAaMQoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCAxLCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMCgB",
                         "externalChannelId": "UCFFbwnve3yF62-tVXkTyHqg",
                         "channelName": "Zee Music Company"
                       },
@@ -6742,9 +6747,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj_xcPA4oOTAxWUNq0GHcWrDzs="
+        "trackingParams": "CAEQui8iEwjZupWAsYSTAxUYrcIBHcWTGHE="
       }
     },
-    "trackingParams": "CAAQhGciEwj_xcPA4oOTAxWUNq0GHcWrDzs="
+    "trackingParams": "CAAQhGciEwjZupWAsYSTAxUYrcIBHcWTGHE="
   }
 }

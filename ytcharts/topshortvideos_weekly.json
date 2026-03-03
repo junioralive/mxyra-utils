@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-03-03T12:52:00.029060+00:00",
+  "captured_at_utc": "2026-03-03T18:43:12.017966+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtrN2VhelhKYlBiMCjmspvNBjIKCgJVUxIEGgAgHg%3D%3D"
+      "visitorData": "CgtwR1F5bjFrYVV2VSi215zNBjIKCgJVUxIEGgAgaA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,9 +25,15 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-01"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
+                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-26"
                     },
                     {
@@ -37,27 +43,21 @@
                       "latestEndDate": "2026-02-26"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-01"
+                      "latestEndDate": "2026-03-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-26"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-01"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-02-26"
                     }
                   ],
@@ -153,7 +153,7 @@
                           "Devv Sadaana",
                           "Kunaal Vermaa"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpECCAISuwEKE0RpbCBMYWdhbmEgTWFuYSBUaGESgAFodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYXEwOW5IZkJPc3Eydk1pdFI4V2t4VHR2NGw4amJyTldsVm5uS1hZLUF3UkhOVTQ3NnJESDMxdjJZY1VRZTg1djVfS3dHY0ZKT3Vyeld1ZU0yUT13OTAwLWg5MDAtcBoBMiIMS3Jpc2ggTW9uZGFsIg5LaXNob3JlIE1vbmRhbCoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDI2LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIo4CCAISuAEKE0RpbCBMYWdhbmEgTWFuYSBUaGESfmh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS82Qng5SHRuMDBfUFpqTEdocDhKOWpmd3NwZzU2eGJjR09ZTGoybjZQYURpQXM3bGhvMGNoQ2dOSlZndF9jajZNbWxMTGhQcWhQOGstR0pSUT13OTAwLWg5MDAtcBoBMiIMS3Jpc2ggTW9uZGFsIg5LaXNob3JlIE1vbmRhbCoAGjkKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaEUZlYnJ1YXJ5IDI2LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:QkBZy361r7c",
@@ -1307,7 +1307,7 @@
                         "songProducers": [
                           "Yeah Ishwar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIokCCAISswEKKFNoZWVzaGEgKEFha2h5YSBNYWkgQWFraCBHaGFsaSBKbyBCZXJhbikSaWh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BTFYtVWpVWG9MdFhGUlBhN2hZSzhBSkhpWWZObHpZTEhRUU9aSlFDendxYm9Gc3REbVgxYTZqUD13OTAwLWg5MDAtcBoCMjciCU1pdHRhIFJvciILU3dhcmEgVmVybWEqABo5ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhFGZWJydWFyeSAyNiwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIokCCAISswEKKFNoZWVzaGEgKEFha2h5YSBNYWkgQWFraCBHaGFsaSBKbyBCZXJhbikSaWh0dHBzOi8veXQzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BTFYtVWpVWG9MdFhGUlBhN2hZSzhBSkhpWWZObHpZTEhRUU9aSlFDendxYm9Gc3REbVgxYTZqUD13OTAwLWg5MDAtcBoCMjciCU1pdHRhIFJvciILU3dhcmEgVmVybWEqABo5ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGhFGZWJydWFyeSAyNiwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
                       },
                       {
                         "id": "G:X4ld6D_G6_w",
@@ -2396,9 +2396,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjprpDW4oOTAxV92MIEHfs8KZY="
+        "trackingParams": "CAEQui8iEwjN9IOWsYSTAxXuUF4DHbgfCjM="
       }
     },
-    "trackingParams": "CAAQhGciEwjprpDW4oOTAxV92MIEHfs8KZY="
+    "trackingParams": "CAAQhGciEwjN9IOWsYSTAxXuUF4DHbgfCjM="
   }
 }
