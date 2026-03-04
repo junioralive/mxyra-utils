@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-03-04T12:49:00.223748+00:00",
+  "captured_at_utc": "2026-03-04T18:42:56.139113+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtObFBkNGlhU1NkYyiz1KDNBjIKCgJVUxIEGgAgPg%3D%3D"
+      "visitorData": "CgtpTnNEMTVSZDFFRSin-qHNBjIKCgJVUxIEGgAgKw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -24,18 +24,6 @@
                     }
                   },
                   "availableChartsInfo": [
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-26"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-26"
-                    },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
@@ -55,10 +43,22 @@
                       "latestEndDate": "2026-02-26"
                     },
                     {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-26"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-03-02"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-02-26"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -814,7 +814,7 @@
                       },
                       {
                         "id": "eVQ_YXv_bmc",
-                        "title": "Tabaahi - Toxic (Hindi) | Rocking Star Yash & Kiara Advani | Vishal Mishra | Raj Shekhar",
+                        "title": "Tabaahi",
                         "viewCount": "1872378",
                         "thumbnail": {
                           "thumbnails": [
@@ -853,7 +853,8 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "Zee Music Company"
+                            "kgMid": "/g/11c5s5cwqs",
+                            "name": "Vishal Mishra"
                           }
                         ],
                         "isVisible": true,
@@ -869,13 +870,13 @@
                         "songProducers": [
                           "Vishal Mishra"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvcBCAISqQEKWFRhYmFhaGkgLSBUb3hpYyAoSGluZGkpIHwgUm9ja2luZyBTdGFyIFlhc2ggJiBLaWFyYSBBZHZhbmkgfCBWaXNoYWwgTWlzaHJhIHwgUmFqIFNoZWtoYXISNGh0dHBzOi8vaS55dGltZy5jb20vdmkvZVZRX1lYdl9ibWMvbWF4cmVzZGVmYXVsdC5qcGcaAjEyIhFaZWUgTXVzaWMgQ29tcGFueSoAGjEKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNTWFyY2ggMiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqEBCAISVAoHVGFiYWFoaRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9lVlFfWVh2X2JtYy9tYXhyZXNkZWZhdWx0LmpwZxoCMTIiDVZpc2hhbCBNaXNocmEqABoxChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDIsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UCFFbwnve3yF62-tVXkTyHqg",
                         "channelName": "Zee Music Company"
                       },
                       {
                         "id": "g5oUluD9ScA",
-                        "title": "Rai Rai Raa Raa Song (Telugu) | Peddi | Ram Charan | Janhvi | Buchi Babu Sana | AR Rahman",
+                        "title": "Rai Rai Raa Raa Song",
                         "viewCount": "1790759",
                         "thumbnail": {
                           "thumbnails": [
@@ -914,7 +915,8 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "T-Series Telugu"
+                            "kgMid": "/m/01gg59",
+                            "name": "A. R. Rahman"
                           }
                         ],
                         "isVisible": true,
@@ -927,7 +929,7 @@
                           "A.R. Rahman",
                           "Anantha Sriram"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvYBCAISqAEKWVJhaSBSYWkgUmFhIFJhYSBTb25nIChUZWx1Z3UpIHwgUGVkZGkgfCBSYW0gQ2hhcmFuIHwgSmFuaHZpIHwgQnVjaGkgQmFidSBTYW5hIHwgQVIgUmFobWFuEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2c1b1VsdUQ5U2NBL21heHJlc2RlZmF1bHQuanBnGgIxMyIPVC1TZXJpZXMgVGVsdWd1KgAaMQoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCAyLCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMCgB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIq0BCAISYAoUUmFpIFJhaSBSYWEgUmFhIFNvbmcSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvZzVvVWx1RDlTY0EvbWF4cmVzZGVmYXVsdC5qcGcaAjEzIgxBLiBSLiBSYWhtYW4qABoxChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDIsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UCnJjcn5FrgrOEp5_N45ZLEQ",
                         "channelName": "T-Series Telugu"
                       },
@@ -5635,7 +5637,7 @@
                       },
                       {
                         "id": "VXZji6E26Mg",
-                        "title": "#Video | जगरनाथवा बो के होली | #Khesari Lal Yadav | #Shilpi Raj | New Bhojpuri Holi Song 2026",
+                        "title": "Jagarnathwa Bo Ke Holi",
                         "viewCount": "698894",
                         "thumbnail": {
                           "thumbnails": [
@@ -5676,7 +5678,12 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "Kajra Entertainment"
+                            "kgMid": "/g/11cmcy7k_0",
+                            "name": "Khesari Lal Yadav"
+                          },
+                          {
+                            "kgMid": "/g/11rsg60c9p",
+                            "name": "Khushi Kakkar"
                           }
                         ],
                         "isVisible": true,
@@ -5685,7 +5692,11 @@
                           "month": 2,
                           "day": 26
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIp4CCAIS0AEKfSNWaWRlbyB8IOCknOCkl-CksOCkqOCkvuCkpeCkteCkviDgpKzgpYsg4KSV4KWHIOCkueCli-CksuClgCB8ICNLaGVzYXJpIExhbCBZYWRhdiB8ICNTaGlscGkgUmFqIHwgTmV3IEJob2pwdXJpIEhvbGkgU29uZyAyMDI2EjRodHRwczovL2kueXRpbWcuY29tL3ZpL1ZYWmppNkUyNk1nL21heHJlc2RlZmF1bHQuanBnGgI4NCITS2FqcmEgRW50ZXJ0YWlubWVudCoAGjEKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNTWFyY2ggMiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
+                        "songwriters": [
+                          "Arya Sharma",
+                          "Tuntun Yadav"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIsMBCAISdgoWSmFnYXJuYXRod2EgQm8gS2UgSG9saRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9WWFpqaTZFMjZNZy9tYXhyZXNkZWZhdWx0LmpwZxoCODQiEUtoZXNhcmkgTGFsIFlhZGF2Ig1LaHVzaGkgS2Fra2FyKgAaMQoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCAyLCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMCgB",
                         "externalChannelId": "UCOWqXaxUHKGz1NfZaTME7Mw",
                         "channelName": "Kajra Entertainment"
                       },
@@ -6693,9 +6704,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjz1I7vo4aTAxXWX14DHbCdDGg="
+        "trackingParams": "CAEQui8iEwjU4ZX98oaTAxXKY14DHX5nM8g="
       }
     },
-    "trackingParams": "CAAQhGciEwjz1I7vo4aTAxXWX14DHbCdDGg="
+    "trackingParams": "CAAQhGciEwjU4ZX98oaTAxXKY14DHX5nM8jKAQRaBGAf"
   }
 }
