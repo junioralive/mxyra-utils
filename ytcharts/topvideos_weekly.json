@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-03-06T12:47:28.534290+00:00",
+  "captured_at_utc": "2026-03-06T18:39:25.558047+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtJRndOc3Y4RXplbyjXmavNBjIKCgJVUxIEGgAgZA%3D%3D"
+      "visitorData": "CgtSZ1NrTXR4c1JQayjUvqzNBjIKCgJVUxIEGgAgYQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -26,6 +26,12 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-02-26"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-03-04"
@@ -43,22 +49,16 @@
                       "latestEndDate": "2026-02-26"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-04"
-                    },
-                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-02-26"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-02-26"
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-05"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -3773,6 +3773,10 @@
                           {
                             "kgMid": "/g/11k5l3dqg_",
                             "name": "Adilet Zhaugashar"
+                          },
+                          {
+                            "kgMid": "/g/11ks0l3m3j",
+                            "name": "Alisher Bayniyazov"
                           }
                         ],
                         "isVisible": true,
@@ -3788,7 +3792,7 @@
                         "songProducers": [
                           "Adilet Zhaugashar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvABCAISnQEKTEFkaWxldCBaaGF1Z2FzaGFyICYgQWxpc2hlciBCYXluaXlhem92IC0gTWFnYW4gdW5hZ2FuIFtPZmZpY2lhbCBNdXNpYyB2aWRlb10SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvT0k3UUZYTjUwa2svbWF4cmVzZGVmYXVsdC5qcGcaAjU0IhFBZGlsZXQgWmhhdWdhc2hhcioAGjYKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaEUZlYnJ1YXJ5IDI2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoQCCAISsQEKTEFkaWxldCBaaGF1Z2FzaGFyICYgQWxpc2hlciBCYXluaXlhem92IC0gTWFnYW4gdW5hZ2FuIFtPZmZpY2lhbCBNdXNpYyB2aWRlb10SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvT0k3UUZYTjUwa2svbWF4cmVzZGVmYXVsdC5qcGcaAjU0IhFBZGlsZXQgWmhhdWdhc2hhciISQWxpc2hlciBCYXluaXlhem92KgAaNgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoRRmVicnVhcnkgMjYsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UCGghb-4Jxsfd_fQv8kRihAA",
                         "channelName": "Adilet Jaygashar"
                       },
@@ -6807,9 +6811,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjLseugp4uTAxUFscIBHTS6C0k="
+        "trackingParams": "CAEQui8iEwj07Jv29YuTAxVZlsIBHVwOHzo="
       }
     },
-    "trackingParams": "CAAQhGciEwjLseugp4uTAxUFscIBHTS6C0k="
+    "trackingParams": "CAAQhGciEwj07Jv29YuTAxVZlsIBHVwOHzo="
   }
 }
