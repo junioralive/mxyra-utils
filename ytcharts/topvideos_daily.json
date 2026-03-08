@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-03-08T01:51:01.153805+00:00",
+  "captured_at_utc": "2026-03-08T06:38:21.283074+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtCSElCX1Fvd2luYyj7q7PNBjIKCgJVUxIEGgAgHw%3D%3D"
+      "visitorData": "CgtMXzVOLXNmTlZhZyjTsrTNBjIKCgJVUxIEGgAgGg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,16 +25,28 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-02-26"
-                    },
-                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-26"
+                      "latestEndDate": "2026-03-05"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-06"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-05"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-03-05"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -46,19 +58,7 @@
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-26"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-02-26"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-06"
+                      "latestEndDate": "2026-03-05"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -2882,7 +2882,7 @@
                       },
                       {
                         "id": "g5oUluD9ScA",
-                        "title": "Rai Rai Raa Raa (Telugu)",
+                        "title": "Rai Rai Raa Raa (Tamil)",
                         "viewCount": "979243",
                         "thumbnail": {
                           "thumbnails": [
@@ -2933,7 +2933,7 @@
                           "month": 3,
                           "day": 2
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrEBCAISZAoYUmFpIFJhaSBSYWEgUmFhIChUZWx1Z3UpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2c1b1VsdUQ5U2NBL21heHJlc2RlZmF1bHQuanBnGgI0MiIMQS4gUi4gUmFobWFuKgAaMQoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCA2LCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMCgB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrABCAISYwoXUmFpIFJhaSBSYWEgUmFhIChUYW1pbCkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvZzVvVWx1RDlTY0EvbWF4cmVzZGVmYXVsdC5qcGcaAjQyIgxBLiBSLiBSYWhtYW4qABoxChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UCnJjcn5FrgrOEp5_N45ZLEQ",
                         "channelName": "T-Series Telugu"
                       },
@@ -5262,7 +5262,7 @@
                       },
                       {
                         "id": "F1sLPnWV6Jk",
-                        "title": "Por sus besos",
+                        "title": "POR SUS BESOS",
                         "viewCount": "745967",
                         "thumbnail": {
                           "thumbnails": [
@@ -5303,8 +5303,8 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "",
-                            "name": "Tito D0uble P"
+                            "kgMid": "/g/11sv6sgjpy",
+                            "name": "Tito Double P"
                           }
                         ],
                         "isVisible": true,
@@ -5323,7 +5323,7 @@
                           "Ernesto Fernandez",
                           "L Prince"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqcBCAISWgoNUG9yIHN1cyBiZXNvcxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9GMXNMUG5XVjZKay9tYXhyZXNkZWZhdWx0LmpwZxoCNzkiDVRpdG8gRDB1YmxlIFAqABoxChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqcBCAISWgoNUE9SIFNVUyBCRVNPUxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9GMXNMUG5XVjZKay9tYXhyZXNkZWZhdWx0LmpwZxoCNzkiDVRpdG8gRG91YmxlIFAqABoxChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UCj1EfO3tUyVxOPnWlyKCBBQ",
                         "channelName": "Tito Double P"
                       },
@@ -5638,7 +5638,7 @@
                       },
                       {
                         "id": "8RV_zhiWiws",
-                        "title": "पत्नी खोजतानी",
+                        "title": "Patni Khojatani",
                         "viewCount": "720193",
                         "thumbnail": {
                           "thumbnails": [
@@ -5698,7 +5698,7 @@
                         "songProducers": [
                           "Surinder Yadav"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItABCAISggEKJeCkquCkpOCljeCkqOClgCDgpJbgpYvgpJzgpKTgpL7gpKjgpYASNGh0dHBzOi8vaS55dGltZy5jb20vdmkvOFJWX3poaVdpd3MvbWF4cmVzZGVmYXVsdC5qcGcaAjg1IhFLaGVzYXJpIExhbCBZYWRhdiIKU2hpbHBpIFJhaioAGjEKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNTWFyY2ggNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAoAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIrkBCAISbAoPUGF0bmkgS2hvamF0YW5pEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzhSVl96aGlXaXdzL21heHJlc2RlZmF1bHQuanBnGgI4NSIRS2hlc2FyaSBMYWwgWWFkYXYiClNoaWxwaSBSYWoqABoxChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwKAE",
                         "externalChannelId": "UCW1BEAegBZdCOq4M7JtDSQw",
                         "channelName": "Sur Music "
                       },
@@ -6665,9 +6665,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjtmvigmI-TAxVOxMIEHd22KwM="
+        "trackingParams": "CAEQui8iEwjg3dW92I-TAxXqHq0GHVDNEpc="
       }
     },
-    "trackingParams": "CAAQhGciEwjtmvigmI-TAxVOxMIEHd22KwPKAQSH3gqR"
+    "trackingParams": "CAAQhGciEwjg3dW92I-TAxXqHq0GHVDNEpc="
   }
 }
