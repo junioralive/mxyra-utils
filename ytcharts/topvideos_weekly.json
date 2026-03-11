@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-03-11T12:53:14.942594+00:00",
+  "captured_at_utc": "2026-03-11T18:49:56.200838+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtWOEprZjJjTU84NCiyy8XNBjIKCgJVUxIEGgAgXg%3D%3D"
+      "visitorData": "CgtoUENDR2dBZmJENCjK8sbNBjIKCgJVUxIEGgAgbQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,13 +25,7 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-09"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-05"
@@ -43,22 +37,28 @@
                       "latestEndDate": "2026-03-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-09"
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-03-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-05"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-03-05"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-10"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-09"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -422,6 +422,10 @@
                           "month": 2,
                           "day": 24
                         },
+                        "songwriters": [
+                          "Anirudh Ravichander",
+                          "Kasarla Shyam"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPItQBCAIShQEKCUFheWEgU2hlchI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9pQXRvWmFyNVc1OC9tYXhyZXNkZWZhdWx0LmpwZxoBNSILSmFuZ2kgUmVkZHkiDEFyanVuIENoYW5keSITQW5pcnVkaCBSYXZpY2hhbmRlciINS2FzYXJsYSBTaHlhbSoAGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UC68nKdrLbLL0Vj7ilVkLmmg",
                         "channelName": "Saregama Telugu"
@@ -1600,6 +1604,18 @@
                           "month": 6,
                           "day": 23
                         },
+                        "songwriters": [
+                          "Danny Chung",
+                          "24",
+                          "Dominsuk",
+                          "Vince",
+                          "Kush"
+                        ],
+                        "songProducers": [
+                          "24",
+                          "Dominsuk",
+                          "Ian Eisendrath"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIvMBCAISpAEKCFNvZGEgUG9wEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzk4M2JCYkp4ME1rL21heHJlc2RlZmF1bHQuanBnGgIyMyIJU2FqYSBCb3lzIgtBbmRyZXcgQ2hvaSIHTmVja3dhdiILRGFubnkgQ2h1bmciCUtFVklOIFdPTyIKc2FtVUlMIExlZSIXS1BvcCBEZW1vbiBIdW50ZXJzIENhc3QqABoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCA1LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCnLuLSV-Oi0ctqjxGgxFlmg",
                         "channelName": "Sony Pictures Animation"
@@ -2275,6 +2291,10 @@
                           "month": 1,
                           "day": 16
                         },
+                        "songwriters": [
+                          "Devv Sadaana",
+                          "Kunaal Vermaa"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIr0BCAISbwoTRGlsIExhZ2FuYSBNYW5hIFRoYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS81NUJTOFFPNUM5by9tYXhyZXNkZWZhdWx0LmpwZxoCMzMiDEtyaXNoIE1vbmRhbCIOS2lzaG9yZSBNb25kYWwqABoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCA1LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCHHIPcqVZ5oOMoFK7qdKufQ",
                         "channelName": "RDC Melodies"
@@ -2534,6 +2554,18 @@
                           "month": 2,
                           "day": 27
                         },
+                        "songwriters": [
+                          "Dave Jolicoeur",
+                          "Damon Albarn",
+                          "James Ford",
+                          "Tariq L. Trotter"
+                        ],
+                        "songProducers": [
+                          "Gorillaz",
+                          "James Ford",
+                          "Samuel Egglenton",
+                          "Remi Kabaka Jr."
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIsEBCAIScworVGhlIE1vdW50YWluLCBUaGUgTW9vbiBDYXZlIGFuZCBUaGUgU2FkIEdvZBI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS91Y1J1bE5Rc3VZUS9tYXhyZXNkZWZhdWx0LmpwZxoCMzciCEdvcmlsbGF6KgAaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNTWFyY2ggNSwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkoAQ",
                         "externalChannelId": "UCfIXdjDQH9Fau7y99_Orpjw",
                         "channelName": "Gorillaz"
@@ -2787,6 +2819,13 @@
                           "month": 9,
                           "day": 21
                         },
+                        "songwriters": [
+                          "Mirjalol Nematov",
+                          "Mirjalol Nematov"
+                        ],
+                        "songProducers": [
+                          "Mirjalol Nematov"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqQBCAISVgoGRGlsYmFyEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2xWUkNlRVIxcU1BL21heHJlc2RlZmF1bHQuanBnGgI0MSIQTWlyamFsb2wgTmVtYXRvdioAGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UC2Pga4WAk4nPmzic2LZQ5fA",
                         "channelName": "Mirjalol Nematov"
@@ -2991,6 +3030,19 @@
                           "month": 7,
                           "day": 18
                         },
+                        "songwriters": [
+                          "Colin Greenwood",
+                          "Ed O'Brien",
+                          "Jonny Greenwood",
+                          "Phil Selway",
+                          "Thom Yorke",
+                          "Albert Hammond",
+                          "Mike Hazlewood"
+                        ],
+                        "songProducers": [
+                          "Paul Kolderie",
+                          "Sean Slade"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIpwBCAISTgoFQ3JlZXASNGh0dHBzOi8vaS55dGltZy5jb20vdmkvWEZrelJOeXlnZmsvbWF4cmVzZGVmYXVsdC5qcGcaAjQ0IglSYWRpb2hlYWQqABoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCA1LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCq19-LqvG35A-30oyAiPiqA",
                         "channelName": "Radiohead"
@@ -3670,6 +3722,18 @@
                           "month": 10,
                           "day": 21
                         },
+                        "songwriters": [
+                          "Karan Aujla",
+                          "Karan Aujla",
+                          "Ikwinder Sahota",
+                          "Ikwinder Sahota",
+                          "Milan D'Agostini",
+                          "Milan D'Agostini"
+                        ],
+                        "songProducers": [
+                          "Ikky",
+                          "Milano"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIqIBCAISVAoJQm95ZnJpZW5kEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzVHQ2ZZTGd1VElzL21heHJlc2RlZmF1bHQuanBnGgI1NCILS2FyYW4gQXVqbGEqABoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCA1LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UC3XBkDeCVXCoCofFgfUZXGw",
                         "channelName": "Karan Aujla"
@@ -3921,6 +3985,12 @@
                           "month": 10,
                           "day": 15
                         },
+                        "songwriters": [
+                          "화사",
+                          "화사",
+                          "안신애",
+                          "박우상 (LOGOS)"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIp8BCAISUQoMR29vZCBHb29kYnllEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1FlOGZhNGI1eE5VL21heHJlc2RlZmF1bHQuanBnGgI1OCIFSFdBU0EqABoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1NYXJjaCA1LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCiM8arBZ-GyuBFG3wy6fEgw",
                         "channelName": "HWASA"
@@ -5360,6 +5430,13 @@
                           "month": 9,
                           "day": 2
                         },
+                        "songwriters": [
+                          "Masoom Sharma",
+                          "Amarjeet Singh"
+                        ],
+                        "songProducers": [
+                          "kiara records llp"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIq0BCAISXwoFWWFhcmkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvcEVoXzJrRGZ1MncvbWF4cmVzZGVmYXVsdC5qcGcaAjgwIgtSb2hpdCBMYW1iYSINTWFzb29tIFNoYXJtYSoAGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UCSqLTcgOwx-d6G37Az1XQJQ",
                         "channelName": "Kiara Records"
@@ -6696,9 +6773,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwics9bv8ZeTAxWNqcIBHcjiLhg="
+        "trackingParams": "CAEQui8iEwjl5cvMwZiTAxWBp8IBHRkhCyc="
       }
     },
-    "trackingParams": "CAAQhGciEwics9bv8ZeTAxWNqcIBHcjiLhg="
+    "trackingParams": "CAAQhGciEwjl5cvMwZiTAxWBp8IBHRkhCyc="
   }
 }
