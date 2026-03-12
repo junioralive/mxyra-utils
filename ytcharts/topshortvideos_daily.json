@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-03-12T01:48:20.602832+00:00",
+  "captured_at_utc": "2026-03-12T06:51:16.476443+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs1QUxKMTRVd1YyRSjbtsjNBjIKCgJVUxIEGgAgPg%3D%3D"
+      "visitorData": "CgtFcG5lcmNDR1hMZyjbxMnNBjIKCgJVUxIEGgAgVQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,13 +25,19 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-10"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-05"
@@ -43,22 +49,16 @@
                       "latestEndDate": "2026-03-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-05"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-03-10"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-09"
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-05"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1710,29 +1710,9 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/IzC6Cgqcup0/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/IzC6Cgqcup0/mqdefault.jpg",
-                              "width": 320,
+                              "url": "https://lh3.googleusercontent.com/1G--qzq7XAj_lweK1nnzMAmhsCPxr_D4Z7GWUqEjtTclIP1zRvjyWo2SMPNv3oM0oQUGy0wqq0P52m1K5w=w180-h180-l90-rj",
+                              "width": 180,
                               "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/IzC6Cgqcup0/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/IzC6Cgqcup0/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/IzC6Cgqcup0/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
                             }
                           ]
                         },
@@ -1750,11 +1730,16 @@
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "LfPgPs9vW4A",
                         "releaseDate": {
                           "year": 2026,
                           "month": 2,
                           "day": 7
                         },
+                        "songwriters": [
+                          "Bunty Thakur",
+                          "Bunty Thakur"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIoACCAISrgEKFk1vaGUgTW9yIEJhbmFpeW8gUmFkaGESfmh0dHBzOi8veXQzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9GWDZzRFZPdDhtVU53eEFXWlFKWFVGTk9pcllzNTNaZUpsX2tVaVl6d2l5NmlTY055blY3NnNjV0pNcG9pOW02bXFEWTc1QWlKX240eWxZTz13OTAwLWg5MDAtcBoCMzYiDktyYXRpa2EgVGhha3VyKgAaNQoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGg5NYXJjaCAxMCwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAoAQ"
                       },
                       {
@@ -2437,9 +2422,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwi4kqiPn5mTAxXoeV4DHblmHBY="
+        "trackingParams": "CAEQui8iEwitiZ_q4pmTAxX3YxIBHdSOJyI="
       }
     },
-    "trackingParams": "CAAQhGciEwi4kqiPn5mTAxXoeV4DHblmHBbKAQS6AhLO"
+    "trackingParams": "CAAQhGciEwitiZ_q4pmTAxX3YxIBHdSOJyI="
   }
 }
