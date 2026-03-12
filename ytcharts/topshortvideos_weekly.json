@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-03-12T12:53:33.314350+00:00",
+  "captured_at_utc": "2026-03-12T18:50:10.210687+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgt2YVotZ3prM1VwWSjD7srNBjIKCgJVUxIEGgAgOQ%3D%3D"
+      "visitorData": "Cgt5S2l2aXlJZXloZyjYlczNBjIKCgJVUxIEGgAgDg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,19 +25,25 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-05"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-10"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-10"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-05"
@@ -49,16 +55,10 @@
                       "latestEndDate": "2026-03-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-03-10"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-05"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -191,7 +191,7 @@
                           "Devv Sadaana",
                           "Kunaal Vermaa"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIo0CCAISuwEKE0RpbCBMYWdhbmEgTWFuYSBUaGESgAFodHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vdHlXXzUtU3VUakxvRXNsckt6bHR6WXpYcUFDTVJPc053cFVrNEtDRG9GNzJFUVVvYkFlcHhLekFINHNuaHU5U2RrMXAzVU1MdDN5WGhrTDlTdz13OTAwLWg5MDAtcBoBMyIMS3Jpc2ggTW9uZGFsIg5LaXNob3JlIE1vbmRhbCoAGjUKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaDU1hcmNoIDUsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIo0CCAISuwEKE0RpbCBMYWdhbmEgTWFuYSBUaGESgAFodHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vU0NoS0ZnYXFxNlJrS3NFOHAxSUw1Z0ZJR3Z4cjdFUkxNaHJWcVlTcXVOTnpQVFd1eE1uRXRzbVNDNFBRNUhyTlgtMEJzNEotWXVxcVFCRHlLUT13OTAwLWg5MDAtcBoBMyIMS3Jpc2ggTW9uZGFsIg5LaXNob3JlIE1vbmRhbCoAGjUKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaDU1hcmNoIDUsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
                         "id": "G:QkBZy361r7c",
@@ -1307,7 +1307,7 @@
                           "Devender Kumar",
                           "Ayush Raj Singh"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIosCCAISuQEKEU5hY2ggTmFnaW4gSmFpc2FuEoABaHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzZDOWRDZmJWQVEtMGdjQlRLbzliWVhfWjFtcGN0S1Y0V3R1b2JfbkJTaE9xNUdEbExzVEMzY1ZjN0dMelJrbkhyb3pVT2Iwai1UMUd4dnBRX3c9dzkwMC1oOTAwLXAaAjI3IgxSYXVzaGFuIFJvaGkiDUtodXNoaSBLYWtrYXIqABo1ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGg1NYXJjaCA1LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIogCCAIStgEKEU5hY2ggTmFnaW4gSmFpc2FuEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vZDYxQ3piY2lfaUFoeEF0R3BkQkdfNjM0RGNOcFk3T2JHQVZGbGZyOFJUU3pHaDZIV2daLTlzTmpXekhmRGNsUDljZVV6cHJtVmppODNFd3U9dzkwMC1oOTAwLXAaAjI3IgxSYXVzaGFuIFJvaGkiDUtodXNoaSBLYWtrYXIqABo1ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGg1NYXJjaCA1LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:GmTwg6fSzkI",
@@ -2413,9 +2413,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiW4Jbns5qTAxV16T8EHR20Ngc="
+        "trackingParams": "CAEQui8iEwjluILCg5uTAxV0P60GHUyYNuM="
       }
     },
-    "trackingParams": "CAAQhGciEwiW4Jbns5qTAxV16T8EHR20Ngc="
+    "trackingParams": "CAAQhGciEwjluILCg5uTAxV0P60GHUyYNuM="
   }
 }

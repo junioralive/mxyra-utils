@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-03-12T12:52:58.650499+00:00",
+  "captured_at_utc": "2026-03-12T18:49:36.499892+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgswYUlrUk5BNzl4dyih7srNBjIKCgJVUxIEGgAgTg%3D%3D"
+      "visitorData": "Cgs4Q25JTkdSZ0RRNCi3lczNBjIKCgJVUxIEGgAgXQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,19 +25,25 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-05"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-10"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-10"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-05"
@@ -49,16 +55,10 @@
                       "latestEndDate": "2026-03-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-03-10"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-05"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -5416,12 +5416,12 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/g/11ypn40t92",
-                            "name": "Rohit Lamba"
-                          },
-                          {
                             "kgMid": "/g/11g4c0wdw2",
                             "name": "Masoom Sharma"
+                          },
+                          {
+                            "kgMid": "/g/11ypn40t92",
+                            "name": "Rohit Lamba"
                           }
                         ],
                         "isVisible": true,
@@ -5437,7 +5437,7 @@
                         "songProducers": [
                           "kiara records llp"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIq0BCAISXwoFWWFhcmkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvcEVoXzJrRGZ1MncvbWF4cmVzZGVmYXVsdC5qcGcaAjgwIgtSb2hpdCBMYW1iYSINTWFzb29tIFNoYXJtYSoAGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=CLgIEIAPIq0BCAISXwoFWWFhcmkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvcEVoXzJrRGZ1MncvbWF4cmVzZGVmYXVsdC5qcGcaAjgwIg1NYXNvb20gU2hhcm1hIgtSb2hpdCBMYW1iYSoAGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDU1hcmNoIDUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UCSqLTcgOwx-d6G37Az1XQJQ",
                         "channelName": "Kiara Records"
                       },
@@ -6773,9 +6773,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwie7dDWs5qTAxWD3T8EHaYHL0k="
+        "trackingParams": "CAEQui8iEwjHh_exg5uTAxV_L60GHQbTNYs="
       }
     },
-    "trackingParams": "CAAQhGciEwie7dDWs5qTAxWD3T8EHaYHL0nKAQRU86AU"
+    "trackingParams": "CAAQhGciEwjHh_exg5uTAxV_L60GHQbTNYs="
   }
 }
