@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-03-19T12:58:00.903479+00:00",
+  "captured_at_utc": "2026-03-19T18:54:52.004807+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtOZDk2VGtmeE5tVSjP5e_NBjIKCgJVUxIEGgAgZg%3D%3D"
+      "visitorData": "CgtrS1pOaGxsU2hacyjyjPHNBjIKCgJVUxIEGgAgJg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,13 +25,31 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-12"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-18"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-12"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-12"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-03-17"
@@ -40,24 +58,6 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-03-12"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-12"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-17"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-12"
                     }
                   ],
@@ -934,7 +934,7 @@
                           "Nitesh Thakur",
                           "Nitesh Thakur"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ip0CCAISygEKI0dvb2dsZSBCYXRhIERvIEtodXNoIFJlaG5lIEtpIERhd2FpEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vdDNra1pQRXYyM2ZBY0M0R3VCc3BSYklpbk9hbW5zNlhPS0tQeHJoTXZiYlMteEd1WmpHeUhuNjBSSENKY1RlZkdoODFyU3VXcUpnSzBuVVc9dzkwMC1oOTAwLXAaAjE4Ig5TYWRhYiBLaSBQb3dlciINTml0ZXNoIFRoYWt1cioAGjYKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaDk1hcmNoIDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ip0CCAISygEKI0dvb2dsZSBCYXRhIERvIEtodXNoIFJlaG5lIEtpIERhd2FpEn5odHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vZFZWSENHSzZYZ3djWDhpaWU5ZWJsNjZaQ2hUb3hjTmtxRlFsUlFxaEtzcmpINXRtUjFWVGZwMTNYbHlkWkc0RGRxVERwWEJIbDJjbWdvRXM9dzkwMC1oOTAwLXAaAjE4Ig5TYWRhYiBLaSBQb3dlciINTml0ZXNoIFRoYWt1cioAGjYKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaDk1hcmNoIDEyLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:GOlSJE3zDZE",
@@ -942,9 +942,29 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/qSLRDoW9xku1Tn0g5cH-1Xfw4NF7HjSdPU8j0rfsNoPSl3r5TN-5OEC8g8mF_I1TbpxDDMZp4t_mlE6y=w180-h180-l90-rj",
-                              "width": 180,
+                              "url": "https://i.ytimg.com/vi/i52TYO13Nyg/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/i52TYO13Nyg/mqdefault.jpg",
+                              "width": 320,
                               "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/i52TYO13Nyg/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/i52TYO13Nyg/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/i52TYO13Nyg/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
                             }
                           ]
                         },
@@ -966,19 +986,11 @@
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "JPfoLgd3uKg",
                         "releaseDate": {
                           "year": 2024,
                           "month": 9,
                           "day": 10
                         },
-                        "songwriters": [
-                          "Mitta Ror",
-                          "Mitta Ror"
-                        ],
-                        "songProducers": [
-                          "Yeah Ishwar"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IocCCAIStAEKKVNoZWVzaGEgKEFha2h5YSBNYWkgQWFraCBHaGFsaSBKbyBCYWlyYW4pEmlodHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQUxWLVVqVVhvTHRYRlJQYTdoWUs4QUpIaVlmTmx6WUxIUVFPWkpRQ3p3cWJvRnN0RG1YMWE2alA9dzkwMC1oOTAwLXAaAjE5IglNaXR0YSBSb3IiC1N3YXJhIFZlcm1hKgAaNgoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoOTWFyY2ggMTIsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
@@ -1130,29 +1142,9 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/ScMkywEH5JM/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/ScMkywEH5JM/mqdefault.jpg",
-                              "width": 320,
+                              "url": "https://lh3.googleusercontent.com/2u5rhYvrNgwnaEO8FNE6CcaCOpfHLnaE9F20TK7hluIaLOZw-GuPgXBqTOxbASj8OyYzx6eomQthKXjY=w180-h180-l90-rj",
+                              "width": 180,
                               "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/ScMkywEH5JM/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/ScMkywEH5JM/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/ScMkywEH5JM/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
                             }
                           ]
                         },
@@ -1168,11 +1160,16 @@
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "hIf8xtu3FlQ",
                         "releaseDate": {
                           "year": 2025,
                           "month": 12,
                           "day": 11
                         },
+                        "songwriters": [
+                          "Salima Chica",
+                          "Salima Chica"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=It8BCAISjAEKElRJS0kgVElLSSAoU2xvd2VkKRJpaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1Valh5ZEc3bDZ0M3NFZnRFMkxBcU1kbFJjaFEycDUzZi1GY0FLUDJNaHNiZGNrM0Zjb0MzPXc5MDAtaDkwMC1wGgIyMyIFUU1JSVIqABo2ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGg5NYXJjaCAxMiwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMoAQ"
                       },
                       {
@@ -2442,9 +2439,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjZl_LtgayTAxUoy8IEHc08HTk="
+        "trackingParams": "CAEQui8iEwics8DP0ayTAxWPZF4DHUr2Kxg="
       }
     },
-    "trackingParams": "CAAQhGciEwjZl_LtgayTAxUoy8IEHc08HTnKAQTa0H5A"
+    "trackingParams": "CAAQhGciEwics8DP0ayTAxWPZF4DHUr2Kxg="
   }
 }
