@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-03-24T13:05:10.224154+00:00",
+  "captured_at_utc": "2026-03-24T18:59:15.507769+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtDY0p2RkktSm1VQSj8l4rOBjIKCgJVUxIEGgAgOA%3D%3D"
+      "visitorData": "CgtFeGNlTS1GcnlXQSj6vYvOBjIKCgJVUxIEGgAgag%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,28 +25,16 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
+                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-19"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-19"
+                      "latestEndDate": "2026-03-23"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -55,10 +43,22 @@
                       "latestEndDate": "2026-03-19"
                     },
                     {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-19"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-03-19"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-22"
+                      "latestEndDate": "2026-03-23"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -2072,36 +2072,6 @@
                       {
                         "id": "G:3BhwaoGe5UQ",
                         "name": "SLAVA FUNK!",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://i.ytimg.com/vi/YPmxBTPyWBI/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/YPmxBTPyWBI/mqdefault.jpg",
-                              "width": 320,
-                              "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/YPmxBTPyWBI/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/YPmxBTPyWBI/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/YPmxBTPyWBI/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
-                            }
-                          ]
-                        },
-                        "encryptedVideoId": "YPmxBTPyWBI",
                         "chartEntryMetadata": {
                           "currentPosition": 43,
                           "previousPosition": 32,
@@ -2115,11 +2085,6 @@
                           }
                         ],
                         "isVisible": true,
-                        "releaseDate": {
-                          "year": 2024,
-                          "month": 11,
-                          "day": 10
-                        },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvUBCAISogEKC1NMQVZBIEZVTkshEoABaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzFjRTFrZkE2dWdITFpwYUVJcWt0dDJvcmh5TWFOTHBFY0hBSF91RjF2a0J2dFNHRm1yMVNORU5NamRyNjlHdTR2M05EbnMxcDFlNFJVVGsxVHc9dzkwMC1oOTAwLXAaAjQzIgpNVlNURVJJT1VTKgAaNgoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoOTWFyY2ggMTksIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
@@ -2451,9 +2416,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj6uqDkzLiTAxV16T8EHbIyA64="
+        "trackingParams": "CAEQui8iEwjT7OX2m7mTAxU105QJHZjbMJ0="
       }
     },
-    "trackingParams": "CAAQhGciEwj6uqDkzLiTAxV16T8EHbIyA67KAQRAl-Je"
+    "trackingParams": "CAAQhGciEwjT7OX2m7mTAxU105QJHZjbMJ0="
   }
 }

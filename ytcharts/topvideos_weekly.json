@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-03-24T13:04:35.605921+00:00",
+  "captured_at_utc": "2026-03-24T18:58:41.818222+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtoakFwZ3VHLXEtNCjal4rOBjIKCgJVUxIEGgAgWw%3D%3D"
+      "visitorData": "CgtQZDVwS2tQdWRlRSjYvYvOBjIKCgJVUxIEGgAgJQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,28 +25,16 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
+                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-19"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-19"
+                      "latestEndDate": "2026-03-23"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -55,10 +43,22 @@
                       "latestEndDate": "2026-03-19"
                     },
                     {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-19"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-03-19"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-22"
+                      "latestEndDate": "2026-03-23"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -302,6 +302,13 @@
                           "month": 3,
                           "day": 11
                         },
+                        "songwriters": [
+                          "Shashwat Sachdev",
+                          "Bombay Rockers",
+                          "Irshad Kamil",
+                          "Reble",
+                          "Token"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Io4CCAISvgEKIkRodXJhbmRoYXIgVGhlIFJldmVuZ2UgLSBBYXJpIEFhcmkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvZEVTSUdWeFNTQ0UvbWF4cmVzZGVmYXVsdC5qcGcaATMiEFNoYXNod2F0IFNhY2hkZXYiDkJvbWJheSBSb2NrZXJzIglLaGFuIFNhYWIiD0phc21pbmUgU2FuZGxhcyIRU3VkaGlyIFlhZHV2YW5zaGkiBVJlYmxlIgVUb2tlbioAGjMKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDk1hcmNoIDE5LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
                         "channelName": "T-Series"
@@ -5928,6 +5935,10 @@
                         "isAvailable": true,
                         "artists": [
                           {
+                            "kgMid": "/g/11rsg60c9p",
+                            "name": "Khushi Kakkar"
+                          },
+                          {
                             "kgMid": "/g/11jn3kzxbb",
                             "name": "Raushan Rohi"
                           }
@@ -5945,7 +5956,7 @@
                         "songProducers": [
                           "Raushan Rohi"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqUBCAISVgoKSmFpbCBZYXRyYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9oaEdPSjBQVmI3QS9tYXhyZXNkZWZhdWx0LmpwZxoCODciDFJhdXNoYW4gUm9oaSoAGjMKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDk1hcmNoIDE5LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrQBCAISZQoKSmFpbCBZYXRyYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9oaEdPSjBQVmI3QS9tYXhyZXNkZWZhdWx0LmpwZxoCODciDUtodXNoaSBLYWtrYXIiDFJhdXNoYW4gUm9oaSoAGjMKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDk1hcmNoIDE5LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
                         "externalChannelId": "UCh6r40fbLs62rieVnODZkSw",
                         "channelName": "Raushan Rohi Entertainment"
                       },
@@ -6791,9 +6802,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwig7N3TzLiTAxWjxz8EHfXsERk="
+        "trackingParams": "CAEQui8iEwjQjdvmm7mTAxWD3T8EHcsJJ_g="
       }
     },
-    "trackingParams": "CAAQhGciEwig7N3TzLiTAxWjxz8EHfXsERk="
+    "trackingParams": "CAAQhGciEwjQjdvmm7mTAxWD3T8EHcsJJ_g="
   }
 }
