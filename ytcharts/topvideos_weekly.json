@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-03-25T13:01:50.439992+00:00",
+  "captured_at_utc": "2026-03-25T18:52:27.740581+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs2bzNQMHBWNXFxcyi1uY_OBjIKCgJVUxIEGgAgaw%3D%3D"
+      "visitorData": "Cgs5WkFGUDRXOExsQSji3ZDOBjIKCgJVUxIEGgAgGQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,25 +25,31 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-24"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-19"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-19"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-23"
+                      "latestEndDate": "2026-03-24"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-19"
@@ -53,12 +59,6 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-03-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-23"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -3455,6 +3455,7 @@
                         ],
                         "songProducers": [
                           "PinkPantheress",
+                          "Aksel Arvid",
                           "Oscar Scheller",
                           "The Dare"
                         ],
@@ -6802,9 +6803,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiPydnzjbuTAxVBB60GHVijJdE="
+        "trackingParams": "CAEQui8iEwiO9oij3LuTAxVn5j8EHbJwKIM="
       }
     },
-    "trackingParams": "CAAQhGciEwiPydnzjbuTAxVBB60GHVijJdE="
+    "trackingParams": "CAAQhGciEwiO9oij3LuTAxVn5j8EHbJwKIM="
   }
 }
