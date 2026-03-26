@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-03-26T13:07:30.295002+00:00",
+  "captured_at_utc": "2026-03-26T19:01:44.121128+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtCY3UyR3M1LVRPNCiI35TOBjIKCgJVUxIEGgAgKQ%3D%3D"
+      "visitorData": "Cgsxc2VqYXJvbjFoWSiOhZbOBjIKCgJVUxIEGgAgJg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,10 +25,28 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-19"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-03-19"
+                    },
+                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-24"
+                      "latestEndDate": "2026-03-25"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-25"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -40,24 +58,6 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-24"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-03-19"
                     }
                   ],
@@ -701,7 +701,7 @@
                           "month": 1,
                           "day": 13
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IoECCAISrgEKFVZPQ0UgTkEgTUlSQSAoU2xvd2VkKRJ9aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2JzN1BtNGc3VkZlelotM19YRnM0Q2E2Z01mQk11ZDBDcElxT091UWxWQS1fbXF3ckNZenRGYnpnV0wtNlFtUzRjbUQtUkFJNE0zZEhLMFk9dzkwMC1oOTAwLXAaAjEzIgdId3VuZ2lpIgdESiBWR0sxKgAaNgoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoOTWFyY2ggMTksIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IoECCAISrgEKFVZPQ0UgTkEgTUlSQSAoU2xvd2VkKRJ9aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1diWjZzSVU1Sl9BalR3bG9Xek5RcnYtOTNNaVBwSFRXNnpBVGdTWjhGdlZfUVY2enFKcnNYRFBDb0YwQThKWTR2NUlydzJGa1hVaUpvZDg9dzkwMC1oOTAwLXAaAjEzIgdId3VuZ2lpIgdESiBWR0sxKgAaNgoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoOTWFyY2ggMTksIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDKAE"
                       },
                       {
                         "id": "G:KosFe_7-V8w",
@@ -2347,7 +2347,7 @@
                           "Nitesh Thakur",
                           "Nitesh Thakur"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ip0CCAISygEKI0dvb2dsZSBCYXRhIERvIEtodXNoIFJlaG5lIEtpIERhd2FpEn5odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vZFZWSENHSzZYZ3djWDhpaWU5ZWJsNjZaQ2hUb3hjTmtxRlFsUlFxaEtzcmpINXRtUjFWVGZwMTNYbHlkWkc0RGRxVERwWEJIbDJjbWdvRXM9dzkwMC1oOTAwLXAaAjQ5Ig5TYWRhYiBLaSBQb3dlciINTml0ZXNoIFRoYWt1cioAGjYKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaDk1hcmNoIDE5LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqACCAISzQEKI0dvb2dsZSBCYXRhIERvIEtodXNoIFJlaG5lIEtpIERhd2FpEoABaHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3g4OV9DVmNQbDRyYWdIUkZHRnpYM2RkeVZBSGo4V0QyY0I1RVVPV3JiWElEMGtEQXR2bEpLUV9nT3ZSR2tUbGhyRVBVcFN5bkRIdWtFaUU2QXc9dzkwMC1oOTAwLXAaAjQ5Ig5TYWRhYiBLaSBQb3dlciINTml0ZXNoIFRoYWt1cioAGjYKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaDk1hcmNoIDE5LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQygB"
                       },
                       {
                         "id": "G:jVcWxkmVZOI",
@@ -2408,9 +2408,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj43cCE0b2TAxXV3T8EHasHPdI="
+        "trackingParams": "CAEQui8iEwjp34-boL6TAxX0Da0GHW64C2E="
       }
     },
-    "trackingParams": "CAAQhGciEwj43cCE0b2TAxXV3T8EHasHPdI="
+    "trackingParams": "CAAQhGciEwjp34-boL6TAxX0Da0GHW64C2E="
   }
 }

@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-03-26T13:06:55.533753+00:00",
+  "captured_at_utc": "2026-03-26T19:01:10.456155+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtNLW9ZLURYVlkwTSjm3pTOBjIKCgJVUxIEGgAgUg%3D%3D"
+      "visitorData": "Cgs5R1pYTjZJd1JfcyjthJbOBjIKCgJVUxIEGgAgJw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,10 +25,28 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-19"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-03-19"
+                    },
+                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-24"
+                      "latestEndDate": "2026-03-25"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-25"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -40,24 +58,6 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-24"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-19"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-03-19"
                     }
                   ],
@@ -387,7 +387,7 @@
                       },
                       {
                         "id": "oafxkMv4xnc",
-                        "title": "Bairan",
+                        "title": "Bairan – Animated Love Story | Banjaare (Official Video)",
                         "viewCount": "12359624",
                         "thumbnail": {
                           "thumbnails": [
@@ -428,7 +428,6 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/g/11y9r3n8q4",
                             "name": "Banjaare"
                           }
                         ],
@@ -445,7 +444,7 @@
                         "songProducers": [
                           "Roni"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpwBCAISTQoGQmFpcmFuEjRodHRwczovL2kueXRpbWcuY29tL3ZpL29hZnhrTXY0eG5jL21heHJlc2RlZmF1bHQuanBnGgE1IghCYW5qYWFyZSoAGjMKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDk1hcmNoIDE5LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOSgB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItEBCAISgQEKOkJhaXJhbiDigJMgQW5pbWF0ZWQgTG92ZSBTdG9yeSB8IEJhbmphYXJlIChPZmZpY2lhbCBWaWRlbykSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvb2FmeGtNdjR4bmMvbWF4cmVzZGVmYXVsdC5qcGcaATUiCEJhbmphYXJlKgAaMwoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoOTWFyY2ggMTksIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5KAE",
                         "externalChannelId": "UC4OuOL10HxF2bhSr_tf0oMA",
                         "channelName": "Banjaare"
                       },
@@ -6805,9 +6804,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjA6fTz0L2TAxWf3j8EHXV7Hs4="
+        "trackingParams": "CAEQui8iEwiEnoeLoL6TAxVwMa0GHby9AOY="
       }
     },
-    "trackingParams": "CAAQhGciEwjA6fTz0L2TAxWf3j8EHXV7Hs4="
+    "trackingParams": "CAAQhGciEwiEnoeLoL6TAxVwMa0GHby9AOY="
   }
 }
