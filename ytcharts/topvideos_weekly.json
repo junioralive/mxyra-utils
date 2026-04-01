@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-04-01T13:14:08.295532+00:00",
+  "captured_at_utc": "2026-04-01T18:57:10.514676+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtTM0ZNVE9Cb196WSiWtLTOBjIKCgJVUxIEGgAgQw%3D%3D"
+      "visitorData": "CgsxVkRvdmJEVFBYZyj91LXOBjIKCgJVUxIEGgAgHg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,6 +25,24 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-03-31"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-26"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-26"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -34,25 +52,7 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-30"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-26"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-03-30"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-26"
+                      "latestEndDate": "2026-03-31"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -629,7 +629,7 @@
                       },
                       {
                         "id": "aRNfSqsgrgE",
-                        "title": "Sheesha (Official Music Video) | Mitta Ror ft. Swara Verma | Sorab Bedi | Niharika Tiwari",
+                        "title": "Sheesha",
                         "viewCount": "10343022",
                         "thumbnail": {
                           "thumbnails": [
@@ -668,7 +668,12 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "Sony Music India"
+                            "kgMid": "/g/11w96h_18z",
+                            "name": "Mitta Ror"
+                          },
+                          {
+                            "kgMid": "/g/11p73yzrjr",
+                            "name": "Swara Verma"
                           }
                         ],
                         "isVisible": true,
@@ -684,7 +689,7 @@
                         "songProducers": [
                           "Yeah Ishwar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvQBCAISpgEKWVNoZWVzaGEgKE9mZmljaWFsIE11c2ljIFZpZGVvKSB8IE1pdHRhIFJvciBmdC4gU3dhcmEgVmVybWEgfCBTb3JhYiBCZWRpIHwgTmloYXJpa2EgVGl3YXJpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2FSTmZTcXNncmdFL21heHJlc2RlZmF1bHQuanBnGgE5IhBTb255IE11c2ljIEluZGlhGjMKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDk1hcmNoIDI2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqcBCAISWgoHU2hlZXNoYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9hUk5mU3FzZ3JnRS9tYXhyZXNkZWZhdWx0LmpwZxoBOSIJTWl0dGEgUm9yIgtTd2FyYSBWZXJtYRozChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg5NYXJjaCAyNiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
                         "channelName": "Sony Music India"
                       },
@@ -2102,10 +2107,14 @@
                         },
                         "songwriters": [
                           "Ice Spice",
-                          "RIOTUSA"
+                          "RIOTUSA",
+                          "Konstantin Pepelov",
+                          "Steven Giron"
                         ],
                         "songProducers": [
-                          "RIOTUSA"
+                          "RIOTUSA",
+                          "1keep",
+                          "Venny"
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpsBCAISTgoHQmlnIEd1eRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS83eWFVMHFYbGdiby9tYXhyZXNkZWZhdWx0LmpwZxoCMzAiCUljZSBTcGljZRozChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg5NYXJjaCAyNiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCCdbL-yl7Qa_vurbYWdn5SA",
@@ -6800,9 +6809,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjMhNTa3cyTAxVz0T8EHffoHOA="
+        "trackingParams": "CAEQui8iEwi85IKxqs2TAxVx3T8EHeI6GnI="
       }
     },
-    "trackingParams": "CAAQhGciEwjMhNTa3cyTAxVz0T8EHffoHOA="
+    "trackingParams": "CAAQhGciEwi85IKxqs2TAxVx3T8EHeI6GnLKAQQIggtC"
   }
 }
