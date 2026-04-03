@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-04-03T12:57:35.393145+00:00",
+  "captured_at_utc": "2026-04-03T18:41:40.491816+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgsyVEthTDgweFBDOCi28r7OBjIKCgJVUxIEGgAgbQ%3D%3D"
+      "visitorData": "CgtoWkhkTDkxY1FqOCjbk8DOBjIKCgJVUxIEGgAgXg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,10 +25,10 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-01"
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-03-26"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -37,10 +37,10 @@
                       "latestEndDate": "2026-03-26"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-01"
+                      "latestEndDate": "2026-04-02"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -50,12 +50,12 @@
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-26"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-03-26"
@@ -2007,50 +2007,39 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/6P4PROq1OiI/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/6P4PROq1OiI/mqdefault.jpg",
-                              "width": 320,
+                              "url": "https://lh3.googleusercontent.com/w-jEnw3N0IK9vxcM6Z_VPq-ah6qMaZ2rQDLclXr7dJddOjlJQdc6i6pVCJymRjGRnba6o1_9DN38T8b2=w180-h180-l90-rj",
+                              "width": 180,
                               "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/6P4PROq1OiI/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/6P4PROq1OiI/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/6P4PROq1OiI/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
                             }
                           ]
                         },
-                        "encryptedVideoId": "6P4PROq1OiI",
+                        "encryptedVideoId": "TJUHsLBX2cs",
                         "chartEntryMetadata": {
                           "currentPosition": 43,
                           "periodsOnChart": 1
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11m2f7h8n2",
+                            "kgMid": "/g/11l2k0kc4l",
                             "name": "Junior"
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "6P4PROq1OiI",
                         "releaseDate": {
                           "year": 2026,
                           "month": 1,
                           "day": 29
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItsBCAISigEKEtCS0JDQoiDQmNCXINCb0JDQkhJoaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FMVi1ValdFM2JSaGRBZVMyLXF0MEJqNDQ3ZGRrWV9ybkFiVldFOXZVdUZ6bDBzWVNianF0VGc9dzkwMC1oOTAwLXAaAjQzIgZKdW5pb3IaNgoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoOTWFyY2ggMjYsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVD"
+                        "songwriters": [
+                          "Бейсеков Арслан Асланович",
+                          "Олжас Тлеулиев"
+                        ],
+                        "songProducers": [
+                          "Jamal & Ganja",
+                          "Sad Soul"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvABCAISnwEKEtCS0JDQoiDQmNCXINCb0JDQkhJ9aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2FBZjZ5cFprWnFnOHJ5TWFEMWx3YXpSanlLNHBZUERkY0xvQ0g5TE5oQVlKWEFEVFlaUk93bHJHRXROQTc3YmFQakg4R3VvbTE4ZThXamM9dzkwMC1oOTAwLXAaAjQzIgZKdW5pb3IaNgoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoOTWFyY2ggMjYsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVD"
                       },
                       {
                         "id": "G:PLNS7fjp_YY",
@@ -2264,9 +2253,9 @@
                         ],
                         "isVisible": true,
                         "releaseDate": {
-                          "year": 2025,
-                          "month": 11,
-                          "day": 23
+                          "year": 2026,
+                          "month": 1,
+                          "day": 27
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvMBCAISogEKFk1vbnRhZ2VtIE1pYXUgKFNsb3dlZCkSfWh0dHBzOi8veXQzLmdvb2dsZXVzZXJjb250ZW50LmNvbS94SXZ5Nk5HWVJRQ2JJSDVxVkxtVGNhYVZJT3FZc0RrYTZsLVkyZnpGenNNRFhDNENnbFFDSUU3VGJxQnpoQkpXelFWck9kcnRvRnVLSUc4PXc5MDAtaDkwMC1wGgI0OCIFTGVuYXIaNgoaV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoOTWFyY2ggMjYsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVD"
                       },
@@ -2368,9 +2357,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjS_9be3dGTAxX7YV4DHWWdAwM="
+        "trackingParams": "CAEQui8iEwjMjYPTqtKTAxVr3j8EHc6zJCI="
       }
     },
-    "trackingParams": "CAAQhGciEwjS_9be3dGTAxX7YV4DHWWdAwPKAQT6f7rL"
+    "trackingParams": "CAAQhGciEwjMjYPTqtKTAxVr3j8EHc6zJCLKAQSBZ454"
   }
 }
