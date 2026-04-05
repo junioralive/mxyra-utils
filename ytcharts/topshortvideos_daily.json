@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-04-04T18:37:28.955472+00:00",
+  "captured_at_utc": "2026-04-05T02:07:04.402200+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtzUlZKUUNUYV8xVSjftMXOBjIKCgJVUxIEGgAgPQ%3D%3D"
+      "visitorData": "CgtSelo2ODFnZ0p0Yyi-h8fOBjIKCgJVUxIEGgAgUg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -26,12 +26,30 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-26"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-03"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-02"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-02"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-02"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-04-03"
@@ -40,25 +58,7 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-03-26"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-26"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-03-26"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-03"
+                      "latestEndDate": "2026-04-02"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1651,7 +1651,7 @@
                             "name": "Yashita Sharma"
                           },
                           {
-                            "kgMid": "/g/11q2633sjp",
+                            "kgMid": "/g/11nw9t2fs_",
                             "name": "Pragati Nagpal"
                           },
                           {
@@ -2388,9 +2388,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiQkOnJ69STAxUKKK0GHZnTBz0="
+        "trackingParams": "CAEQui8iEwiojduI0NWTAxVlw5QJHXCuFKk="
       }
     },
-    "trackingParams": "CAAQhGciEwiQkOnJ69STAxUKKK0GHZnTBz3KAQRcpzJz"
+    "trackingParams": "CAAQhGciEwiojduI0NWTAxVlw5QJHXCuFKnKAQQdgsjg"
   }
 }
