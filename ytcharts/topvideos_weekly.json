@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-04-08T13:14:04.794442+00:00",
+  "captured_at_utc": "2026-04-08T19:11:14.970528+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtVTl9iYTcyeHV1ZyiTqdnOBjIKCgJVUxIEGgAgaw%3D%3D"
+      "visitorData": "Cgt3T0FPM3FxTzJfdyjJ0NrOBjIKCgJVUxIEGgAgFA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -26,12 +26,12 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-06"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-04-02"
@@ -44,21 +44,21 @@
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-07"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-06"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-02"
+                      "latestEndDate": "2026-04-07"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -135,7 +135,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsUBCAISeQoIU2hhcmFyYXQSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvWXllcFU1enRMZjQvbWF4cmVzZGVmYXVsdC5qcGcaATEiEU1hZGh1YmFudGkgQmFnY2hpIg9KYXNtaW5lIFNhbmRsYXMiEFNoYXNod2F0IFNhY2hkZXYaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC_A7K2dXFsTMAciGmnNxy-Q",
-                        "channelName": "Saregama Music"
+                        "channelName": "Saregama Music",
+                        "serializedShareEntity": "CgtZeWVwVTV6dExmNHKFAwgHEhdTaGFyYXJhdCBpcyAjMSBnbG9iYWxseRo7U2hhcmFyYXQgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYyjgIKiwJJc1VCQ0FJU2VRb0lVMmhoY21GeVlYUVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdldYbGxjRlUxZW5STVpqUXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBVEVpRVUxaFpHaDFZbUZ1ZEdrZ1FtRm5ZMmhwSWc5S1lYTnRhVzVsSUZOaGJtUnNZWE1pRUZOb1lYTm9kMkYwSUZOaFkyaGtaWFlhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSGnNoYXJlY2FyZF8xNzc1MTEzMjAwXzEuanBnggKpAxK_Amh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jc1VCQ0FJU2VRb0lVMmhoY21GeVlYUVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdldYbGxjRlUxZW5STVpqUXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBVEVpRVUxaFpHaDFZbUZ1ZEdrZ1FtRm5ZMmhwSWc5S1lYTnRhVzVsSUZOaGJtUnNZWE1pRUZOb1lYTm9kMkYwSUZOaFkyaGtaWFlhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaF1NoYXJhcmF0IGlzICMxIGdsb2JhbGx5IjtTaGFyYXJhdCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "yebNIHKAC4A",
@@ -221,7 +222,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IssBCAISfwoGR29sZGVuEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3llYk5JSEtBQzRBL21heHJlc2RlZmF1bHQuanBnGgEyIgdIVU5UUi9YIgRFSkFFIgtBVURSRVkgTlVOQSIHUkVJIEFNSSIXS1BvcCBEZW1vbiBIdW50ZXJzIENhc3QaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCnLuLSV-Oi0ctqjxGgxFlmg",
-                        "channelName": "Sony Pictures Animation"
+                        "channelName": "Sony Pictures Animation",
+                        "serializedShareEntity": "Cgt5ZWJOSUhLQUM0QXKJAwgHEhVHb2xkZW4gaXMgIzIgZ2xvYmFsbHkaOUdvbGRlbiBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjKWAgqTAklzc0JDQUlTZndvR1IyOXNaR1Z1RWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM2xsWWs1SlNFdEJRelJCTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dFeUlnZElWVTVVVWk5WUlnUkZTa0ZGSWd0QlZVUlNSVmtnVGxWT1FTSUhVa1ZKSUVGTlNTSVhTMUJ2Y0NCRVpXMXZiaUJJZFc1MFpYSnpJRU5oYzNRYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhpzaGFyZWNhcmRfMTc3NTExMzIwMF8yLmpwZ4ICrQMSxwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXNzQkNBSVNmd29HUjI5c1pHVnVFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwzbGxZazVKU0V0QlF6UkJMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0V5SWdkSVZVNVVVaTlZSWdSRlNrRkZJZ3RCVlVSU1JWa2dUbFZPUVNJSFVrVkpJRUZOU1NJWFMxQnZjQ0JFWlcxdmJpQklkVzUwWlhKeklFTmhjM1FhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaFUdvbGRlbiBpcyAjMiBnbG9iYWxseSI5R29sZGVuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "oafxkMv4xnc",
@@ -285,7 +287,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpcBCAISSwoGQmFpcmFuEjRodHRwczovL2kueXRpbWcuY29tL3ZpL29hZnhrTXY0eG5jL21heHJlc2RlZmF1bHQuanBnGgEzIghCYW5qYWFyZRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC4OuOL10HxF2bhSr_tf0oMA",
-                        "channelName": "Banjaare"
+                        "channelName": "Banjaare",
+                        "serializedShareEntity": "CgtvYWZ4a012NHhuY3LEAggHEhVCYWlyYW4gaXMgIzMgZ2xvYmFsbHkaOUJhaXJhbiBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLRAQrOAUlwY0JDQUlTU3dvR1FtRnBjbUZ1RWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMjloWm5oclRYWTBlRzVqTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dFeklnaENZVzVxWVdGeVpSb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhpzaGFyZWNhcmRfMTc3NTExMzIwMF8zLmpwZ4IC6AISggJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXBjQkNBSVNTd29HUW1GcGNtRnVFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwyOWhabmhyVFhZMGVHNWpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0V6SWdoQ1lXNXFZV0Z5WlJveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaFUJhaXJhbiBpcyAjMyBnbG9iYWxseSI5QmFpcmFuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "jZEA2mMwL1k",
@@ -357,7 +360,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IscBCAISewoNTXV0dGEgS2FsYWtraRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9qWkVBMm1Nd0wxay9tYXhyZXNkZWZhdWx0LmpwZxoBNCIMS2VuIEthcnVuYWFzIg9BbmFuZCBLYXNoaW5hdGgiEkcuVi4gUHJha2FzaCBLdW1hchoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCLnKZRT9orZAgttWtS2np2g",
-                        "channelName": "G.V. Prakash Kumar"
+                        "channelName": "G.V. Prakash Kumar",
+                        "serializedShareEntity": "CgtqWkVBMm1Nd0wxa3KSAwgHEhxNdXR0YSBLYWxha2tpIGlzICM0IGdsb2JhbGx5GkBNdXR0YSBLYWxha2tpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MpECCo4CSXNjQkNBSVNld29OVFhWMGRHRWdTMkZzWVd0cmFSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5cVdrVkJNbTFOZDB3eGF5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JOQ0lNUzJWdUlFdGhjblZ1WVdGeklnOUJibUZ1WkNCTFlYTm9hVzVoZEdnaUVrY3VWaTRnVUhKaGEyRnphQ0JMZFcxaGNob3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhpzaGFyZWNhcmRfMTc3NTExMzIwMF80LmpwZ4ICtgMSwgJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXNjQkNBSVNld29OVFhWMGRHRWdTMkZzWVd0cmFSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5cVdrVkJNbTFOZDB3eGF5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JOQ0lNUzJWdUlFdGhjblZ1WVdGeklnOUJibUZ1WkNCTFlYTm9hVzVoZEdnaUVrY3VWaTRnVUhKaGEyRnphQ0JMZFcxaGNob3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RGhxNdXR0YSBLYWxha2tpIGlzICM0IGdsb2JhbGx5IkBNdXR0YSBLYWxha2tpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "_gyultVTesk",
@@ -412,7 +416,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Io8BCAISQwoDMi4wEjRodHRwczovL2kueXRpbWcuY29tL3ZpL19neXVsdFZUZXNrL21heHJlc2RlZmF1bHQuanBnGgE1IgNCVFMaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC3IZKseVpdzPSBaWxBxundA",
-                        "channelName": "HYBE LABELS"
+                        "channelName": "HYBE LABELS",
+                        "serializedShareEntity": "CgtfZ3l1bHRWVGVza3KzAggHEhIyLjAgaXMgIzUgZ2xvYmFsbHkaNjIuMCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLGAQrDAUlvOEJDQUlTUXdvRE1pNHdFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxOW5lWFZzZEZaVVpYTnJMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0UxSWdOQ1ZGTWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Iac2hhcmVjYXJkXzE3NzUxMTMyMDBfNS5qcGeCAtcCEvcBaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlvOEJDQUlTUXdvRE1pNHdFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxOW5lWFZzZEZaVVpYTnJMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0UxSWdOQ1ZGTWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxoSMi4wIGlzICM1IGdsb2JhbGx5IjYyLjAgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "b4iVv91Z6lY",
@@ -469,7 +474,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpABCAISRAoEU1dJTRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iNGlWdjkxWjZsWS9tYXhyZXNkZWZhdWx0LmpwZxoBNiIDQlRTGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UC3IZKseVpdzPSBaWxBxundA",
-                        "channelName": "HYBE LABELS"
+                        "channelName": "HYBE LABELS",
+                        "serializedShareEntity": "CgtiNGlWdjkxWjZsWXK2AggHEhNTV0lNIGlzICM2IGdsb2JhbGx5GjdTV0lNIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MscBCsQBSXBBQkNBSVNSQW9FVTFkSlRSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5aU5HbFdkamt4V2pac1dTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JOaUlEUWxSVEdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIac2hhcmVjYXJkXzE3NzUxMTMyMDBfNi5qcGeCAtoCEvgBaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwQUJDQUlTUkFvRVUxZEpUUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOWlOR2xXZGpreFdqWnNXUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9CTmlJRFFsUlRHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTUaE1NXSU0gaXMgIzYgZ2xvYmFsbHkiN1NXSU0gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "GVizJ_jpUnw",
@@ -540,7 +546,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IssBCAISfwoJR2VocmEgSHVhEjRodHRwczovL2kueXRpbWcuY29tL3ZpL0dWaXpKX2pwVW53L21heHJlc2RlZmF1bHQuanBnGgE3IgxBcmlqaXQgU2luZ2giC0FybWFhbiBLaGFuIhBTaGFzaHdhdCBTYWNoZGV2IgxJcnNoYWQgS2FtaWwaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC_A7K2dXFsTMAciGmnNxy-Q",
-                        "channelName": "Saregama Music"
+                        "channelName": "Saregama Music",
+                        "serializedShareEntity": "CgtHVml6Sl9qcFVud3KPAwgHEhhHZWhyYSBIdWEgaXMgIzcgZ2xvYmFsbHkaPEdlaHJhIEh1YSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjKWAgqTAklzc0JDQUlTZndvSlIyVm9jbUVnU0hWaEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDBkV2FYcEtYMnB3Vlc1M0wyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnRTNJZ3hCY21scWFYUWdVMmx1WjJnaUMwRnliV0ZoYmlCTGFHRnVJaEJUYUdGemFIZGhkQ0JUWVdOb1pHVjJJZ3hKY25Ob1lXUWdTMkZ0YVd3YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhpzaGFyZWNhcmRfMTc3NTExMzIwMF83LmpwZ4ICswMSxwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXNzQkNBSVNmd29KUjJWb2NtRWdTSFZoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMGRXYVhwS1gycHdWVzUzTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dFM0lneEJjbWxxYVhRZ1UybHVaMmdpQzBGeWJXRmhiaUJMYUdGdUloQlRhR0Z6YUhkaGRDQlRZV05vWkdWMklneEpjbk5vWVdRZ1MyRnRhV3dhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaGEdlaHJhIEh1YSBpcyAjNyBnbG9iYWxseSI8R2VocmEgSHVhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "aRNfSqsgrgE",
@@ -608,7 +615,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqYBCAISWgoHU2hlZXNoYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9hUk5mU3FzZ3JnRS9tYXhyZXNkZWZhdWx0LmpwZxoBOCIJTWl0dGEgUm9yIgtTd2FyYSBWZXJtYRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
-                        "channelName": "Sony Music India"
+                        "channelName": "Sony Music India",
+                        "serializedShareEntity": "CgthUk5mU3FzZ3JnRXLaAggHEhZTaGVlc2hhIGlzICM4IGdsb2JhbGx5GjpTaGVlc2hhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MuUBCuIBSXFZQkNBSVNXZ29IVTJobFpYTm9ZUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOWhVazVtVTNGelozSm5SUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9CT0NJSlRXbDBkR0VnVW05eUlndFRkMkZ5WVNCV1pYSnRZUm95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPUVIac2hhcmVjYXJkXzE3NzUxMTMyMDBfOC5qcGeCAv4CEpYCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxWUJDQUlTV2dvSFUyaGxaWE5vWVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzloVWs1bVUzRnpaM0puUlM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQk9DSUpUV2wwZEdFZ1VtOXlJZ3RUZDJGeVlTQldaWEp0WVJveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaFlNoZWVzaGEgaXMgIzggZ2xvYmFsbHkiOlNoZWVzaGEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "ekr2nIex040",
@@ -675,7 +683,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ip8BCAISUwoEQVBULhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9la3IybklleDA0MC9tYXhyZXNkZWZhdWx0LmpwZxoBOSIGUk9TRcyBIgpCcnVubyBNYXJzGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
-                        "channelName": "ROSÉ"
+                        "channelName": "ROSÉ",
+                        "serializedShareEntity": "Cgtla3IybklleDA0MHLKAggHEhNBUFQuIGlzICM5IGdsb2JhbGx5GjdBUFQuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtsBCtgBSXA4QkNBSVNVd29FUVZCVUxoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5bGEzSXlia2xsZURBME1DOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JPU0lHVWs5VFJjeUJJZ3BDY25WdWJ5Qk5ZWEp6R2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1UhpzaGFyZWNhcmRfMTc3NTExMzIwMF85LmpwZ4IC7gISjAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXA4QkNBSVNVd29FUVZCVUxoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5bGEzSXlia2xsZURBME1DOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JPU0lHVWs5VFJjeUJJZ3BDY25WdWJ5Qk5ZWEp6R2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1GhNBUFQuIGlzICM5IGdsb2JhbGx5IjdBUFQuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "GX9x62kFsVU",
@@ -748,7 +757,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Is0BCAISgAEKCUdlaHJhIEh1YRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9HWDl4NjJrRnNWVS9tYXhyZXNkZWZhdWx0LmpwZxoCMTAiDEFyaWppdCBTaW5naCILQXJtYWFuIEtoYW4iEFNoYXNod2F0IFNhY2hkZXYiDElyc2hhZCBLYW1pbBoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC_A7K2dXFsTMAciGmnNxy-Q",
-                        "channelName": "Saregama Music"
+                        "channelName": "Saregama Music",
+                        "serializedShareEntity": "CgtHWDl4NjJrRnNWVXKUAwgHEhlHZWhyYSBIdWEgaXMgIzEwIGdsb2JhbGx5GjxHZWhyYSBIdWEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYymQIKlgJJczBCQ0FJU2dBRUtDVWRsYUhKaElFaDFZUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOUhXRGw0TmpKclJuTldWUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTVRBaURFRnlhV3BwZENCVGFXNW5hQ0lMUVhKdFlXRnVJRXRvWVc0aUVGTm9ZWE5vZDJGMElGTmhZMmhrWlhZaURFbHljMmhoWkNCTFlXMXBiQm95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPUVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfMTAuanBnggK3AxLKAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JczBCQ0FJU2dBRUtDVWRsYUhKaElFaDFZUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOUhXRGw0TmpKclJuTldWUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTVRBaURFRnlhV3BwZENCVGFXNW5hQ0lMUVhKdFlXRnVJRXRvWVc0aUVGTm9ZWE5vZDJGMElGTmhZMmhrWlhZaURFbHljMmhoWkNCTFlXMXBiQm95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPURoZR2VocmEgSHVhIGlzICMxMCBnbG9iYWxseSI8R2VocmEgSHVhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "b68HETiNO98",
@@ -816,7 +826,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IskBCAISfQoiUGF2YXpoYSBNYWxsaSAoRnJvbSAiVGhpbmsgSW5kaWUiKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iNjhIRVRpTk85OC9tYXhyZXNkZWZhdWx0LmpwZxoCMTEiDlNhaSBBYmh5YW5ra2FyIg1TaHJ1dGkgSGFhc2FuGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCLbdVvreihwZRL6kwuEUYsA",
-                        "channelName": "Think Music India"
+                        "channelName": "Think Music India",
+                        "serializedShareEntity": "CgtiNjhIRVRpTk85OHLAAwgHEjJQYXZhemhhIE1hbGxpIChGcm9tICJUaGluayBJbmRpZSIpIGlzICMxMSBnbG9iYWxseRpVUGF2YXpoYSBNYWxsaSAoRnJvbSAiVGhpbmsgSW5kaWUiKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjKTAgqQAklza0JDQUlTZlFvaVVHRjJZWHBvWVNCTllXeHNhU0FvUm5KdmJTQWlWR2hwYm1zZ1NXNWthV1VpS1JJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlpTmpoSVJWUnBUazg1T0M5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ01URWlEbE5oYVNCQlltaDVZVzVyYTJGeUlnMVRhSEoxZEdrZ1NHRmhjMkZ1R2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1UhtzaGFyZWNhcmRfMTc3NTExMzIwMF8xMS5qcGeCAuMDEsQCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlza0JDQUlTZlFvaVVHRjJZWHBvWVNCTllXeHNhU0FvUm5KdmJTQWlWR2hwYm1zZ1NXNWthV1VpS1JJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlpTmpoSVJWUnBUazg1T0M5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ01URWlEbE5oYVNCQlltaDVZVzVyYTJGeUlnMVRhSEoxZEdrZ1NHRmhjMkZ1R2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1GjJQYXZhemhhIE1hbGxpIChGcm9tICJUaGluayBJbmRpZSIpIGlzICMxMSBnbG9iYWxseSJVUGF2YXpoYSBNYWxsaSAoRnJvbSAiVGhpbmsgSW5kaWUiKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "yrjDEU9F1bw",
@@ -887,7 +898,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrMBCAISZwoMQmFpcmkgKExvZmkpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3lyakRFVTlGMWJ3L21heHJlc2RlZmF1bHQuanBnGgIxMiIFVmlyYXQiD1ByYWRlZXAgU29sYW5raSIFSGVlbmEaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCjnD_ck1JPxY9N5dewjLpGw",
-                        "channelName": "Jhoom Rajasthan"
+                        "channelName": "Jhoom Rajasthan",
+                        "serializedShareEntity": "Cgt5cmpERVU5RjFid3L3AggHEhxCYWlyaSAoTG9maSkgaXMgIzEyIGdsb2JhbGx5Gj9CYWlyaSAoTG9maSkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy9gEK8wFJck1CQ0FJU1p3b01RbUZwY21rZ0tFeHZabWtwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM2x5YWtSRlZUbEdNV0ozTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeE1pSUZWbWx5WVhRaUQxQnlZV1JsWlhBZ1UyOXNZVzVyYVNJRlNHVmxibUVhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzEyLmpwZ4ICmgMSpwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJNQkNBSVNad29NUW1GcGNta2dLRXh2Wm1rcEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDNseWFrUkZWVGxHTVdKM0wyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSXhNaUlGVm1seVlYUWlEMUJ5WVdSbFpYQWdVMjlzWVc1cmFTSUZTR1ZsYm1FYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrGhxCYWlyaSAoTG9maSkgaXMgIzEyIGdsb2JhbGx5Ij9CYWlyaSAoTG9maSkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "F2m4HPLvj-4",
@@ -955,7 +967,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IskBCAISfQoMSmFpeWUgU2FqYW5hEjRodHRwczovL2kueXRpbWcuY29tL3ZpL0YybTRIUEx2ai00L21heHJlc2RlZmF1bHQuanBnGgIxMyIPSmFzbWluZSBTYW5kbGFzIhBTYXRpbmRlciBTYXJ0YWFqIhBTaGFzaHdhdCBTYWNoZGV2GjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "CgtGMm00SFBMdmotNHKUAwgHEhxKYWl5ZSBTYWphbmEgaXMgIzEzIGdsb2JhbGx5Gj9KYWl5ZSBTYWphbmEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYykwIKkAJJc2tCQ0FJU2ZRb01TbUZwZVdVZ1UyRnFZVzVoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMFl5YlRSSVVFeDJhaTAwTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeE15SVBTbUZ6YldsdVpTQlRZVzVrYkdGekloQlRZWFJwYm1SbGNpQlRZWEowWVdGcUloQlRhR0Z6YUhkaGRDQlRZV05vWkdWMkdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfMTMuanBnggK3AxLEAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jc2tCQ0FJU2ZRb01TbUZwZVdVZ1UyRnFZVzVoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMFl5YlRSSVVFeDJhaTAwTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeE15SVBTbUZ6YldsdVpTQlRZVzVrYkdGekloQlRZWFJwYm1SbGNpQlRZWEowWVdGcUloQlRhR0Z6YUhkaGRDQlRZV05vWkdWMkdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRocSmFpeWUgU2FqYW5hIGlzICMxMyBnbG9iYWxseSI_SmFpeWUgU2FqYW5hIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "SOJpE1KMUbo",
@@ -1024,7 +1037,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpcBCAISSwoJUmFpbmRhbmNlEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1NPSnBFMUtNVWJvL21heHJlc2RlZmF1bHQuanBnGgIxNCIERGF2ZRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC5-cg5RahETrjGu-r8zjYCQ",
-                        "channelName": "Santan Dave"
+                        "channelName": "Santan Dave",
+                        "serializedShareEntity": "CgtTT0pwRTFLTVVib3LMAggHEhlSYWluZGFuY2UgaXMgIzE0IGdsb2JhbGx5GjxSYWluZGFuY2Ugb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy0QEKzgFJcGNCQ0FJU1N3b0pVbUZwYm1SaGJtTmxFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxTlBTbkJGTVV0TlZXSnZMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l4TkNJRVJHRjJaUm95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPUVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfMTQuanBnggLvAhKCAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcGNCQ0FJU1N3b0pVbUZwYm1SaGJtTmxFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxTlBTbkJGTVV0TlZXSnZMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l4TkNJRVJHRjJaUm95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPURoZUmFpbmRhbmNlIGlzICMxNCBnbG9iYWxseSI8UmFpbmRhbmNlIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "h-Y97xErGL8",
@@ -1081,7 +1095,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpEBCAISRQoEU1dJTRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9oLVk5N3hFckdMOC9tYXhyZXNkZWZhdWx0LmpwZxoCMTUiA0JUUxoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC3IZKseVpdzPSBaWxBxundA",
-                        "channelName": "HYBE LABELS"
+                        "channelName": "HYBE LABELS",
+                        "serializedShareEntity": "CgtoLVk5N3hFckdMOHK6AggHEhRTV0lNIGlzICMxNSBnbG9iYWxseRo3U1dJTSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLJAQrGAUlwRUJDQUlTUlFvRVUxZEpUUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOW9MVms1TjNoRmNrZE1PQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTVRVaUEwSlVVeG95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPUVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfMTUuanBnggLdAhL6AWh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcEVCQ0FJU1JRb0VVMWRKVFJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlvTFZrNU4zaEZja2RNT0M5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ01UVWlBMEpVVXhveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaFFNXSU0gaXMgIzE1IGdsb2JhbGx5IjdTV0lNIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "czgm5uaO3gI",
@@ -1146,7 +1161,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrgBCAISbAoMTHV0dCBMZSBHYXlhEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2N6Z201dWFPM2dJL21heHJlc2RlZmF1bHQuanBnGgIxNiIQU2ltcmFuIENob3VkaGFyeSIQU2hhc2h3YXQgU2FjaGRldhoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC_A7K2dXFsTMAciGmnNxy-Q",
-                        "channelName": "Saregama Music"
+                        "channelName": "Saregama Music",
+                        "serializedShareEntity": "CgtjemdtNXVhTzNnSXL-AggHEhxMdXR0IExlIEdheWEgaXMgIzE2IGdsb2JhbGx5Gj9MdXR0IExlIEdheWEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy_QEK-gFJcmdCQ0FJU2JBb01USFYwZENCTVpTQkhZWGxoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMk42WjIwMWRXRlBNMmRKTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeE5pSVFVMmx0Y21GdUlFTm9iM1ZrYUdGeWVTSVFVMmhoYzJoM1lYUWdVMkZqYUdSbGRob3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8xNi5qcGeCAqEDEq4CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyZ0JDQUlTYkFvTVRIVjBkQ0JNWlNCSFlYbGhFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwyTjZaMjAxZFdGUE0yZEpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l4TmlJUVUybHRjbUZ1SUVOb2IzVmthR0Z5ZVNJUVUyaGhjMmgzWVhRZ1UyRmphR1JsZGhveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaHEx1dHQgTGUgR2F5YSBpcyAjMTYgZ2xvYmFsbHkiP0x1dHQgTGUgR2F5YSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "ko70cExuzZM",
@@ -1213,11 +1229,12 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqkBCAISXQoTVGhlIEZhdGUgb2YgT3BoZWxpYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9rbzcwY0V4dXpaTS9tYXhyZXNkZWZhdWx0LmpwZxoCMTciDFRheWxvciBTd2lmdBoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
-                        "channelName": "Taylor Swift"
+                        "channelName": "Taylor Swift",
+                        "serializedShareEntity": "CgtrbzcwY0V4dXpaTXL4AggHEiNUaGUgRmF0ZSBvZiBPcGhlbGlhIGlzICMxNyBnbG9iYWxseRpGVGhlIEZhdGUgb2YgT3BoZWxpYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLpAQrmAUlxa0JDQUlTWFFvVFZHaGxJRVpoZEdVZ2IyWWdUM0JvWld4cFlSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5cmJ6Y3dZMFY0ZFhwYVRTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NNVGNpREZSaGVXeHZjaUJUZDJsbWRCb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8xNy5qcGeCApsDEpoCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxa0JDQUlTWFFvVFZHaGxJRVpoZEdVZ2IyWWdUM0JvWld4cFlSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5cmJ6Y3dZMFY0ZFhwYVRTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NNVGNpREZSaGVXeHZjaUJUZDJsbWRCb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RGiNUaGUgRmF0ZSBvZiBPcGhlbGlhIGlzICMxNyBnbG9iYWxseSJGVGhlIEZhdGUgb2YgT3BoZWxpYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "Aze7zTyIRtk",
-                        "title": "Aura 10/10 (From \"Meesaya Murukku 2\")",
+                        "title": "Aura 10/10 (From \"Gaana Gang\")",
                         "viewCount": "9729494",
                         "thumbnail": {
                           "thumbnails": [
@@ -1273,9 +1290,10 @@
                           "Hiphop Tamizha",
                           "Thamizh Aadhavan"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ir0BCAIScQolQXVyYSAxMC8xMCAoRnJvbSAiTWVlc2F5YSBNdXJ1a2t1IDIiKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9BemU3elR5SVJ0ay9tYXhyZXNkZWZhdWx0LmpwZxoCMTgiDkhpcGhvcCBUYW1pemhhGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrYBCAISagoeQXVyYSAxMC8xMCAoRnJvbSAiR2FhbmEgR2FuZyIpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL0F6ZTd6VHlJUnRrL21heHJlc2RlZmF1bHQuanBnGgIxOCIOSGlwaG9wIFRhbWl6aGEaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCzee67JnEcuvjErRyWP3GpQ",
-                        "channelName": "Saregama Tamil"
+                        "channelName": "Saregama Tamil",
+                        "serializedShareEntity": "CgtBemU3elR5SVJ0a3KfAwgHEi5BdXJhIDEwLzEwIChGcm9tICJHYWFuYSBHYW5nIikgaXMgIzE4IGdsb2JhbGx5GlFBdXJhIDEwLzEwIChGcm9tICJHYWFuYSBHYW5nIikgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy-gEK9wFJcllCQ0FJU2Fnb2VRWFZ5WVNBeE1DOHhNQ0FvUm5KdmJTQWlSMkZoYm1FZ1IyRnVaeUlwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMEY2WlRkNlZIbEpVblJyTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeE9DSU9TR2x3YUc5d0lGUmhiV2w2YUdFYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8xOC5qcGeCAsIDEqsCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyWUJDQUlTYWdvZVFYVnlZU0F4TUM4eE1DQW9Sbkp2YlNBaVIyRmhibUVnUjJGdVp5SXBFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwwRjZaVGQ2VkhsSlVuUnJMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l4T0NJT1NHbHdhRzl3SUZSaGJXbDZhR0VhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaLkF1cmEgMTAvMTAgKEZyb20gIkdhYW5hIEdhbmciKSBpcyAjMTggZ2xvYmFsbHkiUUF1cmEgMTAvMTAgKEZyb20gIkdhYW5hIEdhbmciKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "HBMy-y2wb4I",
@@ -1340,7 +1358,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ip4BCAISUgoGRkFUSEVSEjRodHRwczovL2kueXRpbWcuY29tL3ZpL0hCTXkteTJ3YjRJL21heHJlc2RlZmF1bHQuanBnGgIxOSIKS2FueWUgV2VzdCICWWUaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCs6eXM7s8Vl5WcECcRHc2qQ",
-                        "channelName": "Kanye West"
+                        "channelName": "Kanye West",
+                        "serializedShareEntity": "CgtIQk15LXkyd2I0SXLPAggHEhZGQVRIRVIgaXMgIzE5IGdsb2JhbGx5GjlGQVRIRVIgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy2gEK1wFJcDRCQ0FJU1Vnb0dSa0ZVU0VWU0VqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDBoQ1RYa3RlVEozWWpSSkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSXhPU0lLUzJGdWVXVWdWMlZ6ZENJQ1dXVWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfMTkuanBnggLyAhKLAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcDRCQ0FJU1Vnb0dSa0ZVU0VWU0VqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDBoQ1RYa3RlVEozWWpSSkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSXhPU0lLUzJGdWVXVWdWMlZ6ZENJQ1dXVWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxoWRkFUSEVSIGlzICMxOSBnbG9iYWxseSI5RkFUSEVSIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "kwwdY1bp-Ck",
@@ -1395,9 +1414,17 @@
                           "month": 1,
                           "day": 28
                         },
+                        "songwriters": [
+                          "Jesus Chairez",
+                          "Jesus Chairez"
+                        ],
+                        "songProducers": [
+                          "Lenin Ramirez"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqMBCAISVwoLVG9kbyBMbyBGdWUSNGh0dHBzOi8vaS55dGltZy5jb20vdmkva3d3ZFkxYnAtQ2svbWF4cmVzZGVmYXVsdC5qcGcaAjIwIg5MZW5pbiBSYW3DrXJlehoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UChYwYTzrhfxPfJPFWRlYwUg",
-                        "channelName": "DEL Records"
+                        "channelName": "DEL Records",
+                        "serializedShareEntity": "Cgtrd3dkWTFicC1Da3LgAggHEhtUb2RvIExvIEZ1ZSBpcyAjMjAgZ2xvYmFsbHkaPlRvZG8gTG8gRnVlIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MuEBCt4BSXFNQkNBSVNWd29MVkc5a2J5Qk1ieUJHZFdVU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2YTNkM1pGa3hZbkF0UTJzdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqSXdJZzVNWlc1cGJpQlNZVzNEclhKbGVob3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8yMC5qcGeCAoMDEpICaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxTUJDQUlTVndvTFZHOWtieUJNYnlCR2RXVVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmEzZDNaRmt4WW5BdFEyc3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBakl3SWc1TVpXNXBiaUJTWVczRHJYSmxlaG95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPURobVG9kbyBMbyBGdWUgaXMgIzIwIGdsb2JhbGx5Ij5Ub2RvIExvIEZ1ZSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "xV1-V1E5ZlQ",
@@ -1465,7 +1492,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IskBCAISfQoMSmFpeWUgU2FqYW5hEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3hWMS1WMUU1WmxRL21heHJlc2RlZmF1bHQuanBnGgIyMSIPSmFzbWluZSBTYW5kbGFzIhBTYXRpbmRlciBTYXJ0YWFqIhBTaGFzaHdhdCBTYWNoZGV2GjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "Cgt4VjEtVjFFNVpsUXKUAwgHEhxKYWl5ZSBTYWphbmEgaXMgIzIxIGdsb2JhbGx5Gj9KYWl5ZSBTYWphbmEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYykwIKkAJJc2tCQ0FJU2ZRb01TbUZwZVdVZ1UyRnFZVzVoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM2hXTVMxV01VVTFXbXhSTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeU1TSVBTbUZ6YldsdVpTQlRZVzVrYkdGekloQlRZWFJwYm1SbGNpQlRZWEowWVdGcUloQlRhR0Z6YUhkaGRDQlRZV05vWkdWMkdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfMjEuanBnggK3AxLEAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jc2tCQ0FJU2ZRb01TbUZwZVdVZ1UyRnFZVzVoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM2hXTVMxV01VVTFXbXhSTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeU1TSVBTbUZ6YldsdVpTQlRZVzVrYkdGekloQlRZWFJwYm1SbGNpQlRZWEowWVdGcUloQlRhR0Z6YUhkaGRDQlRZV05vWkdWMkdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRocSmFpeWUgU2FqYW5hIGlzICMyMSBnbG9iYWxseSI_SmFpeWUgU2FqYW5hIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "iAtoZar5W58",
@@ -1538,7 +1566,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItEBCAIShAEKCUFheWEgU2hlchI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9pQXRvWmFyNVc1OC9tYXhyZXNkZWZhdWx0LmpwZxoCMjIiC0phbmdpIFJlZGR5IgxBcmp1biBDaGFuZHkiE0FuaXJ1ZGggUmF2aWNoYW5kZXIiDUthc2FybGEgU2h5YW0aMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC68nKdrLbLL0Vj7ilVkLmmg",
-                        "channelName": "Saregama Telugu"
+                        "channelName": "Saregama Telugu",
+                        "serializedShareEntity": "CgtpQXRvWmFyNVc1OHKZAwgHEhlBYXlhIFNoZXIgaXMgIzIyIGdsb2JhbGx5GjxBYXlhIFNoZXIgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYyngIKmwJJdEVCQ0FJU2hBRUtDVUZoZVdFZ1UyaGxjaEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOXBRWFJ2V21GeU5WYzFPQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTWpJaUMwcGhibWRwSUZKbFpHUjVJZ3hCY21wMWJpQkRhR0Z1WkhraUUwRnVhWEoxWkdnZ1VtRjJhV05vWVc1a1pYSWlEVXRoYzJGeWJHRWdVMmg1WVcwYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8yMi5qcGeCArwDEs8CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl0RUJDQUlTaEFFS0NVRmhlV0VnVTJobGNoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5cFFYUnZXbUZ5TlZjMU9DOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NNaklpQzBwaGJtZHBJRkpsWkdSNUlneEJjbXAxYmlCRGFHRnVaSGtpRTBGdWFYSjFaR2dnVW1GMmFXTm9ZVzVrWlhJaURVdGhjMkZ5YkdFZ1UyaDVZVzBhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaGUFheWEgU2hlciBpcyAjMjIgZ2xvYmFsbHkiPEFheWEgU2hlciBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "dESIGVxSSCE",
@@ -1626,7 +1655,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IooCCAISvQEKIkRodXJhbmRoYXIgVGhlIFJldmVuZ2UgLSBBYXJpIEFhcmkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvZEVTSUdWeFNTQ0UvbWF4cmVzZGVmYXVsdC5qcGcaAjIzIhBTaGFzaHdhdCBTYWNoZGV2Ig5Cb21iYXkgUm9ja2VycyIJS2hhbiBTYWFiIg9KYXNtaW5lIFNhbmRsYXMiEVN1ZGhpciBZYWR1dmFuc2hpIgVSZWJsZSIFVG9rZW4aMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "CgtkRVNJR1Z4U1NDRXKXBAgHEjJEaHVyYW5kaGFyIFRoZSBSZXZlbmdlIC0gQWFyaSBBYXJpIGlzICMyMyBnbG9iYWxseRpVRGh1cmFuZGhhciBUaGUgUmV2ZW5nZSAtIEFhcmkgQWFyaSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLqAgrnAklvb0NDQUlTdlFFS0lrUm9kWEpoYm1Sb1lYSWdWR2hsSUZKbGRtVnVaMlVnTFNCQllYSnBJRUZoY21rU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2WkVWVFNVZFdlRk5UUTBVdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqSXpJaEJUYUdGemFIZGhkQ0JUWVdOb1pHVjJJZzVDYjIxaVlYa2dVbTlqYTJWeWN5SUpTMmhoYmlCVFlXRmlJZzlLWVhOdGFXNWxJRk5oYm1Sc1lYTWlFVk4xWkdocGNpQlpZV1IxZG1GdWMyaHBJZ1ZTWldKc1pTSUZWRzlyWlc0YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8yMy5qcGeCAroEEpsDaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlvb0NDQUlTdlFFS0lrUm9kWEpoYm1Sb1lYSWdWR2hsSUZKbGRtVnVaMlVnTFNCQllYSnBJRUZoY21rU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2WkVWVFNVZFdlRk5UUTBVdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqSXpJaEJUYUdGemFIZGhkQ0JUWVdOb1pHVjJJZzVDYjIxaVlYa2dVbTlqYTJWeWN5SUpTMmhoYmlCVFlXRmlJZzlLWVhOdGFXNWxJRk5oYm1Sc1lYTWlFVk4xWkdocGNpQlpZV1IxZG1GdWMyaHBJZ1ZTWldKc1pTSUZWRzlyWlc0YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrGjJEaHVyYW5kaGFyIFRoZSBSZXZlbmdlIC0gQWFyaSBBYXJpIGlzICMyMyBnbG9iYWxseSJVRGh1cmFuZGhhciBUaGUgUmV2ZW5nZSAtIEFhcmkgQWFyaSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "Th2Op6uvNXw",
@@ -1707,7 +1737,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvkBCAISrAEKFEh1bSBQeWFhciBLYXJuZSBXYWxlEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1RoMk9wNnV2Tlh3L21heHJlc2RlZmF1bHQuanBnGgIyNCIQQW51cmFkaGEgUGF1ZHdhbCIMVWRpdCBOYXJheWFuIgtRdmVlbiBIZXJieSIQU2hhc2h3YXQgU2FjaGRldiIMQW5hbmQtTWlsaW5kIg1TYW1lZXIgQW5qYWFuGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "CgtUaDJPcDZ1dk5Yd3LkAwgHEiRIdW0gUHlhYXIgS2FybmUgV2FsZSBpcyAjMjQgZ2xvYmFsbHkaR0h1bSBQeWFhciBLYXJuZSBXYWxlIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtMCCtACSXZrQkNBSVNyQUVLRkVoMWJTQlFlV0ZoY2lCTFlYSnVaU0JYWVd4bEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDFSb01rOXdOblYyVGxoM0wyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSXlOQ0lRUVc1MWNtRmthR0VnVUdGMVpIZGhiQ0lNVldScGRDQk9ZWEpoZVdGdUlndFJkbVZsYmlCSVpYSmllU0lRVTJoaGMyaDNZWFFnVTJGamFHUmxkaUlNUVc1aGJtUXRUV2xzYVc1a0lnMVRZVzFsWlhJZ1FXNXFZV0Z1R2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1UhtzaGFyZWNhcmRfMTc3NTExMzIwMF8yNC5qcGeCAocEEoQDaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl2a0JDQUlTckFFS0ZFaDFiU0JRZVdGaGNpQkxZWEp1WlNCWFlXeGxFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxUm9Nazl3Tm5WMlRsaDNMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l5TkNJUVFXNTFjbUZrYUdFZ1VHRjFaSGRoYkNJTVZXUnBkQ0JPWVhKaGVXRnVJZ3RSZG1WbGJpQklaWEppZVNJUVUyaGhjMmgzWVhRZ1UyRmphR1JsZGlJTVFXNWhibVF0VFdsc2FXNWtJZzFUWVcxbFpYSWdRVzVxWVdGdUdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRokSHVtIFB5YWFyIEthcm5lIFdhbGUgaXMgIzI0IGdsb2JhbGx5IkdIdW0gUHlhYXIgS2FybmUgV2FsZSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "ZvXN0TcZLfQ",
@@ -1775,7 +1806,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqsBCAISXwoIRm9ydHVuZXISNGh0dHBzOi8vaS55dGltZy5jb20vdmkvWnZYTjBUY1pMZlEvbWF4cmVzZGVmYXVsdC5qcGcaAjI1IglSYWogTWF3YXIiDlJ1Y2hpa2EgSmFuZ2lkGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCRLmEkBUd79YjTZTWLPBrYQ",
-                        "channelName": "VATS RECORDS"
+                        "channelName": "VATS RECORDS",
+                        "serializedShareEntity": "CgtadlhOMFRjWkxmUXLkAggHEhhGb3J0dW5lciBpcyAjMjUgZ2xvYmFsbHkaO0ZvcnR1bmVyIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MusBCugBSXFzQkNBSVNYd29JUm05eWRIVnVaWElTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZXblpZVGpCVVkxcE1abEV2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpJMUlnbFNZV29nVFdGM1lYSWlEbEoxWTJocGEyRWdTbUZ1WjJsa0dqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfMjUuanBnggKHAxKcAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcXNCQ0FJU1h3b0lSbTl5ZEhWdVpYSVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlduWllUakJVWTFwTVpsRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBakkxSWdsU1lXb2dUV0YzWVhJaURsSjFZMmhwYTJFZ1NtRnVaMmxrR2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1GhhGb3J0dW5lciBpcyAjMjUgZ2xvYmFsbHkiO0ZvcnR1bmVyIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "7SsmyjVF1Oo",
@@ -1840,7 +1872,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqgBCAISXAoLWWEgQm9ycmFjaG8SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvN1NzbXlqVkYxT28vbWF4cmVzZGVmYXVsdC5qcGcaAjI2IhNIZXJlbmNpYSBEZSBHcmFuZGVzGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UC648rgJOboZlgcDbW00vTSA",
-                        "channelName": "Rancho Humilde"
+                        "channelName": "Rancho Humilde",
+                        "serializedShareEntity": "Cgs3U3NteWpWRjFPb3LmAggHEhtZYSBCb3JyYWNobyBpcyAjMjYgZ2xvYmFsbHkaPllhIEJvcnJhY2hvIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MucBCuQBSXFnQkNBSVNYQW9MV1dFZ1FtOXljbUZqYUc4U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2TjFOemJYbHFWa1l4VDI4dmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqSTJJaE5JWlhKbGJtTnBZU0JFWlNCSGNtRnVaR1Z6R2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1UhtzaGFyZWNhcmRfMTc3NTExMzIwMF8yNi5qcGeCAokDEpgCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxZ0JDQUlTWEFvTFdXRWdRbTl5Y21GamFHOFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk4xTnpiWGxxVmtZeFQyOHZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBakkySWhOSVpYSmxibU5wWVNCRVpTQkhjbUZ1WkdWekdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRobWWEgQm9ycmFjaG8gaXMgIzI2IGdsb2JhbGx5Ij5ZYSBCb3JyYWNobyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "-gZylSjWtPo",
@@ -1905,7 +1938,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrYBCAISagoRTmFjaCBOYWdpbiBKYWlzYW4SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvLWdaeWxTald0UG8vbWF4cmVzZGVmYXVsdC5qcGcaAjI3IgxSYXVzaGFuIFJvaGkiDUtodXNoaSBLYWtrYXIaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCh6r40fbLs62rieVnODZkSw",
-                        "channelName": "Raushan Rohi Entertainment"
+                        "channelName": "Raushan Rohi Entertainment",
+                        "serializedShareEntity": "CgstZ1p5bFNqV3RQb3KFAwgHEiFOYWNoIE5hZ2luIEphaXNhbiBpcyAjMjcgZ2xvYmFsbHkaRE5hY2ggTmFnaW4gSmFpc2FuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MvoBCvcBSXJZQkNBSVNhZ29SVG1GamFDQk9ZV2RwYmlCS1lXbHpZVzRTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZMV2RhZVd4VGFsZDBVRzh2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpJM0lneFNZWFZ6YUdGdUlGSnZhR2tpRFV0b2RYTm9hU0JMWVd0cllYSWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfMjcuanBnggKoAxKrAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcllCQ0FJU2Fnb1JUbUZqYUNCT1lXZHBiaUJLWVdsellXNFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdkxXZGFlV3hUYWxkMFVHOHZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBakkzSWd4U1lYVnphR0Z1SUZKdmFHa2lEVXRvZFhOb2FTQkxZV3RyWVhJYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrGiFOYWNoIE5hZ2luIEphaXNhbiBpcyAjMjcgZ2xvYmFsbHkiRE5hY2ggTmFnaW4gSmFpc2FuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "8of5w7RgcTc",
@@ -1973,7 +2007,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqcBCAISWwoHUGFsIFBhbBI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS84b2Y1dzdSZ2NUYy9tYXhyZXNkZWZhdWx0LmpwZxoCMjgiBkFmdXNpYyIOQWxpU29vbXJvTXVzaWMaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCVIabJe0HKaZ3GkJB3e1g0Q",
-                        "channelName": "AFUSIC"
+                        "channelName": "AFUSIC",
+                        "serializedShareEntity": "Cgs4b2Y1dzdSZ2NUY3LdAggHEhdQYWwgUGFsIGlzICMyOCBnbG9iYWxseRo6UGFsIFBhbCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLmAQrjAUlxY0JDQUlTV3dvSFVHRnNJRkJoYkJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzg0YjJZMWR6ZFNaMk5VWXk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ01qZ2lCa0ZtZFhOcFl5SU9RV3hwVTI5dmJYSnZUWFZ6YVdNYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8yOC5qcGeCAoADEpcCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxY0JDQUlTV3dvSFVHRnNJRkJoYkJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzg0YjJZMWR6ZFNaMk5VWXk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ01qZ2lCa0ZtZFhOcFl5SU9RV3hwVTI5dmJYSnZUWFZ6YVdNYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrGhdQYWwgUGFsIGlzICMyOCBnbG9iYWxseSI6UGFsIFBhbCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "983bBbJx0Mk",
@@ -2066,7 +2101,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Iu8BCAISogEKCFNvZGEgUG9wEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzk4M2JCYkp4ME1rL21heHJlc2RlZmF1bHQuanBnGgIyOSIJU2FqYSBCb3lzIgtBbmRyZXcgQ2hvaSIHTmVja3dhdiILRGFubnkgQ2h1bmciCUtFVklOIFdPTyIKc2FtVUlMIExlZSIXS1BvcCBEZW1vbiBIdW50ZXJzIENhc3QaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCnLuLSV-Oi0ctqjxGgxFlmg",
-                        "channelName": "Sony Pictures Animation"
+                        "channelName": "Sony Pictures Animation",
+                        "serializedShareEntity": "Cgs5ODNiQmJKeDBNa3K_AwgHEhhTb2RhIFBvcCBpcyAjMjkgZ2xvYmFsbHkaO1NvZGEgUG9wIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MsYCCsMCSXU4QkNBSVNvZ0VLQ0ZOdlpHRWdVRzl3RWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMems0TTJKQ1lrcDRNRTFyTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeU9TSUpVMkZxWVNCQ2IzbHpJZ3RCYm1SeVpYY2dRMmh2YVNJSFRtVmphM2RoZGlJTFJHRnVibmtnUTJoMWJtY2lDVXRGVmtsT0lGZFBUeUlLYzJGdFZVbE1JRXhsWlNJWFMxQnZjQ0JFWlcxdmJpQklkVzUwWlhKeklFTmhjM1FhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzI5LmpwZ4IC4gMS9wJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXU4QkNBSVNvZ0VLQ0ZOdlpHRWdVRzl3RWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMems0TTJKQ1lrcDRNRTFyTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeU9TSUpVMkZxWVNCQ2IzbHpJZ3RCYm1SeVpYY2dRMmh2YVNJSFRtVmphM2RoZGlJTFJHRnVibmtnUTJoMWJtY2lDVXRGVmtsT0lGZFBUeUlLYzJGdFZVbE1JRXhsWlNJWFMxQnZjQ0JFWlcxdmJpQklkVzUwWlhKeklFTmhjM1FhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaGFNvZGEgUG9wIGlzICMyOSBnbG9iYWxseSI7U29kYSBQb3Agb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "TkLkStcQ0o4",
@@ -2132,7 +2168,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrkBCAISbQoUSmFhbiBTZSBHdXphcnRlIEhhaW4SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvVGtMa1N0Y1EwbzQvbWF4cmVzZGVmYXVsdC5qcGcaAjMwIglLaGFuIFNhYWIiEFNoYXNod2F0IFNhY2hkZXYaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "CgtUa0xrU3RjUTBvNHKPAwgHEiRKYWFuIFNlIEd1emFydGUgSGFpbiBpcyAjMzAgZ2xvYmFsbHkaR0phYW4gU2UgR3V6YXJ0ZSBIYWluIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Mv4BCvsBSXJrQkNBSVNiUW9VU21GaGJpQlRaU0JIZFhwaGNuUmxJRWhoYVc0U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2Vkd0TWExTjBZMUV3YnpRdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqTXdJZ2xMYUdGdUlGTmhZV0lpRUZOb1lYTm9kMkYwSUZOaFkyaGtaWFlhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzMwLmpwZ4ICsgMSrwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJrQkNBSVNiUW9VU21GaGJpQlRaU0JIZFhwaGNuUmxJRWhoYVc0U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2Vkd0TWExTjBZMUV3YnpRdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqTXdJZ2xMYUdGdUlGTmhZV0lpRUZOb1lYTm9kMkYwSUZOaFkyaGtaWFlhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaJEphYW4gU2UgR3V6YXJ0ZSBIYWluIGlzICMzMCBnbG9iYWxseSJHSmFhbiBTZSBHdXphcnRlIEhhaW4gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "VWCBZpvjZfc",
@@ -2197,7 +2234,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrgBCAISbAoMTHV0dCBMZSBHYXlhEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1ZXQ0JacHZqWmZjL21heHJlc2RlZmF1bHQuanBnGgIzMSIQU2ltcmFuIENob3VkaGFyeSIQU2hhc2h3YXQgU2FjaGRldhoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC_A7K2dXFsTMAciGmnNxy-Q",
-                        "channelName": "Saregama Music"
+                        "channelName": "Saregama Music",
+                        "serializedShareEntity": "CgtWV0NCWnB2alpmY3L-AggHEhxMdXR0IExlIEdheWEgaXMgIzMxIGdsb2JhbGx5Gj9MdXR0IExlIEdheWEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy_QEK-gFJcmdCQ0FJU2JBb01USFYwZENCTVpTQkhZWGxoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMVpYUTBKYWNIWnFXbVpqTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJek1TSVFVMmx0Y21GdUlFTm9iM1ZrYUdGeWVTSVFVMmhoYzJoM1lYUWdVMkZqYUdSbGRob3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8zMS5qcGeCAqEDEq4CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyZ0JDQUlTYkFvTVRIVjBkQ0JNWlNCSFlYbGhFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxWlhRMEphY0hacVdtWmpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l6TVNJUVUybHRjbUZ1SUVOb2IzVmthR0Z5ZVNJUVUyaGhjMmgzWVhRZ1UyRmphR1JsZGhveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaHEx1dHQgTGUgR2F5YSBpcyAjMzEgZ2xvYmFsbHkiP0x1dHQgTGUgR2F5YSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "lY5V4hSLWY8",
@@ -2258,7 +2296,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ip8BCAISUwoLUmlzayBJdCBBbGwSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvbFk1VjRoU0xXWTgvbWF4cmVzZGVmYXVsdC5qcGcaAjMyIgpCcnVubyBNYXJzGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
-                        "channelName": "Bruno Mars"
+                        "channelName": "Bruno Mars",
+                        "serializedShareEntity": "CgtsWTVWNGhTTFdZOHLaAggHEhtSaXNrIEl0IEFsbCBpcyAjMzIgZ2xvYmFsbHkaPlJpc2sgSXQgQWxsIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtsBCtgBSXA4QkNBSVNVd29MVW1semF5QkpkQ0JCYkd3U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2YkZrMVZqUm9VMHhYV1RndmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqTXlJZ3BDY25WdWJ5Qk5ZWEp6R2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1UhtzaGFyZWNhcmRfMTc3NTExMzIwMF8zMi5qcGeCAv0CEowCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwOEJDQUlTVXdvTFVtbHpheUJKZENCQmJHd1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmJGazFWalJvVTB4WFdUZ3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBak15SWdwQ2NuVnVieUJOWVhKekdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRobUmlzayBJdCBBbGwgaXMgIzMyIGdsb2JhbGx5Ij5SaXNrIEl0IEFsbCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "nDjloeIB3Pc",
@@ -2330,7 +2369,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Is0BCAISgAEKB1NpdGFhcmUSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvbkRqbG9lSUIzUGMvbWF4cmVzZGVmYXVsdC5qcGcaAjMzIgxBcmlqaXQgU2luZ2giFEFtaXRhYmggQmhhdHRhY2hhcnlhIhdXaGl0ZSBOb2lzZSBDb2xsZWN0aXZlcxoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
-                        "channelName": "Sony Music India"
+                        "channelName": "Sony Music India",
+                        "serializedShareEntity": "CgtuRGpsb2VJQjNQY3KQAwgHEhdTaXRhYXJlIGlzICMzMyBnbG9iYWxseRo6U2l0YWFyZSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjKZAgqWAklzMEJDQUlTZ0FFS0IxTnBkR0ZoY21VU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2YmtScWJHOWxTVUl6VUdNdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqTXpJZ3hCY21scWFYUWdVMmx1WjJnaUZFRnRhWFJoWW1nZ1FtaGhkSFJoWTJoaGNubGhJaGRYYUdsMFpTQk9iMmx6WlNCRGIyeHNaV04wYVhabGN4b3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8zMy5qcGeCArMDEsoCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzMEJDQUlTZ0FFS0IxTnBkR0ZoY21VU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2YmtScWJHOWxTVUl6VUdNdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqTXpJZ3hCY21scWFYUWdVMmx1WjJnaUZFRnRhWFJoWW1nZ1FtaGhkSFJoWTJoaGNubGhJaGRYYUdsMFpTQk9iMmx6WlNCRGIyeHNaV04wYVhabGN4b3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RGhdTaXRhYXJlIGlzICMzMyBnbG9iYWxseSI6U2l0YWFyZSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "xBcgckh_OlI",
@@ -2399,7 +2439,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrMBCAISZwoPTGFzIE11w7FlcXVpdGFzEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3hCY2dja2hfT2xJL21heHJlc2RlZmF1bHQuanBnGgIzNCIITXIgUGxhdGEiEEVsIEFtZXJpY2FubyA0S1QaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCe84CdWCOvmiCK0z8nFzX5A",
-                        "channelName": "Mr Plata "
+                        "channelName": "Mr Plata ",
+                        "serializedShareEntity": "Cgt4QmNnY2toX09sSXL9AggHEh9MYXMgTXXDsWVxdWl0YXMgaXMgIzM0IGdsb2JhbGx5GkJMYXMgTXXDsWVxdWl0YXMgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy9gEK8wFJck1CQ0FJU1p3b1BUR0Z6SUUxMXc3RmxjWFZwZEdGekVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDNoQ1kyZGphMmhmVDJ4SkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSXpOQ0lJVFhJZ1VHeGhkR0VpRUVWc0lFRnRaWEpwWTJGdWJ5QTBTMVFhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzM0LmpwZ4ICoAMSpwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJNQkNBSVNad29QVEdGeklFMTF3N0ZsY1hWcGRHRnpFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwzaENZMmRqYTJoZlQyeEpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l6TkNJSVRYSWdVR3hoZEdFaUVFVnNJRUZ0WlhKcFkyRnVieUEwUzFRYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrGh9MYXMgTXXDsWVxdWl0YXMgaXMgIzM0IGdsb2JhbGx5IkJMYXMgTXXDsWVxdWl0YXMgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "5GCfYLguTIs",
@@ -2468,7 +2509,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ip4BCAISUgoJQm95ZnJpZW5kEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzVHQ2ZZTGd1VElzL21heHJlc2RlZmF1bHQuanBnGgIzNSILS2FyYW4gQXVqbGEaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC3XBkDeCVXCoCofFgfUZXGw",
-                        "channelName": "Karan Aujla"
+                        "channelName": "Karan Aujla",
+                        "serializedShareEntity": "Cgs1R0NmWUxndVRJc3LVAggHEhlCb3lmcmllbmQgaXMgIzM1IGdsb2JhbGx5GjxCb3lmcmllbmQgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy2gEK1wFJcDRCQ0FJU1Vnb0pRbTk1Wm5KcFpXNWtFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6VkhRMlpaVEdkMVZFbHpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l6TlNJTFMyRnlZVzRnUVhWcWJHRWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfMzUuanBnggL4AhKLAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcDRCQ0FJU1Vnb0pRbTk1Wm5KcFpXNWtFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6VkhRMlpaVEdkMVZFbHpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l6TlNJTFMyRnlZVzRnUVhWcWJHRWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxoZQm95ZnJpZW5kIGlzICMzNSBnbG9iYWxseSI8Qm95ZnJpZW5kIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "ApXoWvfEYVU",
@@ -2541,7 +2583,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=It4BCAISkQEKPlN1bmZsb3dlciAoU3BpZGVyLU1hbjogSW50byB0aGUgU3BpZGVyLVZlcnNlKSAoT2ZmaWNpYWwgVmlkZW8pEjRodHRwczovL2kueXRpbWcuY29tL3ZpL0FwWG9XdmZFWVZVL21heHJlc2RlZmF1bHQuanBnGgIzNiILUG9zdCBNYWxvbmUiCFN3YWUgTGVlGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCOhtMAg7xh8wv_wUHMgFc-Q",
-                        "channelName": "PostMaloneVEVO"
+                        "channelName": "PostMaloneVEVO",
+                        "serializedShareEntity": "CgtBcFhvV3ZmRVlWVXKUBAgHEk5TdW5mbG93ZXIgKFNwaWRlci1NYW46IEludG8gdGhlIFNwaWRlci1WZXJzZSkgKE9mZmljaWFsIFZpZGVvKSBpcyAjMzYgZ2xvYmFsbHkacVN1bmZsb3dlciAoU3BpZGVyLU1hbjogSW50byB0aGUgU3BpZGVyLVZlcnNlKSAoT2ZmaWNpYWwgVmlkZW8pIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Mq8CCqwCSXQ0QkNBSVNrUUVLUGxOMWJtWnNiM2RsY2lBb1UzQnBaR1Z5TFUxaGJqb2dTVzUwYnlCMGFHVWdVM0JwWkdWeUxWWmxjbk5sS1NBb1QyWm1hV05wWVd3Z1ZtbGtaVzhwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMEZ3V0c5WGRtWkZXVlpWTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJek5pSUxVRzl6ZENCTllXeHZibVVpQ0ZOM1lXVWdUR1ZsR2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1UhtzaGFyZWNhcmRfMTc3NTExMzIwMF8zNi5qcGeCArcEEuACaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl0NEJDQUlTa1FFS1BsTjFibVpzYjNkbGNpQW9VM0JwWkdWeUxVMWhiam9nU1c1MGJ5QjBhR1VnVTNCcFpHVnlMVlpsY25ObEtTQW9UMlptYVdOcFlXd2dWbWxrWlc4cEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDBGd1dHOVhkbVpGV1ZaVkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSXpOaUlMVUc5emRDQk5ZV3h2Ym1VaUNGTjNZV1VnVEdWbEdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRpOU3VuZmxvd2VyIChTcGlkZXItTWFuOiBJbnRvIHRoZSBTcGlkZXItVmVyc2UpIChPZmZpY2lhbCBWaWRlbykgaXMgIzM2IGdsb2JhbGx5InFTdW5mbG93ZXIgKFNwaWRlci1NYW46IEludG8gdGhlIFNwaWRlci1WZXJzZSkgKE9mZmljaWFsIFZpZGVvKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "kJQP7kiw5Fk",
@@ -2610,7 +2653,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrkBCAISbQoXRGVzcGFjaXRvIC0gUG9wIFZlcnNpb24SNGh0dHBzOi8vaS55dGltZy5jb20vdmkva0pRUDdraXc1RmsvbWF4cmVzZGVmYXVsdC5qcGcaAjM3IgpMdWlzIEZvbnNpIgxEYWRkeSBZYW5rZWUaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCLp8RBhQHu9wSsq62j_Md6A",
-                        "channelName": "LuisFonsiVEVO"
+                        "channelName": "LuisFonsiVEVO",
+                        "serializedShareEntity": "CgtrSlFQN2tpdzVGa3KVAwgHEidEZXNwYWNpdG8gLSBQb3AgVmVyc2lvbiBpcyAjMzcgZ2xvYmFsbHkaSkRlc3BhY2l0byAtIFBvcCBWZXJzaW9uIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Mv4BCvsBSXJrQkNBSVNiUW9YUkdWemNHRmphWFJ2SUMwZ1VHOXdJRlpsY25OcGIyNFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmEwcFJVRGRyYVhjMVJtc3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBak0zSWdwTWRXbHpJRVp2Ym5OcElneEVZV1JrZVNCWllXNXJaV1VhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzM3LmpwZ4ICuAMSrwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJrQkNBSVNiUW9YUkdWemNHRmphWFJ2SUMwZ1VHOXdJRlpsY25OcGIyNFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmEwcFJVRGRyYVhjMVJtc3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBak0zSWdwTWRXbHpJRVp2Ym5OcElneEVZV1JrZVNCWllXNXJaV1VhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaJ0Rlc3BhY2l0byAtIFBvcCBWZXJzaW9uIGlzICMzNyBnbG9iYWxseSJKRGVzcGFjaXRvIC0gUG9wIFZlcnNpb24gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "7yaU0qXlgbo",
@@ -2678,7 +2722,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpoBCAISTgoHQmlnIEd1eRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS83eWFVMHFYbGdiby9tYXhyZXNkZWZhdWx0LmpwZxoCMzgiCUljZSBTcGljZRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCCdbL-yl7Qa_vurbYWdn5SA",
-                        "channelName": "IceSpiceVEVO"
+                        "channelName": "IceSpiceVEVO",
+                        "serializedShareEntity": "Cgs3eWFVMHFYbGdib3LMAggHEhdCaWcgR3V5IGlzICMzOCBnbG9iYWxseRo6QmlnIEd1eSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLVAQrSAUlwb0JDQUlTVGdvSFFtbG5JRWQxZVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzgzZVdGVk1IRlliR2RpYnk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ016Z2lDVWxqWlNCVGNHbGpaUm95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPUVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfMzguanBnggLvAhKGAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcG9CQ0FJU1Rnb0hRbWxuSUVkMWVSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM4M2VXRlZNSEZZYkdkaWJ5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NNemdpQ1VsalpTQlRjR2xqWlJveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaF0JpZyBHdXkgaXMgIzM4IGdsb2JhbGx5IjpCaWcgR3V5IG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "pRpeEdMmmQ0",
@@ -2747,7 +2792,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuABCAISkwEKTldha2EgV2FrYSAoVGhpcyBUaW1lIGZvciBBZnJpY2EpIFtUaGUgT2ZmaWNpYWwgMjAxMCBGSUZBIFdvcmxkIFdvcmxkIEN1cCBTb25nXRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9wUnBlRWRNbW1RMC9tYXhyZXNkZWZhdWx0LmpwZxoCMzkiB1NoYWtpcmEaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCGnjeahCJW1AF34HBmQTJ-Q",
-                        "channelName": "shakiraVEVO"
+                        "channelName": "shakiraVEVO",
+                        "serializedShareEntity": "CgtwUnBlRWRNbW1RMHK4BAgHEl5XYWthIFdha2EgKFRoaXMgVGltZSBmb3IgQWZyaWNhKSBbVGhlIE9mZmljaWFsIDIwMTAgRklGQSBXb3JsZCBXb3JsZCBDdXAgU29uZ10gaXMgIzM5IGdsb2JhbGx5GoEBV2FrYSBXYWthIChUaGlzIFRpbWUgZm9yIEFmcmljYSkgW1RoZSBPZmZpY2lhbCAyMDEwIEZJRkEgV29ybGQgV29ybGQgQ3VwIFNvbmddIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MrICCq8CSXVBQkNBSVNrd0VLVGxkaGEyRWdWMkZyWVNBb1ZHaHBjeUJVYVcxbElHWnZjaUJCWm5KcFkyRXBJRnRVYUdVZ1QyWm1hV05wWVd3Z01qQXhNQ0JHU1VaQklGZHZjbXhrSUZkdmNteGtJRU4xY0NCVGIyNW5YUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOXdVbkJsUldSTmJXMVJNQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTXpraUIxTm9ZV3RwY21FYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8zOS5qcGeCAtsEEuMCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl1QUJDQUlTa3dFS1RsZGhhMkVnVjJGcllTQW9WR2hwY3lCVWFXMWxJR1p2Y2lCQlpuSnBZMkVwSUZ0VWFHVWdUMlptYVdOcFlXd2dNakF4TUNCR1NVWkJJRmR2Y214a0lGZHZjbXhrSUVOMWNDQlRiMjVuWFJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzl3VW5CbFJXUk5iVzFSTUM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ016a2lCMU5vWVd0cGNtRWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxpeV2FrYSBXYWthIChUaGlzIFRpbWUgZm9yIEFmcmljYSkgW1RoZSBPZmZpY2lhbCAyMDEwIEZJRkEgV29ybGQgV29ybGQgQ3VwIFNvbmddIGlzICMzOSBnbG9iYWxseSKBAVdha2EgV2FrYSAoVGhpcyBUaW1lIGZvciBBZnJpY2EpIFtUaGUgT2ZmaWNpYWwgMjAxMCBGSUZBIFdvcmxkIFdvcmxkIEN1cCBTb25nXSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "NVLgkXylEuQ",
@@ -2831,7 +2877,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItcBCAISigEKHkN1YW5kbyBObyBFcmEgQ2FudGFudGUgKFJlbWl4KRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9OVkxna1h5bEV1US9tYXhyZXNkZWZhdWx0LmpwZxoCNDAiCkVsIEJvZ3VldG8iCEFudWVsIEFBIg1GdWVyemEgUmVnaWRhIglZdW5nIEJlZWYaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC-6lK20fJE_YVW_nshsDwaA",
-                        "channelName": "El Bogueto"
+                        "channelName": "El Bogueto",
+                        "serializedShareEntity": "CgtOVkxna1h5bEV1UXLLAwgHEi5DdWFuZG8gTm8gRXJhIENhbnRhbnRlIChSZW1peCkgaXMgIzQwIGdsb2JhbGx5GlFDdWFuZG8gTm8gRXJhIENhbnRhbnRlIChSZW1peCkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYypgIKowJJdGNCQ0FJU2lnRUtIa04xWVc1a2J5Qk9ieUJGY21FZ1EyRnVkR0Z1ZEdVZ0tGSmxiV2w0S1JJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlPVmt4bmExaDViRVYxVVM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05EQWlDa1ZzSUVKdlozVmxkRzhpQ0VGdWRXVnNJRUZCSWcxR2RXVnllbUVnVW1WbmFXUmhJZ2xaZFc1bklFSmxaV1lhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzQwLmpwZ4IC7gMS1wJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXRjQkNBSVNpZ0VLSGtOMVlXNWtieUJPYnlCRmNtRWdRMkZ1ZEdGdWRHVWdLRkpsYldsNEtSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5T1ZreG5hMWg1YkVWMVVTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOREFpQ2tWc0lFSnZaM1ZsZEc4aUNFRnVkV1ZzSUVGQklnMUdkV1Z5ZW1FZ1VtVm5hV1JoSWdsWmRXNW5JRUpsWldZYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrGi5DdWFuZG8gTm8gRXJhIENhbnRhbnRlIChSZW1peCkgaXMgIzQwIGdsb2JhbGx5IlFDdWFuZG8gTm8gRXJhIENhbnRhbnRlIChSZW1peCkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "ddkbVYutRXA",
@@ -2898,7 +2945,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQBCAISWAoNTWFybGJvcm8gUm9qbxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9kZGtiVll1dFJYQS9tYXhyZXNkZWZhdWx0LmpwZxoCNDEiDUZ1ZXJ6YSBSZWdpZGEaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCFLI6KAjrKRtydD7KqiYvAw",
-                        "channelName": "FUERZA REGIDA"
+                        "channelName": "FUERZA REGIDA",
+                        "serializedShareEntity": "CgtkZGtiVll1dFJYQXLlAggHEh1NYXJsYm9ybyBSb2pvIGlzICM0MSBnbG9iYWxseRpATWFybGJvcm8gUm9qbyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLiAQrfAUlxUUJDQUlTV0FvTlRXRnliR0p2Y204Z1VtOXFieEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOWtaR3RpVmxsMWRGSllRUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTkRFaURVWjFaWEo2WVNCU1pXZHBaR0VhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzQxLmpwZ4ICiAMSkwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFRQkNBSVNXQW9OVFdGeWJHSnZjbThnVW05cWJ4STBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5a1pHdGlWbGwxZEZKWVFTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOREVpRFVaMVpYSjZZU0JTWldkcFpHRWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxodTWFybGJvcm8gUm9qbyBpcyAjNDEgZ2xvYmFsbHkiQE1hcmxib3JvIFJvam8gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "wEwKNS-JIPA",
@@ -2965,7 +3013,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuYBCAISmQEKG0phYW4gU2UgR3V6YXJ0ZSBIYWluIChMaXZlKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS93RXdLTlMtSklQQS9tYXhyZXNkZWZhdWx0LmpwZxoCNDIiCUtoYW4gU2FhYiIQU2hhc2h3YXQgU2FjaGRldiIVTnVzcmF0IEZhdGVoIEFsaSBLaGFuIgxJcnNoYWQgS2FtaWwaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "Cgt3RXdLTlMtSklQQXLZAwgHEitKYWFuIFNlIEd1emFydGUgSGFpbiAoTGl2ZSkgaXMgIzQyIGdsb2JhbGx5Gk5KYWFuIFNlIEd1emFydGUgSGFpbiAoTGl2ZSkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYyugIKtwJJdVlCQ0FJU21RRUtHMHBoWVc0Z1UyVWdSM1Y2WVhKMFpTQklZV2x1SUNoTWFYWmxLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOTNSWGRMVGxNdFNrbFFRUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTkRJaUNVdG9ZVzRnVTJGaFlpSVFVMmhoYzJoM1lYUWdVMkZqYUdSbGRpSVZUblZ6Y21GMElFWmhkR1ZvSUVGc2FTQkxhR0Z1SWd4SmNuTm9ZV1FnUzJGdGFXd2FNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfNDIuanBnggL8AxLrAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdVlCQ0FJU21RRUtHMHBoWVc0Z1UyVWdSM1Y2WVhKMFpTQklZV2x1SUNoTWFYWmxLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOTNSWGRMVGxNdFNrbFFRUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTkRJaUNVdG9ZVzRnVTJGaFlpSVFVMmhoYzJoM1lYUWdVMkZqYUdSbGRpSVZUblZ6Y21GMElFWmhkR1ZvSUVGc2FTQkxhR0Z1SWd4SmNuTm9ZV1FnUzJGdGFXd2FNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxorSmFhbiBTZSBHdXphcnRlIEhhaW4gKExpdmUpIGlzICM0MiBnbG9iYWxseSJOSmFhbiBTZSBHdXphcnRlIEhhaW4gKExpdmUpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "Ans8Y59cvds",
@@ -3032,7 +3081,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ir0BCAIScQoHUGhpciBTZRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9BbnM4WTU5Y3Zkcy9tYXhyZXNkZWZhdWx0LmpwZxoCNDMiDEFyaWppdCBTaW5naCIQU2hhc2h3YXQgU2FjaGRldiIMSXJzaGFkIEthbWlsGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "CgtBbnM4WTU5Y3Zkc3L6AggHEhdQaGlyIFNlIGlzICM0MyBnbG9iYWxseRo6UGhpciBTZSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjKDAgqAAklyMEJDQUlTY1FvSFVHaHBjaUJUWlJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlCYm5NNFdUVTVZM1prY3k5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05ETWlERUZ5YVdwcGRDQlRhVzVuYUNJUVUyaGhjMmgzWVhRZ1UyRmphR1JsZGlJTVNYSnphR0ZrSUV0aGJXbHNHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTVSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzQzLmpwZ4ICnQMStAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXIwQkNBSVNjUW9IVUdocGNpQlRaUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOUJibk00V1RVNVkzWmtjeTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTkRNaURFRnlhV3BwZENCVGFXNW5hQ0lRVTJoaGMyaDNZWFFnVTJGamFHUmxkaUlNU1hKemFHRmtJRXRoYldsc0dqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRoXUGhpciBTZSBpcyAjNDMgZ2xvYmFsbHkiOlBoaXIgU2Ugb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "sUf2PtEZris",
@@ -3100,7 +3150,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQBCAISWAoFU2hha3kSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvc1VmMlB0RVpyaXMvbWF4cmVzZGVmYXVsdC5qcGcaAjQ0IgxTYW5qdSBSYXRob2QiB0ctU1BYUksaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC5Sx4un-pScLvw6chDOkCGw",
-                        "channelName": "Sanju Rathod SR"
+                        "channelName": "Sanju Rathod SR",
+                        "serializedShareEntity": "CgtzVWYyUHRFWnJpc3LVAggHEhVTaGFreSBpcyAjNDQgZ2xvYmFsbHkaOFNoYWt5IG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MuIBCt8BSXFRQkNBSVNXQW9GVTJoaGEza1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmMxVm1NbEIwUlZweWFYTXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalEwSWd4VFlXNXFkU0JTWVhSb2IyUWlCMGN0VTFCWVVrc2FNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfNDQuanBnggL4AhKTAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcVFCQ0FJU1dBb0ZVMmhoYTNrU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2YzFWbU1sQjBSVnB5YVhNdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqUTBJZ3hUWVc1cWRTQlNZWFJvYjJRaUIwY3RVMUJZVWtzYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrGhVTaGFreSBpcyAjNDQgZ2xvYmFsbHkiOFNoYWt5IG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "hToGSAFPwds",
@@ -3180,7 +3231,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsoBCAISfgoKQ2FybsOtdm9ybxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9oVG9HU0FGUHdkcy9tYXhyZXNkZWZhdWx0LmpwZxoCNDUiCk1jIEphY2Fyw6kiEk1jIE5lZ8OjbyBPcmlnaW5hbCIKTWMgTGVsZSBKUCIKREogSmFwYSBOSxoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCWr3qxmkD0SBtL57FBlaYag",
-                        "channelName": "MC Jacaré"
+                        "channelName": "MC Jacaré",
+                        "serializedShareEntity": "CgtoVG9HU0FGUHdkc3KSAwgHEhpDYXJuw612b3JvIGlzICM0NSBnbG9iYWxseRo9Q2FybsOtdm9ybyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjKVAgqSAklzb0JDQUlTZmdvS1EyRnlic090ZG05eWJ4STBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5b1ZHOUhVMEZHVUhka2N5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NORFVpQ2sxaklFcGhZMkZ5dzZraUVrMWpJRTVsWjhPamJ5QlBjbWxuYVc1aGJDSUtUV01nVEdWc1pTQktVQ0lLUkVvZ1NtRndZU0JPU3hveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1FSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzQ1LmpwZ4ICtQMSxgJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXNvQkNBSVNmZ29LUTJGeWJzT3RkbTl5YnhJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlvVkc5SFUwRkdVSGRrY3k5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05EVWlDazFqSUVwaFkyRnl3NmtpRWsxaklFNWxaOE9qYnlCUGNtbG5hVzVoYkNJS1RXTWdUR1ZzWlNCS1VDSUtSRW9nU21Gd1lTQk9TeG95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPURoaQ2FybsOtdm9ybyBpcyAjNDUgZ2xvYmFsbHkiPUNhcm7DrXZvcm8gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "u2ah9tWTkmk",
@@ -3240,7 +3292,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ip0BCAISUQoIT3JkaW5hcnkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvdTJhaDl0V1RrbWsvbWF4cmVzZGVmYXVsdC5qcGcaAjQ2IgtBbGV4IFdhcnJlbhoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCX2Pm1JoWF3chsVOR9e1hbQ",
-                        "channelName": "Alex Warren"
+                        "channelName": "Alex Warren",
+                        "serializedShareEntity": "Cgt1MmFoOXRXVGtta3LSAggHEhhPcmRpbmFyeSBpcyAjNDYgZ2xvYmFsbHkaO09yZGluYXJ5IG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtkBCtYBSXAwQkNBSVNVUW9JVDNKa2FXNWhjbmtTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZkVEpoYURsMFYxUnJiV3N2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpRMklndEJiR1Y0SUZkaGNuSmxiaG95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPUVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfNDYuanBnggL1AhKKAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcDBCQ0FJU1VRb0lUM0prYVc1aGNua1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmRUSmhhRGwwVjFScmJXc3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalEySWd0QmJHVjRJRmRoY25KbGJob3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RGhhPcmRpbmFyeSBpcyAjNDYgZ2xvYmFsbHkiO09yZGluYXJ5IG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "DBC2461TQbQ",
@@ -3305,7 +3358,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrQBCAISaAoOQ2hvbGkgS2UgU2FtYW4SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvREJDMjQ2MVRRYlEvbWF4cmVzZGVmYXVsdC5qcGcaAjQ3Ig1BYXNoaXNoIFlhZGF2Ig1LaHVzaGkgS2Fra2FyGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCjaOWpDTaZKe63ApNJ8BLPg",
-                        "channelName": "Aashish Yadav Entertainment"
+                        "channelName": "Aashish Yadav Entertainment",
+                        "serializedShareEntity": "CgtEQkMyNDYxVFFiUXL8AggHEh5DaG9saSBLZSBTYW1hbiBpcyAjNDcgZ2xvYmFsbHkaQUNob2xpIEtlIFNhbWFuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MvcBCvQBSXJRQkNBSVNhQW9PUTJodmJHa2dTMlVnVTJGdFlXNFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlJFSkRNalEyTVZSUllsRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalEzSWcxQllYTm9hWE5vSUZsaFpHRjJJZzFMYUhWemFHa2dTMkZyYTJGeUdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfNDcuanBnggKfAxKoAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JclFCQ0FJU2FBb09RMmh2YkdrZ1MyVWdVMkZ0WVc0U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2UkVKRE1qUTJNVlJSWWxFdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqUTNJZzFCWVhOb2FYTm9JRmxoWkdGMklnMUxhSFZ6YUdrZ1MyRnJhMkZ5R2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1Gh5DaG9saSBLZSBTYW1hbiBpcyAjNDcgZ2xvYmFsbHkiQUNob2xpIEtlIFNhbWFuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "lVRCeER1qMA",
@@ -3369,7 +3423,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqABCAISVAoGRGlsYmFyEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2xWUkNlRVIxcU1BL21heHJlc2RlZmF1bHQuanBnGgI0OCIQTWlyamFsb2wgTmVtYXRvdhoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC2Pga4WAk4nPmzic2LZQ5fA",
-                        "channelName": "Mirjalol Nematov"
+                        "channelName": "Mirjalol Nematov",
+                        "serializedShareEntity": "CgtsVlJDZUVSMXFNQXLSAggHEhZEaWxiYXIgaXMgIzQ4IGdsb2JhbGx5GjlEaWxiYXIgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy3QEK2gFJcUFCQ0FJU1ZBb0dSR2xzWW1GeUVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDJ4V1VrTmxSVkl4Y1UxQkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTBPQ0lRVFdseWFtRnNiMndnVG1WdFlYUnZkaG95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPUVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfNDguanBnggL1AhKOAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcUFCQ0FJU1ZBb0dSR2xzWW1GeUVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDJ4V1VrTmxSVkl4Y1UxQkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTBPQ0lRVFdseWFtRnNiMndnVG1WdFlYUnZkaG95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPURoWRGlsYmFyIGlzICM0OCBnbG9iYWxseSI5RGlsYmFyIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "om6HdemgTKQ",
@@ -3424,7 +3479,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpgBCAISTAoLU1dJTSAoTGl2ZSkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvb202SGRlbWdUS1EvbWF4cmVzZGVmYXVsdC5qcGcaAjQ5IgNCVFMaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCLkAepWjdylmXSltofFvsYQ",
-                        "channelName": "BANGTANTV"
+                        "channelName": "BANGTANTV",
+                        "serializedShareEntity": "CgtvbTZIZGVtZ1RLUXLRAggHEhtTV0lNIChMaXZlKSBpcyAjNDkgZ2xvYmFsbHkaPlNXSU0gKExpdmUpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtIBCs8BSXBnQkNBSVNUQW9MVTFkSlRTQW9UR2wyWlNrU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2YjIwMlNHUmxiV2RVUzFFdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqUTVJZ05DVkZNYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF80OS5qcGeCAvQCEoMCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwZ0JDQUlTVEFvTFUxZEpUU0FvVEdsMlpTa1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmIyMDJTR1JsYldkVVMxRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalE1SWdOQ1ZGTWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxobU1dJTSAoTGl2ZSkgaXMgIzQ5IGdsb2JhbGx5Ij5TV0lNIChMaXZlKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "WK_PlcL8Tzo",
@@ -3494,7 +3550,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IskBCAISfQoMSmFpeWUgU2FqYW5hEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1dLX1BsY0w4VHpvL21heHJlc2RlZmF1bHQuanBnGgI1MCIPSmFzbWluZSBTYW5kbGFzIhBTYXRpbmRlciBTYXJ0YWFqIhBTaGFzaHdhdCBTYWNoZGV2GjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "CgtXS19QbGNMOFR6b3KUAwgHEhxKYWl5ZSBTYWphbmEgaXMgIzUwIGdsb2JhbGx5Gj9KYWl5ZSBTYWphbmEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYykwIKkAJJc2tCQ0FJU2ZRb01TbUZwZVdVZ1UyRnFZVzVoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMWRMWDFCc1kwdzRWSHB2TDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMU1DSVBTbUZ6YldsdVpTQlRZVzVrYkdGekloQlRZWFJwYm1SbGNpQlRZWEowWVdGcUloQlRhR0Z6YUhkaGRDQlRZV05vWkdWMkdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfNTAuanBnggK3AxLEAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jc2tCQ0FJU2ZRb01TbUZwZVdVZ1UyRnFZVzVoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMWRMWDFCc1kwdzRWSHB2TDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMU1DSVBTbUZ6YldsdVpTQlRZVzVrYkdGekloQlRZWFJwYm1SbGNpQlRZWEowWVdGcUloQlRhR0Z6YUhkaGRDQlRZV05vWkdWMkdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRocSmFpeWUgU2FqYW5hIGlzICM1MCBnbG9iYWxseSI_SmFpeWUgU2FqYW5hIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "XFkzRNyygfk",
@@ -3564,7 +3621,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpgBCAISTAoFQ3JlZXASNGh0dHBzOi8vaS55dGltZy5jb20vdmkvWEZrelJOeXlnZmsvbWF4cmVzZGVmYXVsdC5qcGcaAjUxIglSYWRpb2hlYWQaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCq19-LqvG35A-30oyAiPiqA",
-                        "channelName": "Radiohead"
+                        "channelName": "Radiohead",
+                        "serializedShareEntity": "CgtYRmt6Uk55eWdma3LFAggHEhVDcmVlcCBpcyAjNTEgZ2xvYmFsbHkaOENyZWVwIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtIBCs8BSXBnQkNBSVNUQW9GUTNKbFpYQVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdldFWnJlbEpPZVhsblptc3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalV4SWdsU1lXUnBiMmhsWVdRYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF81MS5qcGeCAugCEoMCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwZ0JDQUlTVEFvRlEzSmxaWEFTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZXRVpyZWxKT2VYbG5abXN2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpVeElnbFNZV1JwYjJobFlXUWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxoVQ3JlZXAgaXMgIzUxIGdsb2JhbGx5IjhDcmVlcCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "7CF5qbw8zec",
@@ -3643,7 +3701,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrABCAISZAoGSkVUU0tJEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzdDRjVxYnc4emVjL21heHJlc2RlZmF1bHQuanBnGgI1MiINUEVEUk8gU0FNUEFJTyIGTWVsb2R5IglNQyBNRU5PIEsaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC8GHXC9L_gs1iplpUISEOFQ",
-                        "channelName": "PedroSampaioVEVO"
+                        "channelName": "PedroSampaioVEVO",
+                        "serializedShareEntity": "Cgs3Q0Y1cWJ3OHplY3LnAggHEhZKRVRTS0kgaXMgIzUyIGdsb2JhbGx5GjlKRVRTS0kgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy8gEK7wFJckFCQ0FJU1pBb0dTa1ZVVTB0SkVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTHpkRFJqVnhZbmM0ZW1WakwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTFNaUlOVUVWRVVrOGdVMEZOVUVGSlR5SUdUV1ZzYjJSNUlnbE5ReUJOUlU1UElFc2FNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfNTIuanBnggKKAxKjAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JckFCQ0FJU1pBb0dTa1ZVVTB0SkVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTHpkRFJqVnhZbmM0ZW1WakwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTFNaUlOVUVWRVVrOGdVMEZOVUVGSlR5SUdUV1ZzYjJSNUlnbE5ReUJOUlU1UElFc2FNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxoWSkVUU0tJIGlzICM1MiBnbG9iYWxseSI5SkVUU0tJIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "S9bCLPwzSC0",
@@ -3706,7 +3765,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrIBCAISZgoiTW9ja2luZ2JpcmQgW09mZmljaWFsIE11c2ljIFZpZGVvXRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9TOWJDTFB3elNDMC9tYXhyZXNkZWZhdWx0LmpwZxoCNTMiBkVtaW5lbRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC20vb-R_px4CguHzzBPhoyQ",
-                        "channelName": "EminemVEVO"
+                        "channelName": "EminemVEVO",
+                        "serializedShareEntity": "CgtTOWJDTFB3elNDMHKiAwgHEjJNb2NraW5nYmlyZCBbT2ZmaWNpYWwgTXVzaWMgVmlkZW9dIGlzICM1MyBnbG9iYWxseRpVTW9ja2luZ2JpcmQgW09mZmljaWFsIE11c2ljIFZpZGVvXSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjL1AQryAUlySUJDQUlTWmdvaVRXOWphMmx1WjJKcGNtUWdXMDltWm1samFXRnNJRTExYzJsaklGWnBaR1Z2WFJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlUT1dKRFRGQjNlbE5ETUM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05UTWlCa1Z0YVc1bGJSb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF81My5qcGeCAsUDEqYCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlySUJDQUlTWmdvaVRXOWphMmx1WjJKcGNtUWdXMDltWm1samFXRnNJRTExYzJsaklGWnBaR1Z2WFJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlUT1dKRFRGQjNlbE5ETUM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05UTWlCa1Z0YVc1bGJSb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RGjJNb2NraW5nYmlyZCBbT2ZmaWNpYWwgTXVzaWMgVmlkZW9dIGlzICM1MyBnbG9iYWxseSJVTW9ja2luZ2JpcmQgW09mZmljaWFsIE11c2ljIFZpZGVvXSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "8m4qAKkl-Vs",
@@ -3765,7 +3825,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrcBCAISawoQR2FybWkgR2FyYW0gQml5YRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS84bTRxQUtrbC1Wcy9tYXhyZXNkZWZhdWx0LmpwZxoCNTQiEUtoZXNhcmkgTGFsIFlhZGF2IgpTaGlscGkgUmFqGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCwt4YxSsBMxDwAMo5FoM3Xw",
-                        "channelName": "IVY Bhojpuri Dhamaka"
+                        "channelName": "IVY Bhojpuri Dhamaka",
+                        "serializedShareEntity": "Cgs4bTRxQUtrbC1Wc3KEAwgHEiBHYXJtaSBHYXJhbSBCaXlhIGlzICM1NCBnbG9iYWxseRpDR2FybWkgR2FyYW0gQml5YSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjL7AQr4AUlyY0JDQUlTYXdvUVIyRnliV2tnUjJGeVlXMGdRbWw1WVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzg0YlRSeFFVdHJiQzFXY3k5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05UUWlFVXRvWlhOaGNta2dUR0ZzSUZsaFpHRjJJZ3BUYUdsc2NHa2dVbUZxR2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1UhtzaGFyZWNhcmRfMTc3NTExMzIwMF81NC5qcGeCAqcDEqwCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyY0JDQUlTYXdvUVIyRnliV2tnUjJGeVlXMGdRbWw1WVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzg0YlRSeFFVdHJiQzFXY3k5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05UUWlFVXRvWlhOaGNta2dUR0ZzSUZsaFpHRjJJZ3BUYUdsc2NHa2dVbUZxR2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1GiBHYXJtaSBHYXJhbSBCaXlhIGlzICM1NCBnbG9iYWxseSJDR2FybWkgR2FyYW0gQml5YSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "OI7QFXN50kk",
@@ -3833,7 +3894,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IroBCAISbgoMTWFnYW4gdW5hZ2FuEjRodHRwczovL2kueXRpbWcuY29tL3ZpL09JN1FGWE41MGtrL21heHJlc2RlZmF1bHQuanBnGgI1NSIQQWRpbGV0IEpheWdhc2hhciISQWxpc2hlciBCYXluaXlhem92GjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCGghb-4Jxsfd_fQv8kRihAA",
-                        "channelName": "Adilet Zhaugashar"
+                        "channelName": "Adilet Zhaugashar",
+                        "serializedShareEntity": "CgtPSTdRRlhONTBra3KAAwgHEhxNYWdhbiB1bmFnYW4gaXMgIzU1IGdsb2JhbGx5Gj9NYWdhbiB1bmFnYW4gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy_wEK_AFJcm9CQ0FJU2Jnb01UV0ZuWVc0Z2RXNWhaMkZ1RWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMDlKTjFGR1dFNDFNR3RyTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMU5TSVFRV1JwYkdWMElFcGhlV2RoYzJoaGNpSVNRV3hwYzJobGNpQkNZWGx1YVhsaGVtOTJHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTVSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzU1LmpwZ4ICowMSsAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJvQkNBSVNiZ29NVFdGbllXNGdkVzVoWjJGdUVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDA5Sk4xRkdXRTQxTUd0ckwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTFOU0lRUVdScGJHVjBJRXBoZVdkaGMyaGhjaUlTUVd4cGMyaGxjaUJDWVhsdWFYbGhlbTkyR2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1GhxNYWdhbiB1bmFnYW4gaXMgIzU1IGdsb2JhbGx5Ij9NYWdhbiB1bmFnYW4gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "AsdEIaw9Wks",
@@ -3897,7 +3959,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqoBCAISXgoTTWl0aGUgVGVyZSBCb2wgUGFyaRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9Bc2RFSWF3OVdrcy9tYXhyZXNkZWZhdWx0LmpwZxoCNTYiDU1hc29vbSBTaGFybWEaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC1SyAKpUWO14j0Isb4pyqCA",
-                        "channelName": "Folk Station Haryanvi "
+                        "channelName": "Folk Station Haryanvi ",
+                        "serializedShareEntity": "CgtBc2RFSWF3OVdrc3L5AggHEiNNaXRoZSBUZXJlIEJvbCBQYXJpIGlzICM1NiBnbG9iYWxseRpGTWl0aGUgVGVyZSBCb2wgUGFyaSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLqAQrnAUlxb0JDQUlTWGdvVFRXbDBhR1VnVkdWeVpTQkNiMndnVUdGeWFSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5QmMyUkZTV0YzT1ZkcmN5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOVFlpRFUxaGMyOXZiU0JUYUdGeWJXRWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfNTYuanBnggKcAxKbAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcW9CQ0FJU1hnb1RUV2wwYUdVZ1ZHVnlaU0JDYjJ3Z1VHRnlhUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOUJjMlJGU1dGM09WZHJjeTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTlRZaURVMWhjMjl2YlNCVGFHRnliV0VhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaI01pdGhlIFRlcmUgQm9sIFBhcmkgaXMgIzU2IGdsb2JhbGx5IkZNaXRoZSBUZXJlIEJvbCBQYXJpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "Qhwafoo7Pnc",
@@ -3958,7 +4021,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqgBCAISXAoPQWF3YWFyYSBBbmdhYXJhEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1Fod2Fmb283UG5jL21heHJlc2RlZmF1bHQuanBnGgI1NyIPRmFoZWVtIEFiZHVsbGFoGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "CgtRaHdhZm9vN1BuY3LuAggHEh9BYXdhYXJhIEFuZ2FhcmEgaXMgIzU3IGdsb2JhbGx5GkJBYXdhYXJhIEFuZ2FhcmEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy5wEK5AFJcWdCQ0FJU1hBb1BRV0YzWVdGeVlTQkJibWRoWVhKaEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDFGb2QyRm1iMjgzVUc1akwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTFOeUlQUm1Gb1pXVnRJRUZpWkhWc2JHRm9HaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTVSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzU3LmpwZ4ICkQMSmAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFnQkNBSVNYQW9QUVdGM1lXRnlZU0JCYm1kaFlYSmhFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxRm9kMkZtYjI4M1VHNWpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0kxTnlJUFJtRm9aV1Z0SUVGaVpIVnNiR0ZvR2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1Gh9BYXdhYXJhIEFuZ2FhcmEgaXMgIzU3IGdsb2JhbGx5IkJBYXdhYXJhIEFuZ2FhcmEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "Cs6i13GIyo8",
@@ -4019,7 +4083,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqoBCAISXgoIS2F6ZG91cmESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvQ3M2aTEzR0l5bzgvbWF4cmVzZGVmYXVsdC5qcGcaAjU4IghBYnUgV2FyZCIOTmFzc2lmIFpleXRvdW4aMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCO4AjeljgqgiowEf2yfvYHg",
-                        "channelName": "Nassif Zeytoun"
+                        "channelName": "Nassif Zeytoun",
+                        "serializedShareEntity": "CgtDczZpMTNHSXlvOHLjAggHEhhLYXpkb3VyYSBpcyAjNTggZ2xvYmFsbHkaO0themRvdXJhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MuoBCucBSXFvQkNBSVNYZ29JUzJGNlpHOTFjbUVTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZRM00yYVRFelIwbDViemd2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpVNElnaEJZblVnVjJGeVpDSU9UbUZ6YzJsbUlGcGxlWFJ2ZFc0YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF81OC5qcGeCAoYDEpsCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxb0JDQUlTWGdvSVMyRjZaRzkxY21FU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2UTNNMmFURXpSMGw1YnpndmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqVTRJZ2hCWW5VZ1YyRnlaQ0lPVG1GemMybG1JRnBsZVhSdmRXNGFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxoYS2F6ZG91cmEgaXMgIzU4IGdsb2JhbGx5IjtLYXpkb3VyYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "TbWV7gCPiYc",
@@ -4080,7 +4145,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpcBCAISSwoKU2xlZXAgV2VsbBI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9UYldWN2dDUGlZYy9tYXhyZXNkZWZhdWx0LmpwZxoCNTkiA0NHNRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCLCdyRg3u5O-EVP5p46QxcQ",
-                        "channelName": "CG5"
+                        "channelName": "CG5",
+                        "serializedShareEntity": "CgtUYldWN2dDUGlZY3LOAggHEhpTbGVlcCBXZWxsIGlzICM1OSBnbG9iYWxseRo9U2xlZXAgV2VsbCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLRAQrOAUlwY0JDQUlTU3dvS1UyeGxaWEFnVjJWc2JCSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5VVlsZFdOMmREVUdsWll5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOVGtpQTBOSE5Sb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF81OS5qcGeCAvECEoICaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwY0JDQUlTU3dvS1UyeGxaWEFnVjJWc2JCSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5VVlsZFdOMmREVUdsWll5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOVGtpQTBOSE5Sb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RGhpTbGVlcCBXZWxsIGlzICM1OSBnbG9iYWxseSI9U2xlZXAgV2VsbCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "dj_zUJNv_zc",
@@ -4143,7 +4209,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ip0BCAISUQoGRmluYWxlEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2RqX3pVSk52X3pjL21heHJlc2RlZmF1bHQuanBnGgI2MCIEQmllbiIHQWxpa2liYRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCYKXCpJbGe3fTYILjpJgW2A",
-                        "channelName": "Bien"
+                        "channelName": "Bien",
+                        "serializedShareEntity": "Cgtkal96VUpOdl96Y3LOAggHEhZGaW5hbGUgaXMgIzYwIGdsb2JhbGx5GjlGaW5hbGUgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy2QEK1gFJcDBCQ0FJU1VRb0dSbWx1WVd4bEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDJScVgzcFZTazUyWDNwakwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTJNQ0lFUW1sbGJpSUhRV3hwYTJsaVlSb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF82MC5qcGeCAvECEooCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwMEJDQUlTVVFvR1JtbHVZV3hsRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMlJxWDNwVlNrNTJYM3BqTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMk1DSUVRbWxsYmlJSFFXeHBhMmxpWVJveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaFkZpbmFsZSBpcyAjNjAgZ2xvYmFsbHkiOUZpbmFsZSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "utm-FWimjoQ",
@@ -4206,7 +4273,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItEBCAIShAEKE0phaXllIFNhamFuYSAoTGl2ZSkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvdXRtLUZXaW1qb1EvbWF4cmVzZGVmYXVsdC5qcGcaAjYxIg9KYXNtaW5lIFNhbmRsYXMiEFNhdGluZGVyIFNhcnRhYWoiEFNoYXNod2F0IFNhY2hkZXYaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "Cgt1dG0tRldpbWpvUXKtAwgHEiNKYWl5ZSBTYWphbmEgKExpdmUpIGlzICM2MSBnbG9iYWxseRpGSmFpeWUgU2FqYW5hIChMaXZlKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjKeAgqbAkl0RUJDQUlTaEFFS0UwcGhhWGxsSUZOaGFtRnVZU0FvVEdsMlpTa1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmRYUnRMVVpYYVcxcWIxRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBall4SWc5S1lYTnRhVzVsSUZOaGJtUnNZWE1pRUZOaGRHbHVaR1Z5SUZOaGNuUmhZV29pRUZOb1lYTm9kMkYwSUZOaFkyaGtaWFlhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzYxLmpwZ4IC0AMSzwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXRFQkNBSVNoQUVLRTBwaGFYbGxJRk5oYW1GdVlTQW9UR2wyWlNrU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2ZFhSdExVWlhhVzFxYjFFdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqWXhJZzlLWVhOdGFXNWxJRk5oYm1Sc1lYTWlFRk5oZEdsdVpHVnlJRk5oY25SaFlXb2lFRk5vWVhOb2QyRjBJRk5oWTJoa1pYWWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxojSmFpeWUgU2FqYW5hIChMaXZlKSBpcyAjNjEgZ2xvYmFsbHkiRkphaXllIFNhamFuYSAoTGl2ZSkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "Zi_XLOBDo_Y",
@@ -4269,7 +4337,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQBCAISWAoLQmlsbGllIEplYW4SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvWmlfWExPQkRvX1kvbWF4cmVzZGVmYXVsdC5qcGcaAjYyIg9NaWNoYWVsIEphY2tzb24aMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCulYu1HEIa7f70L2lYZWHOw",
-                        "channelName": "michaeljacksonVEVO"
+                        "channelName": "michaeljacksonVEVO",
+                        "serializedShareEntity": "CgtaaV9YTE9CRG9fWXLhAggHEhtCaWxsaWUgSmVhbiBpcyAjNjIgZ2xvYmFsbHkaPkJpbGxpZSBKZWFuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MuIBCt8BSXFRQkNBSVNXQW9MUW1sc2JHbGxJRXBsWVc0U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2V21sZldFeFBRa1J2WDFrdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqWXlJZzlOYVdOb1lXVnNJRXBoWTJ0emIyNGFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfNjIuanBnggKEAxKTAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcVFCQ0FJU1dBb0xRbWxzYkdsbElFcGxZVzRTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZXbWxmV0V4UFFrUnZYMWt2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpZeUlnOU5hV05vWVdWc0lFcGhZMnR6YjI0YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrGhtCaWxsaWUgSmVhbiBpcyAjNjIgZ2xvYmFsbHkiPkJpbGxpZSBKZWFuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "fPO76Jlnz6c",
@@ -4335,7 +4404,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqIBCAISVgoSR2FuZ3N0YSdzIFBhcmFkaXNlEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2ZQTzc2SmxuejZjL21heHJlc2RlZmF1bHQuanBnGgI2MyIGQ29vbGlvGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCnSR7_Oq-MdsZxfogsfk-Ug",
-                        "channelName": "Tommy Boy"
+                        "channelName": "Tommy Boy",
+                        "serializedShareEntity": "CgtmUE83Nkpsbno2Y3LsAggHEiJHYW5nc3RhJ3MgUGFyYWRpc2UgaXMgIzYzIGdsb2JhbGx5GkVHYW5nc3RhJ3MgUGFyYWRpc2Ugb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy3wEK3AFJcUlCQ0FJU1Znb1NSMkZ1WjNOMFlTZHpJRkJoY21Ga2FYTmxFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwyWlFUemMyU214dWVqWmpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0kyTXlJR1EyOXZiR2x2R2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1UhtzaGFyZWNhcmRfMTc3NTExMzIwMF82My5qcGeCAo8DEpACaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxSUJDQUlTVmdvU1IyRnVaM04wWVNkeklGQmhjbUZrYVhObEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDJaUVR6YzJTbXh1ZWpaakwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTJNeUlHUTI5dmJHbHZHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTUaIkdhbmdzdGEncyBQYXJhZGlzZSBpcyAjNjMgZ2xvYmFsbHkiRUdhbmdzdGEncyBQYXJhZGlzZSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "j18MRhEfmPk",
@@ -4400,7 +4470,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ip0BCAISUQoISXNocWEgVmUSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvajE4TVJoRWZtUGsvbWF4cmVzZGVmYXVsdC5qcGcaAjY0IgtaZWVzaGFuIEFsaRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UChbnwqA0l87XEaLbIPq2XLQ",
-                        "channelName": "OpenMic Studios"
+                        "channelName": "OpenMic Studios",
+                        "serializedShareEntity": "CgtqMThNUmhFZm1Qa3LSAggHEhhJc2hxYSBWZSBpcyAjNjQgZ2xvYmFsbHkaO0lzaHFhIFZlIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtkBCtYBSXAwQkNBSVNVUW9JU1hOb2NXRWdWbVVTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZhakU0VFZKb1JXWnRVR3N2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpZMElndGFaV1Z6YUdGdUlFRnNhUm95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPUVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfNjQuanBnggL1AhKKAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcDBCQ0FJU1VRb0lTWE5vY1dFZ1ZtVVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmFqRTRUVkpvUldadFVHc3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalkwSWd0YVpXVnphR0Z1SUVGc2FSb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RGhhJc2hxYSBWZSBpcyAjNjQgZ2xvYmFsbHkiO0lzaHFhIFZlIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "kffacxfA7G4",
@@ -4468,7 +4539,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpsBCAISTwoEQmFieRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9rZmZhY3hmQTdHNC9tYXhyZXNkZWZhdWx0LmpwZxoCNjUiDUp1c3RpbiBCaWViZXIaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
-                        "channelName": "JustinBieberVEVO"
+                        "channelName": "JustinBieberVEVO",
+                        "serializedShareEntity": "CgtrZmZhY3hmQTdHNHLHAggHEhRCYWJ5IGlzICM2NSBnbG9iYWxseRo3QmFieSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLWAQrTAUlwc0JDQUlTVHdvRVFtRmllUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOXJabVpoWTNobVFUZEhOQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTmpVaURVcDFjM1JwYmlCQ2FXVmlaWElhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzY1LmpwZ4IC6gIShwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXBzQkNBSVNUd29FUW1GaWVSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5clptWmhZM2htUVRkSE5DOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOalVpRFVwMWMzUnBiaUJDYVdWaVpYSWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxoUQmFieSBpcyAjNjUgZ2xvYmFsbHkiN0JhYnkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "5dsi4mTwzYs",
@@ -4538,7 +4610,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqgBCAISXAoFZGHDsW8SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvNWRzaTRtVHd6WXMvbWF4cmVzZGVmYXVsdC5qcGcaAjY2IgpQZXNvIFBsdW1hIg1UaXRvIERvdWJsZSBQGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCzrM_068Odho89mTRrrxqbA",
-                        "channelName": "Peso Pluma"
+                        "channelName": "Peso Pluma",
+                        "serializedShareEntity": "Cgs1ZHNpNG1Ud3pZc3LaAggHEhVkYcOxbyBpcyAjNjYgZ2xvYmFsbHkaOGRhw7FvIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MucBCuQBSXFnQkNBSVNYQW9GWkdIRHNXOFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk5XUnphVFJ0VkhkNldYTXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalkySWdwUVpYTnZJRkJzZFcxaElnMVVhWFJ2SUVSdmRXSnNaU0JRR2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1UhtzaGFyZWNhcmRfMTc3NTExMzIwMF82Ni5qcGeCAv0CEpgCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxZ0JDQUlTWEFvRlpHSERzVzhTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZOV1J6YVRSdFZIZDZXWE12YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpZMklncFFaWE52SUZCc2RXMWhJZzFVYVhSdklFUnZkV0pzWlNCUUdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRoVZGHDsW8gaXMgIzY2IGdsb2JhbGx5IjhkYcOxbyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "WcIcVapfqXw",
@@ -4609,7 +4682,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqUBCAISWQoJQ2FsbSBEb3duEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1djSWNWYXBmcVh3L21heHJlc2RlZmF1bHQuanBnGgI2NyIEUmVtYSIMU2VsZW5hIEdvbWV6GjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCjK8ORC71kwyj1DWFwril_A",
-                        "channelName": "SelenaGomezVEVO"
+                        "channelName": "SelenaGomezVEVO",
+                        "serializedShareEntity": "CgtXY0ljVmFwZnFYd3LeAggHEhlDYWxtIERvd24gaXMgIzY3IGdsb2JhbGx5GjxDYWxtIERvd24gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy4wEK4AFJcVVCQ0FJU1dRb0pRMkZzYlNCRWIzZHVFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxZGpTV05XWVhCbWNWaDNMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0kyTnlJRVVtVnRZU0lNVTJWc1pXNWhJRWR2YldWNkdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfNjcuanBnggKBAxKUAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcVVCQ0FJU1dRb0pRMkZzYlNCRWIzZHVFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxZGpTV05XWVhCbWNWaDNMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0kyTnlJRVVtVnRZU0lNVTJWc1pXNWhJRWR2YldWNkdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRoZQ2FsbSBEb3duIGlzICM2NyBnbG9iYWxseSI8Q2FsbSBEb3duIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "F7sGJVUrkjQ",
@@ -4677,7 +4751,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpwBCAISUAoFUlVERSESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRjdzR0pWVXJralEvbWF4cmVzZGVmYXVsdC5qcGcaAjY4Ig1IZWFydHMySGVhcnRzGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCEf_Bc-KVd7onSeifS3py9g",
-                        "channelName": "SMTOWN"
+                        "channelName": "SMTOWN",
+                        "serializedShareEntity": "CgtGN3NHSlZVcmtqUXLKAggHEhVSVURFISBpcyAjNjggZ2xvYmFsbHkaOFJVREUhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtcBCtQBSXB3QkNBSVNVQW9GVWxWRVJTRVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlJqZHpSMHBXVlhKcmFsRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalk0SWcxSVpXRnlkSE15U0dWaGNuUnpHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTVSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzY4LmpwZ4IC7QISiAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXB3QkNBSVNVQW9GVWxWRVJTRVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlJqZHpSMHBXVlhKcmFsRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalk0SWcxSVpXRnlkSE15U0dWaGNuUnpHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTUaFVJVREUhIGlzICM2OCBnbG9iYWxseSI4UlVERSEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "GXioir-fujY",
@@ -4742,7 +4817,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpoBCAISTgoLTk8gQkFUSUTDg08SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvR1hpb2lyLWZ1alkvbWF4cmVzZGVmYXVsdC5qcGcaAjY5IgVaWEtBSRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCKWGfdcnS_fE8giiLTi_CXg",
-                        "channelName": "Rubix Records"
+                        "channelName": "Rubix Records",
+                        "serializedShareEntity": "CgtHWGlvaXItZnVqWXLUAggHEhtOTyBCQVRJRMODTyBpcyAjNjkgZ2xvYmFsbHkaPk5PIEJBVElEw4NPIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtUBCtIBSXBvQkNBSVNUZ29MVGs4Z1FrRlVTVVREZzA4U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2UjFocGIybHlMV1oxYWxrdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqWTVJZ1ZhV0V0QlNSb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF82OS5qcGeCAvcCEoYCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwb0JDQUlTVGdvTFRrOGdRa0ZVU1VURGcwOFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlIxaHBiMmx5TFdaMWFsa3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalk1SWdWYVdFdEJTUm95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPURobTk8gQkFUSUTDg08gaXMgIzY5IGdsb2JhbGx5Ij5OTyBCQVRJRMODTyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "rIuKKV06CZA",
@@ -4828,7 +4904,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsIBCAISdgoOUmVsaXF1aWEgZG8gMlQSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvckl1S0tWMDZDWkEvbWF4cmVzZGVmYXVsdC5qcGcaAjcwIghNQyBWaW5lNyIHTUMgVHV0byIQTUMgSm_Do296aW5obyBWVCIFREogR3UaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UClhFyS7uI884HtPGyI31pRw",
-                        "channelName": "Sonar Produtora "
+                        "channelName": "Sonar Produtora ",
+                        "serializedShareEntity": "CgtySXVLS1YwNkNaQXKPAwgHEh5SZWxpcXVpYSBkbyAyVCBpcyAjNzAgZ2xvYmFsbHkaQVJlbGlxdWlhIGRvIDJUIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MooCCocCSXNJQkNBSVNkZ29PVW1Wc2FYRjFhV0VnWkc4Z01sUVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmNrbDFTMHRXTURaRFdrRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamN3SWdoTlF5QldhVzVsTnlJSFRVTWdWSFYwYnlJUVRVTWdTbV9EbzI5NmFXNW9ieUJXVkNJRlJFb2dSM1VhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzcwLmpwZ4ICsgMSuwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXNJQkNBSVNkZ29PVW1Wc2FYRjFhV0VnWkc4Z01sUVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmNrbDFTMHRXTURaRFdrRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamN3SWdoTlF5QldhVzVsTnlJSFRVTWdWSFYwYnlJUVRVTWdTbV9EbzI5NmFXNW9ieUJXVkNJRlJFb2dSM1VhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaHlJlbGlxdWlhIGRvIDJUIGlzICM3MCBnbG9iYWxseSJBUmVsaXF1aWEgZG8gMlQgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "YwtvQ23_-34",
@@ -4900,7 +4977,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrYBCAISagoGRGVhbGVyEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1l3dHZRMjNfLTM0L21heHJlc2RlZmF1bHQuanBnGgI3MSIORGlsaml0IERvc2FuamgiCURhIEZ1dHVyZSILVmlyayBBbmRhYXoaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCZRdNleCgW-BGUJf-bbjzQg",
-                        "channelName": "Diljit Dosanjh"
+                        "channelName": "Diljit Dosanjh",
+                        "serializedShareEntity": "CgtZd3R2UTIzXy0zNHLvAggHEhZEZWFsZXIgaXMgIzcxIGdsb2JhbGx5GjlEZWFsZXIgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy-gEK9wFJcllCQ0FJU2Fnb0dSR1ZoYkdWeUVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDFsM2RIWlJNak5mTFRNMEwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTNNU0lPUkdsc2FtbDBJRVJ2YzJGdWFtZ2lDVVJoSUVaMWRIVnlaU0lMVm1seWF5QkJibVJoWVhvYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF83MS5qcGeCApIDEqsCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyWUJDQUlTYWdvR1JHVmhiR1Z5RWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMWwzZEhaUk1qTmZMVE0wTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJM01TSU9SR2xzYW1sMElFUnZjMkZ1YW1naUNVUmhJRVoxZEhWeVpTSUxWbWx5YXlCQmJtUmhZWG9hTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaFkRlYWxlciBpcyAjNzEgZ2xvYmFsbHkiOURlYWxlciBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "Y9AXKgqGwN4",
@@ -4965,7 +5043,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpsBCAISTwoMS1VTVVJBIEJBS01BEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1k5QVhLZ3FHd040L21heHJlc2RlZmF1bHQuanBnGgI3MiIFQmxvazMaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCJUNWGsVf__EuL51xydR7ag",
-                        "channelName": "Blok3"
+                        "channelName": "Blok3",
+                        "serializedShareEntity": "CgtZOUFYS2dxR3dONHLXAggHEhxLVVNVUkEgQkFLTUEgaXMgIzcyIGdsb2JhbGx5Gj9LVVNVUkEgQkFLTUEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy1gEK0wFJcHNCQ0FJU1R3b01TMVZUVlZKQklFSkJTMDFCRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMWs1UVZoTFozRkhkMDQwTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJM01pSUZRbXh2YXpNYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF83Mi5qcGeCAvoCEocCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwc0JDQUlTVHdvTVMxVlRWVkpCSUVKQlMwMUJFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxazVRVmhMWjNGSGQwNDBMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0kzTWlJRlFteHZhek1hTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaHEtVU1VSQSBCQUtNQSBpcyAjNzIgZ2xvYmFsbHkiP0tVU1VSQSBCQUtNQSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "XjGEJDig1uo",
@@ -5033,7 +5112,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrQBCAISaAoNNCBHIEthIEphbWFuYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9YakdFSkRpZzF1by9tYXhyZXNkZWZhdWx0LmpwZxoCNzMiDVRhcnVuIFBhbmNoYWwiDlJ1Y2hpa2EgSmFuZ2lkGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UC_yGcIsYT7QD3TaxANyuyXg",
-                        "channelName": "MG RECORDS HARYANVI TADKA"
+                        "channelName": "MG RECORDS HARYANVI TADKA",
+                        "serializedShareEntity": "CgtYakdFSkRpZzF1b3L6AggHEh00IEcgS2EgSmFtYW5hIGlzICM3MyBnbG9iYWxseRpANCBHIEthIEphbWFuYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjL3AQr0AUlyUUJDQUlTYUFvTk5DQkhJRXRoSUVwaGJXRnVZUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOVlha2RGU2tScFp6RjFieTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTnpNaURWUmhjblZ1SUZCaGJtTm9ZV3dpRGxKMVkyaHBhMkVnU21GdVoybGtHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTVSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzczLmpwZ4ICnQMSqAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJRQkNBSVNhQW9OTkNCSElFdGhJRXBoYldGdVlSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5WWFrZEZTa1JwWnpGMWJ5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOek1pRFZSaGNuVnVJRkJoYm1Ob1lXd2lEbEoxWTJocGEyRWdTbUZ1WjJsa0dqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRodNCBHIEthIEphbWFuYSBpcyAjNzMgZ2xvYmFsbHkiQDQgRyBLYSBKYW1hbmEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "2ce1IEryl88",
@@ -5091,7 +5171,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvgBCAISqwEKYENoZWJhIFdhcmRhIHggWW91c3JpIE9zY2FyIC0gTm1vdXQgdyBOYWFyZWYg2YrYpyDZg9mKINix2KfZgyDZhtmA2KfZiNmK2YbZiiAtIENsaXAgT2ZmaWNpZWwgMjAyNhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8yY2UxSUVyeWw4OC9tYXhyZXNkZWZhdWx0LmpwZxoCNzQiDURJRE9VIFNMIFBST0QaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UChlyLfbYzw5yLNKIFtV1ULA",
-                        "channelName": "DIDOU SL PROD"
+                        "channelName": "DIDOU SL PROD",
+                        "serializedShareEntity": "CgsyY2UxSUVyeWw4OHL8BAgHEnBDaGViYSBXYXJkYSB4IFlvdXNyaSBPc2NhciAtIE5tb3V0IHcgTmFhcmVmINmK2Kcg2YPZiiDYsdin2YMg2YbZgNin2YjZitmG2YogLSBDbGlwIE9mZmljaWVsIDIwMjYgaXMgIzc0IGdsb2JhbGx5GpMBQ2hlYmEgV2FyZGEgeCBZb3VzcmkgT3NjYXIgLSBObW91dCB3IE5hYXJlZiDZitinINmD2Yog2LHYp9mDINmG2YDYp9mI2YrZhtmKIC0gQ2xpcCBPZmZpY2llbCAyMDI2IG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtICCs8CSXZnQkNBSVNxd0VLWUVOb1pXSmhJRmRoY21SaElIZ2dXVzkxYzNKcElFOXpZMkZ5SUMwZ1RtMXZkWFFnZHlCT1lXRnlaV1lnMllyWXB5RFpnOW1LSU5peDJLZlpneURaaHRtQTJLZlppTm1LMlliWmlpQXRJRU5zYVhBZ1QyWm1hV05wWld3Z01qQXlOaEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOHlZMlV4U1VWeWVXdzRPQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTnpRaURVUkpSRTlWSUZOTUlGQlNUMFFhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzc0LmpwZ4ICnwUSgwNodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXZnQkNBSVNxd0VLWUVOb1pXSmhJRmRoY21SaElIZ2dXVzkxYzNKcElFOXpZMkZ5SUMwZ1RtMXZkWFFnZHlCT1lXRnlaV1lnMllyWXB5RFpnOW1LSU5peDJLZlpneURaaHRtQTJLZlppTm1LMlliWmlpQXRJRU5zYVhBZ1QyWm1hV05wWld3Z01qQXlOaEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOHlZMlV4U1VWeWVXdzRPQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTnpRaURVUkpSRTlWSUZOTUlGQlNUMFFhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsacENoZWJhIFdhcmRhIHggWW91c3JpIE9zY2FyIC0gTm1vdXQgdyBOYWFyZWYg2YrYpyDZg9mKINix2KfZgyDZhtmA2KfZiNmK2YbZiiAtIENsaXAgT2ZmaWNpZWwgMjAyNiBpcyAjNzQgZ2xvYmFsbHkikwFDaGViYSBXYXJkYSB4IFlvdXNyaSBPc2NhciAtIE5tb3V0IHcgTmFhcmVmINmK2Kcg2YPZiiDYsdin2YMg2YbZgNin2YjZitmG2YogLSBDbGlwIE9mZmljaWVsIDIwMjYgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "hT_nvWreIhg",
@@ -5154,7 +5235,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqMBCAISVwoOQ291bnRpbmcgU3RhcnMSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvaFRfbnZXcmVJaGcvbWF4cmVzZGVmYXVsdC5qcGcaAjc1IgtPbmVSZXB1YmxpYxoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCQ5kHOKpF3-1_UCKaqXARRg",
-                        "channelName": "OneRepublicVEVO"
+                        "channelName": "OneRepublicVEVO",
+                        "serializedShareEntity": "CgtoVF9udldyZUloZ3LmAggHEh5Db3VudGluZyBTdGFycyBpcyAjNzUgZ2xvYmFsbHkaQUNvdW50aW5nIFN0YXJzIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MuEBCt4BSXFNQkNBSVNWd29PUTI5MWJuUnBibWNnVTNSaGNuTVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmFGUmZiblpYY21WSmFHY3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamMxSWd0UGJtVlNaWEIxWW14cFl4b3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF83NS5qcGeCAokDEpICaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxTUJDQUlTVndvT1EyOTFiblJwYm1jZ1UzUmhjbk1TTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZhRlJmYm5aWGNtVkphR2N2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpjMUlndFBibVZTWlhCMVlteHBZeG95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPURoeQ291bnRpbmcgU3RhcnMgaXMgIzc1IGdsb2JhbGx5IkFDb3VudGluZyBTdGFycyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "1Q5u6DTMVCQ",
@@ -5211,7 +5293,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqYBCAISWgoQSXNocWEnbiBEZSBMZWtoZRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8xUTV1NkRUTVZDUS9tYXhyZXNkZWZhdWx0LmpwZxoCNzYiDFNhamphbiBBZGVlYhoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCOsyDsO5tIt-VZ1iwjdQmew",
-                        "channelName": "Speed Records"
+                        "channelName": "Speed Records",
+                        "serializedShareEntity": "CgsxUTV1NkRUTVZDUXLuAggHEiBJc2hxYSduIERlIExla2hlIGlzICM3NiBnbG9iYWxseRpDSXNocWEnbiBEZSBMZWtoZSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLlAQriAUlxWUJDQUlTV2dvUVNYTm9jV0VuYmlCRVpTQk1aV3RvWlJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzh4VVRWMU5rUlVUVlpEVVM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ056WWlERk5oYW1waGJpQkJaR1ZsWWhveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1FSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzc2LmpwZ4ICkQMSlgJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFZQkNBSVNXZ29RU1hOb2NXRW5iaUJFWlNCTVpXdG9aUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOHhVVFYxTmtSVVRWWkRVUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTnpZaURGTmhhbXBoYmlCQlpHVmxZaG95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPURogSXNocWEnbiBEZSBMZWtoZSBpcyAjNzYgZ2xvYmFsbHkiQ0lzaHFhJ24gRGUgTGVraGUgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "fLexgOxsZu0",
@@ -5267,7 +5350,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqEBCAISVQoNVGhlIExhenkgU29uZxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9mTGV4Z094c1p1MC9tYXhyZXNkZWZhdWx0LmpwZxoCNzciCkJydW5vIE1hcnMaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
-                        "channelName": "Bruno Mars"
+                        "channelName": "Bruno Mars",
+                        "serializedShareEntity": "CgtmTGV4Z094c1p1MHLhAggHEh1UaGUgTGF6eSBTb25nIGlzICM3NyBnbG9iYWxseRpAVGhlIExhenkgU29uZyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLeAQrbAUlxRUJDQUlTVlFvTlZHaGxJRXhoZW5rZ1UyOXVaeEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOW1UR1Y0WjA5NGMxcDFNQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTnpjaUNrSnlkVzV2SUUxaGNuTWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfNzcuanBnggKEAxKPAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcUVCQ0FJU1ZRb05WR2hsSUV4aGVua2dVMjl1WnhJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzltVEdWNFowOTRjMXAxTUM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ056Y2lDa0p5ZFc1dklFMWhjbk1hTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaHVRoZSBMYXp5IFNvbmcgaXMgIzc3IGdsb2JhbGx5IkBUaGUgTGF6eSBTb25nIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "Elp1SHhSQ9M",
@@ -5338,7 +5422,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItUBCAISiAEKFlR1cyBNZW50aXJhcyAoRW4gVml2bykSMGh0dHBzOi8vaS55dGltZy5jb20vdmkvRWxwMVNIaFNROU0vc2RkZWZhdWx0LmpwZxoCNzgiDU1veSBCb2JhZGlsbGEiC0dydXBvIEZpcm1lIhBIZXJuYW4gU2VwdWx2ZWRhIgpNYXggUGVyYXphGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCx3kao_8u_QgFU1MWO19YHg",
-                        "channelName": "MUSIC VIP"
+                        "channelName": "MUSIC VIP",
+                        "serializedShareEntity": "CgtFbHAxU0hoU1E5TXK4AwgHEiZUdXMgTWVudGlyYXMgKEVuIFZpdm8pIGlzICM3OCBnbG9iYWxseRpJVHVzIE1lbnRpcmFzIChFbiBWaXZvKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjKjAgqgAkl0VUJDQUlTaUFFS0ZsUjFjeUJOWlc1MGFYSmhjeUFvUlc0Z1ZtbDJieWtTTUdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZSV3h3TVZOSWFGTlJPVTB2YzJSa1pXWmhkV3gwTG1wd1p4b0NOemdpRFUxdmVTQkNiMkpoWkdsc2JHRWlDMGR5ZFhCdklFWnBjbTFsSWhCSVpYSnVZVzRnVTJWd2RXeDJaV1JoSWdwTllYZ2dVR1Z5WVhwaEdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfNzguanBnggLbAxLUAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdFVCQ0FJU2lBRUtGbFIxY3lCTlpXNTBhWEpoY3lBb1JXNGdWbWwyYnlrU01HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2Uld4d01WTklhRk5ST1UwdmMyUmtaV1poZFd4MExtcHdaeG9DTnpnaURVMXZlU0JDYjJKaFpHbHNiR0VpQzBkeWRYQnZJRVpwY20xbEloQklaWEp1WVc0Z1UyVndkV3gyWldSaElncE5ZWGdnVUdWeVlYcGhHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTUaJlR1cyBNZW50aXJhcyAoRW4gVml2bykgaXMgIzc4IGdsb2JhbGx5IklUdXMgTWVudGlyYXMgKEVuIFZpdm8pIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "RBumgq5yVrA",
@@ -5394,7 +5479,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsUBCAISeQoyTGV0IEhlciBHbyAoTGl2ZSBmcm9tIFRoZSBGYWN0b3J5IFRoZWF0cmUsIFN5ZG5leSkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvUkJ1bWdxNXlWckEvbWF4cmVzZGVmYXVsdC5qcGcaAjc5IglQYXNzZW5nZXIaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCFHtCB_FWXQ8GpjgfYcD8-g",
-                        "channelName": "Passenger"
+                        "channelName": "Passenger",
+                        "serializedShareEntity": "CgtSQnVtZ3E1eVZyQXLbAwgHEkJMZXQgSGVyIEdvIChMaXZlIGZyb20gVGhlIEZhY3RvcnkgVGhlYXRyZSwgU3lkbmV5KSBpcyAjNzkgZ2xvYmFsbHkaZUxldCBIZXIgR28gKExpdmUgZnJvbSBUaGUgRmFjdG9yeSBUaGVhdHJlLCBTeWRuZXkpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Mo4CCosCSXNVQkNBSVNlUW95VEdWMElFaGxjaUJIYnlBb1RHbDJaU0JtY205dElGUm9aU0JHWVdOMGIzSjVJRlJvWldGMGNtVXNJRk41Wkc1bGVTa1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlVrSjFiV2R4TlhsV2NrRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamM1SWdsUVlYTnpaVzVuWlhJYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF83OS5qcGeCAv4DEr8CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzVUJDQUlTZVFveVRHVjBJRWhsY2lCSGJ5QW9UR2wyWlNCbWNtOXRJRlJvWlNCR1lXTjBiM0o1SUZSb1pXRjBjbVVzSUZONVpHNWxlU2tTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZVa0oxYldkeE5YbFdja0V2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpjNUlnbFFZWE56Wlc1blpYSWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxpCTGV0IEhlciBHbyAoTGl2ZSBmcm9tIFRoZSBGYWN0b3J5IFRoZWF0cmUsIFN5ZG5leSkgaXMgIzc5IGdsb2JhbGx5ImVMZXQgSGVyIEdvIChMaXZlIGZyb20gVGhlIEZhY3RvcnkgVGhlYXRyZSwgU3lkbmV5KSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "c5VebeBy5a4",
@@ -5451,7 +5537,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqEBCAISVQoRQ2FsbGluZyBZb3VyIE5hbWUSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvYzVWZWJlQnk1YTQvbWF4cmVzZGVmYXVsdC5qcGcaAjgwIgZTWFlCSVQaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC6X1L21saoUvtnFsq_tI4Xw",
-                        "channelName": "SXYBIT"
+                        "channelName": "SXYBIT",
+                        "serializedShareEntity": "CgtjNVZlYmVCeTVhNHLpAggHEiFDYWxsaW5nIFlvdXIgTmFtZSBpcyAjODAgZ2xvYmFsbHkaRENhbGxpbmcgWW91ciBOYW1lIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Mt4BCtsBSXFFQkNBSVNWUW9SUTJGc2JHbHVaeUJaYjNWeUlFNWhiV1VTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZZelZXWldKbFFuazFZVFF2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpnd0lnWlRXRmxDU1ZRYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF84MC5qcGeCAowDEo8CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxRUJDQUlTVlFvUlEyRnNiR2x1WnlCWmIzVnlJRTVoYldVU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2WXpWV1pXSmxRbmsxWVRRdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqZ3dJZ1pUV0ZsQ1NWUWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxohQ2FsbGluZyBZb3VyIE5hbWUgaXMgIzgwIGdsb2JhbGx5IkRDYWxsaW5nIFlvdXIgTmFtZSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "N0LAlTOU2jc",
@@ -5543,7 +5630,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Iv8BCAISsgEKCUFhcmkgQWFyaRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9OMExBbFRPVTJqYy9tYXhyZXNkZWZhdWx0LmpwZxoCODEiDkJvbWJheSBSb2NrZXJzIhBTaGFzaHdhdCBTYWNoZGV2IglLaGFuIFNhYWIiD0phc21pbmUgU2FuZGxhcyIRU3VkaGlyIFlhZHV2YW5zaGkiBVJlYmxlIgVUb2tlbiIMSXJzaGFkIEthbWlsGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "CgtOMExBbFRPVTJqY3LWAwgHEhlBYXJpIEFhcmkgaXMgIzgxIGdsb2JhbGx5GjxBYXJpIEFhcmkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy2wIK2AJJdjhCQ0FJU3NnRUtDVUZoY21rZ1FXRnlhUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOU9NRXhCYkZSUFZUSnFZeTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DT0RFaURrSnZiV0poZVNCU2IyTnJaWEp6SWhCVGFHRnphSGRoZENCVFlXTm9aR1YySWdsTGFHRnVJRk5oWVdJaUQwcGhjMjFwYm1VZ1UyRnVaR3hoY3lJUlUzVmthR2x5SUZsaFpIVjJZVzV6YUdraUJWSmxZbXhsSWdWVWIydGxiaUlNU1hKemFHRmtJRXRoYldsc0dqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfODEuanBnggL5AxKMA2h0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdjhCQ0FJU3NnRUtDVUZoY21rZ1FXRnlhUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOU9NRXhCYkZSUFZUSnFZeTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DT0RFaURrSnZiV0poZVNCU2IyTnJaWEp6SWhCVGFHRnphSGRoZENCVFlXTm9aR1YySWdsTGFHRnVJRk5oWVdJaUQwcGhjMjFwYm1VZ1UyRnVaR3hoY3lJUlUzVmthR2x5SUZsaFpIVjJZVzV6YUdraUJWSmxZbXhsSWdWVWIydGxiaUlNU1hKemFHRmtJRXRoYldsc0dqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRoZQWFyaSBBYXJpIGlzICM4MSBnbG9iYWxseSI8QWFyaSBBYXJpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "T8DLCWW6EpY",
@@ -5600,7 +5688,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItIBCAIShQEKPFNrdXN0YSBDbGVlIC0gU2luY2UgRGF5IE9uZSBmdC4gRmxvdyBHIChPZmZpY2FsIE11c2ljIFZpZGVvKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9UOERMQ1dXNkVwWS9tYXhyZXNkZWZhdWx0LmpwZxoCODIiC1NrdXN0YSBDbGVlGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCDr3QFJP4pnKSMeL2WEt5Ew",
-                        "channelName": "Skusta Clee TV"
+                        "channelName": "Skusta Clee TV",
+                        "serializedShareEntity": "CgtUOERMQ1dXNkVwWXKABAgHEkxTa3VzdGEgQ2xlZSAtIFNpbmNlIERheSBPbmUgZnQuIEZsb3cgRyAoT2ZmaWNhbCBNdXNpYyBWaWRlbykgaXMgIzgyIGdsb2JhbGx5Gm9Ta3VzdGEgQ2xlZSAtIFNpbmNlIERheSBPbmUgZnQuIEZsb3cgRyAoT2ZmaWNhbCBNdXNpYyBWaWRlbykgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYynwIKnAJJdElCQ0FJU2hRRUtQRk5yZFhOMFlTQkRiR1ZsSUMwZ1UybHVZMlVnUkdGNUlFOXVaU0JtZEM0Z1JteHZkeUJISUNoUFptWnBZMkZzSUUxMWMybGpJRlpwWkdWdktSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5VU9FUk1RMWRYTmtWd1dTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPRElpQzFOcmRYTjBZU0JEYkdWbEdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfODIuanBnggKjBBLQAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdElCQ0FJU2hRRUtQRk5yZFhOMFlTQkRiR1ZsSUMwZ1UybHVZMlVnUkdGNUlFOXVaU0JtZEM0Z1JteHZkeUJISUNoUFptWnBZMkZzSUUxMWMybGpJRlpwWkdWdktSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5VU9FUk1RMWRYTmtWd1dTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPRElpQzFOcmRYTjBZU0JEYkdWbEdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRpMU2t1c3RhIENsZWUgLSBTaW5jZSBEYXkgT25lIGZ0LiBGbG93IEcgKE9mZmljYWwgTXVzaWMgVmlkZW8pIGlzICM4MiBnbG9iYWxseSJvU2t1c3RhIENsZWUgLSBTaW5jZSBEYXkgT25lIGZ0LiBGbG93IEcgKE9mZmljYWwgTXVzaWMgVmlkZW8pIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "Tus7CBqOnvg",
@@ -5663,7 +5752,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrMBCAISZwoLVGFtbWEgVGFtbWESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvVHVzN0NCcU9udmcvbWF4cmVzZGVmYXVsdC5qcGcaAjgzIgxCYXBwaSBMYWhpcmkiEEFudXJhZGhhIFBhdWR3YWwaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
-                        "channelName": "T-Series"
+                        "channelName": "T-Series",
+                        "serializedShareEntity": "CgtUdXM3Q0JxT252Z3L1AggHEhtUYW1tYSBUYW1tYSBpcyAjODMgZ2xvYmFsbHkaPlRhbW1hIFRhbW1hIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MvYBCvMBSXJNQkNBSVNad29MVkdGdGJXRWdWR0Z0YldFU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2VkhWek4wTkNjVTl1ZG1jdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqZ3pJZ3hDWVhCd2FTQk1ZV2hwY21raUVFRnVkWEpoWkdoaElGQmhkV1IzWVd3YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF84My5qcGeCApgDEqcCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyTUJDQUlTWndvTFZHRnRiV0VnVkdGdGJXRVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlZIVnpOME5DY1U5dWRtY3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamd6SWd4Q1lYQndhU0JNWVdocGNta2lFRUZ1ZFhKaFpHaGhJRkJoZFdSM1lXd2FNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxobVGFtbWEgVGFtbWEgaXMgIzgzIGdsb2JhbGx5Ij5UYW1tYSBUYW1tYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "s-dr_KJvmO4",
@@ -5731,7 +5821,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqABCAISVAoLWW91bmdlciBZb3USNGh0dHBzOi8vaS55dGltZy5jb20vdmkvcy1kcl9LSnZtTzQvbWF4cmVzZGVmYXVsdC5qcGcaAjg0IgtNaWxleSBDeXJ1cxoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCdI8evszfZvyAl2UVCypkTA",
-                        "channelName": "MileyCyrusVEVO"
+                        "channelName": "MileyCyrusVEVO",
+                        "serializedShareEntity": "CgtzLWRyX0tKdm1PNHLcAggHEhtZb3VuZ2VyIFlvdSBpcyAjODQgZ2xvYmFsbHkaPllvdW5nZXIgWW91IG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Mt0BCtoBSXFBQkNBSVNWQW9MV1c5MWJtZGxjaUJaYjNVU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2Y3kxa2NsOUxTblp0VHpRdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqZzBJZ3ROYVd4bGVTQkRlWEoxY3hveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1FSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzg0LmpwZ4IC_wISjgJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFBQkNBSVNWQW9MV1c5MWJtZGxjaUJaYjNVU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2Y3kxa2NsOUxTblp0VHpRdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqZzBJZ3ROYVd4bGVTQkRlWEoxY3hveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaG1lvdW5nZXIgWW91IGlzICM4NCBnbG9iYWxseSI-WW91bmdlciBZb3Ugb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "Ztbv7ChTQRM",
@@ -5786,7 +5877,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpgBCAISTAoLU1dJTSAoTGl2ZSkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvWnRidjdDaFRRUk0vbWF4cmVzZGVmYXVsdC5qcGcaAjg1IgNCVFMaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCLkAepWjdylmXSltofFvsYQ",
-                        "channelName": "BANGTANTV"
+                        "channelName": "BANGTANTV",
+                        "serializedShareEntity": "CgtadGJ2N0NoVFFSTXLRAggHEhtTV0lNIChMaXZlKSBpcyAjODUgZ2xvYmFsbHkaPlNXSU0gKExpdmUpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtIBCs8BSXBnQkNBSVNUQW9MVTFkSlRTQW9UR2wyWlNrU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2V25SaWRqZERhRlJSVWswdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqZzFJZ05DVkZNYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF84NS5qcGeCAvQCEoMCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwZ0JDQUlTVEFvTFUxZEpUU0FvVEdsMlpTa1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlduUmlkamREYUZSUlVrMHZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamcxSWdOQ1ZGTWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxobU1dJTSAoTGl2ZSkgaXMgIzg1IGdsb2JhbGx5Ij5TV0lNIChMaXZlKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "E7ergOnpO1Q",
@@ -5850,7 +5942,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQBCAISWAoKTm90IEd1aWx0eRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9FN2VyZ09ucE8xUS9tYXhyZXNkZWZhdWx0LmpwZxoCODYiEERoYW5kYSBOeW9saXdhbGEaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCdvPL04EnHCT3zaVFb3xydQ",
-                        "channelName": "Dhanda Nyoliwala"
+                        "channelName": "Dhanda Nyoliwala",
+                        "serializedShareEntity": "CgtFN2VyZ09ucE8xUXLfAggHEhpOb3QgR3VpbHR5IGlzICM4NiBnbG9iYWxseRo9Tm90IEd1aWx0eSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLiAQrfAUlxUUJDQUlTV0FvS1RtOTBJRWQxYVd4MGVSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5Rk4yVnlaMDl1Y0U4eFVTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPRFlpRUVSb1lXNWtZU0JPZVc5c2FYZGhiR0VhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzg2LmpwZ4ICggMSkwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFRQkNBSVNXQW9LVG05MElFZDFhV3gwZVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlGTjJWeVowOXVjRTh4VVM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ09EWWlFRVJvWVc1a1lTQk9lVzlzYVhkaGJHRWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxoaTm90IEd1aWx0eSBpcyAjODYgZ2xvYmFsbHkiPU5vdCBHdWlsdHkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "TFTnJzWRTJ8",
@@ -5924,7 +6017,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IscBCAISewoLTmFhbCBOYWNobmESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvVEZUbkp6V1JUSjgvbWF4cmVzZGVmYXVsdC5qcGcaAjg3IgtBZnNhbmEgS2hhbiIFUmVibGUiEFNoYXNod2F0IFNhY2hkZXYiDElyc2hhZCBLYW1pbBoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC_A7K2dXFsTMAciGmnNxy-Q",
-                        "channelName": "Saregama Music"
+                        "channelName": "Saregama Music",
+                        "serializedShareEntity": "CgtURlRuSnpXUlRKOHKQAwgHEhtOYWFsIE5hY2huYSBpcyAjODcgZ2xvYmFsbHkaPk5hYWwgTmFjaG5hIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MpECCo4CSXNjQkNBSVNld29MVG1GaGJDQk9ZV05vYm1FU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2VkVaVWJrcDZWMUpVU2pndmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqZzNJZ3RCWm5OaGJtRWdTMmhoYmlJRlVtVmliR1VpRUZOb1lYTm9kMkYwSUZOaFkyaGtaWFlpREVseWMyaGhaQ0JMWVcxcGJCb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF84Ny5qcGeCArMDEsICaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzY0JDQUlTZXdvTFRtRmhiQ0JPWVdOb2JtRVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlZFWlVia3A2VjFKVVNqZ3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamczSWd0QlpuTmhibUVnUzJoaGJpSUZVbVZpYkdVaUVGTm9ZWE5vZDJGMElGTmhZMmhrWlhZaURFbHljMmhoWkNCTFlXMXBiQm95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPURobTmFhbCBOYWNobmEgaXMgIzg3IGdsb2JhbGx5Ij5OYWFsIE5hY2huYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "PYmKIMwXsSg",
@@ -5998,7 +6092,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Is4BCAISgQEKI0RlbGhpIFNlIE1hbmFsaSAoTGFka2EgVGVyYSBEaXdhbmEpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1BZbUtJTXdYc1NnL21heHJlc2RlZmF1bHQuanBnGgI4OCIHQmFkc2hhaCIHU2lyYXplZSIOTWFuanUgTmF1dGl5YWwaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCUQg_UBQfVjptn7Wqcgzz-w",
-                        "channelName": "Badshah"
+                        "channelName": "Badshah",
+                        "serializedShareEntity": "CgtQWW1LSU13WHNTZ3LJAwgHEjNEZWxoaSBTZSBNYW5hbGkgKExhZGthIFRlcmEgRGl3YW5hKSBpcyAjODggZ2xvYmFsbHkaVkRlbGhpIFNlIE1hbmFsaSAoTGFka2EgVGVyYSBEaXdhbmEpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MpoCCpcCSXM0QkNBSVNnUUVLSTBSbGJHaHBJRk5sSUUxaGJtRnNhU0FvVEdGa2EyRWdWR1Z5WVNCRWFYZGhibUVwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMUJaYlV0SlRYZFljMU5uTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJNE9DSUhRbUZrYzJoaGFDSUhVMmx5WVhwbFpTSU9UV0Z1YW5VZ1RtRjFkR2w1WVd3YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF84OC5qcGeCAuwDEssCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzNEJDQUlTZ1FFS0kwUmxiR2hwSUZObElFMWhibUZzYVNBb1RHRmthMkVnVkdWeVlTQkVhWGRoYm1FcEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDFCWmJVdEpUWGRZYzFObkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTRPQ0lIUW1Ga2MyaGhhQ0lIVTJseVlYcGxaU0lPVFdGdWFuVWdUbUYxZEdsNVlXd2FNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxozRGVsaGkgU2UgTWFuYWxpIChMYWRrYSBUZXJhIERpd2FuYSkgaXMgIzg4IGdsb2JhbGx5IlZEZWxoaSBTZSBNYW5hbGkgKExhZGthIFRlcmEgRGl3YW5hKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "1a5nyrMtRsk",
@@ -6090,7 +6185,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpUCCAISyAEKCkRodXJhbmRoYXISNGh0dHBzOi8vaS55dGltZy5jb20vdmkvMWE1bnlyTXRSc2svbWF4cmVzZGVmYXVsdC5qcGcaAjg5IgtIYW51bWFua2luZCIPSmFzbWluZSBTYW5kbGFzIhFTdWRoaXIgWWFkdXZhbnNoaSIQU2hhc2h3YXQgU2FjaGRldiIOTXVoYW1tYWQgU2FkaXEiC1JhbmppdCBLYXVyIg9DaGFyYW5qaXQgQWh1amEiD0JhYnUgU2luZ2ggTWFhbhoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC_A7K2dXFsTMAciGmnNxy-Q",
-                        "channelName": "Saregama Music"
+                        "channelName": "Saregama Music",
+                        "serializedShareEntity": "CgsxYTVueXJNdFJza3L2AwgHEhpEaHVyYW5kaGFyIGlzICM4OSBnbG9iYWxseRo9RGh1cmFuZGhhciBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjL5Agr2AklwVUNDQUlTeUFFS0NrUm9kWEpoYm1Sb1lYSVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk1XRTFibmx5VFhSU2Myc3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamc1SWd0SVlXNTFiV0Z1YTJsdVpDSVBTbUZ6YldsdVpTQlRZVzVrYkdGekloRlRkV1JvYVhJZ1dXRmtkWFpoYm5Ob2FTSVFVMmhoYzJoM1lYUWdVMkZqYUdSbGRpSU9UWFZvWVcxdFlXUWdVMkZrYVhFaUMxSmhibXBwZENCTFlYVnlJZzlEYUdGeVlXNXFhWFFnUVdoMWFtRWlEMEpoWW5VZ1UybHVaMmdnVFdGaGJob3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF84OS5qcGeCApkEEqoDaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwVUNDQUlTeUFFS0NrUm9kWEpoYm1Sb1lYSVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk1XRTFibmx5VFhSU2Myc3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamc1SWd0SVlXNTFiV0Z1YTJsdVpDSVBTbUZ6YldsdVpTQlRZVzVrYkdGekloRlRkV1JvYVhJZ1dXRmtkWFpoYm5Ob2FTSVFVMmhoYzJoM1lYUWdVMkZqYUdSbGRpSU9UWFZvWVcxdFlXUWdVMkZrYVhFaUMxSmhibXBwZENCTFlYVnlJZzlEYUdGeVlXNXFhWFFnUVdoMWFtRWlEMEpoWW5VZ1UybHVaMmdnVFdGaGJob3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RGhpEaHVyYW5kaGFyIGlzICM4OSBnbG9iYWxseSI9RGh1cmFuZGhhciBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "lIxQe1R5hs0",
@@ -6160,7 +6256,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrABCAISZAoYU3RhdGVzaWRlICsgWmFyYSBMYXJzc29uEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2xJeFFlMVI1aHMwL21heHJlc2RlZmF1bHQuanBnGgI5MCIOUGlua1BhbnRoZXJlc3MaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCufuq24Cef6-CdmEiZmXTBg",
-                        "channelName": "Pinkpantheress"
+                        "channelName": "Pinkpantheress",
+                        "serializedShareEntity": "CgtsSXhRZTFSNWhzMHKLAwgHEihTdGF0ZXNpZGUgKyBaYXJhIExhcnNzb24gaXMgIzkwIGdsb2JhbGx5GktTdGF0ZXNpZGUgKyBaYXJhIExhcnNzb24gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy8gEK7wFJckFCQ0FJU1pBb1lVM1JoZEdWemFXUmxJQ3NnV21GeVlTQk1ZWEp6YzI5dUVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDJ4SmVGRmxNVkkxYUhNd0wyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTVNQ0lPVUdsdWExQmhiblJvWlhKbGMzTWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfOTAuanBnggKuAxKjAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JckFCQ0FJU1pBb1lVM1JoZEdWemFXUmxJQ3NnV21GeVlTQk1ZWEp6YzI5dUVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDJ4SmVGRmxNVkkxYUhNd0wyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTVNQ0lPVUdsdWExQmhiblJvWlhKbGMzTWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxooU3RhdGVzaWRlICsgWmFyYSBMYXJzc29uIGlzICM5MCBnbG9iYWxseSJLU3RhdGVzaWRlICsgWmFyYSBMYXJzc29uIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "wGAH8PSk-rg",
@@ -6227,7 +6324,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQBCAISWAoMQ09PT0sgUEFSRE9OEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3dHQUg4UFNrLXJnL21heHJlc2RlZmF1bHQuanBnGgI5MSIITHZiZWwgQzUiBEFLRE8aMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC4KXKrDVE-WlIcBO0w0LQtg",
-                        "channelName": "LVBELC5"
+                        "channelName": "LVBELC5",
+                        "serializedShareEntity": "Cgt3R0FIOFBTay1yZ3LjAggHEhxDT09PSyBQQVJET04gaXMgIzkxIGdsb2JhbGx5Gj9DT09PSyBQQVJET04gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy4gEK3wFJcVFCQ0FJU1dBb01RMDlQVDBzZ1VFRlNSRTlPRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM2RIUVVnNFVGTnJMWEpuTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJNU1TSUlUSFppWld3Z1F6VWlCRUZMUkU4YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF85MS5qcGeCAoYDEpMCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxUUJDQUlTV0FvTVEwOVBUMHNnVUVGU1JFOU9FalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwzZEhRVWc0VUZOckxYSm5MMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0k1TVNJSVRIWmlaV3dnUXpVaUJFRkxSRThhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaHENPT09LIFBBUkRPTiBpcyAjOTEgZ2xvYmFsbHkiP0NPT09LIFBBUkRPTiBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "hhGOJ0PVb7A",
@@ -6291,7 +6389,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqABCAISVAoKSmFpbCBZYXRyYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9oaEdPSjBQVmI3QS9tYXhyZXNkZWZhdWx0LmpwZxoCOTIiDFJhdXNoYW4gUm9oaRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCh6r40fbLs62rieVnODZkSw",
-                        "channelName": "Raushan Rohi Entertainment"
+                        "channelName": "Raushan Rohi Entertainment",
+                        "serializedShareEntity": "CgtoaEdPSjBQVmI3QXLaAggHEhpKYWlsIFlhdHJhIGlzICM5MiBnbG9iYWxseRo9SmFpbCBZYXRyYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLdAQraAUlxQUJDQUlTVkFvS1NtRnBiQ0JaWVhSeVlSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5b2FFZFBTakJRVm1JM1FTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVElpREZKaGRYTm9ZVzRnVW05b2FSb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF85Mi5qcGeCAv0CEo4CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxQUJDQUlTVkFvS1NtRnBiQ0JaWVhSeVlSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5b2FFZFBTakJRVm1JM1FTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVElpREZKaGRYTm9ZVzRnVW05b2FSb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RGhpKYWlsIFlhdHJhIGlzICM5MiBnbG9iYWxseSI9SmFpbCBZYXRyYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "9loVIHzN2aQ",
@@ -6352,7 +6451,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpwBCAISUAoFTmFqbWESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvOWxvVklIek4yYVEvbWF4cmVzZGVmYXVsdC5qcGcaAjkzIg1CZXNzYW4gSXNtYWlsGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UChqTvg4HK6_vNDCwy7XypqQ",
-                        "channelName": "Bessan Ismail Music"
+                        "channelName": "Bessan Ismail Music",
+                        "serializedShareEntity": "Cgs5bG9WSUh6TjJhUXLKAggHEhVOYWptYSBpcyAjOTMgZ2xvYmFsbHkaOE5ham1hIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtcBCtQBSXB3QkNBSVNVQW9GVG1GcWJXRVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk9XeHZWa2xJZWs0eVlWRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamt6SWcxQ1pYTnpZVzRnU1hOdFlXbHNHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTVSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzkzLmpwZ4IC7QISiAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXB3QkNBSVNVQW9GVG1GcWJXRVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk9XeHZWa2xJZWs0eVlWRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamt6SWcxQ1pYTnpZVzRnU1hOdFlXbHNHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTUaFU5ham1hIGlzICM5MyBnbG9iYWxseSI4TmFqbWEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "o9vEfB1GNio",
@@ -6410,7 +6510,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Iu8BCAISogEKVFRvdWNoIEJ1ZGR5IHwgRGFjb2l0IHwgUGF3YW4gU2luZ2gsIEpvbml0YSwgQmhlZW1zLCBWYXl1IHwgQWRpdmkgU2VzaCwgTXJ1bmFsIFRoYWt1chI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9vOXZFZkIxR05pby9tYXhyZXNkZWZhdWx0LmpwZxoCOTQiEFNvbnkgTXVzaWMgSW5kaWEaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
-                        "channelName": "Sony Music India"
+                        "channelName": "Sony Music India",
+                        "serializedShareEntity": "CgtvOXZFZkIxR05pb3LYBAgHEmRUb3VjaCBCdWRkeSB8IERhY29pdCB8IFBhd2FuIFNpbmdoLCBKb25pdGEsIEJoZWVtcywgVmF5dSB8IEFkaXZpIFNlc2gsIE1ydW5hbCBUaGFrdXIgaXMgIzk0IGdsb2JhbGx5GocBVG91Y2ggQnVkZHkgfCBEYWNvaXQgfCBQYXdhbiBTaW5naCwgSm9uaXRhLCBCaGVlbXMsIFZheXUgfCBBZGl2aSBTZXNoLCBNcnVuYWwgVGhha3VyIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MsYCCsMCSXU4QkNBSVNvZ0VLVkZSdmRXTm9JRUoxWkdSNUlId2dSR0ZqYjJsMElId2dVR0YzWVc0Z1UybHVaMmdzSUVwdmJtbDBZU3dnUW1obFpXMXpMQ0JXWVhsMUlId2dRV1JwZG1rZ1UyVnphQ3dnVFhKMWJtRnNJRlJvWVd0MWNoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5dk9YWkZaa0l4UjA1cGJ5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVFFpRUZOdmJua2dUWFZ6YVdNZ1NXNWthV0VhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzk0LmpwZ4IC-wQS9wJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXU4QkNBSVNvZ0VLVkZSdmRXTm9JRUoxWkdSNUlId2dSR0ZqYjJsMElId2dVR0YzWVc0Z1UybHVaMmdzSUVwdmJtbDBZU3dnUW1obFpXMXpMQ0JXWVhsMUlId2dRV1JwZG1rZ1UyVnphQ3dnVFhKMWJtRnNJRlJvWVd0MWNoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5dk9YWkZaa0l4UjA1cGJ5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVFFpRUZOdmJua2dUWFZ6YVdNZ1NXNWthV0VhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsaZFRvdWNoIEJ1ZGR5IHwgRGFjb2l0IHwgUGF3YW4gU2luZ2gsIEpvbml0YSwgQmhlZW1zLCBWYXl1IHwgQWRpdmkgU2VzaCwgTXJ1bmFsIFRoYWt1ciBpcyAjOTQgZ2xvYmFsbHkihwFUb3VjaCBCdWRkeSB8IERhY29pdCB8IFBhd2FuIFNpbmdoLCBKb25pdGEsIEJoZWVtcywgVmF5dSB8IEFkaXZpIFNlc2gsIE1ydW5hbCBUaGFrdXIgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "znlFu_lemsU",
@@ -6479,7 +6580,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQBCAISWAoNRmFtaWx5IEFmZmFpchI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS96bmxGdV9sZW1zVS9tYXhyZXNkZWZhdWx0LmpwZxoCOTUiDU1hcnkgSi4gQmxpZ2UaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCQ-ttSCwBiGhgM5GLY1hzWA",
-                        "channelName": "MaryJBligeVEVO"
+                        "channelName": "MaryJBligeVEVO",
+                        "serializedShareEntity": "Cgt6bmxGdV9sZW1zVXLlAggHEh1GYW1pbHkgQWZmYWlyIGlzICM5NSBnbG9iYWxseRpARmFtaWx5IEFmZmFpciBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLiAQrfAUlxUUJDQUlTV0FvTlJtRnRhV3g1SUVGbVptRnBjaEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOTZibXhHZFY5c1pXMXpWUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DT1RVaURVMWhjbmtnU2k0Z1FteHBaMlVhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzk1LmpwZ4ICiAMSkwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFRQkNBSVNXQW9OUm1GdGFXeDVJRUZtWm1GcGNoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5NmJteEdkVjlzWlcxelZTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVFVpRFUxaGNua2dTaTRnUW14cFoyVWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxodRmFtaWx5IEFmZmFpciBpcyAjOTUgZ2xvYmFsbHkiQEZhbWlseSBBZmZhaXIgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "YVkUvmDQ3HY",
@@ -6546,7 +6648,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpoBCAISTgoKV2l0aG91dCBNZRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9ZVmtVdm1EUTNIWS9tYXhyZXNkZWZhdWx0LmpwZxoCOTYiBkVtaW5lbRoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC20vb-R_px4CguHzzBPhoyQ",
-                        "channelName": "EminemVEVO"
+                        "channelName": "EminemVEVO",
+                        "serializedShareEntity": "CgtZVmtVdm1EUTNIWXLSAggHEhpXaXRob3V0IE1lIGlzICM5NiBnbG9iYWxseRo9V2l0aG91dCBNZSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLVAQrSAUlwb0JDQUlTVGdvS1YybDBhRzkxZENCTlpSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5WlZtdFZkbTFFVVROSVdTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVFlpQmtWdGFXNWxiUm95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPUVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfOTYuanBnggL1AhKGAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcG9CQ0FJU1Rnb0tWMmwwYUc5MWRDQk5aUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOVpWbXRWZG0xRVVUTklXUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DT1RZaUJrVnRhVzVsYlJveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaGldpdGhvdXQgTWUgaXMgIzk2IGdsb2JhbGx5Ij1XaXRob3V0IE1lIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "i52TYO13Nyg",
@@ -6607,7 +6710,8 @@
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqcBCAISWwoHU0hFRVNIQRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9pNTJUWU8xM055Zy9tYXhyZXNkZWZhdWx0LmpwZxoCOTciC1N3YXJhIFZlcm1hIglNaXR0YSBSb3IaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCyiEneDdy9mL_7sClRrnCHw",
-                        "channelName": "Mitta Ror"
+                        "channelName": "Mitta Ror",
+                        "serializedShareEntity": "CgtpNTJUWU8xM055Z3LdAggHEhdTSEVFU0hBIGlzICM5NyBnbG9iYWxseRo6U0hFRVNIQSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLmAQrjAUlxY0JDQUlTV3dvSFUwaEZSVk5JUVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlwTlRKVVdVOHhNMDU1Wnk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ09UY2lDMU4zWVhKaElGWmxjbTFoSWdsTmFYUjBZU0JTYjNJYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF85Ny5qcGeCAoADEpcCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxY0JDQUlTV3dvSFUwaEZSVk5JUVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlwTlRKVVdVOHhNMDU1Wnk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ09UY2lDMU4zWVhKaElGWmxjbTFoSWdsTmFYUjBZU0JTYjNJYU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrGhdTSEVFU0hBIGlzICM5NyBnbG9iYWxseSI6U0hFRVNIQSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "55BS8QO5C9o",
@@ -6672,7 +6776,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrkBCAISbQoTRGlsIExhZ2FuYSBNYW5hIFRoYRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS81NUJTOFFPNUM5by9tYXhyZXNkZWZhdWx0LmpwZxoCOTgiDEtyaXNoIE1vbmRhbCIOS2lzaG9yZSBNb25kYWwaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UCHHIPcqVZ5oOMoFK7qdKufQ",
-                        "channelName": "RDC Melodies"
+                        "channelName": "RDC Melodies",
+                        "serializedShareEntity": "Cgs1NUJTOFFPNUM5b3KNAwgHEiNEaWwgTGFnYW5hIE1hbmEgVGhhIGlzICM5OCBnbG9iYWxseRpGRGlsIExhZ2FuYSBNYW5hIFRoYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjL-AQr7AUlya0JDQUlTYlFvVFJHbHNJRXhoWjJGdVlTQk5ZVzVoSUZSb1lSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM4MU5VSlRPRkZQTlVNNWJ5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVGdpREV0eWFYTm9JRTF2Ym1SaGJDSU9TMmx6YUc5eVpTQk5iMjVrWVd3YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF85OC5qcGeCArADEq8CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlya0JDQUlTYlFvVFJHbHNJRXhoWjJGdVlTQk5ZVzVoSUZSb1lSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM4MU5VSlRPRkZQTlVNNWJ5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVGdpREV0eWFYTm9JRTF2Ym1SaGJDSU9TMmx6YUc5eVpTQk5iMjVrWVd3YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrGiNEaWwgTGFnYW5hIE1hbmEgVGhhIGlzICM5OCBnbG9iYWxseSJGRGlsIExhZ2FuYSBNYW5hIFRoYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "lvya_IIEKp8",
@@ -6731,7 +6836,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqYBCAISWgoWRXJvZGUgKE9mZmljaWFsIFZpZGVvKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9sdnlhX0lJRUtwOC9tYXhyZXNkZWZhdWx0LmpwZxoCOTkiBlRFTkRFUhoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCNp_VIOE7HUSKWYUWzkwe0w",
-                        "channelName": "TenderVEVO"
+                        "channelName": "TenderVEVO",
+                        "serializedShareEntity": "CgtsdnlhX0lJRUtwOHL6AggHEiZFcm9kZSAoT2ZmaWNpYWwgVmlkZW8pIGlzICM5OSBnbG9iYWxseRpJRXJvZGUgKE9mZmljaWFsIFZpZGVvKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLlAQriAUlxWUJDQUlTV2dvV1JYSnZaR1VnS0U5bVptbGphV0ZzSUZacFpHVnZLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOXNkbmxoWDBsSlJVdHdPQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DT1RraUJsUkZUa1JGVWhveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1FSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzk5LmpwZ4ICnQMSlgJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFZQkNBSVNXZ29XUlhKdlpHVWdLRTltWm1samFXRnNJRlpwWkdWdktSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5c2RubGhYMGxKUlV0d09DOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVGtpQmxSRlRrUkZVaG95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPURomRXJvZGUgKE9mZmljaWFsIFZpZGVvKSBpcyAjOTkgZ2xvYmFsbHkiSUVyb2RlIChPZmZpY2lhbCBWaWRlbykgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "3AtDnEC4zak",
@@ -6789,7 +6895,8 @@
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqwBCAISYAoVV2UgRG9uJ3QgVGFsayBBbnltb3JlEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzNBdERuRUM0emFrL21heHJlc2RlZmF1bHQuanBnGgMxMDAiDENoYXJsaWUgUHV0aBoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
-                        "channelName": "Charlie Puth"
+                        "channelName": "Charlie Puth",
+                        "serializedShareEntity": "CgszQXREbkVDNHpha3KCAwgHEiZXZSBEb24ndCBUYWxrIEFueW1vcmUgaXMgIzEwMCBnbG9iYWxseRpIV2UgRG9uJ3QgVGFsayBBbnltb3JlIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Mu0BCuoBSXF3QkNBSVNZQW9WVjJVZ1JHOXVKM1FnVkdGc2F5QkJibmx0YjNKbEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTHpOQmRFUnVSVU0wZW1GckwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnTXhNREFpREVOb1lYSnNhV1VnVUhWMGFCb3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhxzaGFyZWNhcmRfMTc3NTExMzIwMF8xMDAuanBnggKkAxKeAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcXdCQ0FJU1lBb1ZWMlVnUkc5dUozUWdWR0ZzYXlCQmJubHRiM0psRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMek5CZEVSdVJVTTBlbUZyTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dNeE1EQWlERU5vWVhKc2FXVWdVSFYwYUJveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaJldlIERvbid0IFRhbGsgQW55bW9yZSBpcyAjMTAwIGdsb2JhbGx5IkhXZSBEb24ndCBUYWxrIEFueW1vcmUgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       }
                     ],
                     "heroMetadata": {},
@@ -6801,9 +6908,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj-uozgqt6TAxURrdEEHarDAZ0="
+        "trackingParams": "CAEQui8iEwiopufK-t6TAxV6Lk8IHfgVFiE="
       }
     },
-    "trackingParams": "CAAQhGciEwj-uozgqt6TAxURrdEEHarDAZ3KAQTRXYl1"
+    "trackingParams": "CAAQhGciEwiopufK-t6TAxV6Lk8IHfgVFiHKAQTqdHcl"
   }
 }
