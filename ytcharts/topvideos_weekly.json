@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-04-10T13:02:00.191511+00:00",
+  "captured_at_utc": "2026-04-10T18:46:25.547189+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtzREdIdEx6d0szQSi-6ePOBjIKCgJVUxIEGgAgag%3D%3D"
+      "visitorData": "CgtmYkZ0MVpXUFBVOCj4iuXOBjIKCgJVUxIEGgAgHg%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -26,9 +26,9 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-02"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-09"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -37,7 +37,7 @@
                       "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-04-08"
@@ -49,13 +49,13 @@
                       "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-08"
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-04-02"
@@ -421,7 +421,7 @@
                       },
                       {
                         "id": "b4iVv91Z6lY",
-                        "title": "SWIM",
+                        "title": "BTS (방탄소년단) ‘SWIM’ Official MV",
                         "viewCount": "14598487",
                         "thumbnail": {
                           "thumbnails": [
@@ -462,8 +462,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/m/0w68qx3",
-                            "name": "BTS"
+                            "name": "HYBE LABELS"
                           }
                         ],
                         "isVisible": true,
@@ -472,10 +471,10 @@
                           "month": 3,
                           "day": 19
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpABCAISRAoEU1dJTRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iNGlWdjkxWjZsWS9tYXhyZXNkZWZhdWx0LmpwZxoBNiIDQlRTGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsABCAISdAosQlRTICjrsKntg4TshozrhYTri6gpIOKAmFNXSU3igJkgT2ZmaWNpYWwgTVYSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvYjRpVnY5MVo2bFkvbWF4cmVzZGVmYXVsdC5qcGcaATYiC0hZQkUgTEFCRUxTGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UC3IZKseVpdzPSBaWxBxundA",
                         "channelName": "HYBE LABELS",
-                        "serializedShareEntity": "CgtiNGlWdjkxWjZsWXK2AggHEhNTV0lNIGlzICM2IGdsb2JhbGx5GjdTV0lNIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MscBCsQBSXBBQkNBSVNSQW9FVTFkSlRSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5aU5HbFdkamt4V2pac1dTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JOaUlEUWxSVEdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIac2hhcmVjYXJkXzE3NzUxMTMyMDBfNi5qcGeCAtoCEvgBaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlwQUJDQUlTUkFvRVUxZEpUUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOWlOR2xXZGpreFdqWnNXUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9CTmlJRFFsUlRHaklLRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lESXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTUaE1NXSU0gaXMgIzYgZ2xvYmFsbHkiN1NXSU0gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
+                        "serializedShareEntity": "CgtiNGlWdjkxWjZsWXLGAwgHEjtCVFMgKOuwqe2DhOyGjOuFhOuLqCkg4oCYU1dJTeKAmSBPZmZpY2lhbCBNViBpcyAjNiBnbG9iYWxseRpfQlRTICjrsKntg4TshozrhYTri6gpIOKAmFNXSU3igJkgT2ZmaWNpYWwgTVYgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYyhwIKhAJJc0FCQ0FJU2RBb3NRbFJUSUNqcnNLbnRnNFRzaG96cmhZVHJpNmdwSU9LQW1GTlhTVTNpZ0prZ1QyWm1hV05wWVd3Z1RWWVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdllqUnBWblk1TVZvMmJGa3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBVFlpQzBoWlFrVWdURUZDUlV4VEdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIac2hhcmVjYXJkXzE3NzUxMTMyMDBfNi5qcGeCAuoDErgCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzQUJDQUlTZEFvc1FsUlRJQ2pyc0tudGc0VHNob3pyaFlUcmk2Z3BJT0tBbUZOWFNVM2lnSmtnVDJabWFXTnBZV3dnVFZZU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2WWpScFZuWTVNVm8yYkZrdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFUWWlDMGhaUWtVZ1RFRkNSVXhUR2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1GjtCVFMgKOuwqe2DhOyGjOuFhOuLqCkg4oCYU1dJTeKAmSBPZmZpY2lhbCBNViBpcyAjNiBnbG9iYWxseSJfQlRTICjrsKntg4TshozrhYTri6gpIOKAmFNXSU3igJkgT2ZmaWNpYWwgTVYgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
                       },
                       {
                         "id": "GVizJ_jpUnw",
@@ -1042,7 +1041,7 @@
                       },
                       {
                         "id": "h-Y97xErGL8",
-                        "title": "SWIM",
+                        "title": "BTS (방탄소년단) 'SWIM' Official Performance Video",
                         "viewCount": "10056162",
                         "thumbnail": {
                           "thumbnails": [
@@ -1083,8 +1082,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/m/0w68qx3",
-                            "name": "BTS"
+                            "name": "HYBE LABELS"
                           }
                         ],
                         "isVisible": true,
@@ -1093,10 +1091,10 @@
                           "month": 3,
                           "day": 24
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpEBCAISRQoEU1dJTRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9oLVk5N3hFckdMOC9tYXhyZXNkZWZhdWx0LmpwZxoCMTUiA0JUUxoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Is0BCAISgAEKN0JUUyAo67Cp7YOE7IaM64WE64uoKSAnU1dJTScgT2ZmaWNpYWwgUGVyZm9ybWFuY2UgVmlkZW8SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvaC1ZOTd4RXJHTDgvbWF4cmVzZGVmYXVsdC5qcGcaAjE1IgtIWUJFIExBQkVMUxoyChdXZWVrbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg1BcHJpbCAyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOQ",
                         "externalChannelId": "UC3IZKseVpdzPSBaWxBxundA",
                         "channelName": "HYBE LABELS",
-                        "serializedShareEntity": "CgtoLVk5N3hFckdMOHK6AggHEhRTV0lNIGlzICMxNSBnbG9iYWxseRo3U1dJTSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjLJAQrGAUlwRUJDQUlTUlFvRVUxZEpUUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOW9MVms1TjNoRmNrZE1PQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTVRVaUEwSlVVeG95Q2hkWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzFCY0hKcGJDQXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPUVIbc2hhcmVjYXJkXzE3NzUxMTMyMDBfMTUuanBnggLdAhL6AWh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcEVCQ0FJU1JRb0VVMWRKVFJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlvTFZrNU4zaEZja2RNT0M5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ01UVWlBMEpVVXhveUNoZFhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3hJR1IyeHZZbUZzR2cxQmNISnBiQ0F5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1EaFFNXSU0gaXMgIzE1IGdsb2JhbGx5IjdTV0lNIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
+                        "serializedShareEntity": "CgtoLVk5N3hFckdMOHLwAwgHEkdCVFMgKOuwqe2DhOyGjOuFhOuLqCkgJ1NXSU0nIE9mZmljaWFsIFBlcmZvcm1hbmNlIFZpZGVvIGlzICMxNSBnbG9iYWxseRpqQlRTICjrsKntg4TshozrhYTri6gpICdTV0lNJyBPZmZpY2lhbCBQZXJmb3JtYW5jZSBWaWRlbyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNjKZAgqWAklzMEJDQUlTZ0FFS04wSlVVeUFvNjdDcDdZT0U3SWFNNjRXRTY0dW9LU0FuVTFkSlRTY2dUMlptYVdOcFlXd2dVR1Z5Wm05eWJXRnVZMlVnVm1sa1pXOFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmFDMVpPVGQ0UlhKSFREZ3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBakUxSWd0SVdVSkZJRXhCUWtWTVV4b3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RUhtzaGFyZWNhcmRfMTc3NTExMzIwMF8xNS5qcGeCApMEEsoCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzMEJDQUlTZ0FFS04wSlVVeUFvNjdDcDdZT0U3SWFNNjRXRTY0dW9LU0FuVTFkSlRTY2dUMlptYVdOcFlXd2dVR1Z5Wm05eWJXRnVZMlVnVm1sa1pXOFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmFDMVpPVGQ0UlhKSFREZ3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBakUxSWd0SVdVSkZJRXhCUWtWTVV4b3lDaGRYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnMUJjSEpwYkNBeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9RGkdCVFMgKOuwqe2DhOyGjOuFhOuLqCkgJ1NXSU0nIE9mZmljaWFsIFBlcmZvcm1hbmNlIFZpZGVvIGlzICMxNSBnbG9iYWxseSJqQlRTICjrsKntg4TshozrhYTri6gpICdTV0lNJyBPZmZpY2lhbCBQZXJmb3JtYW5jZSBWaWRlbyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "czgm5uaO3gI",
@@ -5116,7 +5114,7 @@
                       },
                       {
                         "id": "2ce1IEryl88",
-                        "title": "Cheba Warda x Yousri Oscar - Nmout w Naaref يا كي راك نـاويني - Clip Officiel 2026",
+                        "title": "Nmout w Naarf Ki Rak Nawini",
                         "viewCount": "4987726",
                         "thumbnail": {
                           "thumbnails": [
@@ -5155,7 +5153,8 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "DIDOU SL PROD"
+                            "kgMid": "/g/11f9zpcbcv",
+                            "name": "Cheba Warda"
                           }
                         ],
                         "isVisible": true,
@@ -5168,10 +5167,10 @@
                           "Yousri Oscar",
                           "Sikico Parolier"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvgBCAISqwEKYENoZWJhIFdhcmRhIHggWW91c3JpIE9zY2FyIC0gTm1vdXQgdyBOYWFyZWYg2YrYpyDZg9mKINix2KfZgyDZhtmA2KfZiNmK2YbZiiAtIENsaXAgT2ZmaWNpZWwgMjAyNhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8yY2UxSUVyeWw4OC9tYXhyZXNkZWZhdWx0LmpwZxoCNzQiDURJRE9VIFNMIFBST0QaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrABCAISZAobTm1vdXQgdyBOYWFyZiBLaSBSYWsgTmF3aW5pEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzJjZTFJRXJ5bDg4L21heHJlc2RlZmF1bHQuanBnGgI3NCILQ2hlYmEgV2FyZGEaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
                         "externalChannelId": "UChlyLfbYzw5yLNKIFtV1ULA",
                         "channelName": "DIDOU SL PROD",
-                        "serializedShareEntity": "CgsyY2UxSUVyeWw4OHL8BAgHEnBDaGViYSBXYXJkYSB4IFlvdXNyaSBPc2NhciAtIE5tb3V0IHcgTmFhcmVmINmK2Kcg2YPZiiDYsdin2YMg2YbZgNin2YjZitmG2YogLSBDbGlwIE9mZmljaWVsIDIwMjYgaXMgIzc0IGdsb2JhbGx5GpMBQ2hlYmEgV2FyZGEgeCBZb3VzcmkgT3NjYXIgLSBObW91dCB3IE5hYXJlZiDZitinINmD2Yog2LHYp9mDINmG2YDYp9mI2YrZhtmKIC0gQ2xpcCBPZmZpY2llbCAyMDI2IG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MtICCs8CSXZnQkNBSVNxd0VLWUVOb1pXSmhJRmRoY21SaElIZ2dXVzkxYzNKcElFOXpZMkZ5SUMwZ1RtMXZkWFFnZHlCT1lXRnlaV1lnMllyWXB5RFpnOW1LSU5peDJLZlpneURaaHRtQTJLZlppTm1LMlliWmlpQXRJRU5zYVhBZ1QyWm1hV05wWld3Z01qQXlOaEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOHlZMlV4U1VWeWVXdzRPQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTnpRaURVUkpSRTlWSUZOTUlGQlNUMFFhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGtSG3NoYXJlY2FyZF8xNzc1MTEzMjAwXzc0LmpwZ4ICnwUSgwNodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXZnQkNBSVNxd0VLWUVOb1pXSmhJRmRoY21SaElIZ2dXVzkxYzNKcElFOXpZMkZ5SUMwZ1RtMXZkWFFnZHlCT1lXRnlaV1lnMllyWXB5RFpnOW1LSU5peDJLZlpneURaaHRtQTJLZlppTm1LMlliWmlpQXRJRU5zYVhBZ1QyWm1hV05wWld3Z01qQXlOaEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOHlZMlV4U1VWeWVXdzRPQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTnpRaURVUkpSRTlWSUZOTUlGQlNUMFFhTWdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9OUVhCeWFXd2dNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGsacENoZWJhIFdhcmRhIHggWW91c3JpIE9zY2FyIC0gTm1vdXQgdyBOYWFyZWYg2YrYpyDZg9mKINix2KfZgyDZhtmA2KfZiNmK2YbZiiAtIENsaXAgT2ZmaWNpZWwgMjAyNiBpcyAjNzQgZ2xvYmFsbHkikwFDaGViYSBXYXJkYSB4IFlvdXNyaSBPc2NhciAtIE5tb3V0IHcgTmFhcmVmINmK2Kcg2YPZiiDYsdin2YMg2YbZgNin2YjZitmG2YogLSBDbGlwIE9mZmljaWVsIDIwMjYgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYqDwgJIgsKABADGAIgsszUCQ%3D%3D"
+                        "serializedShareEntity": "CgsyY2UxSUVyeWw4OHKRAwgHEitObW91dCB3IE5hYXJmIEtpIFJhayBOYXdpbmkgaXMgIzc0IGdsb2JhbGx5Gk5ObW91dCB3IE5hYXJmIEtpIFJhayBOYXdpbmkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDIsIDIwMjYy8gEK7wFJckFCQ0FJU1pBb2JUbTF2ZFhRZ2R5Qk9ZV0Z5WmlCTGFTQlNZV3NnVG1GM2FXNXBFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6SmpaVEZKUlhKNWJEZzRMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0kzTkNJTFEyaGxZbUVnVjJGeVpHRWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzUxMTMyMDBfNzQuanBnggK0AxKjAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JckFCQ0FJU1pBb2JUbTF2ZFhRZ2R5Qk9ZV0Z5WmlCTGFTQlNZV3NnVG1GM2FXNXBFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6SmpaVEZKUlhKNWJEZzRMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0kzTkNJTFEyaGxZbUVnVjJGeVpHRWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxorTm1vdXQgdyBOYWFyZiBLaSBSYWsgTmF3aW5pIGlzICM3NCBnbG9iYWxseSJOTm1vdXQgdyBOYWFyZiBLaSBSYWsgTmF3aW5pIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2Kg8ICSILCgAQAxgCILLM1Ak%3D"
                       },
                       {
                         "id": "hT_nvWreIhg",
@@ -6906,9 +6905,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiwgYXkq-OTAxWa6D8EHeWcCSo="
+        "trackingParams": "CAEQui8iEwjjjYbi-OOTAxVfCK0GHdvjDPk="
       }
     },
-    "trackingParams": "CAAQhGciEwiwgYXkq-OTAxWa6D8EHeWcCSrKAQQmwJmw"
+    "trackingParams": "CAAQhGciEwjjjYbi-OOTAxVfCK0GHdvjDPnKAQQcth7o"
   }
 }

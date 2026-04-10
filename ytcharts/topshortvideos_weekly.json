@@ -2,12 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-04-10T13:02:33.840469+00:00",
+  "captured_at_utc": "2026-04-10T18:46:59.353755+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtNaE9uVUhKVkt2ayjg6ePOBjIKCgJVUxIEGgAgMw%3D%3D",
-      "responseId": "IhMIwuiM9KvjkwMVWOw_BB2ZyQbD"
+      "visitorData": "CgtEZ0JGUlBvNnJUbyiZi-XOBjIKCgJVUxIEGgAgLQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,9 +26,9 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-02"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-09"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -38,7 +37,7 @@
                       "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-04-08"
@@ -50,13 +49,13 @@
                       "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-08"
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-04-02"
@@ -218,29 +217,9 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/KhS1GFT0KEw/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/KhS1GFT0KEw/mqdefault.jpg",
-                              "width": 320,
+                              "url": "https://lh3.googleusercontent.com/fHuFPmSRAn5nO8gZ1X4CgWZcbn-PXKUX6ughsK7QhWe94nqdg5OoZM3O6SVLSmFL3ARLXwpnLcG5tT4=w180-h180-l90-rj",
+                              "width": 180,
                               "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/KhS1GFT0KEw/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/KhS1GFT0KEw/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/KhS1GFT0KEw/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
                             }
                           ]
                         },
@@ -262,6 +241,7 @@
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "UmthEXXXJM8",
                         "releaseDate": {
                           "year": 2025,
                           "month": 12,
@@ -2511,9 +2491,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjC6Iz0q-OTAxVY7D8EHZnJBsM="
+        "trackingParams": "CAEQui8iEwiqxpfy-OOTAxXMzsIEHQy8MKI="
       }
     },
-    "trackingParams": "CAAQhGciEwjC6Iz0q-OTAxVY7D8EHZnJBsPKAQRGpZ85"
+    "trackingParams": "CAAQhGciEwiqxpfy-OOTAxXMzsIEHQy8MKLKAQRi8yRW"
   }
 }

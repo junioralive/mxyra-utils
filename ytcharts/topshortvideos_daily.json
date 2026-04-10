@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-04-10T13:02:22.623688+00:00",
+  "captured_at_utc": "2026-04-10T18:46:48.109320+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgt5dWR5YlJGNllFbyjV6ePOBjIKCgJVUxIEGgAgRA%3D%3D"
+      "visitorData": "CgtnM2pLZXUxM2lWYyiOi-XOBjIKCgJVUxIEGgAgYA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -26,9 +26,9 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-02"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-09"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -37,7 +37,7 @@
                       "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-04-08"
@@ -49,13 +49,13 @@
                       "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-08"
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-04-02"
@@ -482,7 +482,7 @@
                       },
                       {
                         "id": "G:weP64DsESNc",
-                        "name": "Khojle Chalo Policeya",
+                        "name": "खोजले चलौ पुलिसिया",
                         "thumbnail": {
                           "thumbnails": [
                             {
@@ -521,12 +521,12 @@
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11fkf8412d",
-                            "name": "Akshara Singh"
-                          },
-                          {
                             "kgMid": "/g/11jn3kzxbb",
                             "name": "Raushan Rohi"
+                          },
+                          {
+                            "kgMid": "/g/11rtqzjwvv",
+                            "name": "Shrishti Bharti"
                           }
                         ],
                         "isVisible": true,
@@ -535,8 +535,8 @@
                           "month": 3,
                           "day": 27
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IoYCCAIStwEKFUtob2psZSBDaGFsbyBQb2xpY2V5YRJ9aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2V6TXltWjM1ZHA3cm9iMXlLYWVHR0c0Qm9DUmt1S2ctc0hhWHlYQjhvYl80akpxREszRksyQmI0SnRORmktOVJETGxFVmMzUUsyaFZtb1E9dzkwMC1oOTAwLXAaAjEwIg1Ba3NoYXJhIFNpbmdoIgxSYXVzaGFuIFJvaGkaNAoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGg1BcHJpbCA4LCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMA",
-                        "serializedShareEntity": "Cgt6RVQ3WDVfamxLc3L6AwgHEiVLaG9qbGUgQ2hhbG8gUG9saWNleWEgaXMgIzEwIGdsb2JhbGx5GkpLaG9qbGUgQ2hhbG8gUG9saWNleWEgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gQXByaWwgOCwgMjAyNjLlAgriAklvWUNDQUlTdHdFS0ZVdG9iMnBzWlNCRGFHRnNieUJRYjJ4cFkyVjVZUko5YUhSMGNITTZMeTk1ZERNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMlY2VFhsdFdqTTFaSEEzY205aU1YbExZV1ZIUjBjMFFtOURVbXQxUzJjdGMwaGhXSGxZUWpodllsODBha3B4UkVzelJrc3lRbUkwU25ST1Jta3RPVkpFVEd4RlZtTXpVVXN5YUZadGIxRTlkemt3TUMxb09UQXdMWEFhQWpFd0lnMUJhM05vWVhKaElGTnBibWRvSWd4U1lYVnphR0Z1SUZKdmFHa2FOQW9aUkdGcGJIa2dWRzl3SUZOdmJtZHpJRzl1SUZOb2IzSjBjeElHUjJ4dlltRnNHZzFCY0hKcGJDQTRMQ0F5TURJMk9BWWlFZ29ISTBaR00wVkZReElISXpBd01EQXdNQVIbc2hhcmVjYXJkXzE3NzU2MzE2MDBfMTAuanBnggKdBBKWA2h0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jb1lDQ0FJU3R3RUtGVXRvYjJwc1pTQkRhR0ZzYnlCUWIyeHBZMlY1WVJKOWFIUjBjSE02THk5NWRETXVaMjl2WjJ4bGRYTmxjbU52Ym5SbGJuUXVZMjl0TDJWNlRYbHRXak0xWkhBM2NtOWlNWGxMWVdWSFIwYzBRbTlEVW10MVMyY3RjMGhoV0hsWVFqaHZZbDgwYWtweFJFc3pSa3N5UW1JMFNuUk9SbWt0T1ZKRVRHeEZWbU16VVVzeWFGWnRiMUU5ZHprd01DMW9PVEF3TFhBYUFqRXdJZzFCYTNOb1lYSmhJRk5wYm1kb0lneFNZWFZ6YUdGdUlGSnZhR2thTkFvWlJHRnBiSGtnVkc5d0lGTnZibWR6SUc5dUlGTm9iM0owY3hJR1IyeHZZbUZzR2cxQmNISnBiQ0E0TENBeU1ESTJPQVlpRWdvSEkwWkdNMFZGUXhJSEl6QXdNREF3TUEaJUtob2psZSBDaGFsbyBQb2xpY2V5YSBpcyAjMTAgZ2xvYmFsbHkiSktob2psZSBDaGFsbyBQb2xpY2V5YSBvbiBHbG9iYWwgRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBvbiBBcHJpbCA4LCAyMDI2Kg8ICiILCgAQBhgBILjM1Ak%3D"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqYCCAIS1wEKMuCkluCli-CknOCksuClhyDgpJrgpLLgpYwg4KSq4KWB4KSy4KS_4KS44KS_4KSv4KS-En5odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vTDVYMUFMTjd6OVZ2WmJVQlgtaEg2SEl4bmk1RDl4MjBCWUQwZ2Z5QnBCSE9ialY3Qm9jRlI2N0pTLV9VSk03MTU1WndNMHRrQUU4eGlrRmM9dzkwMC1oOTAwLXAaAjEwIgxSYXVzaGFuIFJvaGkiD1NocmlzaHRpIEJoYXJ0aRo0ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaDUFwcmlsIDgsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAw",
+                        "serializedShareEntity": "Cgt6RVQ3WDVfamxLc3LeBAgHEkLgpJbgpYvgpJzgpLLgpYcg4KSa4KSy4KWMIOCkquClgeCksuCkv-CkuOCkv-Ckr-CkviBpcyAjMTAgZ2xvYmFsbHkaZ-CkluCli-CknOCksuClhyDgpJrgpLLgpYwg4KSq4KWB4KSy4KS_4KS44KS_4KSv4KS-IG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIEFwcmlsIDgsIDIwMjYyjwMKjANJcVlDQ0FJUzF3RUtNdUNrbHVDbGktQ2tuT0Nrc3VDbGh5RGdwSnJncExMZ3BZd2c0S1NxNEtXQjRLU3k0S1NfNEtTNDRLU180S1N2NEtTLUVuNW9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdlREVllNVUZNVGpkNk9WWjJXbUpWUWxndGFFZzJTRWw0Ym1rMVJEbDRNakJDV1VRd1oyWjVRbkJDU0U5aWFsWTNRbTlqUmxJMk4wcFRMVjlWU2swM01UVTFXbmROTUhSclFVVTRlR2xyUm1NOWR6a3dNQzFvT1RBd0xYQWFBakV3SWd4U1lYVnphR0Z1SUZKdmFHa2lEMU5vY21semFIUnBJRUpvWVhKMGFSbzBDaGxFWVdsc2VTQlViM0FnVTI5dVozTWdiMjRnVTJodmNuUnpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lEZ3NJREl3TWpZNEJpSVNDZ2NqUmtZelJVVkRFZ2NqTURBd01EQXdSG3NoYXJlY2FyZF8xNzc1NjMxNjAwXzEwLmpwZ4ICgQUSwANodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFZQ0NBSVMxd0VLTXVDa2x1Q2xpLUNrbk9Da3N1Q2xoeURncEpyZ3BMTGdwWXdnNEtTcTRLV0I0S1N5NEtTXzRLUzQ0S1NfNEtTdjRLUy1FbjVvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZURFZZTVVGTVRqZDZPVloyV21KVlFsZ3RhRWcyU0VsNGJtazFSRGw0TWpCQ1dVUXdaMlo1UW5CQ1NFOWlhbFkzUW05alJsSTJOMHBUTFY5VlNrMDNNVFUxV25kTk1IUnJRVVU0ZUdsclJtTTlkemt3TUMxb09UQXdMWEFhQWpFd0lneFNZWFZ6YUdGdUlGSnZhR2tpRDFOb2NtbHphSFJwSUVKb1lYSjBhUm8wQ2hsRVlXbHNlU0JVYjNBZ1UyOXVaM01nYjI0Z1UyaHZjblJ6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRGdzSURJd01qWTRCaUlTQ2djalJrWXpSVVZERWdjak1EQXdNREF3GkLgpJbgpYvgpJzgpLLgpYcg4KSa4KSy4KWMIOCkquClgeCksuCkv-CkuOCkv-Ckr-CkviBpcyAjMTAgZ2xvYmFsbHkiZ-CkluCli-CknOCksuClhyDgpJrgpLLgpYwg4KSq4KWB4KSy4KS_4KS44KS_4KSv4KS-IG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIEFwcmlsIDgsIDIwMjYqDwgKIgsKABAGGAEguMzUCQ%3D%3D"
                       },
                       {
                         "id": "G:ZdPfQit9p1s",
@@ -635,29 +635,9 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/KhS1GFT0KEw/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/KhS1GFT0KEw/mqdefault.jpg",
-                              "width": 320,
+                              "url": "https://lh3.googleusercontent.com/fHuFPmSRAn5nO8gZ1X4CgWZcbn-PXKUX6ughsK7QhWe94nqdg5OoZM3O6SVLSmFL3ARLXwpnLcG5tT4=w180-h180-l90-rj",
+                              "width": 180,
                               "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/KhS1GFT0KEw/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/KhS1GFT0KEw/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/KhS1GFT0KEw/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
                             }
                           ]
                         },
@@ -679,6 +659,7 @@
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "UmthEXXXJM8",
                         "releaseDate": {
                           "year": 2025,
                           "month": 12,
@@ -1251,7 +1232,7 @@
                             "name": "Accha Insaan"
                           },
                           {
-                            "kgMid": "/g/11yv7lcwnh",
+                            "kgMid": "/g/11jbdyhq22",
                             "name": "AtharvaMusic"
                           },
                           {
@@ -2532,9 +2513,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjgrODuq-OTAxWX0T8EHW3CN0I="
+        "trackingParams": "CAEQui8iEwi4uujs-OOTAxX9N60GHdmIDVY="
       }
     },
-    "trackingParams": "CAAQhGciEwjgrODuq-OTAxWX0T8EHW3CN0LKAQSPCO5Y"
+    "trackingParams": "CAAQhGciEwi4uujs-OOTAxX9N60GHdmIDVbKAQS9j-f1"
   }
 }
