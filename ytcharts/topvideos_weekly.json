@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-04-11T12:50:59.297734+00:00",
+  "captured_at_utc": "2026-04-11T18:39:25.211777+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs3bG53M002VE54ayiph-nOBjIKCgJVUxIEGgAgaA%3D%3D"
+      "visitorData": "CgtjYTljVW1jUWYzNCjTqurOBjIKCgJVUxIEGgAgSA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,28 +25,16 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-09"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-04-02"
-                    },
-                    {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-04-02"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-02"
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-10"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -55,10 +43,22 @@
                       "latestEndDate": "2026-04-02"
                     },
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-04-02"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-09"
+                      "latestEndDate": "2026-04-10"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-02"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -5689,7 +5689,7 @@
                       },
                       {
                         "id": "Tus7CBqOnvg",
-                        "title": "Tamma Tamma",
+                        "title": "Tamma Tamma (From \"Dhurandhar: The Revenge\")",
                         "viewCount": "4836560",
                         "thumbnail": {
                           "thumbnails": [
@@ -5746,10 +5746,10 @@
                           "Bappi Lahiri",
                           "Indeevar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrMBCAISZwoLVGFtbWEgVGFtbWESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvVHVzN0NCcU9udmcvbWF4cmVzZGVmYXVsdC5qcGcaAjgzIgxCYXBwaSBMYWhpcmkiEEFudXJhZGhhIFBhdWR3YWwaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItUBCAISiAEKLFRhbW1hIFRhbW1hIChGcm9tICJEaHVyYW5kaGFyOiBUaGUgUmV2ZW5nZSIpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1R1czdDQnFPbnZnL21heHJlc2RlZmF1bHQuanBnGgI4MyIMQmFwcGkgTGFoaXJpIhBBbnVyYWRoYSBQYXVkd2FsGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDIsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
                         "channelName": "T-Series",
-                        "serializedShareEntity": "CgtUdXM3Q0JxT252Z3L1AggHEhtUYW1tYSBUYW1tYSBpcyAjODMgZ2xvYmFsbHkaPlRhbW1hIFRhbW1hIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MvYBCvMBSXJNQkNBSVNad29MVkdGdGJXRWdWR0Z0YldFU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2VkhWek4wTkNjVTl1ZG1jdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqZ3pJZ3hDWVhCd2FTQk1ZV2hwY21raUVFRnVkWEpoWkdoaElGQmhkV1IzWVd3YU1nb1hWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNU0JrZHNiMkpoYkJvTlFYQnlhV3dnTWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrUhtzaGFyZWNhcmRfMTc3NTExMzIwMF84My5qcGeCApgDEqcCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyTUJDQUlTWndvTFZHRnRiV0VnVkdGdGJXRVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlZIVnpOME5DY1U5dWRtY3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamd6SWd4Q1lYQndhU0JNWVdocGNta2lFRUZ1ZFhKaFpHaGhJRkJoZFdSM1lXd2FNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z01pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxobVGFtbWEgVGFtbWEgaXMgIzgzIGdsb2JhbGx5Ij5UYW1tYSBUYW1tYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
+                        "serializedShareEntity": "CgtUdXM3Q0JxT252Z3LkAwgHEjxUYW1tYSBUYW1tYSAoRnJvbSAiRGh1cmFuZGhhcjogVGhlIFJldmVuZ2UiKSBpcyAjODMgZ2xvYmFsbHkaX1RhbW1hIFRhbW1hIChGcm9tICJEaHVyYW5kaGFyOiBUaGUgUmV2ZW5nZSIpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAyLCAyMDI2MqMCCqACSXRVQkNBSVNpQUVLTEZSaGJXMWhJRlJoYlcxaElDaEdjbTl0SUNKRWFIVnlZVzVrYUdGeU9pQlVhR1VnVW1WMlpXNW5aU0lwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMVIxY3pkRFFuRlBiblpuTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJNE15SU1RbUZ3Y0drZ1RHRm9hWEpwSWhCQmJuVnlZV1JvWVNCUVlYVmtkMkZzR2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRElzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1UhtzaGFyZWNhcmRfMTc3NTExMzIwMF84My5qcGeCAocEEtQCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl0VUJDQUlTaUFFS0xGUmhiVzFoSUZSaGJXMWhJQ2hHY205dElDSkVhSFZ5WVc1a2FHRnlPaUJVYUdVZ1VtVjJaVzVuWlNJcEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDFSMWN6ZERRbkZQYm5abkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTRNeUlNUW1Gd2NHa2dUR0ZvYVhKcEloQkJiblZ5WVdSb1lTQlFZWFZrZDJGc0dqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURJc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNRo8VGFtbWEgVGFtbWEgKEZyb20gIkRodXJhbmRoYXI6IFRoZSBSZXZlbmdlIikgaXMgIzgzIGdsb2JhbGx5Il9UYW1tYSBUYW1tYSAoRnJvbSAiRGh1cmFuZGhhcjogVGhlIFJldmVuZ2UiKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMiwgMjAyNioPCAkiCwoAEAMYAiCyzNQJ"
                       },
                       {
                         "id": "s-dr_KJvmO4",
@@ -6904,9 +6904,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjdhtKX6-WTAxVz0T8EHeruASM="
+        "trackingParams": "CAEQui8iEwj6_KyIueaTAxUMzMIEHW8bLTg="
       }
     },
-    "trackingParams": "CAAQhGciEwjdhtKX6-WTAxVz0T8EHeruASPKAQRcQs6d"
+    "trackingParams": "CAAQhGciEwj6_KyIueaTAxUMzMIEHW8bLTjKAQRWsvQQ"
   }
 }
