@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-04-12T12:55:22.594336+00:00",
+  "captured_at_utc": "2026-04-12T18:42:17.515091+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtvZW52VU1ZMFQ3MCixrO7OBjIKCgJVUxIEGgAgaA%3D%3D"
+      "visitorData": "CgtvRUF1eTk4c2pIayiAz-_OBjIKCgJVUxIEGgAgUA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -26,9 +26,9 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-10"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-09"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -37,25 +37,25 @@
                       "latestEndDate": "2026-04-09"
                     },
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-11"
+                    },
+                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-04-09"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-09"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-10"
+                      "latestEndDate": "2026-04-11"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-04-09"
@@ -1258,7 +1258,17 @@
                       },
                       {
                         "id": "G:rxC9NbVZ3j4",
-                        "name": "Khojle Chalo Policeya",
+                        "name": "खोजले चलौ पुलिसिया",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://lh3.googleusercontent.com/3iENG_-QOrJLP9MGTumsAe-YU4gNy_K3rPMycHA9HZMt3i9TzOW-uQ4BKpYDaP0Y7mjDcgiX_CrXGH-L=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "zET7X5_jlKs",
                         "chartEntryMetadata": {
                           "currentPosition": 26,
                           "periodsOnChart": 1
@@ -1269,12 +1279,19 @@
                             "name": "Raushan Rohi"
                           },
                           {
-                            "kgMid": "/g/11xm6xy5st",
-                            "name": "Srishti Bharti"
+                            "kgMid": "/g/11rtqzjwvv",
+                            "name": "Shrishti Bharti"
                           }
                         ],
                         "isVisible": true,
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IokCCAISuQEKFUtob2psZSBDaGFsbyBQb2xpY2V5YRJ-aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0w1WDFBTE43ejlWdlpiVUJYLWhINkhJeG5pNUQ5eDIwQllEMGdmeUJwQkhPYmpWN0JvY0ZSNjdKUy1fVUpNNzE1NVp3TTB0a0FFOHhpa0ZjPXc5MDAtaDkwMC1wGgIyNiIMUmF1c2hhbiBSb2hpIg5TcmlzaHRpIEJoYXJ0aRo1ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGg1BcHJpbCA5LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQw"
+                        "atvExternalVideoId": "MxU5lOI4VGE",
+                        "releaseDate": {
+                          "year": 2026,
+                          "month": 3,
+                          "day": 26
+                        },
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqcCCAIS1wEKMuCkluCli-CknOCksuClhyDgpJrgpLLgpYwg4KSq4KWB4KSy4KS_4KS44KS_4KSv4KS-En5odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vTDVYMUFMTjd6OVZ2WmJVQlgtaEg2SEl4bmk1RDl4MjBCWUQwZ2Z5QnBCSE9ialY3Qm9jRlI2N0pTLV9VSk03MTU1WndNMHRrQUU4eGlrRmM9dzkwMC1oOTAwLXAaAjI2IgxSYXVzaGFuIFJvaGkiD1NocmlzaHRpIEJoYXJ0aRo1ChpXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGg1BcHJpbCA5LCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQw",
+                        "serializedShareEntity": "Cgt6RVQ3WDVfamxLc3LhBAgHEkLgpJbgpYvgpJzgpLLgpYcg4KSa4KSy4KWMIOCkquClgeCksuCkv-CkuOCkv-Ckr-CkviBpcyAjMjYgZ2xvYmFsbHkaaOCkluCli-CknOCksuClhyDgpJrgpLLgpYwg4KSq4KWB4KSy4KS_4KS44KS_4KSv4KS-IG9uIEdsb2JhbCBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBvbiBBcHJpbCA5LCAyMDI2MpEDCo4DSXFjQ0NBSVMxd0VLTXVDa2x1Q2xpLUNrbk9Da3N1Q2xoeURncEpyZ3BMTGdwWXdnNEtTcTRLV0I0S1N5NEtTXzRLUzQ0S1NfNEtTdjRLUy1FbjVvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZURFZZTVVGTVRqZDZPVloyV21KVlFsZ3RhRWcyU0VsNGJtazFSRGw0TWpCQ1dVUXdaMlo1UW5CQ1NFOWlhbFkzUW05alJsSTJOMHBUTFY5VlNrMDNNVFUxV25kTk1IUnJRVVU0ZUdsclJtTTlkemt3TUMxb09UQXdMWEFhQWpJMklneFNZWFZ6YUdGdUlGSnZhR2tpRDFOb2NtbHphSFJwSUVKb1lYSjBhUm8xQ2hwWFpXVnJiSGtnVkc5d0lGTnZibWR6SUc5dUlGTm9iM0owY3hJR1IyeHZZbUZzR2cxQmNISnBiQ0E1TENBeU1ESTJPQVlpRWdvSEl6QXdNREF3TUJJSEkwWkdNMFZGUXdSG3NoYXJlY2FyZF8xNzc1NzE4MDAwXzI2LmpwZ4IChAUSwgNodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFjQ0NBSVMxd0VLTXVDa2x1Q2xpLUNrbk9Da3N1Q2xoeURncEpyZ3BMTGdwWXdnNEtTcTRLV0I0S1N5NEtTXzRLUzQ0S1NfNEtTdjRLUy1FbjVvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZURFZZTVVGTVRqZDZPVloyV21KVlFsZ3RhRWcyU0VsNGJtazFSRGw0TWpCQ1dVUXdaMlo1UW5CQ1NFOWlhbFkzUW05alJsSTJOMHBUTFY5VlNrMDNNVFUxV25kTk1IUnJRVVU0ZUdsclJtTTlkemt3TUMxb09UQXdMWEFhQWpJMklneFNZWFZ6YUdGdUlGSnZhR2tpRDFOb2NtbHphSFJwSUVKb1lYSjBhUm8xQ2hwWFpXVnJiSGtnVkc5d0lGTnZibWR6SUc5dUlGTm9iM0owY3hJR1IyeHZZbUZzR2cxQmNISnBiQ0E1TENBeU1ESTJPQVlpRWdvSEl6QXdNREF3TUJJSEkwWkdNMFZGUXcaQuCkluCli-CknOCksuClhyDgpJrgpLLgpYwg4KSq4KWB4KSy4KS_4KS44KS_4KSv4KS-IGlzICMyNiBnbG9iYWxseSJo4KSW4KWL4KSc4KSy4KWHIOCkmuCksuCljCDgpKrgpYHgpLLgpL_gpLjgpL_gpK_gpL4gb24gR2xvYmFsIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIEFwcmlsIDksIDIwMjYqDwgKIgsKABAGGAIguczUCQ%3D%3D"
                       },
                       {
                         "id": "G:fNe3vnODAK8",
@@ -2403,9 +2420,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjHkPeDruiTAxVz0T8EHeruASM="
+        "trackingParams": "CAEQui8iEwiH96HJ--iTAxWtWRIBHcIROvU="
       }
     },
-    "trackingParams": "CAAQhGciEwjHkPeDruiTAxVz0T8EHeruASPKAQTP8TZc"
+    "trackingParams": "CAAQhGciEwiH96HJ--iTAxWtWRIBHcIROvXKAQQfT5uA"
   }
 }
