@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-04-13T13:19:27.435912+00:00",
+  "captured_at_utc": "2026-04-13T19:09:58.776557+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtKbG4wN0lzMkRzSSjW2vPOBjIKCgJVUxIEGgAgWg%3D%3D"
+      "visitorData": "CgtYVk9MelBBUFA5byj9_vTOBjIKCgJVUxIEGgAgUw%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,6 +25,18 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-09"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-12"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -40,24 +52,12 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-11"
+                      "latestEndDate": "2026-04-12"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-04-09"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-11"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-04-09"
                     }
                   ],
@@ -4241,7 +4241,7 @@
                       },
                       {
                         "id": "7F1ET2XHQfk",
-                        "title": "KATSEYE (캣츠아이) \"PINKY UP\" Official MV",
+                        "title": "PINKY UP",
                         "viewCount": "4867349",
                         "thumbnail": {
                           "thumbnails": [
@@ -4280,7 +4280,8 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "HYBE LABELS"
+                            "kgMid": "/g/11vj6xh7_6",
+                            "name": "KATSEYE"
                           }
                         ],
                         "isVisible": true,
@@ -4301,10 +4302,10 @@
                           "\"hitman\"bang",
                           "FRANTS"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsIBCAISdgotS0FUU0VZRSAo7Lqj7Lig7JWE7J20KSAiUElOS1kgVVAiIE9mZmljaWFsIE1WEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzdGMUVUMlhIUWZrL21heHJlc2RlZmF1bHQuanBnGgI2MSILSFlCRSBMQUJFTFMaMgoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoNQXByaWwgOSwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTk",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpkBCAISTQoIUElOS1kgVVASNGh0dHBzOi8vaS55dGltZy5jb20vdmkvN0YxRVQyWEhRZmsvbWF4cmVzZGVmYXVsdC5qcGcaAjYxIgdLQVRTRVlFGjIKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDUFwcmlsIDksIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5",
                         "externalChannelId": "UC3IZKseVpdzPSBaWxBxundA",
                         "channelName": "HYBE LABELS",
-                        "serializedShareEntity": "Cgs3RjFFVDJYSFFma3LNAwgHEj1LQVRTRVlFICjsuqPsuKDslYTsnbQpICJQSU5LWSBVUCIgT2ZmaWNpYWwgTVYgaXMgIzYxIGdsb2JhbGx5GmBLQVRTRVlFICjsuqPsuKDslYTsnbQpICJQSU5LWSBVUCIgT2ZmaWNpYWwgTVYgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDksIDIwMjYyigIKhwJJc0lCQ0FJU2Rnb3RTMEZVVTBWWlJTQW83THFqN0xpZzdKV0U3SjIwS1NBaVVFbE9TMWtnVlZBaUlFOW1abWxqYVdGc0lFMVdFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6ZEdNVVZVTWxoSVVXWnJMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0kyTVNJTFNGbENSU0JNUVVKRlRGTWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z09Td2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa1Ibc2hhcmVjYXJkXzE3NzU3MTgwMDBfNjEuanBnggLwAxK7Amh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jc0lCQ0FJU2Rnb3RTMEZVVTBWWlJTQW83THFqN0xpZzdKV0U3SjIwS1NBaVVFbE9TMWtnVlZBaUlFOW1abWxqYVdGc0lFMVdFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6ZEdNVVZVTWxoSVVXWnJMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0kyTVNJTFNGbENSU0JNUVVKRlRGTWFNZ29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb05RWEJ5YVd3Z09Td2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUaxo9S0FUU0VZRSAo7Lqj7Lig7JWE7J20KSAiUElOS1kgVVAiIE9mZmljaWFsIE1WIGlzICM2MSBnbG9iYWxseSJgS0FUU0VZRSAo7Lqj7Lig7JWE7J20KSAiUElOS1kgVVAiIE9mZmljaWFsIE1WIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCA5LCAyMDI2Kg8ICSILCgAQAxgCILnM1Ak%3D"
+                        "serializedShareEntity": "Cgs3RjFFVDJYSFFma3LMAggHEhhQSU5LWSBVUCBpcyAjNjEgZ2xvYmFsbHkaO1BJTktZIFVQIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCA5LCAyMDI2MtMBCtABSXBrQkNBSVNUUW9JVUVsT1Mxa2dWVkFTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZOMFl4UlZReVdFaFJabXN2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpZeElnZExRVlJUUlZsRkdqSUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURVRndjbWxzSURrc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNVIbc2hhcmVjYXJkXzE3NzU3MTgwMDBfNjEuanBnggLvAhKEAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcGtCQ0FJU1RRb0lVRWxPUzFrZ1ZWQVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk4wWXhSVlF5V0VoUlptc3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBall4SWdkTFFWUlRSVmxGR2pJS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRGtzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1GhhQSU5LWSBVUCBpcyAjNjEgZ2xvYmFsbHkiO1BJTktZIFVQIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCA5LCAyMDI2Kg8ICSILCgAQAxgCILnM1Ak%3D"
                       },
                       {
                         "id": "dj_zUJNv_zc",
@@ -6926,9 +6927,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwji5Myj9eqTAxVOxD8EHWxJKuM="
+        "trackingParams": "CAEQui8iEwjzoZDQw-uTAxVgxj8EHSy5EzY="
       }
     },
-    "trackingParams": "CAAQhGciEwji5Myj9eqTAxVOxD8EHWxJKuPKAQQV9rAr"
+    "trackingParams": "CAAQhGciEwjzoZDQw-uTAxVgxj8EHSy5EzbKAQTf-dfc"
   }
 }
