@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-04-15T07:27:14.149565+00:00",
+  "captured_at_utc": "2026-04-15T13:18:27.985715+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtxLXNXbmdxU3B0ayjI-_zOBjIKCgJVUxIEGgAgPA%3D%3D"
+      "visitorData": "CgtPZWJud2RGR0JhdyiaoP7OBjIKCgJVUxIEGgAgWA%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -1396,9 +1396,29 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/lBbEJNZDwbGNttDMHZ8MGlo_NjpeFhkmO71QngQyrgwaO_J8SLXBmOcAPxF3Ug-NwKzLsZFKgygnVEuKug=w180-h180-l90-rj",
-                              "width": 180,
+                              "url": "https://i.ytimg.com/vi/jhaniRIVkpA/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/jhaniRIVkpA/mqdefault.jpg",
+                              "width": 320,
                               "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/jhaniRIVkpA/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/jhaniRIVkpA/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/jhaniRIVkpA/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
                             }
                           ]
                         },
@@ -1420,22 +1440,11 @@
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "bVnCknNwAsk",
                         "releaseDate": {
                           "year": 2026,
                           "month": 2,
                           "day": 23
                         },
-                        "songwriters": [
-                          "Max Darbakov",
-                          "Max Darbakov",
-                          "Yaroslav Volkov",
-                          "Yaroslav Volkov"
-                        ],
-                        "songProducers": [
-                          "Max Darbakov",
-                          "Yaroslav Volkov"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvsBCAISqwEKD0JBRCBFTkRJTkcgRlVOSxJ-aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL25CMER4ZWtDU2ZEcWlxY2xMcjdsSUFUUE9RQm10UHRidk1zUWRxSUREbnFUbXB6WnJOWjlCeGFGOExVLUNBdTJ5azRMOFBpc2U4Y2Z1U09rPXc5MDAtaDkwMC1wGgIyOSIHU2hpbXVkYSILU2xvd2x5RHlpbmcaNQoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGg5BcHJpbCAxMywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDA",
                         "serializedShareEntity": "CgtqaGFuaVJJVmtwQXLgAwgHEh9CQUQgRU5ESU5HIEZVTksgaXMgIzI5IGdsb2JhbGx5GkVCQUQgRU5ESU5HIEZVTksgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gQXByaWwgMTMsIDIwMjYy1gIK0wJJdnNCQ0FJU3F3RUtEMEpCUkNCRlRrUkpUa2NnUmxWT1N4Si1hSFIwY0hNNkx5OTVkRE11WjI5dloyeGxkWE5sY21OdmJuUmxiblF1WTI5dEwyNUNNRVI0Wld0RFUyWkVjV2x4WTJ4TWNqZHNTVUZVVUU5UlFtMTBVSFJpZGsxelVXUnhTVVJFYm5GVWJYQjZXbkpPV2psQ2VHRkdPRXhWTFVOQmRUSjVhelJNT0ZCcGMyVTRZMloxVTA5clBYYzVNREF0YURrd01DMXdHZ0l5T1NJSFUyaHBiWFZrWVNJTFUyeHZkMng1UkhscGJtY2FOUW9aUkdGcGJIa2dWRzl3SUZOdmJtZHpJRzl1SUZOb2IzSjBjeElHUjJ4dlltRnNHZzVCY0hKcGJDQXhNeXdnTWpBeU5qZ0dJaElLQnlOR1JqTkZSVU1TQnlNd01EQXdNREFSG3NoYXJlY2FyZF8xNzc2MDYzNjAwXzI5LmpwZ4ICgwQShwNodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXZzQkNBSVNxd0VLRDBKQlJDQkZUa1JKVGtjZ1JsVk9TeEotYUhSMGNITTZMeTk1ZERNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMjVDTUVSNFpXdERVMlpFY1dseFkyeE1jamRzU1VGVVVFOVJRbTEwVUhSaWRrMXpVV1J4U1VSRWJuRlViWEI2V25KT1dqbENlR0ZHT0V4VkxVTkJkVEo1YXpSTU9GQnBjMlU0WTJaMVUwOXJQWGM1TURBdGFEa3dNQzF3R2dJeU9TSUhVMmhwYlhWa1lTSUxVMnh2ZDJ4NVJIbHBibWNhTlFvWlJHRnBiSGtnVkc5d0lGTnZibWR6SUc5dUlGTm9iM0owY3hJR1IyeHZZbUZzR2c1QmNISnBiQ0F4TXl3Z01qQXlOamdHSWhJS0J5TkdSak5GUlVNU0J5TXdNREF3TURBGh9CQUQgRU5ESU5HIEZVTksgaXMgIzI5IGdsb2JhbGx5IkVCQUQgRU5ESU5HIEZVTksgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gQXByaWwgMTMsIDIwMjYqDwgKIgsKABAGGAEgvczUCQ%3D%3D"
                       },
@@ -2516,9 +2525,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjchvijqu-TAxV6pMIBHVHBORU="
+        "trackingParams": "CAEQui8iEwjZ19zk-O-TAxUMzMIEHUg3M4g="
       }
     },
-    "trackingParams": "CAAQhGciEwjchvijqu-TAxV6pMIBHVHBORXKAQTouyRa"
+    "trackingParams": "CAAQhGciEwjZ19zk-O-TAxUMzMIEHUg3M4jKAQSTUH2p"
   }
 }
