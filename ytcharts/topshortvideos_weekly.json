@@ -2,11 +2,11 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-04-14T19:09:30.411572+00:00",
+  "captured_at_utc": "2026-04-15T02:07:59.546180+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtjN19wcmxJa3hiNCjgofrOBjIKCgJVUxIEGgAgVg%3D%3D"
+      "visitorData": "CgtkTjhTVTg5RUg2QSj25fvOBjIKCgJVUxIEGgAgSQ%3D%3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -25,27 +25,9 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-12"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-09"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-09"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-04-09"
                     },
                     {
@@ -55,9 +37,27 @@
                       "latestEndDate": "2026-04-13"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-09"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-13"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-09"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-04-09"
                     }
                   ],
@@ -1002,8 +1002,8 @@
                         "isVisible": true,
                         "releaseDate": {
                           "year": 2026,
-                          "month": 4,
-                          "day": 9
+                          "month": 1,
+                          "day": 4
                         },
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvwBCAISrAEKFVZPQ0UgTkEgTUlSQSAoU2xvd2VkKRJ9aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0lJTjNrM2IwMUV6a0pEbjRuZ2htbTRMSkZJMmNnZHBaREx2WkJfSkJ1Yzd3ZWwzMzB1d084eElPWVh6Q2VwZl85SzUwTHZWemEzamlsc289dzkwMC1oOTAwLXAaAjIwIgdId3VuZ2lpIgdESiBWR0sxGjUKGldlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaDUFwcmlsIDksIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVD",
                         "serializedShareEntity": "CgtCMDkxb2MzN1FlWXLtAwgHEiVWT0NFIE5BIE1JUkEgKFNsb3dlZCkgaXMgIzIwIGdsb2JhbGx5GktWT0NFIE5BIE1JUkEgKFNsb3dlZCkgb24gR2xvYmFsIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIEFwcmlsIDksIDIwMjYy1wIK1AJJdndCQ0FJU3JBRUtGVlpQUTBVZ1RrRWdUVWxTUVNBb1UyeHZkMlZrS1JKOWFIUjBjSE02THk5NWRETXVaMjl2WjJ4bGRYTmxjbU52Ym5SbGJuUXVZMjl0TDBsSlRqTnJNMkl3TVVWNmEwcEVialJ1WjJodGJUUk1Ta1pKTW1OblpIQmFSRXgyV2tKZlNrSjFZemQzWld3ek16QjFkMDg0ZUVsUFdWaDZRMlZ3Wmw4NVN6VXdUSFpXZW1FemFtbHNjMjg5ZHprd01DMW9PVEF3TFhBYUFqSXdJZ2RJZDNWdVoybHBJZ2RFU2lCV1Iwc3hHalVLR2xkbFpXdHNlU0JVYjNBZ1UyOXVaM01nYjI0Z1UyaHZjblJ6RWdaSGJHOWlZV3dhRFVGd2NtbHNJRGtzSURJd01qWTRCaUlTQ2djak1EQXdNREF3RWdjalJrWXpSVVZEUhtzaGFyZWNhcmRfMTc3NTcxODAwMF8yMC5qcGeCApAEEogDaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl2d0JDQUlTckFFS0ZWWlBRMFVnVGtFZ1RVbFNRU0FvVTJ4dmQyVmtLUko5YUhSMGNITTZMeTk1ZERNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMGxKVGpOck0ySXdNVVY2YTBwRWJqUnVaMmh0YlRSTVNrWkpNbU5uWkhCYVJFeDJXa0pmU2tKMVl6ZDNaV3d6TXpCMWQwODRlRWxQV1ZoNlEyVndabDg1U3pVd1RIWldlbUV6YW1sc2MyODlkemt3TUMxb09UQXdMWEFhQWpJd0lnZElkM1Z1WjJscElnZEVTaUJXUjBzeEdqVUtHbGRsWld0c2VTQlViM0FnVTI5dVozTWdiMjRnVTJodmNuUnpFZ1pIYkc5aVlXd2FEVUZ3Y21sc0lEa3NJREl3TWpZNEJpSVNDZ2NqTURBd01EQXdFZ2NqUmtZelJVVkQaJVZPQ0UgTkEgTUlSQSAoU2xvd2VkKSBpcyAjMjAgZ2xvYmFsbHkiS1ZPQ0UgTkEgTUlSQSAoU2xvd2VkKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gQXByaWwgOSwgMjAyNioPCAoiCwoAEAYYAiC5zNQJ"
@@ -2426,9 +2426,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwik2quxhe6TAxUK0T8EHQPXDEw="
+        "trackingParams": "CAEQui8iEwjdvaj24u6TAxVGq8IBHTVtOE0="
       }
     },
-    "trackingParams": "CAAQhGciEwik2quxhe6TAxUK0T8EHQPXDEzKAQR74h9x"
+    "trackingParams": "CAAQhGciEwjdvaj24u6TAxVGq8IBHTVtOE3KAQTGqJot"
   }
 }
