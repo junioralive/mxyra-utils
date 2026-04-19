@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-04-19T02:23:45.251688+00:00",
+  "captured_at_utc": "2026-04-19T07:14:24.645344+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtVOFlGdFREV1hOYyin-ZDPBjIKCgJVUxIEGgAgLw%3D%3D",
-      "responseId": "IhMIrLGU9O34kwMVdTetBh2lGACg"
+      "visitorData": "CgtlaW83VEFkRFlxSSjHgZLPBjIKCgJVUxIEGgAgDw%3D%3D",
+      "responseId": "IhMI29f17675kwMVNBGtBh0DSiFC"
     },
     "contents": {
       "sectionListRenderer": {
@@ -26,28 +26,22 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-16"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-09"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-17"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-09"
+                      "latestEndDate": "2026-04-16"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-09"
+                      "latestEndDate": "2026-04-16"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -59,7 +53,13 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-04-09"
+                      "latestEndDate": "2026-04-16"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-17"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -2364,7 +2364,7 @@
                       },
                       {
                         "id": "z0fjMMfBZ1g",
-                        "title": "I still love you",
+                        "title": "SXYBIT – I Still Love You (Official Music Video)",
                         "viewCount": "1250094",
                         "thumbnail": {
                           "thumbnails": [
@@ -2415,10 +2415,10 @@
                           "month": 4,
                           "day": 9
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqABCAISVAoQSSBzdGlsbCBsb3ZlIHlvdRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS96MGZqTU1mQloxZy9tYXhyZXNkZWZhdWx0LmpwZxoCMzUiBlNYWUJJVBoyChZEYWlseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDkFwcmlsIDE3LCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMA",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsIBCAISdgoyU1hZQklUIOKAkyBJIFN0aWxsIExvdmUgWW91IChPZmZpY2lhbCBNdXNpYyBWaWRlbykSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvejBmak1NZkJaMWcvbWF4cmVzZGVmYXVsdC5qcGcaAjM1IgZTWFlCSVQaMgoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg5BcHJpbCAxNywgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDA",
                         "externalChannelId": "UC6X1L21saoUvtnFsq_tI4Xw",
                         "channelName": "SXYBIT",
-                        "serializedShareEntity": "Cgt6MGZqTU1mQloxZ3LmAggHEiBJIHN0aWxsIGxvdmUgeW91IGlzICMzNSBnbG9iYWxseRpDSSBzdGlsbCBsb3ZlIHlvdSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAxNywgMjAyNjLdAQraAUlxQUJDQUlTVkFvUVNTQnpkR2xzYkNCc2IzWmxJSGx2ZFJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzk2TUdacVRVMW1RbG94Wnk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ016VWlCbE5ZV1VKSlZCb3lDaFpFWVdsc2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURrRndjbWxzSURFM0xDQXlNREkyT0FNaUVnb0hJelpHTmtSRk9SSUhJekF3TURBd01BUhtzaGFyZWNhcmRfMTc3NjQwOTIwMF8zNS5qcGeCAokDEo4CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxQUJDQUlTVkFvUVNTQnpkR2xzYkNCc2IzWmxJSGx2ZFJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzk2TUdacVRVMW1RbG94Wnk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ016VWlCbE5ZV1VKSlZCb3lDaFpFWVdsc2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURrRndjbWxzSURFM0xDQXlNREkyT0FNaUVnb0hJelpHTmtSRk9SSUhJekF3TURBd01BGiBJIHN0aWxsIGxvdmUgeW91IGlzICMzNSBnbG9iYWxseSJDSSBzdGlsbCBsb3ZlIHlvdSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAxNywgMjAyNioPCAkiCwoAEAMYASDBzNQJ"
+                        "serializedShareEntity": "Cgt6MGZqTU1mQloxZ3LXAwgHEkJTWFlCSVQg4oCTIEkgU3RpbGwgTG92ZSBZb3UgKE9mZmljaWFsIE11c2ljIFZpZGVvKSBpcyAjMzUgZ2xvYmFsbHkaZVNYWUJJVCDigJMgSSBTdGlsbCBMb3ZlIFlvdSAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8pIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDE3LCAyMDI2MooCCocCSXNJQkNBSVNkZ295VTFoWlFrbFVJT0tBa3lCSklGTjBhV3hzSUV4dmRtVWdXVzkxSUNoUFptWnBZMmxoYkNCTmRYTnBZeUJXYVdSbGJ5a1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmVqQm1hazFOWmtKYU1XY3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBak0xSWdaVFdGbENTVlFhTWdvV1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzVCY0hKcGJDQXhOeXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREFSG3NoYXJlY2FyZF8xNzc2NDA5MjAwXzM1LmpwZ4IC-gMSuwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXNJQkNBSVNkZ295VTFoWlFrbFVJT0tBa3lCSklGTjBhV3hzSUV4dmRtVWdXVzkxSUNoUFptWnBZMmxoYkNCTmRYTnBZeUJXYVdSbGJ5a1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmVqQm1hazFOWmtKYU1XY3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBak0xSWdaVFdGbENTVlFhTWdvV1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeElHUjJ4dlltRnNHZzVCY0hKcGJDQXhOeXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREEaQlNYWUJJVCDigJMgSSBTdGlsbCBMb3ZlIFlvdSAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8pIGlzICMzNSBnbG9iYWxseSJlU1hZQklUIOKAkyBJIFN0aWxsIExvdmUgWW91IChPZmZpY2lhbCBNdXNpYyBWaWRlbykgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMTcsIDIwMjYqDwgJIgsKABADGAEgwczUCQ%3D%3D"
                       },
                       {
                         "id": "ZvXN0TcZLfQ",
@@ -6758,9 +6758,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwissZT07fiTAxV1N60GHaUYAKA="
+        "trackingParams": "CAEQui8iEwjb1_XvrvmTAxU0Ea0GHQNKIUI="
       }
     },
-    "trackingParams": "CAAQhGciEwissZT07fiTAxV1N60GHaUYAKDKAQSHr1x1"
+    "trackingParams": "CAAQhGciEwjb1_XvrvmTAxU0Ea0GHQNKIULKAQRGQEsO"
   }
 }
