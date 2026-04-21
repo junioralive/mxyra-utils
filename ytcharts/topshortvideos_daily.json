@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-04-20T19:00:36.782970+00:00",
+  "captured_at_utc": "2026-04-21T02:12:29.540180+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtUMENDRlpVTEpaSSjL75nPBjIKCgJVUxIEGgAgWw%3D%3D",
-      "responseId": "IhMI4YWjy479kwMV7d7CBB3qDAK-"
+      "visitorData": "Cgs4dGhqVXZxM0lDOCiEupvPBjIKCgJVUxIEGgAgbQ%3D%3D",
+      "responseId": "IhMIqpO4j-_9kwMVOimtBh2kqCri"
     },
     "contents": {
       "sectionListRenderer": {
@@ -213,9 +213,29 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://lh3.googleusercontent.com/Iw_4zERlXqWFsNFmtURrSO2Sz5tACV7_m0pCknTcxzW9bY9q324wbqMB9I6EUDuoTUliz_N76VU3Es4=w180-h180-l90-rj",
-                              "width": 180,
+                              "url": "https://i.ytimg.com/vi/OgiAdfUKJ3c/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/OgiAdfUKJ3c/mqdefault.jpg",
+                              "width": 320,
                               "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/OgiAdfUKJ3c/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/OgiAdfUKJ3c/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/OgiAdfUKJ3c/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
                             }
                           ]
                         },
@@ -237,18 +257,11 @@
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "e3OBPOKtMgA",
                         "releaseDate": {
                           "year": 2026,
                           "month": 2,
                           "day": 3
                         },
-                        "songwriters": [
-                          "Jole Hughes"
-                        ],
-                        "songProducers": [
-                          "S3RL"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvEBCAISoQEKEVRSSUxMSVVNIEhBUkRURUtLEnxodHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vUzVrUGg4d1hROWNYSlZKb29KODQ0QmNFeUJZQzFKa3BsRTQ5bTBlLWcwczJrc0FnUUplOElpRWstUzhvN0dFaHpaUExuczQ3LXlRWVd3PXc5MDAtaDkwMC1wGgE0IgRTM1JMIgVCZWFybho1ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaDkFwcmlsIDE5LCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMA",
                         "serializedShareEntity": "CgtPZ2lBZGZVS0ozY3LVAwgHEiBUUklMTElVTSBIQVJEVEVLSyBpcyAjNCBnbG9iYWxseRpHVFJJTExJVU0gSEFSRFRFS0sgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gQXByaWwgMTksIDIwMjYyyQIKxgJJdkVCQ0FJU29RRUtFVlJTU1V4TVNWVk5JRWhCVWtSVVJVdExFbnhvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZVelZyVUdnNGQxaFJPV05ZU2xaS2IyOUtPRFEwUW1ORmVVSlpRekZLYTNCc1JUUTViVEJsTFdjd2N6SnJjMEZuVVVwbE9FbHBSV3N0VXpodk4wZEZhSHBhVUV4dWN6UTNMWGxSV1ZkM1BYYzVNREF0YURrd01DMXdHZ0UwSWdSVE0xSk1JZ1ZDWldGeWJobzFDaGxFWVdsc2VTQlViM0FnVTI5dVozTWdiMjRnVTJodmNuUnpFZ1pIYkc5aVlXd2FEa0Z3Y21sc0lERTVMQ0F5TURJMk9BWWlFZ29ISTBaR00wVkZReElISXpBd01EQXdNQVIac2hhcmVjYXJkXzE3NzY1ODIwMDBfNC5qcGeCAvkDEvoCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl2RUJDQUlTb1FFS0VWUlNTVXhNU1ZWTklFaEJVa1JVUlV0TEVueG9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdlV6VnJVR2c0ZDFoUk9XTllTbFpLYjI5S09EUTBRbU5GZVVKWlF6RkthM0JzUlRRNWJUQmxMV2N3Y3pKcmMwRm5VVXBsT0VscFJXc3RVemh2TjBkRmFIcGFVRXh1Y3pRM0xYbFJXVmQzUFhjNU1EQXRhRGt3TUMxd0dnRTBJZ1JUTTFKTUlnVkNaV0Z5YmhvMUNobEVZV2xzZVNCVWIzQWdVMjl1WjNNZ2IyNGdVMmh2Y25SekVnWkhiRzlpWVd3YURrRndjbWxzSURFNUxDQXlNREkyT0FZaUVnb0hJMFpHTTBWRlF4SUhJekF3TURBd01BGiBUUklMTElVTSBIQVJEVEVLSyBpcyAjNCBnbG9iYWxseSJHVFJJTExJVU0gSEFSRFRFS0sgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gQXByaWwgMTksIDIwMjYqDwgKIgsKABAGGAEgw8zUCQ%3D%3D"
                       },
@@ -992,8 +1005,8 @@
                           "Priyanshu Singh",
                           "Mohan Rajput"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Iq0CCAIS3QEKOyDgpLDgpL7gpK_gpKvgpLLgpLXgpL4g4KSy4KWH4KSs4KSJIOCkpuCkueClh-CknCDgpK7gpYfgpIIgEn5odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vZGNHdnZRRzlrbGRjY0JjU0hOTVJrQWlvOUJ0RUFGTGx0ZG9sM2dwNnRpbUJNajZhWldLR1Z2aHc2WGFEQ0RtOUZyZUx0bDNHTHdLUDRGMVM9dzkwMC1oOTAwLXAaAjE5IgpBbWl0IEFzaGlrIg5TcmlzaHRpIEJoYXJ0aRo1ChlEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzEgZHbG9iYWwaDkFwcmlsIDE5LCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMA",
-                        "serializedShareEntity": "CgtoVHhBeHVjRnVMUXL7BAgHEksg4KSw4KS-4KSv4KSr4KSy4KS14KS-IOCksuClh-CkrOCkiSDgpKbgpLngpYfgpJwg4KSu4KWH4KSCICBpcyAjMTkgZ2xvYmFsbHkacSDgpLDgpL7gpK_gpKvgpLLgpLXgpL4g4KSy4KWH4KSs4KSJIOCkpuCkueClh-CknCDgpK7gpYfgpIIgIG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIEFwcmlsIDE5LCAyMDI2MpkDCpYDSXEwQ0NBSVMzUUVLT3lEZ3BMRGdwTDdncEtfZ3BLdmdwTExncExYZ3BMNGc0S1N5NEtXSDRLU3M0S1NKSU9Da3B1Q2t1ZUNsaC1Da25DRGdwSzdncFlmZ3BJSWdFbjVvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZaR05IZG5aUlJ6bHJiR1JqWTBKalUwaE9UVkpyUVdsdk9VSjBSVUZHVEd4MFpHOXNNMmR3Tm5ScGJVSk5halpoV2xkTFIxWjJhSGMyV0dGRVEwUnRPVVp5WlV4MGJETkhUSGRMVURSR01WTTlkemt3TUMxb09UQXdMWEFhQWpFNUlncEJiV2wwSUVGemFHbHJJZzVUY21semFIUnBJRUpvWVhKMGFSbzFDaGxFWVdsc2VTQlViM0FnVTI5dVozTWdiMjRnVTJodmNuUnpFZ1pIYkc5aVlXd2FEa0Z3Y21sc0lERTVMQ0F5TURJMk9BWWlFZ29ISTBaR00wVkZReElISXpBd01EQXdNQVIbc2hhcmVjYXJkXzE3NzY1ODIwMDBfMTkuanBnggKeBRLKA2h0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcTBDQ0FJUzNRRUtPeURncExEZ3BMN2dwS19ncEt2Z3BMTGdwTFhncEw0ZzRLU3k0S1dINEtTczRLU0pJT0NrcHVDa3VlQ2xoLUNrbkNEZ3BLN2dwWWZncElJZ0VuNW9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdlpHTkhkblpSUnpscmJHUmpZMEpqVTBoT1RWSnJRV2x2T1VKMFJVRkdUR3gwWkc5c00yZHdOblJwYlVKTmFqWmhXbGRMUjFaMmFIYzJXR0ZFUTBSdE9VWnlaVXgwYkROSFRIZExVRFJHTVZNOWR6a3dNQzFvT1RBd0xYQWFBakU1SWdwQmJXbDBJRUZ6YUdscklnNVRjbWx6YUhScElFSm9ZWEowYVJvMUNobEVZV2xzZVNCVWIzQWdVMjl1WjNNZ2IyNGdVMmh2Y25SekVnWkhiRzlpWVd3YURrRndjbWxzSURFNUxDQXlNREkyT0FZaUVnb0hJMFpHTTBWRlF4SUhJekF3TURBd01BGksg4KSw4KS-4KSv4KSr4KSy4KS14KS-IOCksuClh-CkrOCkiSDgpKbgpLngpYfgpJwg4KSu4KWH4KSCICBpcyAjMTkgZ2xvYmFsbHkicSDgpLDgpL7gpK_gpKvgpLLgpLXgpL4g4KSy4KWH4KSs4KSJIOCkpuCkueClh-CknCDgpK7gpYfgpIIgIG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIEFwcmlsIDE5LCAyMDI2Kg8ICiILCgAQBhgBIMPM1Ak%3D"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqwCCAIS3AEKOyDgpLDgpL7gpK_gpKvgpLLgpLXgpL4g4KSy4KWH4KSs4KSJIOCkpuCkueClh-CknCDgpK7gpYfgpIIgEn1odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vR3FQbHZlNFFDamJ4MVZWaDNUak5icTFJb2szWHBDaDQ4d2UtaTBMSlVXVEFqR3V0SlN4NzhDV0wyb2oxeTg4ZDlIaWpEbUZFYllZTS1Ocz13OTAwLWg5MDAtcBoCMTkiCkFtaXQgQXNoaWsiDlNyaXNodGkgQmhhcnRpGjUKGURhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMSBkdsb2JhbBoOQXByaWwgMTksIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAw",
+                        "serializedShareEntity": "CgtoVHhBeHVjRnVMUXL5BAgHEksg4KSw4KS-4KSv4KSr4KSy4KS14KS-IOCksuClh-CkrOCkiSDgpKbgpLngpYfgpJwg4KSu4KWH4KSCICBpcyAjMTkgZ2xvYmFsbHkacSDgpLDgpL7gpK_gpKvgpLLgpLXgpL4g4KSy4KWH4KSs4KSJIOCkpuCkueClh-CknCDgpK7gpYfgpIIgIG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIEFwcmlsIDE5LCAyMDI2MpcDCpQDSXF3Q0NBSVMzQUVLT3lEZ3BMRGdwTDdncEtfZ3BLdmdwTExncExYZ3BMNGc0S1N5NEtXSDRLU3M0S1NKSU9Da3B1Q2t1ZUNsaC1Da25DRGdwSzdncFlmZ3BJSWdFbjFvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZSM0ZRYkhabE5GRkRhbUo0TVZaV2FETlVhazVpY1RGSmIyc3pXSEJEYURRNGQyVXRhVEJNU2xWWFZFRnFSM1YwU2xONE56aERWMHd5YjJveGVUZzRaRGxJYVdwRWJVWkZZbGxaVFMxT2N6MTNPVEF3TFdnNU1EQXRjQm9DTVRraUNrRnRhWFFnUVhOb2FXc2lEbE55YVhOb2RHa2dRbWhoY25ScEdqVUtHVVJoYVd4NUlGUnZjQ0JUYjI1bmN5QnZiaUJUYUc5eWRITVNCa2RzYjJKaGJCb09RWEJ5YVd3Z01Ua3NJREl3TWpZNEJpSVNDZ2NqUmtZelJVVkRFZ2NqTURBd01EQXdSG3NoYXJlY2FyZF8xNzc2NTgyMDAwXzE5LmpwZ4ICnAUSyANodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXF3Q0NBSVMzQUVLT3lEZ3BMRGdwTDdncEtfZ3BLdmdwTExncExYZ3BMNGc0S1N5NEtXSDRLU3M0S1NKSU9Da3B1Q2t1ZUNsaC1Da25DRGdwSzdncFlmZ3BJSWdFbjFvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZSM0ZRYkhabE5GRkRhbUo0TVZaV2FETlVhazVpY1RGSmIyc3pXSEJEYURRNGQyVXRhVEJNU2xWWFZFRnFSM1YwU2xONE56aERWMHd5YjJveGVUZzRaRGxJYVdwRWJVWkZZbGxaVFMxT2N6MTNPVEF3TFdnNU1EQXRjQm9DTVRraUNrRnRhWFFnUVhOb2FXc2lEbE55YVhOb2RHa2dRbWhoY25ScEdqVUtHVVJoYVd4NUlGUnZjQ0JUYjI1bmN5QnZiaUJUYUc5eWRITVNCa2RzYjJKaGJCb09RWEJ5YVd3Z01Ua3NJREl3TWpZNEJpSVNDZ2NqUmtZelJVVkRFZ2NqTURBd01EQXcaSyDgpLDgpL7gpK_gpKvgpLLgpLXgpL4g4KSy4KWH4KSs4KSJIOCkpuCkueClh-CknCDgpK7gpYfgpIIgIGlzICMxOSBnbG9iYWxseSJxIOCksOCkvuCkr-Ckq-CksuCkteCkviDgpLLgpYfgpKzgpIkg4KSm4KS54KWH4KScIOCkruClh-CkgiAgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gQXByaWwgMTksIDIwMjYqDwgKIgsKABAGGAEgw8zUCQ%3D%3D"
                       },
                       {
                         "id": "G:EgoUC-UE0NQ",
@@ -2155,29 +2168,9 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/jhaniRIVkpA/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/jhaniRIVkpA/mqdefault.jpg",
-                              "width": 320,
+                              "url": "https://lh3.googleusercontent.com/lBbEJNZDwbGNttDMHZ8MGlo_NjpeFhkmO71QngQyrgwaO_J8SLXBmOcAPxF3Ug-NwKzLsZFKgygnVEuKug=w180-h180-l90-rj",
+                              "width": 180,
                               "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/jhaniRIVkpA/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/jhaniRIVkpA/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/jhaniRIVkpA/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
                             }
                           ]
                         },
@@ -2199,11 +2192,22 @@
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "bVnCknNwAsk",
                         "releaseDate": {
                           "year": 2026,
                           "month": 2,
                           "day": 23
                         },
+                        "songwriters": [
+                          "Max Darbakov",
+                          "Max Darbakov",
+                          "Yaroslav Volkov",
+                          "Yaroslav Volkov"
+                        ],
+                        "songProducers": [
+                          "Max Darbakov",
+                          "Yaroslav Volkov"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvsBCAISqwEKD0JBRCBFTkRJTkcgRlVOSxJ-aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL18yNGRiMlc3YXRnbDJvaGptOHdBUmUtQzZSeXFwb3o5R1pWcGt5NGdUTFZHTEFQMXl3Y2V4cUhFQmFIbnJueDNWZ1lEZEVUOXBYZndzUGFCPXc5MDAtaDkwMC1wGgI0NCIHU2hpbXVkYSILU2xvd2x5RHlpbmcaNQoZRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cxIGR2xvYmFsGg5BcHJpbCAxOSwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDA",
                         "serializedShareEntity": "CgtqaGFuaVJJVmtwQXLgAwgHEh9CQUQgRU5ESU5HIEZVTksgaXMgIzQ0IGdsb2JhbGx5GkVCQUQgRU5ESU5HIEZVTksgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gQXByaWwgMTksIDIwMjYy1gIK0wJJdnNCQ0FJU3F3RUtEMEpCUkNCRlRrUkpUa2NnUmxWT1N4Si1hSFIwY0hNNkx5OTVkRE11WjI5dloyeGxkWE5sY21OdmJuUmxiblF1WTI5dEwxOHlOR1JpTWxjM1lYUm5iREp2YUdwdE9IZEJVbVV0UXpaU2VYRndiM281UjFwV2NHdDVOR2RVVEZaSFRFRlFNWGwzWTJWNGNVaEZRbUZJYm5KdWVETldaMWxFWkVWVU9YQllabmR6VUdGQ1BYYzVNREF0YURrd01DMXdHZ0kwTkNJSFUyaHBiWFZrWVNJTFUyeHZkMng1UkhscGJtY2FOUW9aUkdGcGJIa2dWRzl3SUZOdmJtZHpJRzl1SUZOb2IzSjBjeElHUjJ4dlltRnNHZzVCY0hKcGJDQXhPU3dnTWpBeU5qZ0dJaElLQnlOR1JqTkZSVU1TQnlNd01EQXdNREFSG3NoYXJlY2FyZF8xNzc2NTgyMDAwXzQ0LmpwZ4ICgwQShwNodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXZzQkNBSVNxd0VLRDBKQlJDQkZUa1JKVGtjZ1JsVk9TeEotYUhSMGNITTZMeTk1ZERNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMTh5TkdSaU1sYzNZWFJuYkRKdmFHcHRPSGRCVW1VdFF6WlNlWEZ3YjNvNVIxcFdjR3Q1TkdkVVRGWkhURUZRTVhsM1kyVjRjVWhGUW1GSWJuSnVlRE5XWjFsRVpFVlVPWEJZWm5kelVHRkNQWGM1TURBdGFEa3dNQzF3R2dJME5DSUhVMmhwYlhWa1lTSUxVMnh2ZDJ4NVJIbHBibWNhTlFvWlJHRnBiSGtnVkc5d0lGTnZibWR6SUc5dUlGTm9iM0owY3hJR1IyeHZZbUZzR2c1QmNISnBiQ0F4T1N3Z01qQXlOamdHSWhJS0J5TkdSak5GUlVNU0J5TXdNREF3TURBGh9CQUQgRU5ESU5HIEZVTksgaXMgIzQ0IGdsb2JhbGx5IkVCQUQgRU5ESU5HIEZVTksgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gQXByaWwgMTksIDIwMjYqDwgKIgsKABAGGAEgw8zUCQ%3D%3D"
                       },
@@ -2502,9 +2506,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjhhaPLjv2TAxXt3sIEHeoMAr4="
+        "trackingParams": "CAEQui8iEwiqk7iP7_2TAxU6Ka0GHaSoKuI="
       }
     },
-    "trackingParams": "CAAQhGciEwjhhaPLjv2TAxXt3sIEHeoMAr7KAQStSYjR"
+    "trackingParams": "CAAQhGciEwiqk7iP7_2TAxU6Ka0GHaSoKuLKAQQqBnaY"
   }
 }
