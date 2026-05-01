@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-05-01T02:43:39.455740+00:00",
+  "captured_at_utc": "2026-05-01T08:07:51.565243+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgstN0xLbjRNQTJMSSjSptDPBjIKCgJVUxIEGgAgHA%3D%3D",
-      "responseId": "IhMIu5ax3oiXlAMVNobCAR0TbzBZ"
+      "visitorData": "Cgt1MlBPNkFFYWFGdyjOvtHPBjIKCgJVUxIEGgAgbQ%3D%3D",
+      "responseId": "IhMIyZvsmdGXlAMVwEgSAR1zRRVz"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,28 +27,10 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-04-29"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-23"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-04-29"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-23"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -57,7 +39,25 @@
                       "latestEndDate": "2026-04-23"
                     },
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-23"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-23"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-04-29"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-04-23"
@@ -6236,7 +6236,7 @@
                       },
                       {
                         "id": "aMkJ2u8j6uM",
-                        "title": "IYKYK | Athiradi | Tovino Thomas | Basil Joseph | Riya Shibu | Vishnu Vijay | Fejo | Poornima Kannan",
+                        "title": "IYKYK (From \"Athiradi\")",
                         "viewCount": "660802",
                         "thumbnail": {
                           "thumbnails": [
@@ -6275,7 +6275,20 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "Saregama Malayalam"
+                            "kgMid": "",
+                            "name": "Vishnu Vijay"
+                          },
+                          {
+                            "kgMid": "/g/11wpzpj738",
+                            "name": "Suhail Koya"
+                          },
+                          {
+                            "kgMid": "",
+                            "name": "Poornima Kannan"
+                          },
+                          {
+                            "kgMid": "/g/11f7k73_lf",
+                            "name": "Fejo"
                           }
                         ],
                         "isVisible": true,
@@ -6288,10 +6301,10 @@
                           "Vishnu Vijay",
                           "Suhail Koya"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IoMCCAIStAEKZElZS1lLIHwgQXRoaXJhZGkgfCBUb3Zpbm8gVGhvbWFzIHwgQmFzaWwgSm9zZXBoIHwgUml5YSBTaGlidSB8IFZpc2hudSBWaWpheSB8IEZlam8gfCBQb29ybmltYSBLYW5uYW4SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvYU1rSjJ1OGo2dU0vbWF4cmVzZGVmYXVsdC5qcGcaAjk0IhJTYXJlZ2FtYSBNYWxheWFsYW0aMgoWRGFpbHkgVG9wIE11c2ljIFZpZGVvcxIGR2xvYmFsGg5BcHJpbCAyOSwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItQBCAIShQEKF0lZS1lLIChGcm9tICJBdGhpcmFkaSIpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2FNa0oydThqNnVNL21heHJlc2RlZmF1bHQuanBnGgI5NCIMVmlzaG51IFZpamF5IgtTdWhhaWwgS295YSIPUG9vcm5pbWEgS2FubmFuIgRGZWpvGjIKFkRhaWx5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoOQXByaWwgMjksIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCoRF8GByEjmM_yHwUGIDGyQ",
                         "channelName": "Saregama Malayalam",
-                        "serializedShareEntity": "CgthTWtKMnU4ajZ1TXKTBQgHEnRJWUtZSyB8IEF0aGlyYWRpIHwgVG92aW5vIFRob21hcyB8IEJhc2lsIEpvc2VwaCB8IFJpeWEgU2hpYnUgfCBWaXNobnUgVmlqYXkgfCBGZWpvIHwgUG9vcm5pbWEgS2FubmFuIGlzICM5NCBnbG9iYWxseRqXAUlZS1lLIHwgQXRoaXJhZGkgfCBUb3Zpbm8gVGhvbWFzIHwgQmFzaWwgSm9zZXBoIHwgUml5YSBTaGlidSB8IFZpc2hudSBWaWpheSB8IEZlam8gfCBQb29ybmltYSBLYW5uYW4gb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMjksIDIwMjYy4QIK3gJJb01DQ0FJU3RBRUtaRWxaUzFsTElId2dRWFJvYVhKaFpHa2dmQ0JVYjNacGJtOGdWR2h2YldGeklId2dRbUZ6YVd3Z1NtOXpaWEJvSUh3Z1VtbDVZU0JUYUdsaWRTQjhJRlpwYzJodWRTQldhV3BoZVNCOElFWmxhbThnZkNCUWIyOXlibWx0WVNCTFlXNXVZVzRTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZZVTFyU2pKMU9HbzJkVTB2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWprMEloSlRZWEpsWjJGdFlTQk5ZV3hoZVdGc1lXMGFNZ29XUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnNUJjSEpwYkNBeU9Td2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBUVIbc2hhcmVjYXJkXzE3Nzc0NDYwMDBfOTQuanBnggK2BRKSA2h0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jb01DQ0FJU3RBRUtaRWxaUzFsTElId2dRWFJvYVhKaFpHa2dmQ0JVYjNacGJtOGdWR2h2YldGeklId2dRbUZ6YVd3Z1NtOXpaWEJvSUh3Z1VtbDVZU0JUYUdsaWRTQjhJRlpwYzJodWRTQldhV3BoZVNCOElFWmxhbThnZkNCUWIyOXlibWx0WVNCTFlXNXVZVzRTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZZVTFyU2pKMU9HbzJkVTB2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWprMEloSlRZWEpsWjJGdFlTQk5ZV3hoZVdGc1lXMGFNZ29XUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN4SUdSMnh2WW1Gc0dnNUJjSEpwYkNBeU9Td2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURp0SVlLWUsgfCBBdGhpcmFkaSB8IFRvdmlubyBUaG9tYXMgfCBCYXNpbCBKb3NlcGggfCBSaXlhIFNoaWJ1IHwgVmlzaG51IFZpamF5IHwgRmVqbyB8IFBvb3JuaW1hIEthbm5hbiBpcyAjOTQgZ2xvYmFsbHkilwFJWUtZSyB8IEF0aGlyYWRpIHwgVG92aW5vIFRob21hcyB8IEJhc2lsIEpvc2VwaCB8IFJpeWEgU2hpYnUgfCBWaXNobnUgVmlqYXkgfCBGZWpvIHwgUG9vcm5pbWEgS2FubmFuIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDI5LCAyMDI2Kg8ICSILCgAQAxgBIM3M1Ak%3D"
+                        "serializedShareEntity": "CgthTWtKMnU4ajZ1TXK5AwgHEidJWUtZSyAoRnJvbSAiQXRoaXJhZGkiKSBpcyAjOTQgZ2xvYmFsbHkaSklZS1lLIChGcm9tICJBdGhpcmFkaSIpIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDI5LCAyMDI2MqICCp8CSXRRQkNBSVNoUUVLRjBsWlMxbExJQ2hHY205dElDSkJkR2hwY21Ga2FTSXBFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwyRk5hMG95ZFRocU5uVk5MMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0k1TkNJTVZtbHphRzUxSUZacGFtRjVJZ3RUZFdoaGFXd2dTMjk1WVNJUFVHOXZjbTVwYldFZ1MyRnVibUZ1SWdSR1pXcHZHaklLRmtSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb09RWEJ5YVd3Z01qa3NJREl3TWpZNEF5SVNDZ2NqTmtZMlJFVTVFZ2NqTURBd01EQXdNQUVSG3NoYXJlY2FyZF8xNzc3NDQ2MDAwXzk0LmpwZ4IC3AMS0wJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXRRQkNBSVNoUUVLRjBsWlMxbExJQ2hHY205dElDSkJkR2hwY21Ga2FTSXBFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwyRk5hMG95ZFRocU5uVk5MMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0k1TkNJTVZtbHphRzUxSUZacGFtRjVJZ3RUZFdoaGFXd2dTMjk1WVNJUFVHOXZjbTVwYldFZ1MyRnVibUZ1SWdSR1pXcHZHaklLRmtSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb09RWEJ5YVd3Z01qa3NJREl3TWpZNEF5SVNDZ2NqTmtZMlJFVTVFZ2NqTURBd01EQXdNQUUaJ0lZS1lLIChGcm9tICJBdGhpcmFkaSIpIGlzICM5NCBnbG9iYWxseSJKSVlLWUsgKEZyb20gIkF0aGlyYWRpIikgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMjksIDIwMjYqDwgJIgsKABADGAEgzczUCQ%3D%3D"
                       },
                       {
                         "id": "VC58SsLEsSg",
@@ -6704,9 +6717,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwi7lrHeiJeUAxU2hsIBHRNvMFk="
+        "trackingParams": "CAEQui8iEwjJm-yZ0ZeUAxXASBIBHXNFFXM="
       }
     },
-    "trackingParams": "CAAQhGciEwi7lrHeiJeUAxU2hsIBHRNvMFnKAQSdVAJU"
+    "trackingParams": "CAAQhGciEwjJm-yZ0ZeUAxXASBIBHXNFFXPKAQTnCNzx"
   }
 }
