@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-05-06T14:00:43.927213+00:00",
+  "captured_at_utc": "2026-05-06T19:42:01.402560+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgsxZTlsUXQySFM3ZyiCk-3PBjIKCgJVUxIEGgAgXg%3D%3D",
-      "responseId": "IhMI9tSis-mklAMV_uA_BB3N2RtJ"
+      "visitorData": "Cgs5RWxYUnNxVm42TSiAs-7PBjIKCgJVUxIEGgAgXg%3D%3D",
+      "responseId": "IhMIyofY17WllAMVO9SUCR1XLDzc"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,22 +27,16 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-04-30"
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-05-05"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-04-30"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-05-04"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
@@ -60,7 +54,13 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-05-04"
+                      "latestEndDate": "2026-05-05"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-04-30"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1445,16 +1445,12 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/g/11f50v1ygm",
-                            "name": "Fredo  "
-                          },
-                          {
-                            "kgMid": "/m/0wv8xmc",
-                            "name": "Steel Banglez"
-                          },
-                          {
                             "kgMid": "/g/11f77_c6c3",
                             "name": "Sidhu Moose Wala"
+                          },
+                          {
+                            "kgMid": "/g/11fp9cjg1l",
+                            "name": "The Kidd"
                           }
                         ],
                         "isVisible": true,
@@ -1466,10 +1462,10 @@
                         "songwriters": [
                           "Sidhu Moose Wala"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ir8BCAIScAoKRVlFUyBPTiBNRRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9sSlo4d1dDbndvdy9tYXhyZXNkZWZhdWx0LmpwZxoCMjEiB0ZyZWRvICAiDVN0ZWVsIEJhbmdsZXoiEFNpZGh1IE1vb3NlIFdhbGEaMwoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoOQXByaWwgMzAsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrEBCAISYgoKRVlFUyBPTiBNRRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9sSlo4d1dDbndvdy9tYXhyZXNkZWZhdWx0LmpwZxoCMjEiEFNpZGh1IE1vb3NlIFdhbGEiCFRoZSBLaWRkGjMKF1dlZWtseSBUb3AgTXVzaWMgVmlkZW9zEgZHbG9iYWwaDkFwcmlsIDMwLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
                         "externalChannelId": "UC9ChdqQRCaZmTCwSJ49tcbw",
                         "channelName": "Sidhu Moose Wala",
-                        "serializedShareEntity": "CgtsSlo4d1dDbndvd3KEAwgHEhpFWUVTIE9OIE1FIGlzICMyMSBnbG9iYWxseRo-RVlFUyBPTiBNRSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMzAsIDIwMjYyhgIKgwJJcjhCQ0FJU2NBb0tSVmxGVXlCUFRpQk5SUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOXNTbG80ZDFkRGJuZHZkeTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTWpFaUIwWnlaV1J2SUNBaURWTjBaV1ZzSUVKaGJtZHNaWG9pRUZOcFpHaDFJRTF2YjNObElGZGhiR0VhTXdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9PUVhCeWFXd2dNekFzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFUhtzaGFyZWNhcmRfMTc3NzUzMjQwMF8yMS5qcGeCAqcDErcCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyOEJDQUlTY0FvS1JWbEZVeUJQVGlCTlJSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5c1NsbzRkMWREYm5kdmR5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NNakVpQjBaeVpXUnZJQ0FpRFZOMFpXVnNJRUpoYm1kc1pYb2lFRk5wWkdoMUlFMXZiM05sSUZkaGJHRWFNd29YVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTVNCa2RzYjJKaGJCb09RWEJ5YVd3Z016QXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTVNQUUaGkVZRVMgT04gTUUgaXMgIzIxIGdsb2JhbGx5Ij5FWUVTIE9OIE1FIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAzMCwgMjAyNioPCAkiCwoAEAMYAiDOzNQJ"
+                        "serializedShareEntity": "CgtsSlo4d1dDbndvd3LxAggHEhpFWUVTIE9OIE1FIGlzICMyMSBnbG9iYWxseRo-RVlFUyBPTiBNRSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMzAsIDIwMjYy8wEK8AFJckVCQ0FJU1lnb0tSVmxGVXlCUFRpQk5SUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOXNTbG80ZDFkRGJuZHZkeTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTWpFaUVGTnBaR2gxSUUxdmIzTmxJRmRoYkdFaUNGUm9aU0JMYVdSa0dqTUtGMWRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5ekVnWkhiRzlpWVd3YURrRndjbWxzSURNd0xDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9UQUJSG3NoYXJlY2FyZF8xNzc3NTMyNDAwXzIxLmpwZ4IClAMSpAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJFQkNBSVNZZ29LUlZsRlV5QlBUaUJOUlJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlzU2xvNGQxZERibmR2ZHk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ01qRWlFRk5wWkdoMUlFMXZiM05sSUZkaGJHRWlDRlJvWlNCTGFXUmtHak1LRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEa0Z3Y21sc0lETXdMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCGhpFWUVTIE9OIE1FIGlzICMyMSBnbG9iYWxseSI-RVlFUyBPTiBNRSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXByaWwgMzAsIDIwMjYqDwgJIgsKABADGAIgzszUCQ%3D%3D"
                       },
                       {
                         "id": "h_D3VFfhvs4",
@@ -6833,9 +6829,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj21KKz6aSUAxX-4D8EHc3ZG0k="
+        "trackingParams": "CAEQui8iEwjKh9jXtaWUAxU71JQJHVcsPNw="
       }
     },
-    "trackingParams": "CAAQhGciEwj21KKz6aSUAxX-4D8EHc3ZG0nKAQRuuC46"
+    "trackingParams": "CAAQhGciEwjKh9jXtaWUAxU71JQJHVcsPNzKAQSC4R-m"
   }
 }
