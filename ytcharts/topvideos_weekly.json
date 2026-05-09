@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-05-09T13:09:01.092290+00:00",
+  "captured_at_utc": "2026-05-09T18:55:41.382955+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtIV1BIalc1SE1qQSjj4_zPBjIKCgJVUxIEGgAgFw%3D%3D",
-      "responseId": "IhMIrsv0t6OslAMVJsA_BB3Naxoy"
+      "visitorData": "CgtyU1NPUGpqWmVtMCijhv7PBjIKCgJVUxIEGgAgJA%3D%3D",
+      "responseId": "IhMI74Si9vCslAMVnR6tBh3nzA9B"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,28 +27,16 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-04-30"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-04-30"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-05-07"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-04-30"
+                      "latestEndDate": "2026-05-08"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -60,7 +48,19 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-05-07"
+                      "latestEndDate": "2026-05-08"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-30"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-04-30"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -3314,16 +3314,70 @@
                         "serializedShareEntity": "CgtPSTdRRlhONTBra3KFAwgHEhxNYWdhbiB1bmFnYW4gaXMgIzQ4IGdsb2JhbGx5GkBNYWdhbiB1bmFnYW4gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDMwLCAyMDI2MoMCCoACSXIwQkNBSVNiZ29NVFdGbllXNGdkVzVoWjJGdUVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDA5Sk4xRkdXRTQxTUd0ckwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTBPQ0lRUVdScGJHVjBJRXBoZVdkaGMyaGhjaUlTUVd4cGMyaGxjaUJDWVhsdWFYbGhlbTkyR2pNS0YxZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6RWdaSGJHOWlZV3dhRGtGd2NtbHNJRE13TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQlIbc2hhcmVjYXJkXzE3Nzc1MzI0MDBfNDguanBnggKoAxK0Amh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcjBCQ0FJU2Jnb01UV0ZuWVc0Z2RXNWhaMkZ1RWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMDlKTjFGR1dFNDFNR3RyTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJME9DSVFRV1JwYkdWMElFcGhlV2RoYzJoaGNpSVNRV3hwYzJobGNpQkNZWGx1YVhsaGVtOTJHak1LRjFkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpFZ1pIYkc5aVlXd2FEa0Z3Y21sc0lETXdMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCGhxNYWdhbiB1bmFnYW4gaXMgIzQ4IGdsb2JhbGx5IkBNYWdhbiB1bmFnYW4gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEFwcmlsIDMwLCAyMDI2Kg8ICSILCgAQAxgCIM7M1Ak%3D"
                       },
                       {
+                        "id": "-gZylSjWtPo",
+                        "title": "Nach Nagin Jaisan",
                         "viewCount": "5181586",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://i.ytimg.com/vi/-gZylSjWtPo/default.jpg",
+                              "width": 120,
+                              "height": 90
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/-gZylSjWtPo/mqdefault.jpg",
+                              "width": 320,
+                              "height": 180
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/-gZylSjWtPo/hqdefault.jpg",
+                              "width": 480,
+                              "height": 360
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/-gZylSjWtPo/sddefault.jpg",
+                              "width": 640,
+                              "height": 480
+                            },
+                            {
+                              "url": "https://i.ytimg.com/vi/-gZylSjWtPo/maxresdefault.jpg",
+                              "width": 1920,
+                              "height": 1080
+                            }
+                          ]
+                        },
+                        "videoDuration": 165,
                         "chartEntryMetadata": {
                           "currentPosition": 49,
                           "previousPosition": 58,
                           "percentViewsChange": 0.034822296,
                           "periodsOnChart": 11
                         },
-                        "isAvailable": false,
+                        "isAvailable": true,
+                        "artists": [
+                          {
+                            "kgMid": "/g/11jn3kzxbb",
+                            "name": "Raushan Rohi"
+                          },
+                          {
+                            "kgMid": "/g/11rsg60c9p",
+                            "name": "Khushi Kakkar"
+                          }
+                        ],
                         "isVisible": true,
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IlcIAhIICgASABoCNDkaMwoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoOQXByaWwgMzAsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE"
+                        "releaseDate": {
+                          "year": 2026,
+                          "month": 2,
+                          "day": 7
+                        },
+                        "songwriters": [
+                          "Devender Kumar",
+                          "Ayush Raj Singh"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrkBCAISagoRTmFjaCBOYWdpbiBKYWlzYW4SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvLWdaeWxTald0UG8vbWF4cmVzZGVmYXVsdC5qcGcaAjQ5IgxSYXVzaGFuIFJvaGkiDUtodXNoaSBLYWtrYXIaMwoXV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MSBkdsb2JhbBoOQXByaWwgMzAsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
+                        "externalChannelId": "UCh6r40fbLs62rieVnODZkSw",
+                        "channelName": "Raushan Rohi Entertainment",
+                        "serializedShareEntity": "CgstZ1p5bFNqV3RQb3KKAwgHEiFOYWNoIE5hZ2luIEphaXNhbiBpcyAjNDkgZ2xvYmFsbHkaRU5hY2ggTmFnaW4gSmFpc2FuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAzMCwgMjAyNjL-AQr7AUlya0JDQUlTYWdvUlRtRmphQ0JPWVdkcGJpQktZV2x6WVc0U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2TFdkYWVXeFRhbGQwVUc4dmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqUTVJZ3hTWVhWemFHRnVJRkp2YUdraURVdG9kWE5vYVNCTFlXdHJZWElhTXdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9PUVhCeWFXd2dNekFzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFUhtzaGFyZWNhcmRfMTc3NzUzMjQwMF80OS5qcGeCAq0DEq8CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlya0JDQUlTYWdvUlRtRmphQ0JPWVdkcGJpQktZV2x6WVc0U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2TFdkYWVXeFRhbGQwVUc4dmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqUTVJZ3hTWVhWemFHRnVJRkp2YUdraURVdG9kWE5vYVNCTFlXdHJZWElhTXdvWFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01TQmtkc2IySmhiQm9PUVhCeWFXd2dNekFzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFGiFOYWNoIE5hZ2luIEphaXNhbiBpcyAjNDkgZ2xvYmFsbHkiRU5hY2ggTmFnaW4gSmFpc2FuIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBcHJpbCAzMCwgMjAyNioPCAkiCwoAEAMYAiDOzNQJ"
                       },
                       {
                         "id": "OPf0YbXqDm0",
@@ -6788,9 +6842,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiuy_S3o6yUAxUmwD8EHc1rGjI="
+        "trackingParams": "CAEQui8iEwjvhKL28KyUAxWdHq0GHefMD0E="
       }
     },
-    "trackingParams": "CAAQhGciEwiuy_S3o6yUAxUmwD8EHc1rGjLKAQQUjH8O"
+    "trackingParams": "CAAQhGciEwjvhKL28KyUAxWdHq0GHefMD0HKAQRn84IO"
   }
 }
