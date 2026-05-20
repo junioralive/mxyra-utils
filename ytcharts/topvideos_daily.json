@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-05-19T19:48:24.901228+00:00",
+  "captured_at_utc": "2026-05-20T02:52:10.494870+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtTU2Rxbkw1RzVfYyj__LLQBjIKCgJVUxIEGgAgMQ%3D%3D",
-      "responseId": "IhMI75SGro_GlAMVLW4SAR3BLwjj"
+      "visitorData": "CgtGbmR5dzlyYUZUOCjRw7TQBjIKCgJVUxIEGgAgRQ%3D%3D",
+      "responseId": "IhMIj_r0ie7GlAMVAdM_BB3hcQ3D"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,24 +27,6 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-05-18"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-05-14"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-05-14"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -54,6 +36,24 @@
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-05-14"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-05-14"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-05-18"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-05-14"
                     },
                     {
@@ -697,7 +697,7 @@
                       },
                       {
                         "id": "YA8PBoIRkIg",
-                        "title": "나는 잠시 머문 바람",
+                        "title": "Vaqtinchalik Shamol",
                         "viewCount": "2024737",
                         "thumbnail": {
                           "thumbnails": [
@@ -754,10 +754,10 @@
                         "songProducers": [
                           "DLEJ"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Iq8BCAISXQob64KY64qUIOyeoOyLnCDrqLjrrLgg67CU656MEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1lBOFBCb0lSa0lnL21heHJlc2RlZmF1bHQuanBnGgIxMCIERExFSho2ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDE1heSAxOCwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqcBCAISVQoTVmFxdGluY2hhbGlrIFNoYW1vbBI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9ZQThQQm9JUmtJZy9tYXhyZXNkZWZhdWx0LmpwZxoCMTAiBERMRUoaNgocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxNYXkgMTgsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UC1V8fYFCj36MxPNX3z6k6sQ",
                         "channelName": "DLEJ",
-                        "serializedShareEntity": "CgtZQThQQm9JUmtJZ3KOAwgHEivrgpjripQg7J6g7IucIOuouOusuCDrsJTrnowgaXMgIzEwIGdsb2JhbGx5GkzrgpjripQg7J6g7IucIOuouOusuCDrsJTrnowgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gTWF5IDE4LCAyMDI2MvEBCu4BSXE4QkNBSVNYUW9iNjRLWTY0cVVJT3llb095TG5DRHJxTGpyckxnZzY3Q1U2NTZNRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMWxCT0ZCQ2IwbFNhMGxuTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeE1DSUVSRXhGU2hvMkNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FERTFoZVNBeE9Dd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBUVIbc2hhcmVjYXJkXzE3NzkwODc2MDBfMTAuanBnggKxAxKiAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcThCQ0FJU1hRb2I2NEtZNjRxVUlPeWVvT3lMbkNEcnFManJyTGdnNjdDVTY1Nk1FalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwxbEJPRkJDYjBsU2EwbG5MMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l4TUNJRVJFeEZTaG8yQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURFMWhlU0F4T0N3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRGivrgpjripQg7J6g7IucIOuouOusuCDrsJTrnowgaXMgIzEwIGdsb2JhbGx5IkzrgpjripQg7J6g7IucIOuouOusuCDrsJTrnowgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gTWF5IDE4LCAyMDI2Kg8ICSILCgAQAxgBIKbN1Ak%3D"
+                        "serializedShareEntity": "CgtZQThQQm9JUmtJZ3LzAggHEiNWYXF0aW5jaGFsaWsgU2hhbW9sIGlzICMxMCBnbG9iYWxseRpEVmFxdGluY2hhbGlrIFNoYW1vbCBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBNYXkgMTgsIDIwMjYy5gEK4wFJcWNCQ0FJU1ZRb1RWbUZ4ZEdsdVkyaGhiR2xySUZOb1lXMXZiQkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOVpRVGhRUW05SlVtdEpaeTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTVRBaUJFUk1SVW9hTmdvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneE5ZWGtnTVRnc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRVIbc2hhcmVjYXJkXzE3NzkwODc2MDBfMTAuanBnggKWAxKXAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcWNCQ0FJU1ZRb1RWbUZ4ZEdsdVkyaGhiR2xySUZOb1lXMXZiQkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOVpRVGhRUW05SlVtdEpaeTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTVRBaUJFUk1SVW9hTmdvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneE5ZWGtnTVRnc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRRojVmFxdGluY2hhbGlrIFNoYW1vbCBpcyAjMTAgZ2xvYmFsbHkiRFZhcXRpbmNoYWxpayBTaGFtb2wgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gTWF5IDE4LCAyMDI2Kg8ICSILCgAQAxgBIKbN1Ak%3D"
                       },
                       {
                         "id": "oRdxUFDoQe0",
@@ -2858,6 +2858,15 @@
                           "month": 5,
                           "day": 17
                         },
+                        "songwriters": [
+                          "Vikram Montrose",
+                          "Sajid-Wajid",
+                          "Meggha Bali",
+                          "Shabbir Ahmed"
+                        ],
+                        "songProducers": [
+                          "Vikram Montrose"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IoACCAISrQEKZFdlbGNvbWUgdG8gdGhlIEp1bmdsZSAoVGl0bGUgVHJhY2spIHwgQWtzaGF5IEt1bWFyIHwgRGlzaGEgUGF0YW5pIHwgU2hhYW4gfCBWaWtyYW0gTW9udHJvc2V8IFByaXlhIFASNGh0dHBzOi8vaS55dGltZy5jb20vdmkvbUsyb1pKVTFDeEkvbWF4cmVzZGVmYXVsdC5qcGcaAjQyIgtUaW1lcyBNdXNpYxo2ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDE1heSAxOCwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UCo07fumrTn1w4AxcU4j_uDw",
                         "channelName": "Times Music",
@@ -6630,9 +6639,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjvlIauj8aUAxUtbhIBHcEvCOM="
+        "trackingParams": "CAEQui8iEwiP-vSJ7saUAxUB0z8EHeFxDcM="
       }
     },
-    "trackingParams": "CAAQhGciEwjvlIauj8aUAxUtbhIBHcEvCOPKAQRgVpfE"
+    "trackingParams": "CAAQhGciEwiP-vSJ7saUAxUB0z8EHeFxDcPKAQRa3e9g"
   }
 }
