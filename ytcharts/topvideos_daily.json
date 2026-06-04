@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-06-04T14:51:42.569011+00:00",
+  "captured_at_utc": "2026-06-04T20:00:31.172413+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtITC15YXZRUWRiOCj1oYbRBjIKCgJVUxIEGgAgRQ%3D%3D",
-      "responseId": "IhMIgI_28OrtlAMVeYLCAR0f1gO6"
+      "visitorData": "Cgt2ajhzN1NhaUpGRSjVsofRBjIKCgJVUxIEGgAgSA%3D%3D",
+      "responseId": "IhMI0ZeG9K_ulAMVfEcSAR1bbA20"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,7 +27,7 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-06-02"
@@ -39,16 +39,10 @@
                       "latestEndDate": "2026-05-28"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-05-28"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-02"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-05-28"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -57,9 +51,15 @@
                       "latestEndDate": "2026-05-28"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-06-02"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-05-28"
                     }
                   ],
@@ -112,7 +112,8 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "IShowSpeed"
+                            "kgMid": "/g/11q30y4rz0",
+                            "name": "iShowSpeed"
                           }
                         ],
                         "isVisible": true,
@@ -136,10 +137,10 @@
                           "Shonci",
                           "RIOT"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItMBCAISgAEKOUlTaG93U3BlZWQgLSBXb3JsZCBDdXAgKENoYW1waW9ucykgW09mZmljaWFsIE11c2ljIFZpZGVvXRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS92clkxVEhDX05RRS9tYXhyZXNkZWZhdWx0LmpwZxoBMSIKSVNob3dTcGVlZBo2ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDEp1bmUgMiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItMBCAISgAEKOUlTaG93U3BlZWQgLSBXb3JsZCBDdXAgKENoYW1waW9ucykgW09mZmljaWFsIE11c2ljIFZpZGVvXRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS92clkxVEhDX05RRS9tYXhyZXNkZWZhdWx0LmpwZxoBMSIKaVNob3dTcGVlZBo2ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDEp1bmUgMiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UCWsDFcIhY2DBi3GB5uykGXA",
                         "channelName": "IShowSpeed",
-                        "serializedShareEntity": "Cgt2clkxVEhDX05RRXL4AwgHEkhJU2hvd1NwZWVkIC0gV29ybGQgQ3VwIChDaGFtcGlvbnMpIFtPZmZpY2lhbCBNdXNpYyBWaWRlb10gaXMgIzEgZ2xvYmFsbHkaaklTaG93U3BlZWQgLSBXb3JsZCBDdXAgKENoYW1waW9ucykgW09mZmljaWFsIE11c2ljIFZpZGVvXSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDIsIDIwMjYyoQIKngJJdE1CQ0FJU2dBRUtPVWxUYUc5M1UzQmxaV1FnTFNCWGIzSnNaQ0JEZFhBZ0tFTm9ZVzF3YVc5dWN5a2dXMDltWm1samFXRnNJRTExYzJsaklGWnBaR1Z2WFJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzkyY2xreFZFaERYMDVSUlM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQk1TSUtTVk5vYjNkVGNHVmxaQm8yQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURFcDFibVVnTWl3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRUhpzaGFyZWNhcmRfMTc4MDM4MzYwMF8xLmpwZ4ICnAQS0gJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXRNQkNBSVNnQUVLT1VsVGFHOTNVM0JsWldRZ0xTQlhiM0pzWkNCRGRYQWdLRU5vWVcxd2FXOXVjeWtnVzA5bVptbGphV0ZzSUUxMWMybGpJRlpwWkdWdlhSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5MmNsa3hWRWhEWDA1UlJTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JNU0lLU1ZOb2IzZFRjR1ZsWkJvMkNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FERXAxYm1VZ01pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURpISVNob3dTcGVlZCAtIFdvcmxkIEN1cCAoQ2hhbXBpb25zKSBbT2ZmaWNpYWwgTXVzaWMgVmlkZW9dIGlzICMxIGdsb2JhbGx5ImpJU2hvd1NwZWVkIC0gV29ybGQgQ3VwIChDaGFtcGlvbnMpIFtPZmZpY2lhbCBNdXNpYyBWaWRlb10gb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVuZSAyLCAyMDI2Kg8ICSILCgAQAxgBIPrN1Ak%3D"
+                        "serializedShareEntity": "Cgt2clkxVEhDX05RRXL4AwgHEkhJU2hvd1NwZWVkIC0gV29ybGQgQ3VwIChDaGFtcGlvbnMpIFtPZmZpY2lhbCBNdXNpYyBWaWRlb10gaXMgIzEgZ2xvYmFsbHkaaklTaG93U3BlZWQgLSBXb3JsZCBDdXAgKENoYW1waW9ucykgW09mZmljaWFsIE11c2ljIFZpZGVvXSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDIsIDIwMjYyoQIKngJJdE1CQ0FJU2dBRUtPVWxUYUc5M1UzQmxaV1FnTFNCWGIzSnNaQ0JEZFhBZ0tFTm9ZVzF3YVc5dWN5a2dXMDltWm1samFXRnNJRTExYzJsaklGWnBaR1Z2WFJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzkyY2xreFZFaERYMDVSUlM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQk1TSUthVk5vYjNkVGNHVmxaQm8yQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURFcDFibVVnTWl3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRUhpzaGFyZWNhcmRfMTc4MDM4MzYwMF8xLmpwZ4ICnAQS0gJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXRNQkNBSVNnQUVLT1VsVGFHOTNVM0JsWldRZ0xTQlhiM0pzWkNCRGRYQWdLRU5vWVcxd2FXOXVjeWtnVzA5bVptbGphV0ZzSUUxMWMybGpJRlpwWkdWdlhSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5MmNsa3hWRWhEWDA1UlJTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JNU0lLYVZOb2IzZFRjR1ZsWkJvMkNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FERXAxYm1VZ01pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURpISVNob3dTcGVlZCAtIFdvcmxkIEN1cCAoQ2hhbXBpb25zKSBbT2ZmaWNpYWwgTXVzaWMgVmlkZW9dIGlzICMxIGdsb2JhbGx5ImpJU2hvd1NwZWVkIC0gV29ybGQgQ3VwIChDaGFtcGlvbnMpIFtPZmZpY2lhbCBNdXNpYyBWaWRlb10gb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVuZSAyLCAyMDI2Kg8ICSILCgAQAxgBIPrN1Ak%3D"
                       },
                       {
                         "id": "fcnDmrtj6Sk",
@@ -3678,7 +3679,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/g/11lgx3j1jq",
+                            "kgMid": "",
                             "name": "Munisa Rizaeva"
                           }
                         ],
@@ -3688,6 +3689,10 @@
                           "month": 5,
                           "day": 22
                         },
+                        "songwriters": [
+                          "Shopia Olyvia Abdin",
+                          "Shopia Olyvia Abdin"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQBCAISUgoGQmV2YWZvEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3NaWlcwbzlpUDhNL21heHJlc2RlZmF1bHQuanBnGgI1MyIOTXVuaXNhIFJpemFldmEaNgocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxKdW5lIDIsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCpfo8B-TUnFQ-T3Z7Pmm2_Q",
                         "channelName": "Munisa Rizayeva",
@@ -6785,7 +6790,7 @@
                     ],
                     "heroMetadata": {
                       "title": "IShowSpeed - World Cup (Champions) [Official Music Video]",
-                      "subTitle": "IShowSpeed",
+                      "subTitle": "iShowSpeed",
                       "heroBannerImageUrl": "https://i.ytimg.com/vi/vrY1THC_NQE/maxresdefault.jpg",
                       "sampledColors": {
                         "textPrimaryColorHex": "#FBEEDF",
@@ -6800,9 +6805,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiAj_bw6u2UAxV5gsIBHR_WA7o="
+        "trackingParams": "CAEQui8iEwjRl4b0r-6UAxV8RxIBHVtsDbQ="
       }
     },
-    "trackingParams": "CAAQhGciEwiAj_bw6u2UAxV5gsIBHR_WA7rKAQSp7FnA"
+    "trackingParams": "CAAQhGciEwjRl4b0r-6UAxV8RxIBHVtsDbTKAQSuC8fE"
   }
 }

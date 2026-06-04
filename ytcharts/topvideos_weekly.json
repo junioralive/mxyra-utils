@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-06-04T14:51:54.195679+00:00",
+  "captured_at_utc": "2026-06-04T20:00:42.773373+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtXdU1MaHNFLTlJTSiAoobRBjIKCgJVUxIEGgAgOQ%3D%3D",
-      "responseId": "IhMI0-q79urtlAMVqkNeAx1mXDPB"
+      "visitorData": "Cgt2QVFzUjZ3bjdxQSjhsofRBjIKCgJVUxIEGgAgPw%3D%3D",
+      "responseId": "IhMImd3J-a_ulAMVOnwSAR37_TDx"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,7 +27,7 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-06-02"
@@ -39,16 +39,10 @@
                       "latestEndDate": "2026-05-28"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-05-28"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-02"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-05-28"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -57,9 +51,15 @@
                       "latestEndDate": "2026-05-28"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-06-02"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-05-28"
                     }
                   ],
@@ -4735,7 +4735,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/g/11lgx3j1jq",
+                            "kgMid": "",
                             "name": "Munisa Rizaeva"
                           }
                         ],
@@ -4745,6 +4745,10 @@
                           "month": 5,
                           "day": 22
                         },
+                        "songwriters": [
+                          "Shopia Olyvia Abdin",
+                          "Shopia Olyvia Abdin"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqUBCAISUgoGQmV2YWZvEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3NaWlcwbzlpUDhNL21heHJlc2RlZmF1bHQuanBnGgI2OSIOTXVuaXNhIFJpemFldmEaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMTWF5IDI4LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
                         "externalChannelId": "UCpfo8B-TUnFQ-T3Z7Pmm2_Q",
                         "channelName": "Munisa Rizayeva",
@@ -6785,9 +6789,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjT6rv26u2UAxWqQ14DHWZcM8E="
+        "trackingParams": "CAEQui8iEwiZ3cn5r-6UAxU6fBIBHfv9MPE="
       }
     },
-    "trackingParams": "CAAQhGciEwjT6rv26u2UAxWqQ14DHWZcM8HKAQS7ignN"
+    "trackingParams": "CAAQhGciEwiZ3cn5r-6UAxU6fBIBHfv9MPHKAQQ5t7yl"
   }
 }
