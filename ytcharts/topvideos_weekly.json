@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-06-04T20:00:42.773373+00:00",
+  "captured_at_utc": "2026-06-05T03:25:25.576072+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgt2QVFzUjZ3bjdxQSjhsofRBjIKCgJVUxIEGgAgPw%3D%3D",
-      "responseId": "IhMImd3J-a_ulAMVOnwSAR37_TDx"
+      "visitorData": "CgtZNFh6TTdxVjF1VSicg4nRBjIKCgJVUxIEGgAgTQ%3D%3D",
+      "responseId": "IhMIxvT3rJPvlAMV2AetBh1KEQi4"
     },
     "contents": {
       "sectionListRenderer": {
@@ -28,18 +28,6 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-02"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-05-28"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-05-28"
@@ -51,10 +39,22 @@
                       "latestEndDate": "2026-05-28"
                     },
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-06-03"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-05-28"
+                    },
+                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-02"
+                      "latestEndDate": "2026-06-03"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -3447,6 +3447,14 @@
                           "month": 5,
                           "day": 21
                         },
+                        "songwriters": [
+                          "Léo Brandão",
+                          "Lucas Wallas",
+                          "Ana Paula Valadão"
+                        ],
+                        "songProducers": [
+                          "Roger Lima"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsEBCAISbgoiQUgsIEpFU1VTIC8gQ09SQcOHw4NPIElHVUFMIEFPIFRFVRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9sZEs0M3M5VXlRSS9tYXhyZXNkZWZhdWx0LmpwZxoCNTAiDkp1bGxpYW55IFNvdXphGjcKHVdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDE1heSAyOCwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkwAQ",
                         "externalChannelId": "UC52rxcnme1pYpUfRrC4WWfQ",
                         "channelName": "Julliany Souza",
@@ -6789,9 +6797,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiZ3cn5r-6UAxU6fBIBHfv9MPE="
+        "trackingParams": "CAEQui8iEwjG9Pesk--UAxXYB60GHUoRCLg="
       }
     },
-    "trackingParams": "CAAQhGciEwiZ3cn5r-6UAxU6fBIBHfv9MPHKAQQ5t7yl"
+    "trackingParams": "CAAQhGciEwjG9Pesk--UAxXYB60GHUoRCLjKAQTmYmlO"
   }
 }
