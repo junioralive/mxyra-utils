@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-06-12T14:51:18.996663+00:00",
+  "captured_at_utc": "2026-06-12T20:05:39.651582+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs4eGNPVGRBLUpmYyjdubDRBjIKCgJVUxIEGgAgYw%3D%3D",
-      "responseId": "IhMIgtDG2_mBlQMVZtbCBB2xiwwU"
+      "visitorData": "CgtoQ0g2NW51bnVIVSiKzbHRBjIKCgJVUxIEGgAgCg%3D%3D",
+      "responseId": "IhMI_eqB_b-ClQMVfGQSAR0WYyHH"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,12 +27,6 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-06-04"
-                    },
-                    {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -42,7 +36,13 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-10"
+                      "latestEndDate": "2026-06-11"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-06-04"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -51,16 +51,16 @@
                       "latestEndDate": "2026-06-04"
                     },
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-06-11"
+                    },
+                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-06-04"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-10"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -529,33 +529,13 @@
                         "thumbnail": {
                           "thumbnails": [
                             {
-                              "url": "https://i.ytimg.com/vi/5JThWsDVlf0/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/5JThWsDVlf0/mqdefault.jpg",
-                              "width": 320,
+                              "url": "https://yt3.googleusercontent.com/T7yNeIb0empqsmQW2C7PNwTB7LRLZwjGyCQwX2LEKK9CauSDZGs4vDBNG1KmKl_CDXrm_Khp1NGJN8mWxg=w180-h180-l90-rj",
+                              "width": 180,
                               "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/5JThWsDVlf0/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/5JThWsDVlf0/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/5JThWsDVlf0/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
                             }
                           ]
                         },
-                        "encryptedVideoId": "5JThWsDVlf0",
+                        "encryptedVideoId": "yk7yVGbcpHE",
                         "chartEntryMetadata": {
                           "currentPosition": 11,
                           "previousPosition": 13,
@@ -569,13 +549,17 @@
                           }
                         ],
                         "isVisible": true,
+                        "atvExternalVideoId": "XVLNl-1JAvk",
                         "releaseDate": {
                           "year": 2026,
                           "month": 3,
                           "day": 19
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IukBCAISkgEKBkJyYXNpbBJ-aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL25PSjlpMlU5Z0ZBVnhNLXlWdmowQzhMcU5FYTQtaUFrQVU1aE9qNzhFVnhhQ2stQnlZcnhGN2NpRzEwNV9xWHo5VVdNazhxVXhLOTJOZ1hZPXc5MDAtaDkwMC1wGgIxMSIETTRJQRo6CiBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBDaGFydBIGR2xvYmFsGgxKdW5lIDQsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDMAE",
-                        "serializedShareEntity": "Cgs1SlRoV3NEVmxmMHK1AwgHEhZCcmFzaWwgaXMgIzExIGdsb2JhbGx5GjtCcmFzaWwgb24gR2xvYmFsIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIEp1bmUgNCwgMjAyNjK-Agq7Akl1a0JDQUlTa2dFS0JrSnlZWE5wYkJKLWFIUjBjSE02THk5NWRETXVaMjl2WjJ4bGRYTmxjbU52Ym5SbGJuUXVZMjl0TDI1UFNqbHBNbFU1WjBaQlZuaE5MWGxXZG1vd1F6aE1jVTVGWVRRdGFVRnJRVlUxYUU5cU56aEZWbmhoUTJzdFFubFpjbmhHTjJOcFJ6RXdOVjl4V0hvNVZWZE5hemh4VlhoTE9USk9aMWhaUFhjNU1EQXRhRGt3TUMxd0dnSXhNU0lFVFRSSlFSbzZDaUJYWldWcmJIa2dWRzl3SUZOdmJtZHpJRzl1SUZOb2IzSjBjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneEtkVzVsSURRc0lESXdNalk0QmlJU0NnY2pNREF3TURBd0VnY2pSa1l6UlVWRE1BRVIbc2hhcmVjYXJkXzE3ODA1NTY0MDBfMTEuanBnggLYAxLvAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdWtCQ0FJU2tnRUtCa0p5WVhOcGJCSi1hSFIwY0hNNkx5OTVkRE11WjI5dloyeGxkWE5sY21OdmJuUmxiblF1WTI5dEwyNVBTamxwTWxVNVowWkJWbmhOTFhsV2Rtb3dRemhNY1U1RllUUXRhVUZyUVZVMWFFOXFOemhGVm5oaFEyc3RRbmxaY25oR04yTnBSekV3TlY5eFdIbzVWVmROYXpoeFZYaExPVEpPWjFoWlBYYzVNREF0YURrd01DMXdHZ0l4TVNJRVRUUkpRUm82Q2lCWFpXVnJiSGtnVkc5d0lGTnZibWR6SUc5dUlGTm9iM0owY3lCRGFHRnlkQklHUjJ4dlltRnNHZ3hLZFc1bElEUXNJREl3TWpZNEJpSVNDZ2NqTURBd01EQXdFZ2NqUmtZelJVVkRNQUUaFkJyYXNpbCBpcyAjMTEgZ2xvYmFsbHkiO0JyYXNpbCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gSnVuZSA0LCAyMDI2Kg8ICiILCgAQBhgCIPzN1Ak%3D"
+                        "songProducers": [
+                          "M4IA"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuwBCAISlQEKBkJyYXNpbBKAAWh0dHBzOi8veXQzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9UN3lOZUliMGVtcHFzbVFXMkM3UE53VEI3TFJMWndqR3lDUXdYMkxFS0s5Q2F1U0RaR3M0dkRCTkcxS21LbF9DRFhybV9LaHAxTkdKTjhtV3hnPXc5MDAtaDkwMC1wGgIxMSIETTRJQRo6CiBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBDaGFydBIGR2xvYmFsGgxKdW5lIDQsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDMAE",
+                        "serializedShareEntity": "Cgt5azd5VkdiY3BIRXK5AwgHEhZCcmFzaWwgaXMgIzExIGdsb2JhbGx5GjtCcmFzaWwgb24gR2xvYmFsIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIEp1bmUgNCwgMjAyNjLCAgq_Akl1d0JDQUlTbFFFS0JrSnlZWE5wYkJLQUFXaDBkSEJ6T2k4dmVYUXpMbWR2YjJkc1pYVnpaWEpqYjI1MFpXNTBMbU52YlM5VU4zbE9aVWxpTUdWdGNIRnpiVkZYTWtNM1VFNTNWRUkzVEZKTVduZHFSM2xEVVhkWU1reEZTMHM1UTJGMVUwUmFSM00wZGtSQ1RrY3hTMjFMYkY5RFJGaHliVjlMYUhBeFRrZEtUamh0VjNoblBYYzVNREF0YURrd01DMXdHZ0l4TVNJRVRUUkpRUm82Q2lCWFpXVnJiSGtnVkc5d0lGTnZibWR6SUc5dUlGTm9iM0owY3lCRGFHRnlkQklHUjJ4dlltRnNHZ3hLZFc1bElEUXNJREl3TWpZNEJpSVNDZ2NqTURBd01EQXdFZ2NqUmtZelJVVkRNQUVSG3NoYXJlY2FyZF8xNzgwNTU2NDAwXzExLmpwZ4IC3AMS8wJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXV3QkNBSVNsUUVLQmtKeVlYTnBiQktBQVdoMGRIQnpPaTh2ZVhRekxtZHZiMmRzWlhWelpYSmpiMjUwWlc1MExtTnZiUzlVTjNsT1pVbGlNR1Z0Y0hGemJWRlhNa00zVUU1M1ZFSTNURkpNV25kcVIzbERVWGRZTWt4RlMwczVRMkYxVTBSYVIzTTBka1JDVGtjeFMyMUxiRjlEUkZoeWJWOUxhSEF4VGtkS1RqaHRWM2huUFhjNU1EQXRhRGt3TUMxd0dnSXhNU0lFVFRSSlFSbzZDaUJYWldWcmJIa2dWRzl3SUZOdmJtZHpJRzl1SUZOb2IzSjBjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneEtkVzVsSURRc0lESXdNalk0QmlJU0NnY2pNREF3TURBd0VnY2pSa1l6UlVWRE1BRRoWQnJhc2lsIGlzICMxMSBnbG9iYWxseSI7QnJhc2lsIG9uIEdsb2JhbCBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBvbiBKdW5lIDQsIDIwMjYqDwgKIgsKABAGGAIg_M3UCQ%3D%3D"
                       },
                       {
                         "id": "G:pND3tuh8rps",
@@ -2421,9 +2405,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiC0Mbb-YGVAxVm1sIEHbGLDBQ="
+        "trackingParams": "CAEQui8iEwj96oH9v4KVAxV8ZBIBHRZjIcc="
       }
     },
-    "trackingParams": "CAAQhGciEwiC0Mbb-YGVAxVm1sIEHbGLDBTKAQRYpzdu"
+    "trackingParams": "CAAQhGciEwj96oH9v4KVAxV8ZBIBHRZjIcfKAQQ0T4YE"
   }
 }
