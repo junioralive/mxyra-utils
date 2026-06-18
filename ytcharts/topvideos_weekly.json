@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-06-18T14:59:05.919935+00:00",
+  "captured_at_utc": "2026-06-18T20:21:43.757793+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtuS3NIY1htNTVFTSiwj9DRBjIKCgJVUxIEGgAgLw%3D%3D",
-      "responseId": "IhMIuKDH0oaRlQMVY83CBB3Nbyhu"
+      "visitorData": "Cgt4MWtQY0ZrVHBaSSjOptHRBjIKCgJVUxIEGgAgJg%3D%3D",
+      "responseId": "IhMI3auL4c6RlQMVGdTCBB1hqSwo"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,10 +27,28 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-06-11"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-16"
+                      "latestEndDate": "2026-06-17"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-06-11"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-06-11"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -39,28 +57,10 @@
                       "latestEndDate": "2026-06-11"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-06-11"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-06-11"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-16"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-06-11"
+                      "latestEndDate": "2026-06-17"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -71,7 +71,7 @@
                     "videoViews": [
                       {
                         "id": "fcnDmrtj6Sk",
-                        "title": "Dai dai",
+                        "title": "Dai Dai",
                         "viewCount": "46834004",
                         "thumbnail": {
                           "thumbnails": [
@@ -142,10 +142,10 @@
                           "Shakira",
                           "AC"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqoBCAISVgoHRGFpIGRhaRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9mY25EbXJ0ajZTay9tYXhyZXNkZWZhdWx0LmpwZxoBMSIHU2hha2lyYSIJQnVybmEgQm95GjgKHVdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDUp1bmUgMTEsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqoBCAISVgoHRGFpIERhaRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9mY25EbXJ0ajZTay9tYXhyZXNkZWZhdWx0LmpwZxoBMSIHU2hha2lyYSIJQnVybmEgQm95GjgKHVdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDUp1bmUgMTEsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
                         "externalChannelId": "UCGnjeahCJW1AF34HBmQTJ-Q",
                         "channelName": "shakiraVEVO",
-                        "serializedShareEntity": "CgtmY25EbXJ0ajZTa3LfAggHEhZEYWkgZGFpIGlzICMxIGdsb2JhbGx5GjpEYWkgZGFpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDExLCAyMDI2MuoBCucBSXFvQkNBSVNWZ29IUkdGcElHUmhhUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOW1ZMjVFYlhKMGFqWlRheTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9CTVNJSFUyaGhhMmx5WVNJSlFuVnlibUVnUW05NUdqZ0tIVmRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5eklFTm9ZWEowRWdaSGJHOWlZV3dhRFVwMWJtVWdNVEVzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFUhpzaGFyZWNhcmRfMTc4MTE2MTIwMF8xLmpwZ4ICgwMSmwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFvQkNBSVNWZ29IUkdGcElHUmhhUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOW1ZMjVFYlhKMGFqWlRheTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9CTVNJSFUyaGhhMmx5WVNJSlFuVnlibUVnUW05NUdqZ0tIVmRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5eklFTm9ZWEowRWdaSGJHOWlZV3dhRFVwMWJtVWdNVEVzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFGhZEYWkgZGFpIGlzICMxIGdsb2JhbGx5IjpEYWkgZGFpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDExLCAyMDI2Kg8ICSILCgAQAxgCIIPO1Ak%3D"
+                        "serializedShareEntity": "CgtmY25EbXJ0ajZTa3LfAggHEhZEYWkgRGFpIGlzICMxIGdsb2JhbGx5GjpEYWkgRGFpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDExLCAyMDI2MuoBCucBSXFvQkNBSVNWZ29IUkdGcElFUmhhUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOW1ZMjVFYlhKMGFqWlRheTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9CTVNJSFUyaGhhMmx5WVNJSlFuVnlibUVnUW05NUdqZ0tIVmRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5eklFTm9ZWEowRWdaSGJHOWlZV3dhRFVwMWJtVWdNVEVzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFUhpzaGFyZWNhcmRfMTc4MTE2MTIwMF8xLmpwZ4ICgwMSmwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFvQkNBSVNWZ29IUkdGcElFUmhhUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOW1ZMjVFYlhKMGFqWlRheTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9CTVNJSFUyaGhhMmx5WVNJSlFuVnlibUVnUW05NUdqZ0tIVmRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5eklFTm9ZWEowRWdaSGJHOWlZV3dhRFVwMWJtVWdNVEVzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFGhZEYWkgRGFpIGlzICMxIGdsb2JhbGx5IjpEYWkgRGFpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDExLCAyMDI2Kg8ICSILCgAQAxgCIIPO1Ak%3D"
                       },
                       {
                         "id": "vrY1THC_NQE",
@@ -1986,7 +1986,7 @@
                       },
                       {
                         "id": "3CDOd4GdcUQ",
-                        "title": "Ucha Lamba Kad",
+                        "title": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\")",
                         "viewCount": "7404228",
                         "thumbnail": {
                           "thumbnails": [
@@ -2031,12 +2031,16 @@
                             "name": "Anand Raj Anand"
                           },
                           {
-                            "kgMid": "/m/0w1b97j",
-                            "name": "Kalpana Patowary"
+                            "kgMid": "",
+                            "name": "Vikram Montrose"
                           },
                           {
-                            "kgMid": "/g/11bv2qtk_h",
-                            "name": "Chorus"
+                            "kgMid": "/g/11xvsg803_",
+                            "name": "Meggha Bali"
+                          },
+                          {
+                            "kgMid": "",
+                            "name": "Rubai"
                           }
                         ],
                         "isVisible": true,
@@ -2054,10 +2058,10 @@
                         "songProducers": [
                           "Vikram Montrose"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IskBCAISdQoOVWNoYSBMYW1iYSBLYWQSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvM0NET2Q0R2RjVVEvbWF4cmVzZGVmYXVsdC5qcGcaAjI5Ig9BbmFuZCBSYWogQW5hbmQiEEthbHBhbmEgUGF0b3dhcnkiBkNob3J1cxo4Ch1XZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGg1KdW5lIDExLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvwBCAISpwEKNVVjaGEgTGFtYmEgS2FkIEZvcmV2ZXIgKEZyb20gIldlbGNvbWUgVG8gVGhlIEp1bmdsZSIpEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzNDRE9kNEdkY1VRL21heHJlc2RlZmF1bHQuanBnGgIyOSIPQW5hbmQgUmFqIEFuYW5kIg9WaWtyYW0gTW9udHJvc2UiC01lZ2doYSBCYWxpIgVSdWJhaRo4Ch1XZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGg1KdW5lIDExLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
                         "externalChannelId": "UCo07fumrTn1w4AxcU4j_uDw",
                         "channelName": "Times Music",
-                        "serializedShareEntity": "CgszQ0RPZDRHZGNVUXKYAwgHEh5VY2hhIExhbWJhIEthZCBpcyAjMjkgZ2xvYmFsbHkaQVVjaGEgTGFtYmEgS2FkIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDExLCAyMDI2MpMCCpACSXNrQkNBSVNkUW9PVldOb1lTQk1ZVzFpWVNCTFlXUVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk0wTkVUMlEwUjJSalZWRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBakk1SWc5QmJtRnVaQ0JTWVdvZ1FXNWhibVFpRUV0aGJIQmhibUVnVUdGMGIzZGhjbmtpQmtOb2IzSjFjeG80Q2gxWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dnMUtkVzVsSURFeExDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9UQUJSG3NoYXJlY2FyZF8xNzgxMTYxMjAwXzI5LmpwZ4ICuwMSxAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXNrQkNBSVNkUW9PVldOb1lTQk1ZVzFpWVNCTFlXUVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk0wTkVUMlEwUjJSalZWRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBakk1SWc5QmJtRnVaQ0JTWVdvZ1FXNWhibVFpRUV0aGJIQmhibUVnVUdGMGIzZGhjbmtpQmtOb2IzSjFjeG80Q2gxWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dnMUtkVzVsSURFeExDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9UQUIaHlVjaGEgTGFtYmEgS2FkIGlzICMyOSBnbG9iYWxseSJBVWNoYSBMYW1iYSBLYWQgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bmUgMTEsIDIwMjYqDwgJIgsKABADGAIgg87UCQ%3D%3D"
+                        "serializedShareEntity": "CgszQ0RPZDRHZGNVUXKqBAgHEkVVY2hhIExhbWJhIEthZCBGb3JldmVyIChGcm9tICJXZWxjb21lIFRvIFRoZSBKdW5nbGUiKSBpcyAjMjkgZ2xvYmFsbHkaaFVjaGEgTGFtYmEgS2FkIEZvcmV2ZXIgKEZyb20gIldlbGNvbWUgVG8gVGhlIEp1bmdsZSIpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDExLCAyMDI2MtcCCtQCSXZ3QkNBSVNwd0VLTlZWamFHRWdUR0Z0WW1FZ1MyRmtJRVp2Y21WMlpYSWdLRVp5YjIwZ0lsZGxiR052YldVZ1ZHOGdWR2hsSUVwMWJtZHNaU0lwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMek5EUkU5a05FZGtZMVZSTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeU9TSVBRVzVoYm1RZ1VtRnFJRUZ1WVc1a0lnOVdhV3R5WVcwZ1RXOXVkSEp2YzJVaUMwMWxaMmRvWVNCQ1lXeHBJZ1ZTZFdKaGFSbzRDaDFYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2cxS2RXNWxJREV4TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQlIbc2hhcmVjYXJkXzE3ODExNjEyMDBfMjkuanBnggLNBBKIA2h0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdndCQ0FJU3B3RUtOVlZqYUdFZ1RHRnRZbUVnUzJGa0lFWnZjbVYyWlhJZ0tFWnliMjBnSWxkbGJHTnZiV1VnVkc4Z1ZHaGxJRXAxYm1kc1pTSXBFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6TkRSRTlrTkVka1kxVlJMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l5T1NJUFFXNWhibVFnVW1GcUlFRnVZVzVrSWc5V2FXdHlZVzBnVFc5dWRISnZjMlVpQzAxbFoyZG9ZU0JDWVd4cElnVlNkV0poYVJvNENoMVhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZzFLZFc1bElERXhMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCGkVVY2hhIExhbWJhIEthZCBGb3JldmVyIChGcm9tICJXZWxjb21lIFRvIFRoZSBKdW5nbGUiKSBpcyAjMjkgZ2xvYmFsbHkiaFVjaGEgTGFtYmEgS2FkIEZvcmV2ZXIgKEZyb20gIldlbGNvbWUgVG8gVGhlIEp1bmdsZSIpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDExLCAyMDI2Kg8ICSILCgAQAxgCIIPO1Ak%3D"
                       },
                       {
                         "id": "iAtoZar5W58",
@@ -6822,7 +6826,7 @@
                       }
                     ],
                     "heroMetadata": {
-                      "title": "Dai dai",
+                      "title": "Dai Dai",
                       "subTitle": "Shakira & Burna Boy",
                       "heroBannerImageUrl": "https://i.ytimg.com/vi/fcnDmrtj6Sk/maxresdefault.jpg",
                       "sampledColors": {
@@ -6838,9 +6842,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwi4oMfShpGVAxVjzcIEHc1vKG4="
+        "trackingParams": "CAEQui8iEwjdq4vhzpGVAxUZ1MIEHWGpLCg="
       }
     },
-    "trackingParams": "CAAQhGciEwi4oMfShpGVAxVjzcIEHc1vKG7KAQSJq0Qn"
+    "trackingParams": "CAAQhGciEwjdq4vhzpGVAxUZ1MIEHWGpLCjKAQQM_crx"
   }
 }
