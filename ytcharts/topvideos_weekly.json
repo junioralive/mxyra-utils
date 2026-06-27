@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-06-27T13:24:49.896433+00:00",
+  "captured_at_utc": "2026-06-27T19:14:52.559509+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgt1OVhQSHNWS0VsYyiYnv_RBjIKCgJVUxIEGgAgPA%3D%3D",
-      "responseId": "IhMI45ONrsKnlQMVfmBeAx10hCBg"
+      "visitorData": "CgttSWFtbmEyR09yUSijwoDSBjIKCgJVUxIEGgAgZA%3D%3D",
+      "responseId": "IhMI0_f8zJColQMVBwitBh2RvgRi"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,7 +27,19 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-06-26"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-06-26"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-06-18"
@@ -39,13 +51,7 @@
                       "latestEndDate": "2026-06-18"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-25"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-06-18"
@@ -55,12 +61,6 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-06-18"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-25"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -5644,7 +5644,7 @@
                             "name": "Pramod Premi"
                           },
                           {
-                            "kgMid": "",
+                            "kgMid": "/g/11vxfqlhhn",
                             "name": "Vicky Vox"
                           },
                           {
@@ -6743,9 +6743,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjjk42uwqeVAxV-YF4DHXSEIGA="
+        "trackingParams": "CAEQui8iEwjT9_zMkKiVAxUHCK0GHZG-BGI="
       }
     },
-    "trackingParams": "CAAQhGciEwjjk42uwqeVAxV-YF4DHXSEIGDKAQTGWj4Y"
+    "trackingParams": "CAAQhGciEwjT9_zMkKiVAxUHCK0GHZG-BGLKAQQu8dEZ"
   }
 }
