@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-06-27T19:14:40.977623+00:00",
+  "captured_at_utc": "2026-06-28T03:26:22.839964+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtIWU9mUi1GWVM5MCiXwoDSBjIKCgJVUxIEGgAgOw%3D%3D",
-      "responseId": "IhMI27K6x5ColQMVCT2tBh3NuRlz"
+      "visitorData": "CgtUclAwWEROUkZoWSjVqILSBjIKCgJVUxIEGgAgMA%3D%3D",
+      "responseId": "IhMIvvqEu_6olQMV234SAR2FBzBr"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,10 +27,10 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-26"
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-06-25"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -42,25 +42,25 @@
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-06-18"
+                      "latestEndDate": "2026-06-25"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-06-18"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-06-18"
+                      "latestEndDate": "2026-06-25"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-06-18"
+                      "latestEndDate": "2026-06-25"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-06-26"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1392,6 +1392,10 @@
                         "isAvailable": true,
                         "artists": [
                           {
+                            "kgMid": "",
+                            "name": "Rakshita Suresh"
+                          },
+                          {
                             "kgMid": "/m/01gg59",
                             "name": "A. R. Rahman"
                           },
@@ -1410,10 +1414,10 @@
                           "A.R. Rahman",
                           "Anantha Sreeram"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Is0BCAISegoVSGVsbGFsbGFsbG8gIChUZWx1Z3UpEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzZ6RGZ3VlN2eUVrL21heHJlc2RlZmF1bHQuanBnGgIyMCIMQS4gUi4gUmFobWFuIhlWYXJhZGFyYWogQ2hpa2thYmFsbGFwdXJhGjcKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoNSnVuZSAyNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=It8BCAISiwEKFUhlbGxhbGxhbGxvICAoVGVsdWd1KRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS82ekRmd1ZTdnlFay9tYXhyZXNkZWZhdWx0LmpwZxoCMjAiD1Jha3NoaXRhIFN1cmVzaCIMQS4gUi4gUmFobWFuIhlWYXJhZGFyYWogQ2hpa2thYmFsbGFwdXJhGjcKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoNSnVuZSAyNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UCnJjcn5FrgrOEp5_N45ZLEQ",
                         "channelName": "T-Series Telugu",
-                        "serializedShareEntity": "Cgs2ekRmd1ZTdnlFa3KrAwgHEiVIZWxsYWxsYWxsbyAgKFRlbHVndSkgaXMgIzIwIGdsb2JhbGx5GkdIZWxsYWxsYWxsbyAgKFRlbHVndSkgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVuZSAyNiwgMjAyNjKZAgqWAklzMEJDQUlTZWdvVlNHVnNiR0ZzYkdGc2JHOGdJQ2hVWld4MVozVXBFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6WjZSR1ozVmxOMmVVVnJMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l5TUNJTVFTNGdVaTRnVW1Gb2JXRnVJaGxXWVhKaFpHRnlZV29nUTJocGEydGhZbUZzYkdGd2RYSmhHamNLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTlNuVnVaU0F5Tml3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRUhtzaGFyZWNhcmRfMTc4MjQ1NzIwMF8yMC5qcGeCAs4DEsoCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzMEJDQUlTZWdvVlNHVnNiR0ZzYkdGc2JHOGdJQ2hVWld4MVozVXBFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6WjZSR1ozVmxOMmVVVnJMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l5TUNJTVFTNGdVaTRnVW1Gb2JXRnVJaGxXWVhKaFpHRnlZV29nUTJocGEydGhZbUZzYkdGd2RYSmhHamNLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTlNuVnVaU0F5Tml3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRGiVIZWxsYWxsYWxsbyAgKFRlbHVndSkgaXMgIzIwIGdsb2JhbGx5IkdIZWxsYWxsYWxsbyAgKFRlbHVndSkgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVuZSAyNiwgMjAyNioPCAkiCwoAEAMYASCSztQJ"
+                        "serializedShareEntity": "Cgs2ekRmd1ZTdnlFa3LDAwgHEiVIZWxsYWxsYWxsbyAgKFRlbHVndSkgaXMgIzIwIGdsb2JhbGx5GkdIZWxsYWxsYWxsbyAgKFRlbHVndSkgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVuZSAyNiwgMjAyNjKxAgquAkl0OEJDQUlTaXdFS0ZVaGxiR3hoYkd4aGJHeHZJQ0FvVkdWc2RXZDFLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTODJla1JtZDFaVGRubEZheTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTWpBaUQxSmhhM05vYVhSaElGTjFjbVZ6YUNJTVFTNGdVaTRnVW1Gb2JXRnVJaGxXWVhKaFpHRnlZV29nUTJocGEydGhZbUZzYkdGd2RYSmhHamNLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTlNuVnVaU0F5Tml3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRUhtzaGFyZWNhcmRfMTc4MjQ1NzIwMF8yMC5qcGeCAuYDEuICaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl0OEJDQUlTaXdFS0ZVaGxiR3hoYkd4aGJHeHZJQ0FvVkdWc2RXZDFLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTODJla1JtZDFaVGRubEZheTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTWpBaUQxSmhhM05vYVhSaElGTjFjbVZ6YUNJTVFTNGdVaTRnVW1Gb2JXRnVJaGxXWVhKaFpHRnlZV29nUTJocGEydGhZbUZzYkdGd2RYSmhHamNLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTlNuVnVaU0F5Tml3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRGiVIZWxsYWxsYWxsbyAgKFRlbHVndSkgaXMgIzIwIGdsb2JhbGx5IkdIZWxsYWxsYWxsbyAgKFRlbHVndSkgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVuZSAyNiwgMjAyNioPCAkiCwoAEAMYASCSztQJ"
                       },
                       {
                         "id": "vrY1THC_NQE",
@@ -2269,6 +2273,13 @@
                           "month": 6,
                           "day": 4
                         },
+                        "songwriters": [
+                          "Hakan Aydın",
+                          "Barış Anaç"
+                        ],
+                        "songProducers": [
+                          "SNOW"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrYBCAISYwoZQ8ynb2sgR8O8emVsIEfDvGzDvHlvcnN1bhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9xMklNcmtoU2pTQS9tYXhyZXNkZWZhdWx0LmpwZxoCMzMiBUJMT0szIgVQb2l6aRo3ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDUp1bmUgMjYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCJUNWGsVf__EuL51xydR7ag",
                         "channelName": "Blok3",
@@ -3147,7 +3158,7 @@
                       },
                       {
                         "id": "iJ1fXeDSKXY",
-                        "title": "Thassadiya (From \"Maa Inti Bangaaram\")",
+                        "title": "Thassadiya",
                         "viewCount": "1031394",
                         "thumbnail": {
                           "thumbnails": [
@@ -3213,10 +3224,10 @@
                         "songProducers": [
                           "Santhosh Narayanan"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuEBCAISjQEKJlRoYXNzYWRpeWEgKEZyb20gIk1hYSBJbnRpIEJhbmdhYXJhbSIpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2lKMWZYZURTS1hZL21heHJlc2RlZmF1bHQuanBnGgI0NyIIQ2hpbm1heWkiC1B1bnlhIFNlbHZhIhJTYW50aG9zaCBOYXJheWFuYW4aNwocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGg1KdW5lIDI2LCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMDAB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsQBCAIScQoKVGhhc3NhZGl5YRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9pSjFmWGVEU0tYWS9tYXhyZXNkZWZhdWx0LmpwZxoCNDciCENoaW5tYXlpIgtQdW55YSBTZWx2YSISU2FudGhvc2ggTmFyYXlhbmFuGjcKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoNSnVuZSAyNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UCWO7fKdX8VDcVjacgMUfI0g",
                         "channelName": "Think Music Telugu",
-                        "serializedShareEntity": "CgtpSjFmWGVEU0tYWXLnAwgHEjZUaGFzc2FkaXlhIChGcm9tICJNYWEgSW50aSBCYW5nYWFyYW0iKSBpcyAjNDcgZ2xvYmFsbHkaWFRoYXNzYWRpeWEgKEZyb20gIk1hYSBJbnRpIEJhbmdhYXJhbSIpIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bmUgMjYsIDIwMjYyswIKsAJJdUVCQ0FJU2pRRUtKbFJvWVhOellXUnBlV0VnS0VaeWIyMGdJazFoWVNCSmJuUnBJRUpoYm1kaFlYSmhiU0lwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMmxLTVdaWVpVUlRTMWhaTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJME55SUlRMmhwYm0xaGVXa2lDMUIxYm5saElGTmxiSFpoSWhKVFlXNTBhRzl6YUNCT1lYSmhlV0Z1WVc0YU53b2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZzFLZFc1bElESTJMQ0F5TURJMk9BTWlFZ29ISXpaR05rUkZPUklISXpBd01EQXdNREFCUhtzaGFyZWNhcmRfMTc4MjQ1NzIwMF80Ny5qcGeCAooEEuQCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl1RUJDQUlTalFFS0psUm9ZWE56WVdScGVXRWdLRVp5YjIwZ0lrMWhZU0JKYm5ScElFSmhibWRoWVhKaGJTSXBFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwybEtNV1pZWlVSVFMxaFpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0kwTnlJSVEyaHBibTFoZVdraUMxQjFibmxoSUZObGJIWmhJaEpUWVc1MGFHOXphQ0JPWVhKaGVXRnVZVzRhTndvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dnMUtkVzVsSURJMkxDQXlNREkyT0FNaUVnb0hJelpHTmtSRk9SSUhJekF3TURBd01EQUIaNlRoYXNzYWRpeWEgKEZyb20gIk1hYSBJbnRpIEJhbmdhYXJhbSIpIGlzICM0NyBnbG9iYWxseSJYVGhhc3NhZGl5YSAoRnJvbSAiTWFhIEludGkgQmFuZ2FhcmFtIikgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVuZSAyNiwgMjAyNioPCAkiCwoAEAMYASCSztQJ"
+                        "serializedShareEntity": "CgtpSjFmWGVEU0tYWXKJAwgHEhpUaGFzc2FkaXlhIGlzICM0NyBnbG9iYWxseRo8VGhhc3NhZGl5YSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDI2LCAyMDI2Mo0CCooCSXNRQkNBSVNjUW9LVkdoaGMzTmhaR2w1WVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlwU2pGbVdHVkVVMHRZV1M5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05EY2lDRU5vYVc1dFlYbHBJZ3RRZFc1NVlTQlRaV3gyWVNJU1UyRnVkR2h2YzJnZ1RtRnlZWGxoYm1GdUdqY0tIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9OU25WdVpTQXlOaXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVFSG3NoYXJlY2FyZF8xNzgyNDU3MjAwXzQ3LmpwZ4ICrAMSvgJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXNRQkNBSVNjUW9LVkdoaGMzTmhaR2w1WVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlwU2pGbVdHVkVVMHRZV1M5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05EY2lDRU5vYVc1dFlYbHBJZ3RRZFc1NVlTQlRaV3gyWVNJU1UyRnVkR2h2YzJnZ1RtRnlZWGxoYm1GdUdqY0tIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9OU25WdVpTQXlOaXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVEaGlRoYXNzYWRpeWEgaXMgIzQ3IGdsb2JhbGx5IjxUaGFzc2FkaXlhIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bmUgMjYsIDIwMjYqDwgJIgsKABADGAEgks7UCQ%3D%3D"
                       },
                       {
                         "id": "Aze7zTyIRtk",
@@ -4245,6 +4256,13 @@
                           "month": 6,
                           "day": 4
                         },
+                        "songwriters": [
+                          "Hakan Aydın"
+                        ],
+                        "songProducers": [
+                          "Narco",
+                          "C3RRAH"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqEBCAISTgoLS2F5xLFwIEthbHASNGh0dHBzOi8vaS55dGltZy5jb20vdmkvQTdTaHRQUlAyTWMvbWF4cmVzZGVmYXVsdC5qcGcaAjYzIgVCTE9LMxo3ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDUp1bmUgMjYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCJUNWGsVf__EuL51xydR7ag",
                         "channelName": "Blok3",
@@ -4707,6 +4725,13 @@
                           "month": 6,
                           "day": 4
                         },
+                        "songwriters": [
+                          "Hakan Aydın"
+                        ],
+                        "songProducers": [
+                          "Narco",
+                          "C3RRAH"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqEBCAISTgoLS8SxcmfEsW7EsW0SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvLUZCd2Q5Y1dKb1EvbWF4cmVzZGVmYXVsdC5qcGcaAjcwIgVCTE9LMxo3ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDUp1bmUgMjYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCJUNWGsVf__EuL51xydR7ag",
                         "channelName": "Blok3",
@@ -5576,7 +5601,7 @@
                       },
                       {
                         "id": "ofywN3NgGqY",
-                        "title": "My Body Isn't Ready",
+                        "title": "sombr - My Body Isn't Ready (official video)",
                         "viewCount": "776201",
                         "thumbnail": {
                           "thumbnails": [
@@ -5629,10 +5654,10 @@
                           "sombr",
                           "Tony Berg"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqkBCAISVgoTTXkgQm9keSBJc24ndCBSZWFkeRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9vZnl3TjNOZ0dxWS9tYXhyZXNkZWZhdWx0LmpwZxoCODQiBXNvbWJyGjcKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoNSnVuZSAyNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsIBCAISbwosc29tYnIgLSBNeSBCb2R5IElzbid0IFJlYWR5IChvZmZpY2lhbCB2aWRlbykSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvb2Z5d04zTmdHcVkvbWF4cmVzZGVmYXVsdC5qcGcaAjg0IgVzb21icho3ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDUp1bmUgMjYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCXlqFQmZZOb78teSnAqhuwA",
                         "channelName": "sombr",
-                        "serializedShareEntity": "CgtvZnl3TjNOZ0dxWXL3AggHEiNNeSBCb2R5IElzbid0IFJlYWR5IGlzICM4NCBnbG9iYWxseRpFTXkgQm9keSBJc24ndCBSZWFkeSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDI2LCAyMDI2MukBCuYBSXFrQkNBSVNWZ29UVFhrZ1FtOWtlU0JKYzI0bmRDQlNaV0ZrZVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzl2Wm5sM1RqTk9aMGR4V1M5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ09EUWlCWE52YldKeUdqY0tIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9OU25WdVpTQXlOaXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVFSG3NoYXJlY2FyZF8xNzgyNDU3MjAwXzg0LmpwZ4ICmgMSmgJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFrQkNBSVNWZ29UVFhrZ1FtOWtlU0JKYzI0bmRDQlNaV0ZrZVJJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzl2Wm5sM1RqTk9aMGR4V1M5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ09EUWlCWE52YldKeUdqY0tIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9OU25WdVpTQXlOaXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVEaI015IEJvZHkgSXNuJ3QgUmVhZHkgaXMgIzg0IGdsb2JhbGx5IkVNeSBCb2R5IElzbid0IFJlYWR5IG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bmUgMjYsIDIwMjYqDwgJIgsKABADGAEgks7UCQ%3D%3D"
+                        "serializedShareEntity": "CgtvZnl3TjNOZ0dxWXLKAwgHEjxzb21iciAtIE15IEJvZHkgSXNuJ3QgUmVhZHkgKG9mZmljaWFsIHZpZGVvKSBpcyAjODQgZ2xvYmFsbHkaXnNvbWJyIC0gTXkgQm9keSBJc24ndCBSZWFkeSAob2ZmaWNpYWwgdmlkZW8pIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bmUgMjYsIDIwMjYyigIKhwJJc0lCQ0FJU2J3b3NjMjl0WW5JZ0xTQk5lU0JDYjJSNUlFbHpiaWQwSUZKbFlXUjVJQ2h2Wm1acFkybGhiQ0IyYVdSbGJ5a1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmIyWjVkMDR6VG1kSGNWa3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamcwSWdWemIyMWljaG8zQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURVcDFibVVnTWpZc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRVIbc2hhcmVjYXJkXzE3ODI0NTcyMDBfODQuanBnggLtAxK7Amh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jc0lCQ0FJU2J3b3NjMjl0WW5JZ0xTQk5lU0JDYjJSNUlFbHpiaWQwSUZKbFlXUjVJQ2h2Wm1acFkybGhiQ0IyYVdSbGJ5a1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdmIyWjVkMDR6VG1kSGNWa3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamcwSWdWemIyMWljaG8zQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURVcDFibVVnTWpZc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRRo8c29tYnIgLSBNeSBCb2R5IElzbid0IFJlYWR5IChvZmZpY2lhbCB2aWRlbykgaXMgIzg0IGdsb2JhbGx5Il5zb21iciAtIE15IEJvZHkgSXNuJ3QgUmVhZHkgKG9mZmljaWFsIHZpZGVvKSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdW5lIDI2LCAyMDI2Kg8ICSILCgAQAxgBIJLO1Ak%3D"
                       },
                       {
                         "id": "83C3TZ4Zm_o",
@@ -6790,9 +6815,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjbsrrHkKiVAxUJPa0GHc25GXM="
+        "trackingParams": "CAEQui8iEwi--oS7_qiVAxXbfhIBHYUHMGs="
       }
     },
-    "trackingParams": "CAAQhGciEwjbsrrHkKiVAxUJPa0GHc25GXPKAQRFFi58"
+    "trackingParams": "CAAQhGciEwi--oS7_qiVAxXbfhIBHYUHMGvKAQTAPd_M"
   }
 }
