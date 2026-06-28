@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-06-28T13:28:43.134822+00:00",
+  "captured_at_utc": "2026-06-28T19:13:28.833170+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtlNkRGeHFQdkRtQSiBw4TSBjIKCgJVUxIEGgAgLA%3D%3D",
-      "responseId": "IhMIhuWIjIWqlQMVVvA_BB3YtRdA"
+      "visitorData": "CgtKODk1RkRldjEzdyjP5IXSBjIKCgJVUxIEGgAgYw%3D%3D",
+      "responseId": "IhMI4Jzkk9KqlQMVnKXCAR0HGQrV"
     },
     "contents": {
       "sectionListRenderer": {
@@ -34,9 +34,15 @@
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-06-25"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-26"
+                      "latestEndDate": "2026-06-27"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -45,12 +51,6 @@
                       "latestEndDate": "2026-06-25"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-06-25"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -60,7 +60,7 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-26"
+                      "latestEndDate": "2026-06-27"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -5970,6 +5970,13 @@
                           "month": 6,
                           "day": 4
                         },
+                        "songwriters": [
+                          "Hakan Aydın"
+                        ],
+                        "songProducers": [
+                          "Narco",
+                          "C3RRAH"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqEBCAISTQoKU2ViZWJpIFlhchI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS82OUwtbktSWTNhYy9tYXhyZXNkZWZhdWx0LmpwZxoCODkiBUJMT0szGjgKHVdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDUp1bmUgMjUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
                         "externalChannelId": "UCJUNWGsVf__EuL51xydR7ag",
                         "channelName": "Blok3",
@@ -6730,9 +6737,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiG5YiMhaqVAxVW8D8EHdi1F0A="
+        "trackingParams": "CAEQui8iEwjgnOST0qqVAxWcpcIBHQcZCtU="
       }
     },
-    "trackingParams": "CAAQhGciEwiG5YiMhaqVAxVW8D8EHdi1F0DKAQSKYoI8"
+    "trackingParams": "CAAQhGciEwjgnOST0qqVAxWcpcIBHQcZCtXKAQRZSRRA"
   }
 }
