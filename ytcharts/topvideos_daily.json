@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-06-30T14:10:40.425180+00:00",
+  "captured_at_utc": "2026-06-30T19:49:37.825921+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtVTU91U2h4aHJQayjWnI_SBjIKCgJVUxIEGgAgSg%3D%3D",
-      "responseId": "IhMI-PHumZKvlQMVxPA_BB0jTyRg"
+      "visitorData": "CgtXUVBzMTRjTFVUWSjIu5DSBjIKCgJVUxIEGgAgGA%3D%3D",
+      "responseId": "IhMIjaTC-92vlQMVA3QSAR3QWALY"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,22 +27,10 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-06-25"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-28"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-06-25"
+                      "latestEndDate": "2026-06-29"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -51,16 +39,28 @@
                       "latestEndDate": "2026-06-25"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-06-28"
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-06-25"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-06-25"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-06-25"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-06-28"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1616,6 +1616,10 @@
                           "month": 6,
                           "day": 17
                         },
+                        "songwriters": [
+                          "Irshad Kamil",
+                          "Pritam Chakraborty"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuIBCAISjgEKHkJhbmRodSAyLjAgKEZyb20gIkNvY2t0YWlsIDIiKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8wUnhVY0tFMTNaSS9tYXhyZXNkZWZhdWx0LmpwZxoCMjMiC0thdml0YSBTZXRoIg9OZWVyYWogU2hyaWRoYXIiDElyc2hhZCBLYW1pbCIGUHJpdGFtGjcKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoNSnVuZSAyOCwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
                         "channelName": "Sony Music India",
@@ -6781,9 +6785,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj48e6Zkq-VAxXE8D8EHSNPJGA="
+        "trackingParams": "CAEQui8iEwiNpML73a-VAxUDdBIBHdBYAtg="
       }
     },
-    "trackingParams": "CAAQhGciEwj48e6Zkq-VAxXE8D8EHSNPJGDKAQS1E41X"
+    "trackingParams": "CAAQhGciEwiNpML73a-VAxUDdBIBHdBYAtjKAQTs2muP"
   }
 }
