@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-07-04T13:16:47.165061+00:00",
+  "captured_at_utc": "2026-07-04T19:05:54.609263+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs4Z3gzdUxWTjBfRSi1j6TSBjIKCgJVUxIEGgAgbQ%3D%3D",
-      "responseId": "IhMIl_mKz425lQMVrgStBh0VCSt9"
+      "visitorData": "CgtoZ0ZCaTJMWXFqayiJs6XSBjIKCgJVUxIEGgAgCw%3D%3D",
+      "responseId": "IhMIo_LM09u5lQMVnN0_BB1vTgYl"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,30 +27,6 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-06-25"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-07-01"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-06-25"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-07-01"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -61,6 +37,30 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-06-25"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-07-01"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-06-25"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-06-25"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-07-01"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1223,10 +1223,6 @@
                           "month": 5,
                           "day": 16
                         },
-                        "songwriters": [
-                          "Vicky Vox",
-                          "Omkant Ji"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IooCCAISswEKH-CkueClgOCksOCliyBWcyDgpLXgpL_gpLLgpYfgpKgSfmh0dHBzOi8veXQzLmdvb2dsZXVzZXJjb250ZW50LmNvbS90aENtVkRoX2N6dXJPWlZ2cV92QlZtR1J1T1U4cjE5QzRHV1dLY3FEQVFBalhGc3E4bVJHWnpEdUZuSThqXzktUWozY0wtamhvTko1YnI4UD13OTAwLWg5MDAtcBoCMjYiDFJhdXNoYW4gUm9oaRo6CiBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBDaGFydBIGR2xvYmFsGgxKdW4gMjUsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDMAE",
                         "serializedShareEntity": "Cgs4RmQ0Z05GWUpaOHKTBAgHEi_gpLngpYDgpLDgpYsgVnMg4KS14KS_4KSy4KWH4KSoIGlzICMyNiBnbG9iYWxseRpU4KS54KWA4KSw4KWLIFZzIOCkteCkv-CksuClh-CkqCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gSnVuIDI1LCAyMDI2MuoCCucCSW9vQ0NBSVNzd0VLSC1Da3VlQ2xnT0Nrc09DbGl5QldjeURncExYZ3BMX2dwTExncFlmZ3BLZ1NmbWgwZEhCek9pOHZlWFF6TG1kdmIyZHNaWFZ6WlhKamIyNTBaVzUwTG1OdmJTOTBhRU50VmtSb1gyTjZkWEpQV2xaMmNWOTJRbFp0UjFKMVQxVTRjakU1UXpSSFYxZExZM0ZFUVZGQmFsaEdjM0U0YlZKSFducEVkVVp1U1RocVh6a3RVV296WTB3dGFtaHZUa28xWW5JNFVEMTNPVEF3TFdnNU1EQXRjQm9DTWpZaURGSmhkWE5vWVc0Z1VtOW9hUm82Q2lCWFpXVnJiSGtnVkc5d0lGTnZibWR6SUc5dUlGTm9iM0owY3lCRGFHRnlkQklHUjJ4dlltRnNHZ3hLZFc0Z01qVXNJREl3TWpZNEJpSVNDZ2NqTURBd01EQXdFZ2NqUmtZelJVVkRNQUVSG3NoYXJlY2FyZF8xNzgyMzcwODAwXzI2LmpwZ4ICtgQSmwNodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SW9vQ0NBSVNzd0VLSC1Da3VlQ2xnT0Nrc09DbGl5QldjeURncExYZ3BMX2dwTExncFlmZ3BLZ1NmbWgwZEhCek9pOHZlWFF6TG1kdmIyZHNaWFZ6WlhKamIyNTBaVzUwTG1OdmJTOTBhRU50VmtSb1gyTjZkWEpQV2xaMmNWOTJRbFp0UjFKMVQxVTRjakU1UXpSSFYxZExZM0ZFUVZGQmFsaEdjM0U0YlZKSFducEVkVVp1U1RocVh6a3RVV296WTB3dGFtaHZUa28xWW5JNFVEMTNPVEF3TFdnNU1EQXRjQm9DTWpZaURGSmhkWE5vWVc0Z1VtOW9hUm82Q2lCWFpXVnJiSGtnVkc5d0lGTnZibWR6SUc5dUlGTm9iM0owY3lCRGFHRnlkQklHUjJ4dlltRnNHZ3hLZFc0Z01qVXNJREl3TWpZNEJpSVNDZ2NqTURBd01EQXdFZ2NqUmtZelJVVkRNQUUaL-CkueClgOCksOCliyBWcyDgpLXgpL_gpLLgpYfgpKggaXMgIzI2IGdsb2JhbGx5IlTgpLngpYDgpLDgpYsgVnMg4KS14KS_4KSy4KWH4KSoIG9uIEdsb2JhbCBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBvbiBKdW4gMjUsIDIwMjYqDwgKIgsKABAGGAIgkc7UCQ%3D%3D"
                       },
@@ -2305,9 +2301,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiX-YrPjbmVAxWuBK0GHRUJK30="
+        "trackingParams": "CAEQui8iEwij8szT27mVAxWc3T8EHW9OBiU="
       }
     },
-    "trackingParams": "CAAQhGciEwiX-YrPjbmVAxWuBK0GHRUJK33KAQTLos2A"
+    "trackingParams": "CAAQhGciEwij8szT27mVAxWc3T8EHW9OBiXKAQRTR4cY"
   }
 }
