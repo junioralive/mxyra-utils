@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-07-08T13:54:14.156008+00:00",
+  "captured_at_utc": "2026-07-08T19:19:14.787602+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtTbkh1VmRjWFg1OCj8rLnSBjIKCgJVUxIEGgAgRg%3D%3D",
-      "responseId": "IhMI48u2uZ3DlQMVgfjCBB1Q_zxH"
+      "visitorData": "CgtNUF9WSllrYjVRNCipxbrSBjIKCgJVUxIEGgAgKA%3D%3D",
+      "responseId": "IhMI-ciHjObDlQMVfg6tBh2vNgag"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,12 +27,6 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-02"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -40,18 +34,6 @@
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-07-06"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-02"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-07-06"
@@ -61,6 +43,24 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-07-02"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-07-02"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-07-02"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-07-07"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -460,20 +460,20 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/m/06qvc0",
-                            "name": "Shreya Ghoshal"
-                          },
-                          {
-                            "kgMid": "/g/11mlq17h8y",
-                            "name": "FIFTY4"
-                          },
-                          {
                             "kgMid": "/g/11wv3j3cls",
                             "name": "ARJN"
                           },
                           {
                             "kgMid": "/g/11rj4hp4z1",
                             "name": "KDS"
+                          },
+                          {
+                            "kgMid": "/g/11mlq17h8y",
+                            "name": "FIFTY4"
+                          },
+                          {
+                            "kgMid": "/m/06qvc0",
+                            "name": "Shreya Ghoshal"
                           }
                         ],
                         "isVisible": true,
@@ -491,14 +491,14 @@
                         "songProducers": [
                           "RONN"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ir4BCAISbQoPS0FMWUFOSSAoUmVtaXgpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3h2VDFqSDhCOUFNL21heHJlc2RlZmF1bHQuanBnGgE2Ig5TaHJleWEgR2hvc2hhbCIGRklGVFk0IgRBUkpOIgNLRFMaNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtKdWwgNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ir4BCAISbQoPS0FMWUFOSSAoUmVtaXgpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3h2VDFqSDhCOUFNL21heHJlc2RlZmF1bHQuanBnGgE2IgRBUkpOIgNLRFMiBkZJRlRZNCIOU2hyZXlhIEdob3NoYWwaNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtKdWwgNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UCusav3ISwfr_2gUeTNzRfoA",
                         "channelName": "MONEY VERSE RECORDS",
-                        "serializedShareEntity": "Cgt4dlQxakg4QjlBTXKHAwgHEh5LQUxZQU5JIChSZW1peCkgaXMgIzYgZ2xvYmFsbHkaP0tBTFlBTkkgKFJlbWl4KSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNjKFAgqCAklyNEJDQUlTYlFvUFMwRk1XVUZPU1NBb1VtVnRhWGdwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM2gyVkRGcVNEaENPVUZOTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dFMklnNVRhSEpsZVdFZ1IyaHZjMmhoYkNJR1JrbEdWRmswSWdSQlVrcE9JZ05MUkZNYU5Rb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RLZFd3Z05pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBUVIac2hhcmVjYXJkXzE3ODMzMjEyMDBfNi5qcGeCAqsDErYCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyNEJDQUlTYlFvUFMwRk1XVUZPU1NBb1VtVnRhWGdwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM2gyVkRGcVNEaENPVUZOTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dFMklnNVRhSEpsZVdFZ1IyaHZjMmhoYkNJR1JrbEdWRmswSWdSQlVrcE9JZ05MUkZNYU5Rb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RLZFd3Z05pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURoeS0FMWUFOSSAoUmVtaXgpIGlzICM2IGdsb2JhbGx5Ij9LQUxZQU5JIChSZW1peCkgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYqDwgJIgsKABADGAEg4s7UCQ%3D%3D"
+                        "serializedShareEntity": "Cgt4dlQxakg4QjlBTXKHAwgHEh5LQUxZQU5JIChSZW1peCkgaXMgIzYgZ2xvYmFsbHkaP0tBTFlBTkkgKFJlbWl4KSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNjKFAgqCAklyNEJDQUlTYlFvUFMwRk1XVUZPU1NBb1VtVnRhWGdwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM2gyVkRGcVNEaENPVUZOTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dFMklnUkJVa3BPSWdOTFJGTWlCa1pKUmxSWk5DSU9VMmh5WlhsaElFZG9iM05vWVd3YU5Rb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RLZFd3Z05pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBUVIac2hhcmVjYXJkXzE3ODMzMjEyMDBfNi5qcGeCAqsDErYCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyNEJDQUlTYlFvUFMwRk1XVUZPU1NBb1VtVnRhWGdwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM2gyVkRGcVNEaENPVUZOTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dFMklnUkJVa3BPSWdOTFJGTWlCa1pKUmxSWk5DSU9VMmh5WlhsaElFZG9iM05vWVd3YU5Rb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RLZFd3Z05pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURoeS0FMWUFOSSAoUmVtaXgpIGlzICM2IGdsb2JhbGx5Ij9LQUxZQU5JIChSZW1peCkgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYqDwgJIgsKABADGAEg4s7UCQ%3D%3D"
                       },
                       {
                         "id": "YyepU5ztLf4",
-                        "title": "Shararat (From \"Dhurandhar\")",
+                        "title": "Shararat",
                         "viewCount": "1942620",
                         "thumbnail": {
                           "thumbnails": [
@@ -561,10 +561,10 @@
                           "Shashwat Sachdev",
                           "Jasmine Sandlas"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=It8BCAISjQEKHFNoYXJhcmF0IChGcm9tICJEaHVyYW5kaGFyIikSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvWXllcFU1enRMZjQvbWF4cmVzZGVmYXVsdC5qcGcaATciEU1hZGh1YmFudGkgQmFnY2hpIg9KYXNtaW5lIFNhbmRsYXMiEFNoYXNod2F0IFNhY2hkZXYaNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtKdWwgNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsoBCAISeQoIU2hhcmFyYXQSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvWXllcFU1enRMZjQvbWF4cmVzZGVmYXVsdC5qcGcaATciEU1hZGh1YmFudGkgQmFnY2hpIg9KYXNtaW5lIFNhbmRsYXMiEFNoYXNod2F0IFNhY2hkZXYaNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtKdWwgNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UC_A7K2dXFsTMAciGmnNxy-Q",
                         "channelName": "Saregama Music",
-                        "serializedShareEntity": "CgtZeWVwVTV6dExmNHLNAwgHEitTaGFyYXJhdCAoRnJvbSAiRGh1cmFuZGhhciIpIGlzICM3IGdsb2JhbGx5GkxTaGFyYXJhdCAoRnJvbSAiRGh1cmFuZGhhciIpIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bCA2LCAyMDI2MrECCq4CSXQ4QkNBSVNqUUVLSEZOb1lYSmhjbUYwSUNoR2NtOXRJQ0pFYUhWeVlXNWthR0Z5SWlrU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2V1hsbGNGVTFlblJNWmpRdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFUY2lFVTFoWkdoMVltRnVkR2tnUW1GblkyaHBJZzlLWVhOdGFXNWxJRk5oYm1Sc1lYTWlFRk5vWVhOb2QyRjBJRk5oWTJoa1pYWWFOUW9jUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d0S2RXd2dOaXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVFSGnNoYXJlY2FyZF8xNzgzMzIxMjAwXzcuanBnggLxAxLiAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdDhCQ0FJU2pRRUtIRk5vWVhKaGNtRjBJQ2hHY205dElDSkVhSFZ5WVc1a2FHRnlJaWtTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZXWGxsY0ZVMWVuUk1aalF2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQVRjaUVVMWhaR2gxWW1GdWRHa2dRbUZuWTJocElnOUtZWE50YVc1bElGTmhibVJzWVhNaUVGTm9ZWE5vZDJGMElGTmhZMmhrWlhZYU5Rb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RLZFd3Z05pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURorU2hhcmFyYXQgKEZyb20gIkRodXJhbmRoYXIiKSBpcyAjNyBnbG9iYWxseSJMU2hhcmFyYXQgKEZyb20gIkRodXJhbmRoYXIiKSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNioPCAkiCwoAEAMYASDiztQJ"
+                        "serializedShareEntity": "CgtZeWVwVTV6dExmNHKJAwgHEhdTaGFyYXJhdCBpcyAjNyBnbG9iYWxseRo4U2hhcmFyYXQgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYylQIKkgJJc29CQ0FJU2VRb0lVMmhoY21GeVlYUVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdldYbGxjRlUxZW5STVpqUXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBVGNpRVUxaFpHaDFZbUZ1ZEdrZ1FtRm5ZMmhwSWc5S1lYTnRhVzVsSUZOaGJtUnNZWE1pRUZOb1lYTm9kMkYwSUZOaFkyaGtaWFlhTlFvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dndEtkV3dnTml3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRUhpzaGFyZWNhcmRfMTc4MzMyMTIwMF83LmpwZ4ICrQMSxgJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXNvQkNBSVNlUW9JVTJoaGNtRnlZWFFTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZXWGxsY0ZVMWVuUk1aalF2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQVRjaUVVMWhaR2gxWW1GdWRHa2dRbUZuWTJocElnOUtZWE50YVc1bElGTmhibVJzWVhNaUVGTm9ZWE5vZDJGMElGTmhZMmhrWlhZYU5Rb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RLZFd3Z05pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURoXU2hhcmFyYXQgaXMgIzcgZ2xvYmFsbHkiOFNoYXJhcmF0IG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bCA2LCAyMDI2Kg8ICSILCgAQAxgBIOLO1Ak%3D"
                       },
                       {
                         "id": "F2m4HPLvj-4",
@@ -680,12 +680,12 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/g/11v9_bd8mk",
-                            "name": "ILLIT"
-                          },
-                          {
                             "kgMid": "/g/11rv3m50dz",
                             "name": "LE SSERAFIM"
+                          },
+                          {
+                            "kgMid": "/g/11v9_bd8mk",
+                            "name": "ILLIT"
                           },
                           {
                             "kgMid": "/g/11vj6xh7_6",
@@ -698,10 +698,10 @@
                           "month": 6,
                           "day": 10
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IroBCAISaQoRSUNPTklDIEJZIE1JU1RBS0USNGh0dHBzOi8vaS55dGltZy5jb20vdmkvMjdDNHBmUnNmOWcvbWF4cmVzZGVmYXVsdC5qcGcaATkiBUlMTElUIgtMRSBTU0VSQUZJTSIHS0FUU0VZRRo1ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaC0p1bCA2LCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMDAB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IroBCAISaQoRSUNPTklDIEJZIE1JU1RBS0USNGh0dHBzOi8vaS55dGltZy5jb20vdmkvMjdDNHBmUnNmOWcvbWF4cmVzZGVmYXVsdC5qcGcaATkiC0xFIFNTRVJBRklNIgVJTExJVCIHS0FUU0VZRRo1ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaC0p1bCA2LCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMDAB",
                         "externalChannelId": "UC3IZKseVpdzPSBaWxBxundA",
                         "channelName": "HYBE LABELS",
-                        "serializedShareEntity": "CgsyN0M0cGZSc2Y5Z3KFAwgHEiBJQ09OSUMgQlkgTUlTVEFLRSBpcyAjOSBnbG9iYWxseRpBSUNPTklDIEJZIE1JU1RBS0Ugb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYy_wEK_AFJcm9CQ0FJU2FRb1JTVU5QVGtsRElFSlpJRTFKVTFSQlMwVVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk1qZEROSEJtVW5ObU9XY3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBVGtpQlVsTVRFbFVJZ3RNUlNCVFUwVlNRVVpKVFNJSFMwRlVVMFZaUlJvMUNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FDMHAxYkNBMkxDQXlNREkyT0FNaUVnb0hJelpHTmtSRk9SSUhJekF3TURBd01EQUJSGnNoYXJlY2FyZF8xNzgzMzIxMjAwXzkuanBnggKpAxKwAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jcm9CQ0FJU2FRb1JTVU5QVGtsRElFSlpJRTFKVTFSQlMwVVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk1qZEROSEJtVW5ObU9XY3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBVGtpQlVsTVRFbFVJZ3RNUlNCVFUwVlNRVVpKVFNJSFMwRlVVMFZaUlJvMUNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FDMHAxYkNBMkxDQXlNREkyT0FNaUVnb0hJelpHTmtSRk9SSUhJekF3TURBd01EQUIaIElDT05JQyBCWSBNSVNUQUtFIGlzICM5IGdsb2JhbGx5IkFJQ09OSUMgQlkgTUlTVEFLRSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNioPCAkiCwoAEAMYASDiztQJ"
+                        "serializedShareEntity": "CgsyN0M0cGZSc2Y5Z3KFAwgHEiBJQ09OSUMgQlkgTUlTVEFLRSBpcyAjOSBnbG9iYWxseRpBSUNPTklDIEJZIE1JU1RBS0Ugb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYy_wEK_AFJcm9CQ0FJU2FRb1JTVU5QVGtsRElFSlpJRTFKVTFSQlMwVVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk1qZEROSEJtVW5ObU9XY3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBVGtpQzB4RklGTlRSVkpCUmtsTklnVkpURXhKVkNJSFMwRlVVMFZaUlJvMUNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FDMHAxYkNBMkxDQXlNREkyT0FNaUVnb0hJelpHTmtSRk9SSUhJekF3TURBd01EQUJSGnNoYXJlY2FyZF8xNzgzMzIxMjAwXzkuanBnggKpAxKwAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jcm9CQ0FJU2FRb1JTVU5QVGtsRElFSlpJRTFKVTFSQlMwVVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk1qZEROSEJtVW5ObU9XY3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBVGtpQzB4RklGTlRSVkpCUmtsTklnVkpURXhKVkNJSFMwRlVVMFZaUlJvMUNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FDMHAxYkNBMkxDQXlNREkyT0FNaUVnb0hJelpHTmtSRk9SSUhJekF3TURBd01EQUIaIElDT05JQyBCWSBNSVNUQUtFIGlzICM5IGdsb2JhbGx5IkFJQ09OSUMgQlkgTUlTVEFLRSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNioPCAkiCwoAEAMYASDiztQJ"
                       },
                       {
                         "id": "gJAbDSse5WM",
@@ -1555,7 +1555,7 @@
                       },
                       {
                         "id": "b68HETiNO98",
-                        "title": "Pavazha Malli (From \"Think Indie\")",
+                        "title": "Pavazha Malli",
                         "viewCount": "1254280",
                         "thumbnail": {
                           "thumbnails": [
@@ -1617,10 +1617,10 @@
                         "songProducers": [
                           "Sai Abhyankkar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Is4BCAISfQoiUGF2YXpoYSBNYWxsaSAoRnJvbSAiVGhpbmsgSW5kaWUiKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iNjhIRVRpTk85OC9tYXhyZXNkZWZhdWx0LmpwZxoCMjMiDlNhaSBBYmh5YW5ra2FyIg1TaHJ1dGkgSGFhc2FuGjUKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLSnVsIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrkBCAISaAoNUGF2YXpoYSBNYWxsaRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9iNjhIRVRpTk85OC9tYXhyZXNkZWZhdWx0LmpwZxoCMjMiDlNhaSBBYmh5YW5ra2FyIg1TaHJ1dGkgSGFhc2FuGjUKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLSnVsIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCLbdVvreihwZRL6kwuEUYsA",
                         "channelName": "Think Music India",
-                        "serializedShareEntity": "CgtiNjhIRVRpTk85OHLEAwgHEjJQYXZhemhhIE1hbGxpIChGcm9tICJUaGluayBJbmRpZSIpIGlzICMyMyBnbG9iYWxseRpSUGF2YXpoYSBNYWxsaSAoRnJvbSAiVGhpbmsgSW5kaWUiKSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNjKaAgqXAklzNEJDQUlTZlFvaVVHRjJZWHBvWVNCTllXeHNhU0FvUm5KdmJTQWlWR2hwYm1zZ1NXNWthV1VpS1JJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlpTmpoSVJWUnBUazg1T0M5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ01qTWlEbE5oYVNCQlltaDVZVzVyYTJGeUlnMVRhSEoxZEdrZ1NHRmhjMkZ1R2pVS0hFUmhhV3g1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb0xTblZzSURZc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRVIbc2hhcmVjYXJkXzE3ODMzMjEyMDBfMjMuanBnggLnAxLLAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JczRCQ0FJU2ZRb2lVR0YyWVhwb1lTQk5ZV3hzYVNBb1JuSnZiU0FpVkdocGJtc2dTVzVrYVdVaUtSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5aU5qaElSVlJwVGs4NU9DOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NNak1pRGxOaGFTQkJZbWg1WVc1cmEyRnlJZzFUYUhKMWRHa2dTR0ZoYzJGdUdqVUtIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9MU25Wc0lEWXNJREl3TWpZNEF5SVNDZ2NqTmtZMlJFVTVFZ2NqTURBd01EQXdNQUUaMlBhdmF6aGEgTWFsbGkgKEZyb20gIlRoaW5rIEluZGllIikgaXMgIzIzIGdsb2JhbGx5IlJQYXZhemhhIE1hbGxpIChGcm9tICJUaGluayBJbmRpZSIpIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bCA2LCAyMDI2Kg8ICSILCgAQAxgBIOLO1Ak%3D"
+                        "serializedShareEntity": "CgtiNjhIRVRpTk85OHL-AggHEh1QYXZhemhhIE1hbGxpIGlzICMyMyBnbG9iYWxseRo9UGF2YXpoYSBNYWxsaSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNjL-AQr7AUlya0JDQUlTYUFvTlVHRjJZWHBvWVNCTllXeHNhUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOWlOamhJUlZScFRrODVPQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTWpNaURsTmhhU0JCWW1oNVlXNXJhMkZ5SWcxVGFISjFkR2tnU0dGaGMyRnVHalVLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFNuVnNJRFlzSURJd01qWTRBeUlTQ2djak5rWTJSRVU1RWdjak1EQXdNREF3TUFFUhtzaGFyZWNhcmRfMTc4MzMyMTIwMF8yMy5qcGeCAqEDEq8CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlya0JDQUlTYUFvTlVHRjJZWHBvWVNCTllXeHNhUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOWlOamhJUlZScFRrODVPQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTWpNaURsTmhhU0JCWW1oNVlXNXJhMkZ5SWcxVGFISjFkR2tnU0dGaGMyRnVHalVLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFNuVnNJRFlzSURJd01qWTRBeUlTQ2djak5rWTJSRVU1RWdjak1EQXdNREF3TUFFGh1QYXZhemhhIE1hbGxpIGlzICMyMyBnbG9iYWxseSI9UGF2YXpoYSBNYWxsaSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNioPCAkiCwoAEAMYASDiztQJ"
                       },
                       {
                         "id": "kXKhNI4DLHM",
@@ -1692,7 +1692,7 @@
                       },
                       {
                         "id": "bP8ATWCvqzw",
-                        "title": "Arz Kiya Hai (Coke Studio)",
+                        "title": "Arz Kiya Hai",
                         "viewCount": "1228532",
                         "thumbnail": {
                           "thumbnails": [
@@ -1749,10 +1749,10 @@
                         "songProducers": [
                           "Lost Stories"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrIBCAISYQoaQXJ6IEtpeWEgSGFpIChDb2tlIFN0dWRpbykSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvYlA4QVRXQ3ZxencvbWF4cmVzZGVmYXVsdC5qcGcaAjI1IglBbnV2IEphaW4aNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtKdWwgNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQBCAISUwoMQXJ6IEtpeWEgSGFpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2JQOEFUV0N2cXp3L21heHJlc2RlZmF1bHQuanBnGgIyNSIJQW51diBKYWluGjUKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLSnVsIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCXuO_AmrcE16fDoNiq9JZZg",
                         "channelName": "Coke Studio India ",
-                        "serializedShareEntity": "CgtiUDhBVFdDdnF6d3KPAwgHEipBcnogS2l5YSBIYWkgKENva2UgU3R1ZGlvKSBpcyAjMjUgZ2xvYmFsbHkaSkFyeiBLaXlhIEhhaSAoQ29rZSBTdHVkaW8pIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bCA2LCAyMDI2MvUBCvIBSXJJQkNBSVNZUW9hUVhKNklFdHBlV0VnU0dGcElDaERiMnRsSUZOMGRXUnBieWtTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZZbEE0UVZSWFEzWnhlbmN2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpJMUlnbEJiblYySUVwaGFXNGFOUW9jUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d0S2RXd2dOaXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVFSG3NoYXJlY2FyZF8xNzgzMzIxMjAwXzI1LmpwZ4ICsgMSpgJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJJQkNBSVNZUW9hUVhKNklFdHBlV0VnU0dGcElDaERiMnRsSUZOMGRXUnBieWtTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZZbEE0UVZSWFEzWnhlbmN2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpJMUlnbEJiblYySUVwaGFXNGFOUW9jUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d0S2RXd2dOaXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVEaKkFyeiBLaXlhIEhhaSAoQ29rZSBTdHVkaW8pIGlzICMyNSBnbG9iYWxseSJKQXJ6IEtpeWEgSGFpIChDb2tlIFN0dWRpbykgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYqDwgJIgsKABADGAEg4s7UCQ%3D%3D"
+                        "serializedShareEntity": "CgtiUDhBVFdDdnF6d3LgAggHEhxBcnogS2l5YSBIYWkgaXMgIzI1IGdsb2JhbGx5GjxBcnogS2l5YSBIYWkgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYy4gEK3wFJcVFCQ0FJU1V3b01RWEo2SUV0cGVXRWdTR0ZwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMkpRT0VGVVYwTjJjWHAzTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeU5TSUpRVzUxZGlCS1lXbHVHalVLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFNuVnNJRFlzSURJd01qWTRBeUlTQ2djak5rWTJSRVU1RWdjak1EQXdNREF3TUFFUhtzaGFyZWNhcmRfMTc4MzMyMTIwMF8yNS5qcGeCAoMDEpMCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxUUJDQUlTVXdvTVFYSjZJRXRwZVdFZ1NHRnBFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwySlFPRUZVVjBOMmNYcDNMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l5TlNJSlFXNTFkaUJLWVdsdUdqVUtIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9MU25Wc0lEWXNJREl3TWpZNEF5SVNDZ2NqTmtZMlJFVTVFZ2NqTURBd01EQXdNQUUaHEFyeiBLaXlhIEhhaSBpcyAjMjUgZ2xvYmFsbHkiPEFyeiBLaXlhIEhhaSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNioPCAkiCwoAEAMYASDiztQJ"
                       },
                       {
                         "id": "asG7cwxi1sA",
@@ -2263,16 +2263,16 @@
                         "isAvailable": true,
                         "artists": [
                           {
+                            "kgMid": "/g/11gnsdlcw3",
+                            "name": "KITSCHKRIEG"
+                          },
+                          {
                             "kgMid": "/g/11tn0_c26y",
                             "name": "Blumengarten"
                           },
                           {
                             "kgMid": "/g/11c1s2l2hb",
                             "name": "Shirin David"
-                          },
-                          {
-                            "kgMid": "/g/11gnsdlcw3",
-                            "name": "KITSCHKRIEG"
                           }
                         ],
                         "isVisible": true,
@@ -2293,10 +2293,10 @@
                         "songProducers": [
                           "KITSCHKRIEG"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ir8BCAISbgoJR3V0IEdlbnVnEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzBHbkE4VllPZmtvL21heHJlc2RlZmF1bHQuanBnGgIzMyIMQmx1bWVuZ2FydGVuIgxTaGlyaW4gRGF2aWQiC0tJVFNDSEtSSUVHGjUKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLSnVsIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ir8BCAISbgoJR3V0IEdlbnVnEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzBHbkE4VllPZmtvL21heHJlc2RlZmF1bHQuanBnGgIzMyILS0lUU0NIS1JJRUciDEJsdW1lbmdhcnRlbiIMU2hpcmluIERhdmlkGjUKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLSnVsIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCzVu1R27dBESV7ewkkeCpXg",
                         "channelName": "KITSCHKRIEG",
-                        "serializedShareEntity": "CgswR25BOFZZT2Zrb3L-AggHEhlHdXQgR2VudWcgaXMgIzMzIGdsb2JhbGx5GjlHdXQgR2VudWcgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYyhgIKgwJJcjhCQ0FJU2Jnb0pSM1YwSUVkbGJuVm5FalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6Qkhia0U0VmxsUFptdHZMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l6TXlJTVFteDFiV1Z1WjJGeWRHVnVJZ3hUYUdseWFXNGdSR0YyYVdRaUMwdEpWRk5EU0V0U1NVVkhHalVLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFNuVnNJRFlzSURJd01qWTRBeUlTQ2djak5rWTJSRVU1RWdjak1EQXdNREF3TUFFUhtzaGFyZWNhcmRfMTc4MzMyMTIwMF8zMy5qcGeCAqEDErcCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyOEJDQUlTYmdvSlIzVjBJRWRsYm5WbkVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTHpCSGJrRTRWbGxQWm10dkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSXpNeUlNUW14MWJXVnVaMkZ5ZEdWdUlneFRhR2x5YVc0Z1JHRjJhV1FpQzB0SlZGTkRTRXRTU1VWSEdqVUtIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9MU25Wc0lEWXNJREl3TWpZNEF5SVNDZ2NqTmtZMlJFVTVFZ2NqTURBd01EQXdNQUUaGUd1dCBHZW51ZyBpcyAjMzMgZ2xvYmFsbHkiOUd1dCBHZW51ZyBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNioPCAkiCwoAEAMYASDiztQJ"
+                        "serializedShareEntity": "CgswR25BOFZZT2Zrb3L-AggHEhlHdXQgR2VudWcgaXMgIzMzIGdsb2JhbGx5GjlHdXQgR2VudWcgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYyhgIKgwJJcjhCQ0FJU2Jnb0pSM1YwSUVkbGJuVm5FalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEx6Qkhia0U0VmxsUFptdHZMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0l6TXlJTFMwbFVVME5JUzFKSlJVY2lERUpzZFcxbGJtZGhjblJsYmlJTVUyaHBjbWx1SUVSaGRtbGtHalVLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFNuVnNJRFlzSURJd01qWTRBeUlTQ2djak5rWTJSRVU1RWdjak1EQXdNREF3TUFFUhtzaGFyZWNhcmRfMTc4MzMyMTIwMF8zMy5qcGeCAqEDErcCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyOEJDQUlTYmdvSlIzVjBJRWRsYm5WbkVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTHpCSGJrRTRWbGxQWm10dkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSXpNeUlMUzBsVVUwTklTMUpKUlVjaURFSnNkVzFsYm1kaGNuUmxiaUlNVTJocGNtbHVJRVJoZG1sa0dqVUtIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9MU25Wc0lEWXNJREl3TWpZNEF5SVNDZ2NqTmtZMlJFVTVFZ2NqTURBd01EQXdNQUUaGUd1dCBHZW51ZyBpcyAjMzMgZ2xvYmFsbHkiOUd1dCBHZW51ZyBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNioPCAkiCwoAEAMYASDiztQJ"
                       },
                       {
                         "id": "NqpnbSFprB4",
@@ -3300,7 +3300,7 @@
                       },
                       {
                         "id": "-0RUAQAMUac",
-                        "title": "Tebaa’n Tebaa’n",
+                        "title": "تباعاً تباعاً",
                         "viewCount": "918287",
                         "thumbnail": {
                           "thumbnails": [
@@ -3357,10 +3357,10 @@
                         "songProducers": [
                           "Tooma"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqkBCAISWAoTVGViYWHigJluIFRlYmFh4oCZbhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8tMFJVQVFBTVVhYy9tYXhyZXNkZWZhdWx0LmpwZxoCNDkiB1NoZXJpbmUaNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtKdWwgNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Iq8BCAISXgoZ2KrYqNin2LnYp9mLINiq2KjYp9i52KfZixI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8tMFJVQVFBTVVhYy9tYXhyZXNkZWZhdWx0LmpwZxoCNDkiB1NoZXJpbmUaNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtKdWwgNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UC6jp5ZOgZeMJY0b1wCnWwzQ",
                         "channelName": "Sony Music Middle East",
-                        "serializedShareEntity": "CgstMFJVQVFBTVVhY3L1AggHEiNUZWJhYeKAmW4gVGViYWHigJluIGlzICM0OSBnbG9iYWxseRpDVGViYWHigJluIFRlYmFh4oCZbiBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNjLpAQrmAUlxa0JDQUlTV0FvVFZHVmlZV0hpZ0psdUlGUmxZbUZoNG9DWmJoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM4dE1GSlZRVkZCVFZWaFl5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NORGtpQjFOb1pYSnBibVVhTlFvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dndEtkV3dnTml3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRUhtzaGFyZWNhcmRfMTc4MzMyMTIwMF80OS5qcGeCApgDEpoCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxa0JDQUlTV0FvVFZHVmlZV0hpZ0psdUlGUmxZbUZoNG9DWmJoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM4dE1GSlZRVkZCVFZWaFl5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NORGtpQjFOb1pYSnBibVVhTlFvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dndEtkV3dnTml3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRGiNUZWJhYeKAmW4gVGViYWHigJluIGlzICM0OSBnbG9iYWxseSJDVGViYWHigJluIFRlYmFh4oCZbiBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNioPCAkiCwoAEAMYASDiztQJ"
+                        "serializedShareEntity": "CgstMFJVQVFBTVVhY3KJAwgHEinYqtio2KfYudin2Ysg2KrYqNin2LnYp9mLIGlzICM0OSBnbG9iYWxseRpJ2KrYqNin2LnYp9mLINiq2KjYp9i52KfZiyBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNjLxAQruAUlxOEJDQUlTWGdvWjJLcllxTmluMkxuWXA5bUxJTmlxMktqWXA5aTUyS2ZaaXhJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzh0TUZKVlFWRkJUVlZoWXk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05Ea2lCMU5vWlhKcGJtVWFOUW9jUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d0S2RXd2dOaXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVFSG3NoYXJlY2FyZF8xNzgzMzIxMjAwXzQ5LmpwZ4ICrAMSogJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXE4QkNBSVNYZ29aMktyWXFOaW4yTG5ZcDltTElOaXEyS2pZcDlpNTJLZlppeEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOHRNRkpWUVZGQlRWVmhZeTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTkRraUIxTm9aWEpwYm1VYU5Rb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RLZFd3Z05pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURop2KrYqNin2LnYp9mLINiq2KjYp9i52KfZiyBpcyAjNDkgZ2xvYmFsbHkiSdiq2KjYp9i52KfZiyDYqtio2KfYudin2Ysgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYqDwgJIgsKABADGAEg4s7UCQ%3D%3D"
                       },
                       {
                         "id": "6zDfwVSvyEk",
@@ -3557,7 +3557,7 @@
                       },
                       {
                         "id": "0RxUcKE13ZI",
-                        "title": "Bandhu 2.0 (From \"Cocktail 2\")",
+                        "title": "Bandhu 2.0",
                         "viewCount": "900268",
                         "thumbnail": {
                           "thumbnails": [
@@ -3624,10 +3624,10 @@
                           "Irshad Kamil",
                           "Pritam Chakraborty"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuABCAISjgEKHkJhbmRodSAyLjAgKEZyb20gIkNvY2t0YWlsIDIiKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8wUnhVY0tFMTNaSS9tYXhyZXNkZWZhdWx0LmpwZxoCNTMiC0thdml0YSBTZXRoIg9OZWVyYWogU2hyaWRoYXIiDElyc2hhZCBLYW1pbCIGUHJpdGFtGjUKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLSnVsIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IssBCAISegoKQmFuZGh1IDIuMBI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS8wUnhVY0tFMTNaSS9tYXhyZXNkZWZhdWx0LmpwZxoCNTMiC0thdml0YSBTZXRoIg9OZWVyYWogU2hyaWRoYXIiDElyc2hhZCBLYW1pbCIGUHJpdGFtGjUKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLSnVsIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UC56gTxNs4f9xZ7Pa2i5xNzg",
                         "channelName": "Sony Music India",
-                        "serializedShareEntity": "CgswUnhVY0tFMTNaSXLUAwgHEi5CYW5kaHUgMi4wIChGcm9tICJDb2NrdGFpbCAyIikgaXMgIzUzIGdsb2JhbGx5Gk5CYW5kaHUgMi4wIChGcm9tICJDb2NrdGFpbCAyIikgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYysgIKrwJJdUFCQ0FJU2pnRUtIa0poYm1Sb2RTQXlMakFnS0VaeWIyMGdJa052WTJ0MFlXbHNJRElpS1JJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzh3VW5oVlkwdEZNVE5hU1M5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05UTWlDMHRoZG1sMFlTQlRaWFJvSWc5T1pXVnlZV29nVTJoeWFXUm9ZWElpREVseWMyaGhaQ0JMWVcxcGJDSUdVSEpwZEdGdEdqVUtIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9MU25Wc0lEWXNJREl3TWpZNEF5SVNDZ2NqTmtZMlJFVTVFZ2NqTURBd01EQXdNQUVSG3NoYXJlY2FyZF8xNzgzMzIxMjAwXzUzLmpwZ4IC9wMS4wJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXVBQkNBSVNqZ0VLSGtKaGJtUm9kU0F5TGpBZ0tFWnliMjBnSWtOdlkydDBZV2xzSURJaUtSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM4d1VuaFZZMHRGTVROYVNTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOVE1pQzB0aGRtbDBZU0JUWlhSb0lnOU9aV1Z5WVdvZ1UyaHlhV1JvWVhJaURFbHljMmhoWkNCTFlXMXBiQ0lHVUhKcGRHRnRHalVLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFNuVnNJRFlzSURJd01qWTRBeUlTQ2djak5rWTJSRVU1RWdjak1EQXdNREF3TUFFGi5CYW5kaHUgMi4wIChGcm9tICJDb2NrdGFpbCAyIikgaXMgIzUzIGdsb2JhbGx5Ik5CYW5kaHUgMi4wIChGcm9tICJDb2NrdGFpbCAyIikgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYqDwgJIgsKABADGAEg4s7UCQ%3D%3D"
+                        "serializedShareEntity": "CgswUnhVY0tFMTNaSXKQAwgHEhpCYW5kaHUgMi4wIGlzICM1MyBnbG9iYWxseRo6QmFuZGh1IDIuMCBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNjKWAgqTAklzc0JDQUlTZWdvS1FtRnVaR2gxSURJdU1CSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM4d1VuaFZZMHRGTVROYVNTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOVE1pQzB0aGRtbDBZU0JUWlhSb0lnOU9aV1Z5WVdvZ1UyaHlhV1JvWVhJaURFbHljMmhoWkNCTFlXMXBiQ0lHVUhKcGRHRnRHalVLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFNuVnNJRFlzSURJd01qWTRBeUlTQ2djak5rWTJSRVU1RWdjak1EQXdNREF3TUFFUhtzaGFyZWNhcmRfMTc4MzMyMTIwMF81My5qcGeCArMDEscCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzc0JDQUlTZWdvS1FtRnVaR2gxSURJdU1CSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM4d1VuaFZZMHRGTVROYVNTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOVE1pQzB0aGRtbDBZU0JUWlhSb0lnOU9aV1Z5WVdvZ1UyaHlhV1JvWVhJaURFbHljMmhoWkNCTFlXMXBiQ0lHVUhKcGRHRnRHalVLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFNuVnNJRFlzSURJd01qWTRBeUlTQ2djak5rWTJSRVU1RWdjak1EQXdNREF3TUFFGhpCYW5kaHUgMi4wIGlzICM1MyBnbG9iYWxseSI6QmFuZGh1IDIuMCBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNioPCAkiCwoAEAMYASDiztQJ"
                       },
                       {
                         "id": "cL0KKSPjZf8",
@@ -3970,7 +3970,7 @@
                       },
                       {
                         "id": "T24rF_x0TmQ",
-                        "title": "ヤラララ(YARARARA)",
+                        "title": "ヤラララ",
                         "viewCount": "840686",
                         "thumbnail": {
                           "thumbnails": [
@@ -4021,10 +4021,10 @@
                           "month": 5,
                           "day": 24
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrYBCAISZQoW44Ok44Op44Op44OpKFlBUkFSQVJBKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9UMjRyRl94MFRtUS9tYXhyZXNkZWZhdWx0LmpwZxoCNTkiEUFueXRoaW5nQmVjb21lTW9lGjUKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLSnVsIDYsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqwBCAISWwoM44Ok44Op44Op44OpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1QyNHJGX3gwVG1RL21heHJlc2RlZmF1bHQuanBnGgI1OSIRQW55dGhpbmdCZWNvbWVNb2UaNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtKdWwgNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UCzJChEiqDKWtmWZJycgojkQ",
                         "channelName": "AnythingBecomeMoe",
-                        "serializedShareEntity": "CgtUMjRyRl94MFRtUXKMAwgHEibjg6Tjg6njg6njg6koWUFSQVJBUkEpIGlzICM1OSBnbG9iYWxseRpG44Ok44Op44Op44OpKFlBUkFSQVJBKSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNjL6AQr3AUlyWUJDQUlTWlFvVzQ0T2s0NE9wNDRPcDQ0T3BLRmxCVWtGU1FWSkJLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOVVNalJ5Umw5NE1GUnRVUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTlRraUVVRnVlWFJvYVc1blFtVmpiMjFsVFc5bEdqVUtIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9MU25Wc0lEWXNJREl3TWpZNEF5SVNDZ2NqTmtZMlJFVTVFZ2NqTURBd01EQXdNQUVSG3NoYXJlY2FyZF8xNzgzMzIxMjAwXzU5LmpwZ4ICrwMSqwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJZQkNBSVNaUW9XNDRPazQ0T3A0NE9wNDRPcEtGbEJVa0ZTUVZKQktSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5VU1qUnlSbDk0TUZSdFVTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NOVGtpRVVGdWVYUm9hVzVuUW1WamIyMWxUVzlsR2pVS0hFUmhhV3g1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb0xTblZzSURZc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRRom44Ok44Op44Op44OpKFlBUkFSQVJBKSBpcyAjNTkgZ2xvYmFsbHkiRuODpOODqeODqeODqShZQVJBUkFSQSkgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYqDwgJIgsKABADGAEg4s7UCQ%3D%3D"
+                        "serializedShareEntity": "CgtUMjRyRl94MFRtUXLrAggHEhzjg6Tjg6njg6njg6kgaXMgIzU5IGdsb2JhbGx5Gjzjg6Tjg6njg6njg6kgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYy7QEK6gFJcXdCQ0FJU1d3b000NE9rNDRPcDQ0T3A0NE9wRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMVF5TkhKR1gzZ3dWRzFSTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMU9TSVJRVzU1ZEdocGJtZENaV052YldWTmIyVWFOUW9jUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d0S2RXd2dOaXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVFSG3NoYXJlY2FyZF8xNzgzMzIxMjAwXzU5LmpwZ4ICjgMSngJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXF3QkNBSVNXd29NNDRPazQ0T3A0NE9wNDRPcEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDFReU5ISkdYM2d3VkcxUkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTFPU0lSUVc1NWRHaHBibWRDWldOdmJXVk5iMlVhTlFvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dndEtkV3dnTml3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRGhzjg6Tjg6njg6njg6kgaXMgIzU5IGdsb2JhbGx5Ijzjg6Tjg6njg6njg6kgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYqDwgJIgsKABADGAEg4s7UCQ%3D%3D"
                       },
                       {
                         "id": "JUhcNNwha7w",
@@ -4425,7 +4425,7 @@
                       },
                       {
                         "id": "AZuZzXvBesk",
-                        "title": "Bongmedia - Amer Achaar | আমের আঁচার | Hit Song 2026 | Rap Song | Ujjal Film",
+                        "title": "আমের আঁচার",
                         "viewCount": "769476",
                         "thumbnail": {
                           "thumbnails": [
@@ -4493,10 +4493,10 @@
                         "songwriters": [
                           "Acoustic Dipankar"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrACCAIS3gEKXkJvbmdtZWRpYSAtIEFtZXIgQWNoYWFyIHwg4KaG4Kau4KeH4KawIOCmhuCmgeCmmuCmvuCmsCB8IEhpdCBTb25nIDIwMjYgfCBSYXAgU29uZyB8IFVqamFsIEZpbG0SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvQVp1WnpYdkJlc2svbWF4cmVzZGVmYXVsdC5qcGcaAjY2IghMaXlheiBNZCINTWFuYXNoaSBCYXNhayIRQWNvdXN0aWMgRGlwYW5rYXIiCEFubmEgRGFzIgxVamphbCBCYXJtYW4aNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtKdWwgNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Iu4BCAISnAEKHOCmhuCmruCnh-CmsCDgpobgpoHgpprgpr7gprASNGh0dHBzOi8vaS55dGltZy5jb20vdmkvQVp1WnpYdkJlc2svbWF4cmVzZGVmYXVsdC5qcGcaAjY2IghMaXlheiBNZCINTWFuYXNoaSBCYXNhayIRQWNvdXN0aWMgRGlwYW5rYXIiCEFubmEgRGFzIgxVamphbCBCYXJtYW4aNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtKdWwgNiwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UCsGb7MhHVgATaATD8NE4Nfw",
                         "channelName": "Ujjal Film",
-                        "serializedShareEntity": "CgtBWnVaelh2QmVza3LABQgHEm5Cb25nbWVkaWEgLSBBbWVyIEFjaGFhciB8IOCmhuCmruCnh-CmsCDgpobgpoHgpprgpr7gprAgfCBIaXQgU29uZyAyMDI2IHwgUmFwIFNvbmcgfCBVamphbCBGaWxtIGlzICM2NiBnbG9iYWxseRqOAUJvbmdtZWRpYSAtIEFtZXIgQWNoYWFyIHwg4KaG4Kau4KeH4KawIOCmhuCmgeCmmuCmvuCmsCB8IEhpdCBTb25nIDIwMjYgfCBSYXAgU29uZyB8IFVqamFsIEZpbG0gb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYynQMKmgNJckFDQ0FJUzNnRUtYa0p2Ym1kdFpXUnBZU0F0SUVGdFpYSWdRV05vWVdGeUlId2c0S2FHNEthdTRLZUg0S2F3SU9DbWh1Q21nZUNtbXVDbXZ1Q21zQ0I4SUVocGRDQlRiMjVuSURJd01qWWdmQ0JTWVhBZ1UyOXVaeUI4SUZWcWFtRnNJRVpwYkcwU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2UVZwMVducFlka0psYzJzdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqWTJJZ2hNYVhsaGVpQk5aQ0lOVFdGdVlYTm9hU0JDWVhOaGF5SVJRV052ZFhOMGFXTWdSR2x3WVc1cllYSWlDRUZ1Ym1FZ1JHRnpJZ3hWYW1waGJDQkNZWEp0WVc0YU5Rb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RLZFd3Z05pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBUVIbc2hhcmVjYXJkXzE3ODMzMjEyMDBfNjYuanBnggLjBRLOA2h0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JckFDQ0FJUzNnRUtYa0p2Ym1kdFpXUnBZU0F0SUVGdFpYSWdRV05vWVdGeUlId2c0S2FHNEthdTRLZUg0S2F3SU9DbWh1Q21nZUNtbXVDbXZ1Q21zQ0I4SUVocGRDQlRiMjVuSURJd01qWWdmQ0JTWVhBZ1UyOXVaeUI4SUZWcWFtRnNJRVpwYkcwU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2UVZwMVducFlka0psYzJzdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqWTJJZ2hNYVhsaGVpQk5aQ0lOVFdGdVlYTm9hU0JDWVhOaGF5SVJRV052ZFhOMGFXTWdSR2x3WVc1cllYSWlDRUZ1Ym1FZ1JHRnpJZ3hWYW1waGJDQkNZWEp0WVc0YU5Rb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RLZFd3Z05pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURpuQm9uZ21lZGlhIC0gQW1lciBBY2hhYXIgfCDgpobgpq7gp4fgprAg4KaG4KaB4Kaa4Ka-4KawIHwgSGl0IFNvbmcgMjAyNiB8IFJhcCBTb25nIHwgVWpqYWwgRmlsbSBpcyAjNjYgZ2xvYmFsbHkijgFCb25nbWVkaWEgLSBBbWVyIEFjaGFhciB8IOCmhuCmruCnh-CmsCDgpobgpoHgpprgpr7gprAgfCBIaXQgU29uZyAyMDI2IHwgUmFwIFNvbmcgfCBVamphbCBGaWxtIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bCA2LCAyMDI2Kg8ICSILCgAQAxgBIOLO1Ak%3D"
+                        "serializedShareEntity": "CgtBWnVaelh2QmVza3LjAwgHEizgpobgpq7gp4fgprAg4KaG4KaB4Kaa4Ka-4KawIGlzICM2NiBnbG9iYWxseRpM4KaG4Kau4KeH4KawIOCmhuCmgeCmmuCmvuCmsCBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgNiwgMjAyNjLFAgrCAkl1NEJDQUlTbkFFS0hPQ21odUNtcnVDbmgtQ21zQ0RncG9iZ3BvSGdwcHJncHI3Z3ByQVNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlFWcDFXbnBZZGtKbGMyc3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalkySWdoTWFYbGhlaUJOWkNJTlRXRnVZWE5vYVNCQ1lYTmhheUlSUVdOdmRYTjBhV01nUkdsd1lXNXJZWElpQ0VGdWJtRWdSR0Z6SWd4VmFtcGhiQ0JDWVhKdFlXNGFOUW9jUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d0S2RXd2dOaXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVFSG3NoYXJlY2FyZF8xNzgzMzIxMjAwXzY2LmpwZ4IChgQS9gJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXU0QkNBSVNuQUVLSE9DbWh1Q21ydUNuaC1DbXNDRGdwb2JncG9IZ3BwcmdwcjdncHJBU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2UVZwMVducFlka0psYzJzdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqWTJJZ2hNYVhsaGVpQk5aQ0lOVFdGdVlYTm9hU0JDWVhOaGF5SVJRV052ZFhOMGFXTWdSR2x3WVc1cllYSWlDRUZ1Ym1FZ1JHRnpJZ3hWYW1waGJDQkNZWEp0WVc0YU5Rb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RLZFd3Z05pd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURos4KaG4Kau4KeH4KawIOCmhuCmgeCmmuCmvuCmsCBpcyAjNjYgZ2xvYmFsbHkiTOCmhuCmruCnh-CmsCDgpobgpoHgpprgpr7gprAgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDYsIDIwMjYqDwgJIgsKABADGAEg4s7UCQ%3D%3D"
                       },
                       {
                         "id": "J_d_Q3pTYcc",
@@ -6795,9 +6795,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjjy7a5ncOVAxWB-MIEHVD_PEc="
+        "trackingParams": "CAEQui8iEwj5yIeM5sOVAxV-Dq0GHa82BqA="
       }
     },
-    "trackingParams": "CAAQhGciEwjjy7a5ncOVAxWB-MIEHVD_PEfKAQRqjbu5"
+    "trackingParams": "CAAQhGciEwj5yIeM5sOVAxV-Dq0GHa82BqDKAQSgDrjB"
   }
 }
