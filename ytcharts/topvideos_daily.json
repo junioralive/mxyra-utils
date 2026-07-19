@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-07-19T02:21:05.561936+00:00",
+  "captured_at_utc": "2026-07-19T08:09:46.041002+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtEMGFTSmxLZk15dyiI6fDSBjIKCgJVUxIEGgAgDw%3D%3D",
-      "responseId": "IhMIoq68hNfdlQMVa9A_BB2u-CuW"
+      "visitorData": "CgsyS2tUNGdmcjR4MCjAjPLSBjIKCgJVUxIEGgAgaA%3D%3D",
+      "responseId": "IhMInaGR_KTelQMVysLCBB2BsjB2"
     },
     "contents": {
       "sectionListRenderer": {
@@ -30,7 +30,13 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-09"
+                      "latestEndDate": "2026-07-16"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-07-16"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
@@ -39,10 +45,10 @@
                       "latestEndDate": "2026-07-17"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-07-09"
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-07-16"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -51,16 +57,10 @@
                       "latestEndDate": "2026-07-17"
                     },
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-09"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-09"
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-07-16"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1526,6 +1526,10 @@
                           "month": 7,
                           "day": 17
                         },
+                        "songwriters": [
+                          "Anirudh Ravichander",
+                          "Karthik Netha"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Iv8BCAISrAEKZkphbmEgTmF5YWdhbiAtIEFkaXllIEVuIFBvb250aGVuZSBMeXJpY2FsIHwgSG9u4oCZYmxlIENNIFZpamF5IHwgUG9vamEgSGVnZGUgfCBIIFZpbm90aCB8IEFuaXJ1ZGh8IEtWThI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS91MDZCNEJWVGd2VS9tYXhyZXNkZWZhdWx0LmpwZxoCMjIiCFQtU2VyaWVzGjYKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMSnVsIDE3LCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMDAB",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
                         "channelName": "T-Series",
@@ -3279,14 +3283,6 @@
                           {
                             "kgMid": "/m/04fzp51",
                             "name": "Jason Derulo"
-                          },
-                          {
-                            "kgMid": "/g/11c1wwx3bl",
-                            "name": "Dj Goja"
-                          },
-                          {
-                            "kgMid": "/g/11cn69vbf5",
-                            "name": "Melody"
                           }
                         ],
                         "isVisible": true,
@@ -3305,10 +3301,10 @@
                           "Jason Derulo",
                           "Evangelos Siakas"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrUBCAISYwoITWkgQ2hpY28SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvNkRiLWNFZ2JtQzQvbWF4cmVzZGVmYXVsdC5qcGcaAjQ4IgxKYXNvbiBEZXJ1bG8iB0RqIEdvamEiBk1lbG9keRo2ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDEp1bCAxNywgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQBCAISUgoITWkgQ2hpY28SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvNkRiLWNFZ2JtQzQvbWF4cmVzZGVmYXVsdC5qcGcaAjQ4IgxKYXNvbiBEZXJ1bG8aNgocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxKdWwgMTcsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCe3yZzUwpmy2eKKmF9svX0Q",
                         "channelName": "Jason Derulo",
-                        "serializedShareEntity": "Cgs2RGItY0VnYm1DNHLwAggHEhhNaSBDaGljbyBpcyAjNDggZ2xvYmFsbHkaOU1pIENoaWNvIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bCAxNywgMjAyNjL5AQr2AUlyVUJDQUlTWXdvSVRXa2dRMmhwWTI4U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2TmtSaUxXTkZaMkp0UXpRdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqUTRJZ3hLWVhOdmJpQkVaWEoxYkc4aUIwUnFJRWR2YW1FaUJrMWxiRzlrZVJvMkNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FERXAxYkNBeE55d2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBUVIbc2hhcmVjYXJkXzE3ODQyNzE2MDBfNDguanBnggKTAxKqAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JclVCQ0FJU1l3b0lUV2tnUTJocFkyOFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk5rUmlMV05GWjJKdFF6UXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBalE0SWd4S1lYTnZiaUJFWlhKMWJHOGlCMFJxSUVkdmFtRWlCazFsYkc5a2VSbzJDaHhFWVdsc2VTQlViM0FnVFhWemFXTWdWbWxrWlc5eklFTm9ZWEowRWdaSGJHOWlZV3dhREVwMWJDQXhOeXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVEaGE1pIENoaWNvIGlzICM0OCBnbG9iYWxseSI5TWkgQ2hpY28gb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDE3LCAyMDI2Kg8ICSILCgAQAxgBIO3O1Ak%3D"
+                        "serializedShareEntity": "Cgs2RGItY0VnYm1DNHLZAggHEhhNaSBDaGljbyBpcyAjNDggZ2xvYmFsbHkaOU1pIENoaWNvIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bCAxNywgMjAyNjLiAQrfAUlxUUJDQUlTVWdvSVRXa2dRMmhwWTI4U05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2TmtSaUxXTkZaMkp0UXpRdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqUTRJZ3hLWVhOdmJpQkVaWEoxYkc4YU5nb2NSR0ZwYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3hLZFd3Z01UY3NJREl3TWpZNEF5SVNDZ2NqTmtZMlJFVTVFZ2NqTURBd01EQXdNQUVSG3NoYXJlY2FyZF8xNzg0MjcxNjAwXzQ4LmpwZ4IC_AISkwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFRQkNBSVNVZ29JVFdrZ1EyaHBZMjhTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZOa1JpTFdORloySnRRelF2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpRNElneEtZWE52YmlCRVpYSjFiRzhhTmdvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneEtkV3dnTVRjc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRRoYTWkgQ2hpY28gaXMgIzQ4IGdsb2JhbGx5IjlNaSBDaGljbyBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgMTcsIDIwMjYqDwgJIgsKABADGAEg7c7UCQ%3D%3D"
                       },
                       {
                         "id": "A7ShtPRP2Mc",
@@ -3579,7 +3575,7 @@
                       },
                       {
                         "id": "C40oligg6xE",
-                        "title": "Na Li Ka Sai (sign)",
+                        "title": "นาฬิกาทราย (sign)",
                         "viewCount": "950884",
                         "thumbnail": {
                           "thumbnails": [
@@ -3637,10 +3633,10 @@
                           "BOWKYLION",
                           "Yoryeeyee"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqwBCAISWgoTTmEgTGkgS2EgU2FpIChzaWduKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9DNDBvbGlnZzZ4RS9tYXhyZXNkZWZhdWx0LmpwZxoCNTMiCUJPV0tZTElPTho2ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDEp1bCAxNywgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Ir4BCAISbAol4LiZ4Liy4Lis4Li04LiB4Liy4LiX4Lij4Liy4LiiIChzaWduKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9DNDBvbGlnZzZ4RS9tYXhyZXNkZWZhdWx0LmpwZxoCNTMiCUJPV0tZTElPTho2ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDEp1bCAxNywgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UCkKeG3Vz6R0JZowsYE2hMHQ",
                         "channelName": "Whattheduck",
-                        "serializedShareEntity": "CgtDNDBvbGlnZzZ4RXL6AggHEiNOYSBMaSBLYSBTYWkgKHNpZ24pIGlzICM1MyBnbG9iYWxseRpETmEgTGkgS2EgU2FpIChzaWduKSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgMTcsIDIwMjYy7QEK6gFJcXdCQ0FJU1dnb1RUbUVnVEdrZ1MyRWdVMkZwSUNoemFXZHVLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOUROREJ2Ykdsblp6WjRSUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTlRNaUNVSlBWMHRaVEVsUFRobzJDaHhFWVdsc2VTQlViM0FnVFhWemFXTWdWbWxrWlc5eklFTm9ZWEowRWdaSGJHOWlZV3dhREVwMWJDQXhOeXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVFSG3NoYXJlY2FyZF8xNzg0MjcxNjAwXzUzLmpwZ4ICnQMSngJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXF3QkNBSVNXZ29UVG1FZ1RHa2dTMkVnVTJGcElDaHphV2R1S1JJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlETkRCdmJHbG5aelo0UlM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05UTWlDVUpQVjB0WlRFbFBUaG8yQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURFcDFiQ0F4Tnl3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRGiNOYSBMaSBLYSBTYWkgKHNpZ24pIGlzICM1MyBnbG9iYWxseSJETmEgTGkgS2EgU2FpIChzaWduKSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgMTcsIDIwMjYqDwgJIgsKABADGAEg7c7UCQ%3D%3D"
+                        "serializedShareEntity": "CgtDNDBvbGlnZzZ4RXK2AwgHEjXguJnguLLguKzguLTguIHguLLguJfguKPguLLguKIgKHNpZ24pIGlzICM1MyBnbG9iYWxseRpW4LiZ4Liy4Lis4Li04LiB4Liy4LiX4Lij4Liy4LiiIChzaWduKSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgMTcsIDIwMjYyhQIKggJJcjRCQ0FJU2JBb2w0TGlaNExpeTRMaXM0TGkwNExpQjRMaXk0TGlYNExpajRMaXk0TGlpSUNoemFXZHVLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOUROREJ2Ykdsblp6WjRSUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTlRNaUNVSlBWMHRaVEVsUFRobzJDaHhFWVdsc2VTQlViM0FnVFhWemFXTWdWbWxrWlc5eklFTm9ZWEowRWdaSGJHOWlZV3dhREVwMWJDQXhOeXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVFSG3NoYXJlY2FyZF8xNzg0MjcxNjAwXzUzLmpwZ4IC2QMStgJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXI0QkNBSVNiQW9sNExpWjRMaXk0TGlzNExpMDRMaUI0TGl5NExpWDRMaWo0TGl5NExpaUlDaHphV2R1S1JJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlETkRCdmJHbG5aelo0UlM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05UTWlDVUpQVjB0WlRFbFBUaG8yQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURFcDFiQ0F4Tnl3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRGjXguJnguLLguKzguLTguIHguLLguJfguKPguLLguKIgKHNpZ24pIGlzICM1MyBnbG9iYWxseSJW4LiZ4Liy4Lis4Li04LiB4Liy4LiX4Lij4Liy4LiiIChzaWduKSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgMTcsIDIwMjYqDwgJIgsKABADGAEg7c7UCQ%3D%3D"
                       },
                       {
                         "viewCount": "945899",
@@ -6709,9 +6705,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiirryE192VAxVr0D8EHa74K5Y="
+        "trackingParams": "CAEQui8iEwidoZH8pN6VAxXKwsIEHYGyMHY="
       }
     },
-    "trackingParams": "CAAQhGciEwiirryE192VAxVr0D8EHa74K5bKAQTUug4B"
+    "trackingParams": "CAAQhGciEwidoZH8pN6VAxXKwsIEHYGyMHbKAQR-hX7g"
   }
 }
