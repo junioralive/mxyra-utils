@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-07-22T13:42:23.364985+00:00",
+  "captured_at_utc": "2026-07-22T19:09:27.996367+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtGeTJpcEtLeFlkRSi1kYPTBjIKCgJVUxIEGgAgDQ%3D%3D",
-      "responseId": "IhMI783Y9LTmlQMVqzWtBh2Y8TeS"
+      "visitorData": "CgtwMi1XNGN6UFJ6YyjeqoTTBjIKCgJVUxIEGgAgTg%3D%3D",
+      "responseId": "IhMI3Kq5gv7mlQMV4NE_BB3VFBbd"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,7 +27,25 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-07-16"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-07-20"
+                    },
+                    {
                       "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-07-16"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-07-16"
@@ -43,24 +61,6 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-07-20"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-16"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-07-20"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-16"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -4122,7 +4122,7 @@
                       },
                       {
                         "id": "RBumgq5yVrA",
-                        "title": "Let Her Go (Live)",
+                        "title": "Let Her Go",
                         "viewCount": "4857643",
                         "thumbnail": {
                           "thumbnails": [
@@ -4172,10 +4172,10 @@
                           "month": 7,
                           "day": 25
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqsBCAISWAoRTGV0IEhlciBHbyAoTGl2ZSkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvUkJ1bWdxNXlWckEvbWF4cmVzZGVmYXVsdC5qcGcaAjYxIglQYXNzZW5nZXIaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMSnVsIDE2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQBCAISUQoKTGV0IEhlciBHbxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9SQnVtZ3E1eVZyQS9tYXhyZXNkZWZhdWx0LmpwZxoCNjEiCVBhc3Nlbmdlcho3Ch1XZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxKdWwgMTYsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
                         "externalChannelId": "UCFHtCB_FWXQ8GpjgfYcD8-g",
                         "channelName": "Passenger",
-                        "serializedShareEntity": "CgtSQnVtZ3E1eVZyQXL1AggHEiFMZXQgSGVyIEdvIChMaXZlKSBpcyAjNjEgZ2xvYmFsbHkaQ0xldCBIZXIgR28gKExpdmUpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBKdWwgMTYsIDIwMjYy6wEK6AFJcXNCQ0FJU1dBb1JUR1YwSUVobGNpQkhieUFvVEdsMlpTa1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlVrSjFiV2R4TlhsV2NrRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBall4SWdsUVlYTnpaVzVuWlhJYU53b2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NU25Wc0lERTJMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCUhtzaGFyZWNhcmRfMTc4NDE4NTIwMF82MS5qcGeCApgDEpwCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxc0JDQUlTV0FvUlRHVjBJRWhsY2lCSGJ5QW9UR2wyWlNrU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2VWtKMWJXZHhOWGxXY2tFdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqWXhJZ2xRWVhOelpXNW5aWElhTndvZFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb01TblZzSURFMkxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9UQUIaIUxldCBIZXIgR28gKExpdmUpIGlzICM2MSBnbG9iYWxseSJDTGV0IEhlciBHbyAoTGl2ZSkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bCAxNiwgMjAyNioPCAkiCwoAEAMYAiDsztQJ"
+                        "serializedShareEntity": "CgtSQnVtZ3E1eVZyQXLeAggHEhpMZXQgSGVyIEdvIGlzICM2MSBnbG9iYWxseRo8TGV0IEhlciBHbyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDE2LCAyMDI2MuIBCt8BSXFRQkNBSVNVUW9LVEdWMElFaGxjaUJIYnhJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlTUW5WdFozRTFlVlp5UVM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ05qRWlDVkJoYzNObGJtZGxjaG8zQ2gxWFpXVnJiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneEtkV3dnTVRZc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNU1BRVIbc2hhcmVjYXJkXzE3ODQxODUyMDBfNjEuanBnggKBAxKTAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcVFCQ0FJU1VRb0tUR1YwSUVobGNpQkhieEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOVNRblZ0WjNFMWVWWnlRUzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTmpFaUNWQmhjM05sYm1kbGNobzNDaDFYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d4S2RXd2dNVFlzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFGhpMZXQgSGVyIEdvIGlzICM2MSBnbG9iYWxseSI8TGV0IEhlciBHbyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDE2LCAyMDI2Kg8ICSILCgAQAxgCIOzO1Ak%3D"
                       },
                       {
                         "id": "Ys7-6_t7OEQ",
@@ -5991,13 +5991,6 @@
                           "month": 5,
                           "day": 24
                         },
-                        "songwriters": [
-                          "Sergio Guillen Bancalero",
-                          "Antonio Jesús Pérez Fuentes"
-                        ],
-                        "songProducers": [
-                          "Sergio Guillen Bancalero"
-                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Iq4BCAISWwoM44Ok44Op44Op44OpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1QyNHJGX3gwVG1RL21heHJlc2RlZmF1bHQuanBnGgI4OSIRQW55dGhpbmdCZWNvbWVNb2UaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMSnVsIDE2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
                         "externalChannelId": "UCzJChEiqDKWtmWZJycgojkQ",
                         "channelName": "AnythingBecomeMoe",
@@ -6703,9 +6696,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjvzdj0tOaVAxWrNa0GHZjxN5I="
+        "trackingParams": "CAEQui8iEwjcqrmC_uaVAxXg0T8EHdUUFt0="
       }
     },
-    "trackingParams": "CAAQhGciEwjvzdj0tOaVAxWrNa0GHZjxN5LKAQQ4Meiz"
+    "trackingParams": "CAAQhGciEwjcqrmC_uaVAxXg0T8EHdUUFt3KAQQ8AcOH"
   }
 }
