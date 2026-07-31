@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-07-31T13:55:40.635328+00:00",
+  "captured_at_utc": "2026-07-31T19:19:18.810174+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtqRzJTbEVkNlVsTSjT0rLTBjIKCgJVUxIEGgAgIQ%3D%3D",
-      "responseId": "IhMIuKfA1Yj9lQMVmUsSAR1GVQV-"
+      "visitorData": "CgtuWmFBZDE4RXZOdyit6rPTBjIKCgJVUxIEGgAgYg%3D%3D",
+      "responseId": "IhMI38HmgNH9lQMVHW4SAR2_OzUj"
     },
     "contents": {
       "sectionListRenderer": {
@@ -28,30 +28,30 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-07-23"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-07-29"
+                      "latestEndDate": "2026-07-30"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-07-29"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-07-23"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-07-23"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-07-30"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-07-23"
@@ -1284,7 +1284,8 @@
                             "name": "Mc Bruninho"
                           },
                           {
-                            "name": "MC Vitinho Ferrari"
+                            "kgMid": "/g/11j9f7s1g0",
+                            "name": "Vitinho Ferrari"
                           }
                         ],
                         "isVisible": true,
@@ -1302,8 +1303,8 @@
                           "Marcos Cesar",
                           "Davi Firma"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IosCCAIStAEKClNvdSBGYXZlbGESgAFodHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vaVNOYTZNaHlEYzBTR2dCUnVZRUVmTzJCajdmeWJGMjNnS1R1cEtfRHYwYk1GemdYNS16WklhZ2RvTVo2V21WY1pvcHo3M1c5amF6T3ZtSGE0UT13OTAwLWg5MDAtcBoCMjkiC01jIEJydW5pbmhvIhJNQyBWaXRpbmhvIEZlcnJhcmkaOgogV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMgQ2hhcnQSBkdsb2JhbBoMSnVsIDIzLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQzAB",
-                        "serializedShareEntity": "CgtQdkpJd1NQdGU0RXLqAwgHEhpTb3UgRmF2ZWxhIGlzICMyOSBnbG9iYWxseRo_U291IEZhdmVsYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gSnVsIDIzLCAyMDI2MusCCugCSW9zQ0NBSVN0QUVLQ2xOdmRTQkdZWFpsYkdFU2dBRm9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdmFWTk9ZVFpOYUhsRVl6QlRSMmRDVW5WWlJVVm1UekpDYWpkbWVXSkdNak5uUzFSMWNFdGZSSFl3WWsxR2VtZFlOUzE2V2tsaFoyUnZUVm8yVjIxV1kxcHZjSG8zTTFjNWFtRjZUM1p0U0dFMFVUMTNPVEF3TFdnNU1EQXRjQm9DTWpraUMwMWpJRUp5ZFc1cGJtaHZJaEpOUXlCV2FYUnBibWh2SUVabGNuSmhjbWthT2dvZ1YyVmxhMng1SUZSdmNDQlRiMjVuY3lCdmJpQlRhRzl5ZEhNZ1EyaGhjblFTQmtkc2IySmhiQm9NU25Wc0lESXpMQ0F5TURJMk9BWWlFZ29ISXpBd01EQXdNQklISTBaR00wVkZRekFCUhtzaGFyZWNhcmRfMTc4NDc5MDAwMF8yOS5qcGeCAo0EEpwDaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlvc0NDQUlTdEFFS0NsTnZkU0JHWVhabGJHRVNnQUZvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZhVk5PWVRaTmFIbEVZekJUUjJkQ1VuVlpSVVZtVHpKQ2FqZG1lV0pHTWpOblMxUjFjRXRmUkhZd1lrMUdlbWRZTlMxNldrbGhaMlJ2VFZvMlYyMVdZMXB2Y0hvM00xYzVhbUY2VDNadFNHRTBVVDEzT1RBd0xXZzVNREF0Y0JvQ01qa2lDMDFqSUVKeWRXNXBibWh2SWhKTlF5QldhWFJwYm1odklFWmxjbkpoY21rYU9nb2dWMlZsYTJ4NUlGUnZjQ0JUYjI1bmN5QnZiaUJUYUc5eWRITWdRMmhoY25RU0JrZHNiMkpoYkJvTVNuVnNJREl6TENBeU1ESTJPQVlpRWdvSEl6QXdNREF3TUJJSEkwWkdNMFZGUXpBQhoaU291IEZhdmVsYSBpcyAjMjkgZ2xvYmFsbHkiP1NvdSBGYXZlbGEgb24gR2xvYmFsIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIEp1bCAyMywgMjAyNioPCAoiCwoAEAYYAiDzztQJ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IogCCAISsQEKClNvdSBGYXZlbGESgAFodHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vaVNOYTZNaHlEYzBTR2dCUnVZRUVmTzJCajdmeWJGMjNnS1R1cEtfRHYwYk1GemdYNS16WklhZ2RvTVo2V21WY1pvcHo3M1c5amF6T3ZtSGE0UT13OTAwLWg5MDAtcBoCMjkiC01jIEJydW5pbmhvIg9WaXRpbmhvIEZlcnJhcmkaOgogV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMgQ2hhcnQSBkdsb2JhbBoMSnVsIDIzLCAyMDI2OAYiEgoHIzAwMDAwMBIHI0ZGM0VFQzAB",
+                        "serializedShareEntity": "CgtQdkpJd1NQdGU0RXLmAwgHEhpTb3UgRmF2ZWxhIGlzICMyOSBnbG9iYWxseRo_U291IEZhdmVsYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gSnVsIDIzLCAyMDI2MucCCuQCSW9nQ0NBSVNzUUVLQ2xOdmRTQkdZWFpsYkdFU2dBRm9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdmFWTk9ZVFpOYUhsRVl6QlRSMmRDVW5WWlJVVm1UekpDYWpkbWVXSkdNak5uUzFSMWNFdGZSSFl3WWsxR2VtZFlOUzE2V2tsaFoyUnZUVm8yVjIxV1kxcHZjSG8zTTFjNWFtRjZUM1p0U0dFMFVUMTNPVEF3TFdnNU1EQXRjQm9DTWpraUMwMWpJRUp5ZFc1cGJtaHZJZzlXYVhScGJtaHZJRVpsY25KaGNta2FPZ29nVjJWbGEyeDVJRlJ2Y0NCVGIyNW5jeUJ2YmlCVGFHOXlkSE1nUTJoaGNuUVNCa2RzYjJKaGJCb01TblZzSURJekxDQXlNREkyT0FZaUVnb0hJekF3TURBd01CSUhJMFpHTTBWRlF6QUJSG3NoYXJlY2FyZF8xNzg0NzkwMDAwXzI5LmpwZ4ICiQQSmANodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SW9nQ0NBSVNzUUVLQ2xOdmRTQkdZWFpsYkdFU2dBRm9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdmFWTk9ZVFpOYUhsRVl6QlRSMmRDVW5WWlJVVm1UekpDYWpkbWVXSkdNak5uUzFSMWNFdGZSSFl3WWsxR2VtZFlOUzE2V2tsaFoyUnZUVm8yVjIxV1kxcHZjSG8zTTFjNWFtRjZUM1p0U0dFMFVUMTNPVEF3TFdnNU1EQXRjQm9DTWpraUMwMWpJRUp5ZFc1cGJtaHZJZzlXYVhScGJtaHZJRVpsY25KaGNta2FPZ29nVjJWbGEyeDVJRlJ2Y0NCVGIyNW5jeUJ2YmlCVGFHOXlkSE1nUTJoaGNuUVNCa2RzYjJKaGJCb01TblZzSURJekxDQXlNREkyT0FZaUVnb0hJekF3TURBd01CSUhJMFpHTTBWRlF6QUIaGlNvdSBGYXZlbGEgaXMgIzI5IGdsb2JhbGx5Ij9Tb3UgRmF2ZWxhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBvbiBKdWwgMjMsIDIwMjYqDwgKIgsKABAGGAIg887UCQ%3D%3D"
                       },
                       {
                         "id": "G:ydE1LOhmrzE",
@@ -2214,9 +2215,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwi4p8DViP2VAxWZSxIBHUZVBX4="
+        "trackingParams": "CAEQui8iEwjfweaA0f2VAxUdbhIBHb87NSM="
       }
     },
-    "trackingParams": "CAAQhGciEwi4p8DViP2VAxWZSxIBHUZVBX7KAQQEjlt4"
+    "trackingParams": "CAAQhGciEwjfweaA0f2VAxUdbhIBHb87NSPKAQT8kxMT"
   }
 }
