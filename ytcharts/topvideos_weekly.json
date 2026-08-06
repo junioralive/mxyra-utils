@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-08-06T13:56:52.385535+00:00",
+  "captured_at_utc": "2026-08-06T23:54:39.023083+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgttaFdUSy1FYTRGQSibpdLTBjIKCgJVUxIEGgAgaw%3D%3D",
-      "responseId": "IhMI98iJkJSMlgMVMa7CAR0SBQOY"
+      "visitorData": "CgtoU0dRRXNxSTVyZyi1vdTTBjIKCgJVUxIEGgAgZg%3D%3D",
+      "responseId": "IhMI2ujQ3pmNlgMVD-7jBx1FvBEp"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,28 +27,10 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-08-04"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-30"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-08-04"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-07-30"
+                      "latestEndDate": "2026-08-05"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -57,10 +39,28 @@
                       "latestEndDate": "2026-07-30"
                     },
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-07-30"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-07-30"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-07-30"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-08-05"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -5446,7 +5446,7 @@
                       },
                       {
                         "id": "PkMKJEkE8Mo",
-                        "title": "Gnarly (Ice Spice Remix)",
+                        "title": "Gnarly (Clean Edit)",
                         "viewCount": "4122096",
                         "thumbnail": {
                           "thumbnails": [
@@ -5510,10 +5510,10 @@
                           "\"hitman\"bang",
                           "Slow Rabbit"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrABCAISXQoYR25hcmx5IChJY2UgU3BpY2UgUmVtaXgpEjRodHRwczovL2kueXRpbWcuY29tL3ZpL1BrTUtKRWtFOE1vL21heHJlc2RlZmF1bHQuanBnGgI4MCIHS0FUU0VZRRo3Ch1XZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxKdWwgMzAsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqsBCAISWAoTR25hcmx5IChDbGVhbiBFZGl0KRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9Qa01LSkVrRThNby9tYXhyZXNkZWZhdWx0LmpwZxoCODAiB0tBVFNFWUUaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMSnVsIDMwLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
                         "externalChannelId": "UCA61H4fWOMHikLcUFKyQUog",
                         "channelName": "KATSEYE",
-                        "serializedShareEntity": "CgtQa01LSkVrRThNb3KKAwgHEihHbmFybHkgKEljZSBTcGljZSBSZW1peCkgaXMgIzgwIGdsb2JhbGx5GkpHbmFybHkgKEljZSBTcGljZSBSZW1peCkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bCAzMCwgMjAyNjLyAQrvAUlyQUJDQUlTWFFvWVIyNWhjbXg1SUNoSlkyVWdVM0JwWTJVZ1VtVnRhWGdwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMUJyVFV0S1JXdEZPRTF2TDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJNE1DSUhTMEZVVTBWWlJSbzNDaDFYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d4S2RXd2dNekFzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFUhtzaGFyZWNhcmRfMTc4NTM5NDgwMF84MC5qcGeCAq0DEqMCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyQUJDQUlTWFFvWVIyNWhjbXg1SUNoSlkyVWdVM0JwWTJVZ1VtVnRhWGdwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMUJyVFV0S1JXdEZPRTF2TDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJNE1DSUhTMEZVVTBWWlJSbzNDaDFYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d4S2RXd2dNekFzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFGihHbmFybHkgKEljZSBTcGljZSBSZW1peCkgaXMgIzgwIGdsb2JhbGx5IkpHbmFybHkgKEljZSBTcGljZSBSZW1peCkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEp1bCAzMCwgMjAyNioPCAkiCwoAEAMYAiD6ztQJ"
+                        "serializedShareEntity": "CgtQa01LSkVrRThNb3L5AggHEiNHbmFybHkgKENsZWFuIEVkaXQpIGlzICM4MCBnbG9iYWxseRpFR25hcmx5IChDbGVhbiBFZGl0KSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDMwLCAyMDI2MusBCugBSXFzQkNBSVNXQW9UUjI1aGNteDVJQ2hEYkdWaGJpQkZaR2wwS1JJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlRYTAxTFNrVnJSVGhOYnk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ09EQWlCMHRCVkZORldVVWFOd29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTVNuVnNJRE13TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQlIbc2hhcmVjYXJkXzE3ODUzOTQ4MDBfODAuanBnggKcAxKcAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcXNCQ0FJU1dBb1RSMjVoY214NUlDaERiR1ZoYmlCRlpHbDBLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOVFhMDFMU2tWclJUaE5ieTl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DT0RBaUIwdEJWRk5GV1VVYU53b2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NU25Wc0lETXdMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCGiNHbmFybHkgKENsZWFuIEVkaXQpIGlzICM4MCBnbG9iYWxseSJFR25hcmx5IChDbGVhbiBFZGl0KSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gSnVsIDMwLCAyMDI2Kg8ICSILCgAQAxgCIPrO1Ak%3D"
                       },
                       {
                         "id": "jodJzaVZfj8",
@@ -6798,9 +6798,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj3yImQlIyWAxUxrsIBHRIFA5g="
+        "trackingParams": "CAEQui8iEwja6NDemY2WAxUP7uMHHUW8ESk="
       }
     },
-    "trackingParams": "CAAQhGciEwj3yImQlIyWAxUxrsIBHRIFA5jKAQSuq9s6"
+    "trackingParams": "CAAQhGciEwja6NDemY2WAxUP7uMHHUW8ESnKAQR1vs8j"
   }
 }
