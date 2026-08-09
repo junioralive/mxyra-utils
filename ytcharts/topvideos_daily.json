@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-08-08T18:31:04.973737+00:00",
+  "captured_at_utc": "2026-08-09T01:20:41.814165+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs5cWNrekJpNzMtayjg693TBjIKCgJVUxIEGgAgZg%3D%3D",
-      "responseId": "IhMI64XdktWRlgMV4NE_BB1diAiA"
+      "visitorData": "CgtwdHhVVnpkVGpMQSjgq9_TBjIKCgJVUxIEGgAgSg%3D%3D",
+      "responseId": "IhMI1_nx2bCSlgMV9mBeAx2uMzfS"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,37 +27,37 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-30"
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-08-06"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-08-07"
                     },
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-08-06"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-30"
+                      "latestEndDate": "2026-08-06"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-08-06"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-07-30"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-07-30"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-08-07"
@@ -4875,6 +4875,12 @@
                           "month": 8,
                           "day": 6
                         },
+                        "songwriters": [
+                          "Serdar Ortaç"
+                        ],
+                        "songProducers": [
+                          "Esad Fidan"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IswBCAISewo4S0FSTTYgJiBTZXJkYXIgT3J0YcOnIC0gVGEgQnVyYW1hIChPZmZpY2lhbCBNdXNpYyBWaWRlbykSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvT2NVX3pjZi1Hc3MvbWF4cmVzZGVmYXVsdC5qcGcaAjcyIgVLQVJNNho1ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaC0F1ZyA3LCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMDAB",
                         "externalChannelId": "UCumDvCSZb0zULVnQUnXwBWQ",
                         "channelName": "KARM6",
@@ -6748,9 +6754,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjrhd2S1ZGWAxXg0T8EHV2ICIA="
+        "trackingParams": "CAEQui8iEwjX-fHZsJKWAxX2YF4DHa4zN9I="
       }
     },
-    "trackingParams": "CAAQhGciEwjrhd2S1ZGWAxXg0T8EHV2ICIDKAQStT130"
+    "trackingParams": "CAAQhGciEwjX-fHZsJKWAxX2YF4DHa4zN9LKAQRN2zsy"
   }
 }
