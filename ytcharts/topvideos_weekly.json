@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-08-10T12:58:06.864083+00:00",
+  "captured_at_utc": "2026-08-10T18:51:46.991983+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtGa0RZV204Rnp4ayjVlefTBjIKCgJVUxIEGgAgEg%3D%3D",
-      "responseId": "IhMItbHvuY6WlgMVEtw_BB1oohUr"
+      "visitorData": "CgtOdnVST1NKendWdyi5u-jTBjIKCgJVUxIEGgAgUQ%3D%3D",
+      "responseId": "IhMIw7K2wN2WlgMV-X9eAx0h4hHr"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,22 +27,28 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-08-06"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-08-06"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-08-06"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-08-08"
+                      "latestEndDate": "2026-08-09"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-08-06"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -51,16 +57,10 @@
                       "latestEndDate": "2026-08-06"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-08-06"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-08-08"
+                      "latestEndDate": "2026-08-09"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -2979,7 +2979,7 @@
                       },
                       {
                         "id": "mapfegnAXOg",
-                        "title": "Dai dai",
+                        "title": "Dai dai (Live)",
                         "viewCount": "6037905",
                         "thumbnail": {
                           "thumbnails": [
@@ -3032,10 +3032,10 @@
                           "month": 7,
                           "day": 31
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqkBCAISVwoHRGFpIGRhaRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9tYXBmZWduQVhPZy9tYXhyZXNkZWZhdWx0LmpwZxoCNDQiB1NoYWtpcmEiCUJ1cm5hIEJveRo2Ch1XZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtBdWcgNiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrABCAISXgoORGFpIGRhaSAoTGl2ZSkSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvbWFwZmVnbkFYT2cvbWF4cmVzZGVmYXVsdC5qcGcaAjQ0IgdTaGFraXJhIglCdXJuYSBCb3kaNgodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLQXVnIDYsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
                         "externalChannelId": "UCYLNGLIzMhRTi6ZOLjAPSmw",
                         "channelName": "Shakira",
-                        "serializedShareEntity": "CgttYXBmZWduQVhPZ3LeAggHEhdEYWkgZGFpIGlzICM0NCBnbG9iYWxseRo4RGFpIGRhaSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXVnIDYsIDIwMjYy6QEK5gFJcWtCQ0FJU1Z3b0hSR0ZwSUdSaGFSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5dFlYQm1aV2R1UVZoUFp5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NORFFpQjFOb1lXdHBjbUVpQ1VKMWNtNWhJRUp2ZVJvMkNoMVhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RCZFdjZ05pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa3dBUVIbc2hhcmVjYXJkXzE3ODU5OTk2MDBfNDQuanBnggKBAxKaAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcWtCQ0FJU1Z3b0hSR0ZwSUdSaGFSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5dFlYQm1aV2R1UVZoUFp5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NORFFpQjFOb1lXdHBjbUVpQ1VKMWNtNWhJRUp2ZVJvMkNoMVhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3RCZFdjZ05pd2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa3dBURoXRGFpIGRhaSBpcyAjNDQgZ2xvYmFsbHkiOERhaSBkYWkgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEF1ZyA2LCAyMDI2Kg8ICSILCgAQAxgCIMbP1Ak%3D"
+                        "serializedShareEntity": "CgttYXBmZWduQVhPZ3L1AggHEh5EYWkgZGFpIChMaXZlKSBpcyAjNDQgZ2xvYmFsbHkaP0RhaSBkYWkgKExpdmUpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBdWcgNiwgMjAyNjLyAQrvAUlyQUJDQUlTWGdvT1JHRnBJR1JoYVNBb1RHbDJaU2tTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZiV0Z3Wm1WbmJrRllUMmN2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpRMElnZFRhR0ZyYVhKaElnbENkWEp1WVNCQ2Iza2FOZ29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFFYVm5JRFlzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFUhtzaGFyZWNhcmRfMTc4NTk5OTYwMF80NC5qcGeCApgDEqMCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlyQUJDQUlTWGdvT1JHRnBJR1JoYVNBb1RHbDJaU2tTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZiV0Z3Wm1WbmJrRllUMmN2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpRMElnZFRhR0ZyYVhKaElnbENkWEp1WVNCQ2Iza2FOZ29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFFYVm5JRFlzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFGh5EYWkgZGFpIChMaXZlKSBpcyAjNDQgZ2xvYmFsbHkiP0RhaSBkYWkgKExpdmUpIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBdWcgNiwgMjAyNioPCAkiCwoAEAMYAiDGz9QJ"
                       },
                       {
                         "id": "TX-1dI8t6WM",
@@ -5586,7 +5586,7 @@
                       },
                       {
                         "id": "Tc-gXkHAri8",
-                        "title": "petal (official lyric video)",
+                        "title": "petal",
                         "viewCount": "4316706",
                         "thumbnail": {
                           "thumbnails": [
@@ -5635,10 +5635,10 @@
                           "month": 7,
                           "day": 30
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrkBCAISZwoccGV0YWwgKG9mZmljaWFsIGx5cmljIHZpZGVvKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9UYy1nWGtIQXJpOC9tYXhyZXNkZWZhdWx0LmpwZxoCODMiDUFyaWFuYSBHcmFuZGUaNgodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLQXVnIDYsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqIBCAISUAoFcGV0YWwSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvVGMtZ1hrSEFyaTgvbWF4cmVzZGVmYXVsdC5qcGcaAjgzIg1BcmlhbmEgR3JhbmRlGjYKHVdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaC0F1ZyA2LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
                         "externalChannelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
                         "channelName": "ArianaGrandeVevo",
-                        "serializedShareEntity": "CgtUYy1nWGtIQXJpOHKdAwgHEixwZXRhbCAob2ZmaWNpYWwgbHlyaWMgdmlkZW8pIGlzICM4MyBnbG9iYWxseRpNcGV0YWwgKG9mZmljaWFsIGx5cmljIHZpZGVvKSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXVnIDYsIDIwMjYy_gEK-wFJcmtCQ0FJU1p3b2NjR1YwWVd3Z0tHOW1abWxqYVdGc0lHeDVjbWxqSUhacFpHVnZLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOVVZeTFuV0d0SVFYSnBPQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DT0RNaURVRnlhV0Z1WVNCSGNtRnVaR1VhTmdvZFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb0xRWFZuSURZc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNU1BRVIbc2hhcmVjYXJkXzE3ODU5OTk2MDBfODMuanBnggLAAxKvAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcmtCQ0FJU1p3b2NjR1YwWVd3Z0tHOW1abWxqYVdGc0lHeDVjbWxqSUhacFpHVnZLUkkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOVVZeTFuV0d0SVFYSnBPQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DT0RNaURVRnlhV0Z1WVNCSGNtRnVaR1VhTmdvZFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb0xRWFZuSURZc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNU1BRRoscGV0YWwgKG9mZmljaWFsIGx5cmljIHZpZGVvKSBpcyAjODMgZ2xvYmFsbHkiTXBldGFsIChvZmZpY2lhbCBseXJpYyB2aWRlbykgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEF1ZyA2LCAyMDI2Kg8ICSILCgAQAxgCIMbP1Ak%3D"
+                        "serializedShareEntity": "CgtUYy1nWGtIQXJpOHLQAggHEhVwZXRhbCBpcyAjODMgZ2xvYmFsbHkaNnBldGFsIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBdWcgNiwgMjAyNjLfAQrcAUlxSUJDQUlTVUFvRmNHVjBZV3dTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZWR010WjFoclNFRnlhVGd2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpneklnMUJjbWxoYm1FZ1IzSmhibVJsR2pZS0hWZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FDMEYxWnlBMkxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9UQUJSG3NoYXJlY2FyZF8xNzg1OTk5NjAwXzgzLmpwZ4IC8wISkAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFJQkNBSVNVQW9GY0dWMFlXd1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlZHTXRaMWhyU0VGeWFUZ3ZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamd6SWcxQmNtbGhibUVnUjNKaGJtUmxHallLSFZkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YUMwRjFaeUEyTENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQhoVcGV0YWwgaXMgIzgzIGdsb2JhbGx5IjZwZXRhbCBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXVnIDYsIDIwMjYqDwgJIgsKABADGAIgxs_UCQ%3D%3D"
                       },
                       {
                         "id": "9dV6Hl2u3vM",
@@ -6782,9 +6782,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwi1se-5jpaWAxUS3D8EHWiiFSs="
+        "trackingParams": "CAEQui8iEwjDsrbA3ZaWAxX5f14DHSHiEes="
       }
     },
-    "trackingParams": "CAAQhGciEwi1se-5jpaWAxUS3D8EHWiiFSvKAQSlad84"
+    "trackingParams": "CAAQhGciEwjDsrbA3ZaWAxX5f14DHSHiEevKAQSH3BUN"
   }
 }
