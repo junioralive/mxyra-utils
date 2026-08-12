@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-08-11T18:56:26.839346+00:00",
+  "captured_at_utc": "2026-08-12T01:29:05.358790+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtNRVNmaWczU0M3USjR4O3TBjIKCgJVUxIEGgAgUQ%3D%3D",
-      "responseId": "IhMIiYzNtKCZlgMVCMPCBB0RPhlA"
+      "visitorData": "Cgt6dGYtMWJCdVlrYyjXmO_TBjIKCgJVUxIEGgAgYA%3D%3D",
+      "responseId": "IhMI1oiWlviZlgMVBBetBh0Wri3e"
     },
     "contents": {
       "sectionListRenderer": {
@@ -28,6 +28,18 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-08-06"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-08-06"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-08-10"
@@ -39,25 +51,13 @@
                       "latestEndDate": "2026-08-06"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-08-06"
-                    },
-                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-08-06"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-08-06"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-08-10"
@@ -3787,20 +3787,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/g/11bvt4pmcq",
                             "name": "Guru Randhawa"
-                          },
-                          {
-                            "kgMid": "/g/11gk25nnby",
-                            "name": "Gurjit Gill"
-                          },
-                          {
-                            "kgMid": "/g/11y9_55w7z",
-                            "name": "Lavish Dhiman"
-                          },
-                          {
-                            "kgMid": "/g/11pcxkc4qb",
-                            "name": "Kiran Bajwa"
                           }
                         ],
                         "isVisible": true,
@@ -3816,10 +3803,10 @@
                         "songProducers": [
                           "Black Virus"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuoBCAISlwEKI0d1cnUgUmFuZGhhd2EgIC0g4oCcRklORSBTSFlU4oCdIE1WEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzl3RzRDNDJKaE40L21heHJlc2RlZmF1bHQuanBnGgI1NiINR3VydSBSYW5kaGF3YSILR3Vyaml0IEdpbGwiDUxhdmlzaCBEaGltYW4iC0tpcmFuIEJhandhGjYKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMQXVnIDEwLCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMDAB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsABCAISbgojR3VydSBSYW5kaGF3YSAgLSDigJxGSU5FIFNIWVTigJ0gTVYSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvOXdHNEM0MkpoTjQvbWF4cmVzZGVmYXVsdC5qcGcaAjU2Ig1HdXJ1IFJhbmRoYXdhGjYKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMQXVnIDEwLCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMDAB",
                         "externalChannelId": "UC8MyBFjXbTezvZgMTEBFwgA",
                         "channelName": "Guru Randhawa",
-                        "serializedShareEntity": "Cgs5d0c0QzQySmhONHLsAwgHEjNHdXJ1IFJhbmRoYXdhICAtIOKAnEZJTkUgU0hZVOKAnSBNViBpcyAjNTYgZ2xvYmFsbHkaVEd1cnUgUmFuZGhhd2EgIC0g4oCcRklORSBTSFlU4oCdIE1WIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEF1ZyAxMCwgMjAyNjK_Agq8Akl1b0JDQUlTbHdFS0kwZDFjblVnVW1GdVpHaGhkMkVnSUMwZzRvQ2NSa2xPUlNCVFNGbFU0b0NkSUUxV0VqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTHpsM1J6UkROREpLYUU0MEwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTFOaUlOUjNWeWRTQlNZVzVrYUdGM1lTSUxSM1Z5YW1sMElFZHBiR3dpRFV4aGRtbHphQ0JFYUdsdFlXNGlDMHRwY21GdUlFSmhhbmRoR2pZS0hFUmhhV3g1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb01RWFZuSURFd0xDQXlNREkyT0FNaUVnb0hJelpHTmtSRk9SSUhJekF3TURBd01EQUJSG3NoYXJlY2FyZF8xNzg2MzQ1MjAwXzU2LmpwZ4ICjwQS8AJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXVvQkNBSVNsd0VLSTBkMWNuVWdVbUZ1WkdoaGQyRWdJQzBnNG9DY1JrbE9SU0JUU0ZsVTRvQ2RJRTFXRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMemwzUnpSRE5ESkthRTQwTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMU5pSU5SM1Z5ZFNCU1lXNWthR0YzWVNJTFIzVnlhbWwwSUVkcGJHd2lEVXhoZG1semFDQkVhR2x0WVc0aUMwdHBjbUZ1SUVKaGFuZGhHallLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTVFYVm5JREV3TENBeU1ESTJPQU1pRWdvSEl6WkdOa1JGT1JJSEl6QXdNREF3TURBQhozR3VydSBSYW5kaGF3YSAgLSDigJxGSU5FIFNIWVTigJ0gTVYgaXMgIzU2IGdsb2JhbGx5IlRHdXJ1IFJhbmRoYXdhICAtIOKAnEZJTkUgU0hZVOKAnSBNViBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBdWcgMTAsIDIwMjYqDwgJIgsKABADGAEgys_UCQ%3D%3D"
+                        "serializedShareEntity": "Cgs5d0c0QzQySmhONHK0AwgHEjNHdXJ1IFJhbmRoYXdhICAtIOKAnEZJTkUgU0hZVOKAnSBNViBpcyAjNTYgZ2xvYmFsbHkaVEd1cnUgUmFuZGhhd2EgIC0g4oCcRklORSBTSFlU4oCdIE1WIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEF1ZyAxMCwgMjAyNjKHAgqEAklzQUJDQUlTYmdvalIzVnlkU0JTWVc1a2FHRjNZU0FnTFNEaWdKeEdTVTVGSUZOSVdWVGlnSjBnVFZZU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2T1hkSE5FTTBNa3BvVGpRdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqVTJJZzFIZFhKMUlGSmhibVJvWVhkaEdqWUtIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NUVhWbklERXdMQ0F5TURJMk9BTWlFZ29ISXpaR05rUkZPUklISXpBd01EQXdNREFCUhtzaGFyZWNhcmRfMTc4NjM0NTIwMF81Ni5qcGeCAtcDErgCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzQUJDQUlTYmdvalIzVnlkU0JTWVc1a2FHRjNZU0FnTFNEaWdKeEdTVTVGSUZOSVdWVGlnSjBnVFZZU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2T1hkSE5FTTBNa3BvVGpRdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqVTJJZzFIZFhKMUlGSmhibVJvWVhkaEdqWUtIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NUVhWbklERXdMQ0F5TURJMk9BTWlFZ29ISXpaR05rUkZPUklISXpBd01EQXdNREFCGjNHdXJ1IFJhbmRoYXdhICAtIOKAnEZJTkUgU0hZVOKAnSBNViBpcyAjNTYgZ2xvYmFsbHkiVEd1cnUgUmFuZGhhd2EgIC0g4oCcRklORSBTSFlU4oCdIE1WIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEF1ZyAxMCwgMjAyNioPCAkiCwoAEAMYASDKz9QJ"
                       },
                       {
                         "id": "kTXilT_KbUM",
@@ -6715,9 +6702,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiJjM20oJmWAxUIw8IEHRE-GUA="
+        "trackingParams": "CAEQui8iEwjWiJaW-JmWAxUEF60GHRauLd4="
       }
     },
-    "trackingParams": "CAAQhGciEwiJjM20oJmWAxUIw8IEHRE-GUDKAQTdooNE"
+    "trackingParams": "CAAQhGciEwjWiJaW-JmWAxUEF60GHRauLd7KAQQVjKGS"
   }
 }
