@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-08-17T12:35:19.874499+00:00",
+  "captured_at_utc": "2026-08-17T18:32:40.810175+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtwNzlEWFJvSVZ0TSj-_4vUBjIKCgJVUxIEGgAgbg%3D%3D",
-      "responseId": "IhMIjI2VtdanlgMVSYbCAR0jnAxC"
+      "visitorData": "CgttUU1EczItMWI4MCi_p43UBjIKCgJVUxIEGgAgKQ%3D%3D",
+      "responseId": "IhMIsaT_pKaolgMVTeQ_BB26Nxp0"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,7 +27,19 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-08-13"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-08-16"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-08-13"
@@ -39,25 +51,13 @@
                       "latestEndDate": "2026-08-13"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-08-13"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-08-15"
+                      "latestEndDate": "2026-08-16"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-08-15"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-08-13"
@@ -799,8 +799,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/g/11vj6xh7_6",
-                            "name": "KATSEYE"
+                            "name": "HYBE LABELS"
                           }
                         ],
                         "isVisible": true,
@@ -819,10 +818,10 @@
                           "Omer Fedi",
                           "Blake Slatkin"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsMBCAIScAorS0FUU0VZRSAo7Lqj7Lig7JWE7J20KSAiQW5pbWFsIiBPZmZpY2lhbCBNVhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9tN2s5VU1jSGJyMC9tYXhyZXNkZWZhdWx0LmpwZxoCMTEiB0tBVFNFWUUaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMQXVnIDEzLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IscBCAISdAorS0FUU0VZRSAo7Lqj7Lig7JWE7J20KSAiQW5pbWFsIiBPZmZpY2lhbCBNVhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9tN2s5VU1jSGJyMC9tYXhyZXNkZWZhdWx0LmpwZxoCMTEiC0hZQkUgTEFCRUxTGjcKHVdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDEF1ZyAxMywgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkwAQ",
                         "externalChannelId": "UC3IZKseVpdzPSBaWxBxundA",
                         "channelName": "HYBE LABELS",
-                        "serializedShareEntity": "CgttN2s5VU1jSGJyMHLJAwgHEjtLQVRTRVlFICjsuqPsuKDslYTsnbQpICJBbmltYWwiIE9mZmljaWFsIE1WIGlzICMxMSBnbG9iYWxseRpdS0FUU0VZRSAo7Lqj7Lig7JWE7J20KSAiQW5pbWFsIiBPZmZpY2lhbCBNViBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXVnIDEzLCAyMDI2MosCCogCSXNNQkNBSVNjQW9yUzBGVVUwVlpSU0FvN0xxajdMaWc3SldFN0oyMEtTQWlRVzVwYldGc0lpQlBabVpwWTJsaGJDQk5WaEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOXROMnM1VlUxalNHSnlNQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTVRFaUIwdEJWRk5GV1VVYU53b2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NUVhWbklERXpMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCUhtzaGFyZWNhcmRfMTc4NjYwNDQwMF8xMS5qcGeCAuwDErwCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzTUJDQUlTY0FvclMwRlVVMFZaUlNBbzdMcWo3TGlnN0pXRTdKMjBLU0FpUVc1cGJXRnNJaUJQWm1acFkybGhiQ0JOVmhJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzl0TjJzNVZVMWpTR0p5TUM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ01URWlCMHRCVkZORldVVWFOd29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTVFYVm5JREV6TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQho7S0FUU0VZRSAo7Lqj7Lig7JWE7J20KSAiQW5pbWFsIiBPZmZpY2lhbCBNViBpcyAjMTEgZ2xvYmFsbHkiXUtBVFNFWUUgKOy6o-y4oOyVhOydtCkgIkFuaW1hbCIgT2ZmaWNpYWwgTVYgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEF1ZyAxMywgMjAyNioPCAkiCwoAEAMYAiDNz9QJ"
+                        "serializedShareEntity": "CgttN2s5VU1jSGJyMHLPAwgHEjtLQVRTRVlFICjsuqPsuKDslYTsnbQpICJBbmltYWwiIE9mZmljaWFsIE1WIGlzICMxMSBnbG9iYWxseRpdS0FUU0VZRSAo7Lqj7Lig7JWE7J20KSAiQW5pbWFsIiBPZmZpY2lhbCBNViBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXVnIDEzLCAyMDI2MpECCo4CSXNjQkNBSVNkQW9yUzBGVVUwVlpSU0FvN0xxajdMaWc3SldFN0oyMEtTQWlRVzVwYldGc0lpQlBabVpwWTJsaGJDQk5WaEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOXROMnM1VlUxalNHSnlNQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTVRFaUMwaFpRa1VnVEVGQ1JVeFRHamNLSFZkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURFRjFaeUF4TXl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrd0FRUhtzaGFyZWNhcmRfMTc4NjYwNDQwMF8xMS5qcGeCAvIDEsICaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzY0JDQUlTZEFvclMwRlVVMFZaUlNBbzdMcWo3TGlnN0pXRTdKMjBLU0FpUVc1cGJXRnNJaUJQWm1acFkybGhiQ0JOVmhJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzl0TjJzNVZVMWpTR0p5TUM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ01URWlDMGhaUWtVZ1RFRkNSVXhUR2pjS0hWZGxaV3RzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FERUYxWnlBeE15d2dNakF5TmpnREloSUtCeU13TURBd01EQVNCeU0yUmpaRVJUa3dBURo7S0FUU0VZRSAo7Lqj7Lig7JWE7J20KSAiQW5pbWFsIiBPZmZpY2lhbCBNViBpcyAjMTEgZ2xvYmFsbHkiXUtBVFNFWUUgKOy6o-y4oOyVhOydtCkgIkFuaW1hbCIgT2ZmaWNpYWwgTVYgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEF1ZyAxMywgMjAyNioPCAkiCwoAEAMYAiDNz9QJ"
                       },
                       {
                         "id": "OQac93ARgQE",
@@ -6761,9 +6760,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiMjZW11qeWAxVJhsIBHSOcDEI="
+        "trackingParams": "CAEQui8iEwixpP-kpqiWAxVN5D8EHbo3GnQ="
       }
     },
-    "trackingParams": "CAAQhGciEwiMjZW11qeWAxVJhsIBHSOcDELKAQQHomgw"
+    "trackingParams": "CAAQhGciEwixpP-kpqiWAxVN5D8EHbo3GnTKAQQujbN4"
   }
 }
