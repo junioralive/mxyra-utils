@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-08-25T12:39:49.263353+00:00",
+  "captured_at_utc": "2026-08-25T18:34:20.523110+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtVY3BpZzllWjBpOCiLmrbUBjIKCgJVUxIEGgAgHA%3D%3D",
-      "responseId": "IhMIxp6_q-a7lgMV7NE_BB36Pwwl"
+      "visitorData": "CgtlRjBuMS1KNFNUayijwLfUBjIKCgJVUxIEGgAgTA%3D%3D",
+      "responseId": "IhMIgre2yrW8lgMV0OU_BB2s9Ae0"
     },
     "contents": {
       "sectionListRenderer": {
@@ -33,7 +33,13 @@
                       "latestEndDate": "2026-08-20"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-08-23"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-08-20"
@@ -45,22 +51,16 @@
                       "latestEndDate": "2026-08-23"
                     },
                     {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-08-20"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-08-20"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-08-20"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-08-23"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -2274,9 +2274,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjGnr-r5ruWAxXs0T8EHfo_DCU="
+        "trackingParams": "CAEQui8iEwiCt7bKtbyWAxXQ5T8EHaz0B7Q="
       }
     },
-    "trackingParams": "CAAQhGciEwjGnr-r5ruWAxXs0T8EHfo_DCXKAQQPp6vp"
+    "trackingParams": "CAAQhGciEwiCt7bKtbyWAxXQ5T8EHaz0B7TKAQQLlqID"
   }
 }
