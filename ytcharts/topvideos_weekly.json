@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-09-02T15:53:35.192322+00:00",
+  "captured_at_utc": "2026-09-02T20:27:31.693634+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgs1U2V6QkpBeHNmOCj1jOHUBjIKCgJVUxIEGgAgQw%3D%3D",
-      "responseId": "IhMIp6H-yKDQlgMVh10SAR3VNSvl"
+      "visitorData": "CgtyeXA1ZG5XQ1loNCiqjeLUBjIKCgJVUxIEGgAgFQ%3D%3D",
+      "responseId": "IhMImOfC5t3QlgMV0sY_BB3L9QXJ"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,10 +27,28 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-09-01"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-08-27"
+                    },
+                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-08-27"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-09-01"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -40,24 +58,6 @@
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-08-31"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-08-27"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-08-31"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-08-27"
@@ -4224,6 +4224,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
+                            "kgMid": "/m/049g_gp",
                             "name": "BIGBANG"
                           }
                         ],
@@ -5906,7 +5907,7 @@
                       },
                       {
                         "id": "N0KfiOTSpxs",
-                        "title": "Kalyana Virundhu - Lyric Video Song | DOROTHY | Maestro Ilaiyaraaja | Karthik Subbaraj",
+                        "title": "Kalyana Virundhu (From \"Dorothy\")",
                         "viewCount": "4407251",
                         "thumbnail": {
                           "thumbnails": [
@@ -5945,7 +5946,20 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "name": "Sony Music South"
+                            "kgMid": "/m/0114vv0v",
+                            "name": "Anthony Daasan"
+                          },
+                          {
+                            "kgMid": "/m/0113_87v",
+                            "name": "Priya Jerson"
+                          },
+                          {
+                            "kgMid": "/m/0kvjrw",
+                            "name": "Ilaiyaraaja"
+                          },
+                          {
+                            "kgMid": "/m/09gpwcj",
+                            "name": "Yugendran Vasudevan"
                           }
                         ],
                         "isVisible": true,
@@ -5960,10 +5974,10 @@
                         "songProducers": [
                           "Ilaiyaraaja"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvgBCAISpAEKVkthbHlhbmEgVmlydW5kaHUgLSBMeXJpYyBWaWRlbyBTb25nIHwgRE9ST1RIWSB8IE1hZXN0cm8gSWxhaXlhcmFhamEgfCBLYXJ0aGlrIFN1YmJhcmFqEjRodHRwczovL2kueXRpbWcuY29tL3ZpL04wS2ZpT1RTcHhzL21heHJlc2RlZmF1bHQuanBnGgI4OSIQU29ueSBNdXNpYyBTb3V0aBo3Ch1XZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxBdWcgMjcsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvEBCAISnQEKIUthbHlhbmEgVmlydW5kaHUgKEZyb20gIkRvcm90aHkiKRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9OMEtmaU9UU3B4cy9tYXhyZXNkZWZhdWx0LmpwZxoCODkiDkFudGhvbnkgRGFhc2FuIgxQcml5YSBKZXJzb24iC0lsYWl5YXJhYWphIhNZdWdlbmRyYW4gVmFzdWRldmFuGjcKHVdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDEF1ZyAyNywgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkwAQ",
                         "externalChannelId": "UCn4rEMqKtwBQ6-oEwbd4PcA",
                         "channelName": "Sony Music South",
-                        "serializedShareEntity": "CgtOMEtmaU9UU3B4c3LnBAgHEmZLYWx5YW5hIFZpcnVuZGh1IC0gTHlyaWMgVmlkZW8gU29uZyB8IERPUk9USFkgfCBNYWVzdHJvIElsYWl5YXJhYWphIHwgS2FydGhpayBTdWJiYXJhaiBpcyAjODkgZ2xvYmFsbHkaiAFLYWx5YW5hIFZpcnVuZGh1IC0gTHlyaWMgVmlkZW8gU29uZyB8IERPUk9USFkgfCBNYWVzdHJvIElsYWl5YXJhYWphIHwgS2FydGhpayBTdWJiYXJhaiBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gQXVnIDI3LCAyMDI2MtICCs8CSXZnQkNBSVNwQUVLVmt0aGJIbGhibUVnVm1seWRXNWthSFVnTFNCTWVYSnBZeUJXYVdSbGJ5QlRiMjVuSUh3Z1JFOVNUMVJJV1NCOElFMWhaWE4wY204Z1NXeGhhWGxoY21GaGFtRWdmQ0JMWVhKMGFHbHJJRk4xWW1KaGNtRnFFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwwNHdTMlpwVDFSVGNIaHpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0k0T1NJUVUyOXVlU0JOZFhOcFl5QlRiM1YwYUJvM0NoMVhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3hCZFdjZ01qY3NJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTVNQUVSG3NoYXJlY2FyZF8xNzg3ODE0MDAwXzg5LmpwZ4ICigUSgwNodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXZnQkNBSVNwQUVLVmt0aGJIbGhibUVnVm1seWRXNWthSFVnTFNCTWVYSnBZeUJXYVdSbGJ5QlRiMjVuSUh3Z1JFOVNUMVJJV1NCOElFMWhaWE4wY204Z1NXeGhhWGxoY21GaGFtRWdmQ0JMWVhKMGFHbHJJRk4xWW1KaGNtRnFFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwwNHdTMlpwVDFSVGNIaHpMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0k0T1NJUVUyOXVlU0JOZFhOcFl5QlRiM1YwYUJvM0NoMVhaV1ZyYkhrZ1ZHOXdJRTExYzJsaklGWnBaR1Z2Y3lCRGFHRnlkQklHUjJ4dlltRnNHZ3hCZFdjZ01qY3NJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTVNQUUaZkthbHlhbmEgVmlydW5kaHUgLSBMeXJpYyBWaWRlbyBTb25nIHwgRE9ST1RIWSB8IE1hZXN0cm8gSWxhaXlhcmFhamEgfCBLYXJ0aGlrIFN1YmJhcmFqIGlzICM4OSBnbG9iYWxseSKIAUthbHlhbmEgVmlydW5kaHUgLSBMeXJpYyBWaWRlbyBTb25nIHwgRE9ST1RIWSB8IE1hZXN0cm8gSWxhaXlhcmFhamEgfCBLYXJ0aGlrIFN1YmJhcmFqIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBBdWcgMjcsIDIwMjYqDwgJIgsKABADGAIg28_UCQ%3D%3D"
+                        "serializedShareEntity": "CgtOMEtmaU9UU3B4c3LzAwgHEjFLYWx5YW5hIFZpcnVuZGh1IChGcm9tICJEb3JvdGh5IikgaXMgIzg5IGdsb2JhbGx5GlNLYWx5YW5hIFZpcnVuZGh1IChGcm9tICJEb3JvdGh5Iikgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEF1ZyAyNywgMjAyNjLJAgrGAkl2RUJDQUlTblFFS0lVdGhiSGxoYm1FZ1ZtbHlkVzVrYUhVZ0tFWnliMjBnSWtSdmNtOTBhSGtpS1JJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlPTUV0bWFVOVVVM0I0Y3k5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ09Ea2lEa0Z1ZEdodmJua2dSR0ZoYzJGdUlneFFjbWw1WVNCS1pYSnpiMjRpQzBsc1lXbDVZWEpoWVdwaEloTlpkV2RsYm1SeVlXNGdWbUZ6ZFdSbGRtRnVHamNLSFZkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURFRjFaeUF5Tnl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrd0FRUhtzaGFyZWNhcmRfMTc4NzgxNDAwMF84OS5qcGeCApYEEvoCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl2RUJDQUlTblFFS0lVdGhiSGxoYm1FZ1ZtbHlkVzVrYUhVZ0tFWnliMjBnSWtSdmNtOTBhSGtpS1JJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzlPTUV0bWFVOVVVM0I0Y3k5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQ09Ea2lEa0Z1ZEdodmJua2dSR0ZoYzJGdUlneFFjbWw1WVNCS1pYSnpiMjRpQzBsc1lXbDVZWEpoWVdwaEloTlpkV2RsYm1SeVlXNGdWbUZ6ZFdSbGRtRnVHamNLSFZkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURFRjFaeUF5Tnl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrd0FRGjFLYWx5YW5hIFZpcnVuZGh1IChGcm9tICJEb3JvdGh5IikgaXMgIzg5IGdsb2JhbGx5IlNLYWx5YW5hIFZpcnVuZGh1IChGcm9tICJEb3JvdGh5Iikgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIEF1ZyAyNywgMjAyNioPCAkiCwoAEAMYAiDbz9QJ"
                       },
                       {
                         "id": "s3a4OQR-10M",
@@ -6725,9 +6739,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwinof7IoNCWAxWHXRIBHdU1K-U="
+        "trackingParams": "CAEQui8iEwiY58Lm3dCWAxXSxj8EHcv1Bck="
       }
     },
-    "trackingParams": "CAAQhGciEwinof7IoNCWAxWHXRIBHdU1K-XKAQQ8ahoq"
+    "trackingParams": "CAAQhGciEwiY58Lm3dCWAxXSxj8EHcv1BcnKAQS9n_sM"
   }
 }
