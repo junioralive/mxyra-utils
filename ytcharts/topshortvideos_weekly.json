@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-09-10T15:46:32.118938+00:00",
+  "captured_at_utc": "2026-09-10T20:23:15.168591+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtNNW5lMDNmaWRPSSjOoYvVBjIKCgJVUxIEGgAgXw%3D%3D",
-      "responseId": "IhMIob-P9a3klgMV0sY_BB3vfy1H"
+      "visitorData": "CgtzN09TazVweGFUYyipo4zVBjIKCgJVUxIEGgAgYA%3D%3D",
+      "responseId": "IhMI7fiI4uvklgMVRGxeAx3OSR95"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,22 +27,28 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-09-09"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-03"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-09-08"
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-09-03"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-09-03"
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-09-09"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -51,15 +57,9 @@
                       "latestEndDate": "2026-09-03"
                     },
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-09-08"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
+                      "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-03"
                     }
                   ],
@@ -348,7 +348,7 @@
                       },
                       {
                         "id": "G:izdybFFFqWI",
-                        "name": "BAILA LENTO",
+                        "name": "BAILA LENTO (Slowed)",
                         "thumbnail": {
                           "thumbnails": [
                             {
@@ -358,7 +358,7 @@
                             }
                           ]
                         },
-                        "encryptedVideoId": "uzHgK4kgZSk",
+                        "encryptedVideoId": "J7gRL2q8GU4",
                         "chartEntryMetadata": {
                           "currentPosition": 7,
                           "periodsOnChart": 1
@@ -374,7 +374,7 @@
                           }
                         ],
                         "isVisible": true,
-                        "atvExternalVideoId": "l69gfPbr8As",
+                        "atvExternalVideoId": "ksBrPP45Rms",
                         "releaseDate": {
                           "year": 2026,
                           "month": 5,
@@ -388,8 +388,8 @@
                           "sma$her",
                           "MC DA$ILVA"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvsBCAISpQEKC0JBSUxBIExFTlRPEn5odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vUWhGWUNVNmNETUVYckc0WndLb01sb1FLbHU2Q2stVU00QldzUWNWaHRoSkI5UEJuSGZidlpIOFRhRkl0Ynd5X2R0bVdCUHVINVpiSUhfa0g9dzkwMC1oOTAwLXAaATciB3NtYSRoZXIiCk1DIERBJElMVkEaOQogV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMgQ2hhcnQSBkdsb2JhbBoLU2VwIDMsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDMAE",
-                        "serializedShareEntity": "Cgt1ekhnSzRrZ1pTa3LUAwgHEhpCQUlMQSBMRU5UTyBpcyAjNyBnbG9iYWxseRo_QkFJTEEgTEVOVE8gb24gR2xvYmFsIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIFNlcCAzLCAyMDI2MtYCCtMCSXZzQkNBSVNwUUVLQzBKQlNVeEJJRXhGVGxSUEVuNW9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdlVXaEdXVU5WTm1ORVRVVllja2MwV25kTGIwMXNiMUZMYkhVMlEyc3RWVTAwUWxkelVXTldhSFJvU2tJNVVFSnVTR1ppZGxwSU9GUmhSa2wwWW5kNVgyUjBiVmRDVUhWSU5WcGlTVWhmYTBnOWR6a3dNQzFvT1RBd0xYQWFBVGNpQjNOdFlTUm9aWElpQ2sxRElFUkJKRWxNVmtFYU9Rb2dWMlZsYTJ4NUlGUnZjQ0JUYjI1bmN5QnZiaUJUYUc5eWRITWdRMmhoY25RU0JrZHNiMkpoYkJvTFUyVndJRE1zSURJd01qWTRCaUlTQ2djak1EQXdNREF3RWdjalJrWXpSVVZETUFFUhpzaGFyZWNhcmRfMTc4ODQxODgwMF83LmpwZ4IC-AMShwNodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXZzQkNBSVNwUUVLQzBKQlNVeEJJRXhGVGxSUEVuNW9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdlVXaEdXVU5WTm1ORVRVVllja2MwV25kTGIwMXNiMUZMYkhVMlEyc3RWVTAwUWxkelVXTldhSFJvU2tJNVVFSnVTR1ppZGxwSU9GUmhSa2wwWW5kNVgyUjBiVmRDVUhWSU5WcGlTVWhmYTBnOWR6a3dNQzFvT1RBd0xYQWFBVGNpQjNOdFlTUm9aWElpQ2sxRElFUkJKRWxNVmtFYU9Rb2dWMlZsYTJ4NUlGUnZjQ0JUYjI1bmN5QnZiaUJUYUc5eWRITWdRMmhoY25RU0JrZHNiMkpoYkJvTFUyVndJRE1zSURJd01qWTRCaUlTQ2djak1EQXdNREF3RWdjalJrWXpSVVZETUFFGhpCQUlMQSBMRU5UTyBpcyAjNyBnbG9iYWxseSI_QkFJTEEgTEVOVE8gb24gR2xvYmFsIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIFNlcCAzLCAyMDI2Kg8ICiILCgAQBhgCIKfQ1Ak%3D"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IoQCCAISrgEKFEJBSUxBIExFTlRPIChTbG93ZWQpEn5odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vUWhGWUNVNmNETUVYckc0WndLb01sb1FLbHU2Q2stVU00QldzUWNWaHRoSkI5UEJuSGZidlpIOFRhRkl0Ynd5X2R0bVdCUHVINVpiSUhfa0g9dzkwMC1oOTAwLXAaATciB3NtYSRoZXIiCk1DIERBJElMVkEaOQogV2Vla2x5IFRvcCBTb25ncyBvbiBTaG9ydHMgQ2hhcnQSBkdsb2JhbBoLU2VwIDMsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDMAE",
+                        "serializedShareEntity": "CgtKN2dSTDJxOEdVNHLyAwgHEiNCQUlMQSBMRU5UTyAoU2xvd2VkKSBpcyAjNyBnbG9iYWxseRpIQkFJTEEgTEVOVE8gKFNsb3dlZCkgb24gR2xvYmFsIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIFNlcCAzLCAyMDI2MuICCt8CSW9RQ0NBSVNyZ0VLRkVKQlNVeEJJRXhGVGxSUElDaFRiRzkzWldRcEVuNW9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdlVXaEdXVU5WTm1ORVRVVllja2MwV25kTGIwMXNiMUZMYkhVMlEyc3RWVTAwUWxkelVXTldhSFJvU2tJNVVFSnVTR1ppZGxwSU9GUmhSa2wwWW5kNVgyUjBiVmRDVUhWSU5WcGlTVWhmYTBnOWR6a3dNQzFvT1RBd0xYQWFBVGNpQjNOdFlTUm9aWElpQ2sxRElFUkJKRWxNVmtFYU9Rb2dWMlZsYTJ4NUlGUnZjQ0JUYjI1bmN5QnZiaUJUYUc5eWRITWdRMmhoY25RU0JrZHNiMkpoYkJvTFUyVndJRE1zSURJd01qWTRCaUlTQ2djak1EQXdNREF3RWdjalJrWXpSVVZETUFFUhpzaGFyZWNhcmRfMTc4ODQxODgwMF83LmpwZ4IClgQSkwNodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SW9RQ0NBSVNyZ0VLRkVKQlNVeEJJRXhGVGxSUElDaFRiRzkzWldRcEVuNW9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdlVXaEdXVU5WTm1ORVRVVllja2MwV25kTGIwMXNiMUZMYkhVMlEyc3RWVTAwUWxkelVXTldhSFJvU2tJNVVFSnVTR1ppZGxwSU9GUmhSa2wwWW5kNVgyUjBiVmRDVUhWSU5WcGlTVWhmYTBnOWR6a3dNQzFvT1RBd0xYQWFBVGNpQjNOdFlTUm9aWElpQ2sxRElFUkJKRWxNVmtFYU9Rb2dWMlZsYTJ4NUlGUnZjQ0JUYjI1bmN5QnZiaUJUYUc5eWRITWdRMmhoY25RU0JrZHNiMkpoYkJvTFUyVndJRE1zSURJd01qWTRCaUlTQ2djak1EQXdNREF3RWdjalJrWXpSVVZETUFFGiNCQUlMQSBMRU5UTyAoU2xvd2VkKSBpcyAjNyBnbG9iYWxseSJIQkFJTEEgTEVOVE8gKFNsb3dlZCkgb24gR2xvYmFsIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIFNlcCAzLCAyMDI2Kg8ICiILCgAQBhgCIKfQ1Ak%3D"
                       },
                       {
                         "id": "G:6Cbw7yeATOs",
@@ -2268,9 +2268,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwihv4_1reSWAxXSxj8EHe9_LUc="
+        "trackingParams": "CAEQui8iEwjt-Iji6-SWAxVEbF4DHc5JH3k="
       }
     },
-    "trackingParams": "CAAQhGciEwihv4_1reSWAxXSxj8EHe9_LUfKAQRrg2rm"
+    "trackingParams": "CAAQhGciEwjt-Iji6-SWAxVEbF4DHc5JH3nKAQT9dIIE"
   }
 }
