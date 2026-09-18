@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-09-18T15:44:52.159474+00:00",
+  "captured_at_utc": "2026-09-18T20:20:15.918851+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtRVFhZS3VLcDNTMCjruLXVBjIKCgJVUxIEGgAgQQ%3D%3D",
-      "responseId": "IhMIwaunu7z4lgMVamteAx3DVjLv"
+      "visitorData": "CgtpTUpOWEpXWG9WQSj2ubbVBjIKCgJVUxIEGgAgLQ%3D%3D",
+      "responseId": "IhMIpea5gvr4lgMVWdbCBB1N4TsK"
     },
     "contents": {
       "sectionListRenderer": {
@@ -28,18 +28,18 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-09-16"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-09-16"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-09-10"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-09-10"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-10"
@@ -51,16 +51,16 @@
                       "latestEndDate": "2026-09-10"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-09-10"
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-09-16"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-09-10"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-09-16"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -699,7 +699,17 @@
                       },
                       {
                         "id": "G:obCA8xo0CD0",
-                        "name": "Sammi Meri Waar",
+                        "name": "Sammi Meri Waar (Coke Studio Season 8)",
+                        "thumbnail": {
+                          "thumbnails": [
+                            {
+                              "url": "https://yt3.googleusercontent.com/hDZIIpEK3FrpqrI2lOuA3QthgRWgXGI_Yu8GihQiaA9Q3rSgPjV8rQzXUtAdWSol3YXiHYZynIRfKoNO=w180-h180-l90-rj",
+                              "width": 180,
+                              "height": 180
+                            }
+                          ]
+                        },
+                        "encryptedVideoId": "KHLNSxe5Y8A",
                         "chartEntryMetadata": {
                           "currentPosition": 16,
                           "previousPosition": 28,
@@ -708,12 +718,30 @@
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11sw13wt6z",
-                            "name": "Luminexa"
+                            "kgMid": "/m/0hrgl7y",
+                            "name": "Quratulain Balouch"
+                          },
+                          {
+                            "kgMid": "/g/11c3q1c5m3",
+                            "name": "Umair Jaswal"
                           }
                         ],
                         "isVisible": true,
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvUBCAISnwEKD1NhbW1pIE1lcmkgV2FhchJ-aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3lXWmJXNHZaMmZFMEJjZVNGN05QeXhacnZrdjE4SThuMl9LcExldVJmbzd3VzgwUDVkMTJ2cDlfbGNhMThxakF2TnplWUhnMUJCQWJIT1pDPXc5MDAtaDkwMC1wGgIxNiIITHVtaW5leGEaOQofRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBDaGFydBIGR2xvYmFsGgxTZXAgMTYsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwMAE"
+                        "atvExternalVideoId": "POLOUgrqMRM",
+                        "releaseDate": {
+                          "year": 2015,
+                          "month": 10,
+                          "day": 4
+                        },
+                        "songwriters": [
+                          "Faisal Kapadia",
+                          "Bilal Maqsood"
+                        ],
+                        "songProducers": [
+                          "Strings"
+                        ],
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqQCCAISzgEKJlNhbW1pIE1lcmkgV2FhciAoQ29rZSBTdHVkaW8gU2Vhc29uIDgpEn5odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vaERaSUlwRUszRnJwcXJJMmxPdUEzUXRoZ1JXZ1hHSV9ZdThHaWhRaWFBOVEzclNnUGpWOHJRelhVdEFkV1NvbDNZWGlIWVp5bklSZktvTk89dzkwMC1oOTAwLXAaAjE2IhJRdXJhdHVsYWluIEJhbG91Y2giDFVtYWlyIEphc3dhbBo5Ch9EYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIENoYXJ0EgZHbG9iYWwaDFNlcCAxNiwgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAwAQ",
+                        "serializedShareEntity": "CgtLSExOU3hlNVk4QXLDBAgHEjZTYW1taSBNZXJpIFdhYXIgKENva2UgU3R1ZGlvIFNlYXNvbiA4KSBpcyAjMTYgZ2xvYmFsbHkaWlNhbW1pIE1lcmkgV2FhciAoQ29rZSBTdHVkaW8gU2Vhc29uIDgpIG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIFNlcCAxNiwgMjAyNjKNAwqKA0lxUUNDQUlTemdFS0psTmhiVzFwSUUxbGNta2dWMkZoY2lBb1EyOXJaU0JUZEhWa2FXOGdVMlZoYzI5dUlEZ3BFbjVvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZhRVJhU1Vsd1JVc3pSbkp3Y1hKSk1teFBkVUV6VVhSb1oxSlhaMWhIU1Y5WmRUaEhhV2hSYVdGQk9WRXpjbE5uVUdwV09ISlJlbGhWZEVGa1YxTnZiRE5aV0dsSVdWcDVia2xTWmt0dlRrODlkemt3TUMxb09UQXdMWEFhQWpFMkloSlJkWEpoZEhWc1lXbHVJRUpoYkc5MVkyZ2lERlZ0WVdseUlFcGhjM2RoYkJvNUNoOUVZV2xzZVNCVWIzQWdVMjl1WjNNZ2IyNGdVMmh2Y25SeklFTm9ZWEowRWdaSGJHOWlZV3dhREZObGNDQXhOaXdnTWpBeU5qZ0dJaElLQnlOR1JqTkZSVU1TQnlNd01EQXdNREF3QVFSG3NoYXJlY2FyZF8xNzg5NTQyMDAwXzE2LmpwZ4IC5gQSvgNodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFRQ0NBSVN6Z0VLSmxOaGJXMXBJRTFsY21rZ1YyRmhjaUFvUTI5clpTQlRkSFZrYVc4Z1UyVmhjMjl1SURncEVuNW9kSFJ3Y3pvdkwzbDBNeTVuYjI5bmJHVjFjMlZ5WTI5dWRHVnVkQzVqYjIwdmFFUmFTVWx3UlVzelJuSndjWEpKTW14UGRVRXpVWFJvWjFKWFoxaEhTVjlaZFRoSGFXaFJhV0ZCT1ZFemNsTm5VR3BXT0hKUmVsaFZkRUZrVjFOdmJETlpXR2xJV1ZwNWJrbFNaa3R2VGs4OWR6a3dNQzFvT1RBd0xYQWFBakUySWhKUmRYSmhkSFZzWVdsdUlFSmhiRzkxWTJnaURGVnRZV2x5SUVwaGMzZGhiQm81Q2g5RVlXbHNlU0JVYjNBZ1UyOXVaM01nYjI0Z1UyaHZjblJ6SUVOb1lYSjBFZ1pIYkc5aVlXd2FERk5sY0NBeE5pd2dNakF5TmpnR0loSUtCeU5HUmpORlJVTVNCeU13TURBd01EQXdBURo2U2FtbWkgTWVyaSBXYWFyIChDb2tlIFN0dWRpbyBTZWFzb24gOCkgaXMgIzE2IGdsb2JhbGx5IlpTYW1taSBNZXJpIFdhYXIgKENva2UgU3R1ZGlvIFNlYXNvbiA4KSBvbiBHbG9iYWwgRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBvbiBTZXAgMTYsIDIwMjYqDwgKIgsKABAGGAEgtNDUCQ%3D%3D"
                       },
                       {
                         "id": "G:0rcrq1QOs54",
@@ -1512,7 +1540,7 @@
                       },
                       {
                         "id": "G:C2bRRdBvONU",
-                        "name": "Ya Rab Meri Soyi Hui",
+                        "name": "Aankhe Mujhe Di Hai To Madina Bhi Dikha De",
                         "thumbnail": {
                           "thumbnails": [
                             {
@@ -1529,8 +1557,8 @@
                         },
                         "artists": [
                           {
-                            "kgMid": "/g/11g4bpxd86",
-                            "name": "Muhammad Owais Raza Qadri"
+                            "kgMid": "/g/11ld62fttn",
+                            "name": "Sahil Raza Qadri"
                           }
                         ],
                         "isVisible": true,
@@ -1543,8 +1571,8 @@
                         "songwriters": [
                           "Ishrat Godharwi"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IooCCAIStAEKFFlhIFJhYiBNZXJpIFNveWkgSHVpEn1odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vbnVmZm5wanJXZmo1TDNhcHlFV2E3SnRCOHhKOUxHdDh6OFU5UUJkN3gwUzVpZ3RVclBvY2xWby14Z3JUVXhwaTJpcXRCeEVjRmxEUVZnST13OTAwLWg5MDAtcBoCMzYiGU11aGFtbWFkIE93YWlzIFJhemEgUWFkcmkaOQofRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBDaGFydBIGR2xvYmFsGgxTZXAgMTYsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwMAE",
-                        "serializedShareEntity": "Cgs1Ym9JUkhGZnBTWXL8AwgHEiRZYSBSYWIgTWVyaSBTb3lpIEh1aSBpcyAjMzYgZ2xvYmFsbHkaSFlhIFJhYiBNZXJpIFNveWkgSHVpIG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIFNlcCAxNiwgMjAyNjLqAgrnAklvb0NDQUlTdEFFS0ZGbGhJRkpoWWlCTlpYSnBJRk52ZVdrZ1NIVnBFbjFvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZiblZtWm01d2FuSlhabW8xVEROaGNIbEZWMkUzU25SQ09IaEtPVXhIZERoNk9GVTVVVUprTjNnd1V6VnBaM1JWY2xCdlkyeFdieTE0WjNKVVZYaHdhVEpwY1hSQ2VFVmpSbXhFVVZablNUMTNPVEF3TFdnNU1EQXRjQm9DTXpZaUdVMTFhR0Z0YldGa0lFOTNZV2x6SUZKaGVtRWdVV0ZrY21rYU9Rb2ZSR0ZwYkhrZ1ZHOXdJRk52Ym1keklHOXVJRk5vYjNKMGN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d4VFpYQWdNVFlzSURJd01qWTRCaUlTQ2djalJrWXpSVVZERWdjak1EQXdNREF3TUFFUhtzaGFyZWNhcmRfMTc4OTU0MjAwMF8zNi5qcGeCAp8EEpsDaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlvb0NDQUlTdEFFS0ZGbGhJRkpoWWlCTlpYSnBJRk52ZVdrZ1NIVnBFbjFvZEhSd2N6b3ZMM2wwTXk1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMHZiblZtWm01d2FuSlhabW8xVEROaGNIbEZWMkUzU25SQ09IaEtPVXhIZERoNk9GVTVVVUprTjNnd1V6VnBaM1JWY2xCdlkyeFdieTE0WjNKVVZYaHdhVEpwY1hSQ2VFVmpSbXhFVVZablNUMTNPVEF3TFdnNU1EQXRjQm9DTXpZaUdVMTFhR0Z0YldGa0lFOTNZV2x6SUZKaGVtRWdVV0ZrY21rYU9Rb2ZSR0ZwYkhrZ1ZHOXdJRk52Ym1keklHOXVJRk5vYjNKMGN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d4VFpYQWdNVFlzSURJd01qWTRCaUlTQ2djalJrWXpSVVZERWdjak1EQXdNREF3TUFFGiRZYSBSYWIgTWVyaSBTb3lpIEh1aSBpcyAjMzYgZ2xvYmFsbHkiSFlhIFJhYiBNZXJpIFNveWkgSHVpIG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIFNlcCAxNiwgMjAyNioPCAoiCwoAEAYYASC00NQJ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IpcCCAISwQEKKkFhbmtoZSBNdWpoZSBEaSBIYWkgVG8gTWFkaW5hIEJoaSBEaWtoYSBEZRJ9aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL251ZmZucGpyV2ZqNUwzYXB5RVdhN0p0Qjh4SjlMR3Q4ejhVOVFCZDd4MFM1aWd0VXJQb2NsVm8teGdyVFV4cGkyaXF0QnhFY0ZsRFFWZ0k9dzkwMC1oOTAwLXAaAjM2IhBTYWhpbCBSYXphIFFhZHJpGjkKH0RhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgQ2hhcnQSBkdsb2JhbBoMU2VwIDE2LCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMDAB",
+                        "serializedShareEntity": "Cgs1Ym9JUkhGZnBTWXK5BAgHEjpBYW5raGUgTXVqaGUgRGkgSGFpIFRvIE1hZGluYSBCaGkgRGlraGEgRGUgaXMgIzM2IGdsb2JhbGx5Gl5BYW5raGUgTXVqaGUgRGkgSGFpIFRvIE1hZGluYSBCaGkgRGlraGEgRGUgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gU2VwIDE2LCAyMDI2MvsCCvgCSXBjQ0NBSVN3UUVLS2tGaGJtdG9aU0JOZFdwb1pTQkVhU0JJWVdrZ1ZHOGdUV0ZrYVc1aElFSm9hU0JFYVd0b1lTQkVaUko5YUhSMGNITTZMeTk1ZERNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMjUxWm1adWNHcHlWMlpxTlV3ellYQjVSVmRoTjBwMFFqaDRTamxNUjNRNGVqaFZPVkZDWkRkNE1GTTFhV2QwVlhKUWIyTnNWbTh0ZUdkeVZGVjRjR2t5YVhGMFFuaEZZMFpzUkZGV1owazlkemt3TUMxb09UQXdMWEFhQWpNMkloQlRZV2hwYkNCU1lYcGhJRkZoWkhKcEdqa0tIMFJoYVd4NUlGUnZjQ0JUYjI1bmN5QnZiaUJUYUc5eWRITWdRMmhoY25RU0JrZHNiMkpoYkJvTVUyVndJREUyTENBeU1ESTJPQVlpRWdvSEkwWkdNMFZGUXhJSEl6QXdNREF3TURBQlIbc2hhcmVjYXJkXzE3ODk1NDIwMDBfMzYuanBnggLcBBKsA2h0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcGNDQ0FJU3dRRUtLa0ZoYm10b1pTQk5kV3BvWlNCRWFTQklZV2tnVkc4Z1RXRmthVzVoSUVKb2FTQkVhV3RvWVNCRVpSSjlhSFIwY0hNNkx5OTVkRE11WjI5dloyeGxkWE5sY21OdmJuUmxiblF1WTI5dEwyNTFabVp1Y0dweVYyWnFOVXd6WVhCNVJWZGhOMHAwUWpoNFNqbE1SM1E0ZWpoVk9WRkNaRGQ0TUZNMWFXZDBWWEpRYjJOc1ZtOHRlR2R5VkZWNGNHa3lhWEYwUW5oRlkwWnNSRkZXWjBrOWR6a3dNQzFvT1RBd0xYQWFBak0ySWhCVFlXaHBiQ0JTWVhwaElGRmhaSEpwR2prS0gwUmhhV3g1SUZSdmNDQlRiMjVuY3lCdmJpQlRhRzl5ZEhNZ1EyaGhjblFTQmtkc2IySmhiQm9NVTJWd0lERTJMQ0F5TURJMk9BWWlFZ29ISTBaR00wVkZReElISXpBd01EQXdNREFCGjpBYW5raGUgTXVqaGUgRGkgSGFpIFRvIE1hZGluYSBCaGkgRGlraGEgRGUgaXMgIzM2IGdsb2JhbGx5Il5BYW5raGUgTXVqaGUgRGkgSGFpIFRvIE1hZGluYSBCaGkgRGlraGEgRGUgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gU2VwIDE2LCAyMDI2Kg8ICiILCgAQBhgBILTQ1Ak%3D"
                       },
                       {
                         "id": "G:S05fibA95fw",
@@ -2155,9 +2183,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjBq6e7vPiWAxVqa14DHcNWMu8="
+        "trackingParams": "CAEQui8iEwil5rmC-viWAxVZ1sIEHU3hOwo="
       }
     },
-    "trackingParams": "CAAQhGciEwjBq6e7vPiWAxVqa14DHcNWMu_KAQQmQRAd"
+    "trackingParams": "CAAQhGciEwil5rmC-viWAxVZ1sIEHU3hOwrKAQTtE1Td"
   }
 }
