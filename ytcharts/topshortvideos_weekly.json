@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-09-25T11:02:38.700098+00:00",
+  "captured_at_utc": "2026-09-25T16:25:27.101833+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtNdFE4UFBVU0FBOCjFqdnVBjIKCgJVUxIEGgAgYQ%3D%3D",
-      "responseId": "IhMIpJz0t8qJlwMVh9s_BB1NtBli"
+      "visitorData": "CgtuZUl2T0tDYmRhcyjtwNrVBjIKCgJVUxIEGgAgKg%3D%3D",
+      "responseId": "IhMIvdS9y5KKlwMVkgOtBh2zQBFM"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,7 +27,25 @@
                   },
                   "availableChartsInfo": [
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-09-23"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-09-17"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-09-17"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-17"
@@ -43,24 +61,6 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-09-17"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-09-17"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-09-17"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-09-23"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -2053,11 +2053,12 @@
                         },
                         "artists": [
                           {
-                            "name": "DJ.ILHAM"
+                            "kgMid": "/g/11y_ybvf1w",
+                            "name": "DJ ILHAM"
                           }
                         ],
                         "isVisible": true,
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=InUIAhIfCg1ESUdJREkgRElHSURJEgAaAjQ5IghESi5JTEhBTRo6CiBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBDaGFydBIGR2xvYmFsGgxTZXAgMTcsIDIwMjY4BiISCgcjMDAwMDAwEgcjRkYzRUVDMAE"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvcBCAISoAEKDURJR0lESSBESUdJREkSgAFodHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vVmRjaGJJdmZEOXF3VEVBSTZkS295eWFxZEVhUFRfcTlXcjB0MXU2bUhQRFNacEpqM18yaWdvWFNaT29ScXQwQmdDRk9pemFVNW8yQ19USFcxUT13OTAwLWg5MDAtcBoCNDkiCERKIElMSEFNGjoKIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIENoYXJ0EgZHbG9iYWwaDFNlcCAxNywgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMwAQ"
                       },
                       {
                         "id": "G:t9lE82mmp7Y",
@@ -2117,9 +2118,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiknPS3yomXAxWH2z8EHU20GWI="
+        "trackingParams": "CAEQui8iEwi91L3LkoqXAxWSA60GHbNAEUw="
       }
     },
-    "trackingParams": "CAAQhGciEwiknPS3yomXAxWH2z8EHU20GWLKAQQgZDLe"
+    "trackingParams": "CAAQhGciEwi91L3LkoqXAxWSA60GHbNAEUzKAQSvii8p"
   }
 }
