@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-10-01T22:17:29.302725+00:00",
+  "captured_at_utc": "2026-10-02T03:50:42.828000+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgt2ajRpdDdjcWZRNCjvt_vVBjIKCgJVUxIEGgAgMQ%3D%3D",
-      "responseId": "IhMIvJDYu-yZlwMVK-U_BB3fzB50"
+      "visitorData": "Cgt1bW1iLXZFQ3ZlYyiJ1PzVBjIKCgJVUxIEGgAgUg%3D%3D",
+      "responseId": "IhMIoOer-baalwMV9mMSAR04zwHd"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,19 +27,13 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-09-29"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-24"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-24"
@@ -51,10 +45,16 @@
                       "latestEndDate": "2026-09-30"
                     },
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-24"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-09-30"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -146,7 +146,7 @@
                       },
                       {
                         "id": "vRjaGgDsWSo",
-                        "title": "Casa Tupka Anthemo | @YoYoHoneySingh  feat. Priyanshi | Full Video",
+                        "title": "Casa Tupka Anthemo",
                         "viewCount": "28225119",
                         "thumbnail": {
                           "thumbnails": [
@@ -185,7 +185,6 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/m/0hn8t6m",
                             "name": "Yo Yo Honey Singh"
                           }
                         ],
@@ -198,10 +197,10 @@
                         "songwriters": [
                           "Hommie Dilliwala"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuQBCAISkAEKQkNhc2EgVHVwa2EgQW50aGVtbyB8IEBZb1lvSG9uZXlTaW5naCAgZmVhdC4gUHJpeWFuc2hpIHwgRnVsbCBWaWRlbxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS92UmphR2dEc1dTby9tYXhyZXNkZWZhdWx0LmpwZxoBMiIRWW8gWW8gSG9uZXkgU2luZ2gaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMU2VwIDI0LCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrMBCAISYAoSQ2FzYSBUdXBrYSBBbnRoZW1vEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3ZSamFHZ0RzV1NvL21heHJlc2RlZmF1bHQuanBnGgEyIhFZbyBZbyBIb25leSBTaW5naBo3Ch1XZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxTZXAgMjQsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
                         "externalChannelId": "UC1KonH1j8WMhc5cT6Bp7NtA",
                         "channelName": "Yo Yo Honey Singh",
-                        "serializedShareEntity": "Cgt2UmphR2dEc1dTb3KhBAgHElFDYXNhIFR1cGthIEFudGhlbW8gfCBAWW9Zb0hvbmV5U2luZ2ggIGZlYXQuIFByaXlhbnNoaSB8IEZ1bGwgVmlkZW8gaXMgIzIgZ2xvYmFsbHkadENhc2EgVHVwa2EgQW50aGVtbyB8IEBZb1lvSG9uZXlTaW5naCAgZmVhdC4gUHJpeWFuc2hpIHwgRnVsbCBWaWRlbyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gU2VwIDI0LCAyMDI2MrcCCrQCSXVRQkNBSVNrQUVLUWtOaGMyRWdWSFZ3YTJFZ1FXNTBhR1Z0YnlCOElFQlpiMWx2U0c5dVpYbFRhVzVuYUNBZ1ptVmhkQzRnVUhKcGVXRnVjMmhwSUh3Z1JuVnNiQ0JXYVdSbGJ4STBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5MlVtcGhSMmRFYzFkVGJ5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JNaUlSV1c4Z1dXOGdTRzl1WlhrZ1UybHVaMmdhTndvZFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb01VMlZ3SURJMExDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9UQUJSGnNoYXJlY2FyZF8xNzkwMjMzMjAwXzIuanBnggLFBBLoAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdVFCQ0FJU2tBRUtRa05oYzJFZ1ZIVndhMkVnUVc1MGFHVnRieUI4SUVCWmIxbHZTRzl1WlhsVGFXNW5hQ0FnWm1WaGRDNGdVSEpwZVdGdWMyaHBJSHdnUm5Wc2JDQldhV1JsYnhJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzkyVW1waFIyZEVjMWRUYnk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQk1pSVJXVzhnV1c4Z1NHOXVaWGtnVTJsdVoyZ2FOd29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTVUyVndJREkwTENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQhpRQ2FzYSBUdXBrYSBBbnRoZW1vIHwgQFlvWW9Ib25leVNpbmdoICBmZWF0LiBQcml5YW5zaGkgfCBGdWxsIFZpZGVvIGlzICMyIGdsb2JhbGx5InRDYXNhIFR1cGthIEFudGhlbW8gfCBAWW9Zb0hvbmV5U2luZ2ggIGZlYXQuIFByaXlhbnNoaSB8IEZ1bGwgVmlkZW8gb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIFNlcCAyNCwgMjAyNioPCAkiCwoAEAMYAiC80NQJ"
+                        "serializedShareEntity": "Cgt2UmphR2dEc1dTb3KAAwgHEiFDYXNhIFR1cGthIEFudGhlbW8gaXMgIzIgZ2xvYmFsbHkaRENhc2EgVHVwa2EgQW50aGVtbyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gU2VwIDI0LCAyMDI2MvYBCvMBSXJNQkNBSVNZQW9TUTJGellTQlVkWEJyWVNCQmJuUm9aVzF2RWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM1pTYW1GSFowUnpWMU52TDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dFeUloRlpieUJaYnlCSWIyNWxlU0JUYVc1bmFCbzNDaDFYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d4VFpYQWdNalFzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFUhpzaGFyZWNhcmRfMTc5MDIzMzIwMF8yLmpwZ4ICpAMSpwJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJNQkNBSVNZQW9TUTJGellTQlVkWEJyWVNCQmJuUm9aVzF2RWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMM1pTYW1GSFowUnpWMU52TDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dFeUloRlpieUJaYnlCSWIyNWxlU0JUYVc1bmFCbzNDaDFYWldWcmJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d4VFpYQWdNalFzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFGiFDYXNhIFR1cGthIEFudGhlbW8gaXMgIzIgZ2xvYmFsbHkiRENhc2EgVHVwa2EgQW50aGVtbyBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gU2VwIDI0LCAyMDI2Kg8ICSILCgAQAxgCILzQ1Ak%3D"
                       },
                       {
                         "id": "s2HYl12gmOY",
@@ -2142,7 +2141,7 @@
                             "name": "Shreya Ghoshal"
                           },
                           {
-                            "kgMid": "/g/11zx0rmfpv",
+                            "kgMid": "/g/11bt_0zjqz",
                             "name": "Romy"
                           }
                         ],
@@ -6728,9 +6727,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwi8kNi77JmXAxUr5T8EHd_MHnQ="
+        "trackingParams": "CAEQui8iEwig56v5tpqXAxX2YxIBHTjPAd0="
       }
     },
-    "trackingParams": "CAAQhGciEwi8kNi77JmXAxUr5T8EHd_MHnTKAQQNgZ_b"
+    "trackingParams": "CAAQhGciEwig56v5tpqXAxX2YxIBHTjPAd3KAQRsZvRF"
   }
 }

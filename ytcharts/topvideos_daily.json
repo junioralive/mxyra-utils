@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-10-01T22:17:17.611227+00:00",
+  "captured_at_utc": "2026-10-02T03:50:31.221081+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtHY1FjMzZkbXRFRSjkt_vVBjIKCgJVUxIEGgAgPw%3D%3D",
-      "responseId": "IhMImuyPtuyZlwMV__Q_BB3dwypT"
+      "visitorData": "CgtvMG5oc2I3eVBqQSj90_zVBjIKCgJVUxIEGgAgOg%3D%3D",
+      "responseId": "IhMI2MPn87aalwMVWKDCAR37sBrd"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,19 +27,13 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-09-29"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-24"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-24"
@@ -51,10 +45,16 @@
                       "latestEndDate": "2026-09-30"
                     },
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-24"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-09-30"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -213,7 +213,7 @@
                       },
                       {
                         "id": "vRjaGgDsWSo",
-                        "title": "Casa Tupka Anthemo | @YoYoHoneySingh  feat. Priyanshi | Full Video",
+                        "title": "Casa Tupka Anthemo",
                         "viewCount": "5227940",
                         "thumbnail": {
                           "thumbnails": [
@@ -254,7 +254,6 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/m/0hn8t6m",
                             "name": "Yo Yo Honey Singh"
                           }
                         ],
@@ -267,10 +266,10 @@
                         "songwriters": [
                           "Hommie Dilliwala"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuMBCAISkAEKQkNhc2EgVHVwa2EgQW50aGVtbyB8IEBZb1lvSG9uZXlTaW5naCAgZmVhdC4gUHJpeWFuc2hpIHwgRnVsbCBWaWRlbxI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS92UmphR2dEc1dTby9tYXhyZXNkZWZhdWx0LmpwZxoBMyIRWW8gWW8gSG9uZXkgU2luZ2gaNgocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxTZXAgMzAsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrIBCAISYAoSQ2FzYSBUdXBrYSBBbnRoZW1vEjRodHRwczovL2kueXRpbWcuY29tL3ZpL3ZSamFHZ0RzV1NvL21heHJlc2RlZmF1bHQuanBnGgEzIhFZbyBZbyBIb25leSBTaW5naBo2ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDFNlcCAzMCwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UC1KonH1j8WMhc5cT6Bp7NtA",
                         "channelName": "Yo Yo Honey Singh",
-                        "serializedShareEntity": "Cgt2UmphR2dEc1dTb3KfBAgHElFDYXNhIFR1cGthIEFudGhlbW8gfCBAWW9Zb0hvbmV5U2luZ2ggIGZlYXQuIFByaXlhbnNoaSB8IEZ1bGwgVmlkZW8gaXMgIzMgZ2xvYmFsbHkac0Nhc2EgVHVwa2EgQW50aGVtbyB8IEBZb1lvSG9uZXlTaW5naCAgZmVhdC4gUHJpeWFuc2hpIHwgRnVsbCBWaWRlbyBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBTZXAgMzAsIDIwMjYytgIKswJJdU1CQ0FJU2tBRUtRa05oYzJFZ1ZIVndhMkVnUVc1MGFHVnRieUI4SUVCWmIxbHZTRzl1WlhsVGFXNW5hQ0FnWm1WaGRDNGdVSEpwZVdGdWMyaHBJSHdnUm5Wc2JDQldhV1JsYnhJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzkyVW1waFIyZEVjMWRUYnk5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQk15SVJXVzhnV1c4Z1NHOXVaWGtnVTJsdVoyZ2FOZ29jUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d4VFpYQWdNekFzSURJd01qWTRBeUlTQ2djak5rWTJSRVU1RWdjak1EQXdNREF3TUFFUhpzaGFyZWNhcmRfMTc5MDc1MTYwMF8zLmpwZ4ICwwQS5wJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXVNQkNBSVNrQUVLUWtOaGMyRWdWSFZ3YTJFZ1FXNTBhR1Z0YnlCOElFQlpiMWx2U0c5dVpYbFRhVzVuYUNBZ1ptVmhkQzRnVUhKcGVXRnVjMmhwSUh3Z1JuVnNiQ0JXYVdSbGJ4STBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5MlVtcGhSMmRFYzFkVGJ5OXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JNeUlSV1c4Z1dXOGdTRzl1WlhrZ1UybHVaMmdhTmdvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneFRaWEFnTXpBc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRRpRQ2FzYSBUdXBrYSBBbnRoZW1vIHwgQFlvWW9Ib25leVNpbmdoICBmZWF0LiBQcml5YW5zaGkgfCBGdWxsIFZpZGVvIGlzICMzIGdsb2JhbGx5InNDYXNhIFR1cGthIEFudGhlbW8gfCBAWW9Zb0hvbmV5U2luZ2ggIGZlYXQuIFByaXlhbnNoaSB8IEZ1bGwgVmlkZW8gb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gU2VwIDMwLCAyMDI2Kg8ICSILCgAQAxgBIMLQ1Ak%3D"
+                        "serializedShareEntity": "Cgt2UmphR2dEc1dTb3L-AggHEiFDYXNhIFR1cGthIEFudGhlbW8gaXMgIzMgZ2xvYmFsbHkaQ0Nhc2EgVHVwa2EgQW50aGVtbyBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBTZXAgMzAsIDIwMjYy9QEK8gFJcklCQ0FJU1lBb1NRMkZ6WVNCVWRYQnJZU0JCYm5Sb1pXMXZFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwzWlNhbUZIWjBSelYxTnZMMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0V6SWhGWmJ5QlpieUJJYjI1bGVTQlRhVzVuYUJvMkNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FERk5sY0NBek1Dd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBUVIac2hhcmVjYXJkXzE3OTA3NTE2MDBfMy5qcGeCAqIDEqYCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlySUJDQUlTWUFvU1EyRnpZU0JVZFhCcllTQkJiblJvWlcxdkVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDNaU2FtRkhaMFJ6VjFOdkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnRXpJaEZaYnlCWmJ5QkliMjVsZVNCVGFXNW5hQm8yQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURGTmxjQ0F6TUN3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRGiFDYXNhIFR1cGthIEFudGhlbW8gaXMgIzMgZ2xvYmFsbHkiQ0Nhc2EgVHVwa2EgQW50aGVtbyBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBTZXAgMzAsIDIwMjYqDwgJIgsKABADGAEgwtDUCQ%3D%3D"
                       },
                       {
                         "id": "vSA7yMrTETg",
@@ -2347,7 +2346,7 @@
                             "name": "Shreya Ghoshal"
                           },
                           {
-                            "kgMid": "/g/11zx0rmfpv",
+                            "kgMid": "/g/11bt_0zjqz",
                             "name": "Romy"
                           }
                         ],
@@ -5688,7 +5687,7 @@
                       },
                       {
                         "id": "cBT6vU55Gkg",
-                        "title": "The Remarkable Life of Cornelius Cummings (Bounce x One & Only x With You) [Music Video]",
+                        "title": "Bounce",
                         "viewCount": "775830",
                         "thumbnail": {
                           "thumbnails": [
@@ -5727,6 +5726,7 @@
                         "isAvailable": true,
                         "artists": [
                           {
+                            "kgMid": "/g/11f7ly6bnk",
                             "name": "Oliver Tree"
                           }
                         ],
@@ -5736,10 +5736,10 @@
                           "month": 9,
                           "day": 29
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvQBCAISoQEKWFRoZSBSZW1hcmthYmxlIExpZmUgb2YgQ29ybmVsaXVzIEN1bW1pbmdzIChCb3VuY2UgeCBPbmUgJiBPbmx5IHggV2l0aCBZb3UpIFtNdXNpYyBWaWRlb10SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvY0JUNnZVNTVHa2cvbWF4cmVzZGVmYXVsdC5qcGcaAjg1IgtPbGl2ZXIgVHJlZRo2ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDFNlcCAzMCwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqEBCAISTwoGQm91bmNlEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2NCVDZ2VTU1R2tnL21heHJlc2RlZmF1bHQuanBnGgI4NSILT2xpdmVyIFRyZWUaNgocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxTZXAgMzAsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
                         "externalChannelId": "UCHcb3FQivl6xCRcHC2zjdkQ",
                         "channelName": "Oliver Tree",
-                        "serializedShareEntity": "CgtjQlQ2dlU1NUdrZ3LlBAgHEmhUaGUgUmVtYXJrYWJsZSBMaWZlIG9mIENvcm5lbGl1cyBDdW1taW5ncyAoQm91bmNlIHggT25lICYgT25seSB4IFdpdGggWW91KSBbTXVzaWMgVmlkZW9dIGlzICM4NSBnbG9iYWxseRqJAVRoZSBSZW1hcmthYmxlIExpZmUgb2YgQ29ybmVsaXVzIEN1bW1pbmdzIChCb3VuY2UgeCBPbmUgJiBPbmx5IHggV2l0aCBZb3UpIFtNdXNpYyBWaWRlb10gb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gU2VwIDMwLCAyMDI2Ms0CCsoCSXZRQkNBSVNvUUVLV0ZSb1pTQlNaVzFoY210aFlteGxJRXhwWm1VZ2IyWWdRMjl5Ym1Wc2FYVnpJRU4xYlcxcGJtZHpJQ2hDYjNWdVkyVWdlQ0JQYm1VZ0ppQlBibXg1SUhnZ1YybDBhQ0JaYjNVcElGdE5kWE5wWXlCV2FXUmxiMTBTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZZMEpVTm5aVk5UVkhhMmN2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpnMUlndFBiR2wyWlhJZ1ZISmxaUm8yQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURGTmxjQ0F6TUN3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRUhtzaGFyZWNhcmRfMTc5MDc1MTYwMF84NS5qcGeCAogFEv4CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl2UUJDQUlTb1FFS1dGUm9aU0JTWlcxaGNtdGhZbXhsSUV4cFptVWdiMllnUTI5eWJtVnNhWFZ6SUVOMWJXMXBibWR6SUNoQ2IzVnVZMlVnZUNCUGJtVWdKaUJQYm14NUlIZ2dWMmwwYUNCWmIzVXBJRnROZFhOcFl5QldhV1JsYjEwU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2WTBKVU5uWlZOVFZIYTJjdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqZzFJZ3RQYkdsMlpYSWdWSEpsWlJvMkNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FERk5sY0NBek1Dd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBURpoVGhlIFJlbWFya2FibGUgTGlmZSBvZiBDb3JuZWxpdXMgQ3VtbWluZ3MgKEJvdW5jZSB4IE9uZSAmIE9ubHkgeCBXaXRoIFlvdSkgW011c2ljIFZpZGVvXSBpcyAjODUgZ2xvYmFsbHkiiQFUaGUgUmVtYXJrYWJsZSBMaWZlIG9mIENvcm5lbGl1cyBDdW1taW5ncyAoQm91bmNlIHggT25lICYgT25seSB4IFdpdGggWW91KSBbTXVzaWMgVmlkZW9dIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIFNlcCAzMCwgMjAyNioPCAkiCwoAEAMYASDC0NQJ"
+                        "serializedShareEntity": "CgtjQlQ2dlU1NUdrZ3LRAggHEhZCb3VuY2UgaXMgIzg1IGdsb2JhbGx5GjdCb3VuY2Ugb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gU2VwIDMwLCAyMDI2Mt4BCtsBSXFFQkNBSVNUd29HUW05MWJtTmxFalJvZEhSd2N6b3ZMMmt1ZVhScGJXY3VZMjl0TDNacEwyTkNWRFoyVlRVMVIydG5MMjFoZUhKbGMyUmxabUYxYkhRdWFuQm5HZ0k0TlNJTFQyeHBkbVZ5SUZSeVpXVWFOZ29jUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d4VFpYQWdNekFzSURJd01qWTRBeUlTQ2djak5rWTJSRVU1RWdjak1EQXdNREF3TUFFUhtzaGFyZWNhcmRfMTc5MDc1MTYwMF84NS5qcGeCAvQCEo8CaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxRUJDQUlTVHdvR1FtOTFibU5sRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMk5DVkRaMlZUVTFSMnRuTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJNE5TSUxUMnhwZG1WeUlGUnlaV1VhTmdvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneFRaWEFnTXpBc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRRoWQm91bmNlIGlzICM4NSBnbG9iYWxseSI3Qm91bmNlIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIFNlcCAzMCwgMjAyNioPCAkiCwoAEAMYASDC0NQJ"
                       },
                       {
                         "id": "2yreX_ZCfgM",
@@ -6761,9 +6761,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwia7I-27JmXAxX_9D8EHd3DKlM="
+        "trackingParams": "CAEQui8iEwjYw-fztpqXAxVYoMIBHfuwGt0="
       }
     },
-    "trackingParams": "CAAQhGciEwia7I-27JmXAxX_9D8EHd3DKlPKAQQ-6rWP"
+    "trackingParams": "CAAQhGciEwjYw-fztpqXAxVYoMIBHfuwGt3KAQS2Fcsa"
   }
 }
