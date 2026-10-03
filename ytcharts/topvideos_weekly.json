@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-10-02T21:46:06.745694+00:00",
+  "captured_at_utc": "2026-10-03T03:35:15.004134+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtpLS1qbGkzYzR2USiVzIDWBjIKCgJVUxIEGgAgZQ%3D%3D",
-      "responseId": "IhMImKneqKeclwMVBt4_BB3b6DTX"
+      "visitorData": "Cgs3eklWTFRKbUw5Yyjp74HWBjIKCgJVUxIEGgAgJw%3D%3D",
+      "responseId": "IhMIke_TrfWclwMVb39eAx0YmTbf"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,7 +27,7 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-24"
@@ -39,7 +39,13 @@
                       "latestEndDate": "2026-10-01"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-09-24"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-24"
@@ -48,18 +54,12 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-09-30"
+                      "latestEndDate": "2026-10-01"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-09-24"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-09-24"
                     }
                   ],
@@ -5041,6 +5041,12 @@
                           "month": 3,
                           "day": 30
                         },
+                        "songwriters": [
+                          "Imael Angel"
+                        ],
+                        "songProducers": [
+                          "Imael Angel"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrABCAISXQoUQmFkIFRpbWVzIERlZXAgSG91c2USNGh0dHBzOi8vaS55dGltZy5jb20vdmkvOFBlVTZBVlBRVmcvbWF4cmVzZGVmYXVsdC5qcGcaAjc0IgtJbWFlbCBBbmdlbBo3Ch1XZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxTZXAgMjQsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
                         "externalChannelId": "UCkXf_dMR0icBbJzdiq0bUpQ",
                         "channelName": "Imael Angel",
@@ -6731,9 +6737,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiYqd6op5yXAxUG3j8EHdvoNNc="
+        "trackingParams": "CAEQui8iEwiR79Ot9ZyXAxVvf14DHRiZNt8="
       }
     },
-    "trackingParams": "CAAQhGciEwiYqd6op5yXAxUG3j8EHdvoNNfKAQSpQpuT"
+    "trackingParams": "CAAQhGciEwiR79Ot9ZyXAxVvf14DHRiZNt_KAQTR0OGa"
   }
 }

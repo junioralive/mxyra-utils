@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-10-02T21:45:55.185737+00:00",
+  "captured_at_utc": "2026-10-03T03:35:03.426467+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgt2LVVHU0JLMW5SUSiJzIDWBjIKCgJVUxIEGgAgRA%3D%3D",
-      "responseId": "IhMIov2co6eclwMV2NE_BB0cZwAO"
+      "visitorData": "CgtIZVE1WC16clNoTSje74HWBjIKCgJVUxIEGgAgRg%3D%3D",
+      "responseId": "IhMIxJaRqPWclwMVwYHCAR2rbxkL"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,7 +27,7 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-24"
@@ -39,7 +39,13 @@
                       "latestEndDate": "2026-10-01"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-09-24"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-09-24"
@@ -48,18 +54,12 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-09-30"
+                      "latestEndDate": "2026-10-01"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-09-24"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-09-24"
                     }
                   ],
@@ -3892,6 +3892,13 @@
                           "month": 9,
                           "day": 29
                         },
+                        "songwriters": [
+                          "Aiobahn +81",
+                          "DEMONDICE"
+                        ],
+                        "songProducers": [
+                          "Aiobahn +81"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvQBCAISogEKXUFpb2JhaG4gKzgxIGZlYXQuIERFTU9ORElDRSAtIERFTU9OJ1MgU0hPVCAoT2ZmaWNpYWwgTVYpIFtUaGVtZSBmb3IgUFVLRVkgR09EREVTUyBTSE9UIFRSSUNLXRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9PV0RjbjdobDE2QS9tYXhyZXNkZWZhdWx0LmpwZxoCNTciB0Fpb2JhaG4aNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtPY3QgMSwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
                         "externalChannelId": "UC9qSqkNFiByKzzoxT3Cydyw",
                         "channelName": "Aiobahn",
@@ -6806,9 +6813,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwii_Zyjp5yXAxXY0T8EHRxnAA4="
+        "trackingParams": "CAEQui8iEwjElpGo9ZyXAxXBgcIBHatvGQs="
       }
     },
-    "trackingParams": "CAAQhGciEwii_Zyjp5yXAxXY0T8EHRxnAA7KAQRyL-AX"
+    "trackingParams": "CAAQhGciEwjElpGo9ZyXAxXBgcIBHatvGQvKAQSp_S3G"
   }
 }
