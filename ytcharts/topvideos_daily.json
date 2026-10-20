@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-10-19T18:32:19.371254+00:00",
+  "captured_at_utc": "2026-10-20T03:11:48.748764+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtYRHJSZ1JYOFEwSSiqxNnWBjIKCgJVUxIEGgAgSg%3D%3D",
-      "responseId": "IhMI_dTj2tvGlwMVug2EBB24OAel"
+      "visitorData": "CgtvLVplUzRZeDhkTSjrt9vWBjIKCgJVUxIEGgAgYw%3D%3D",
+      "responseId": "IhMIsdW_6c_HlwMVHPc_BB2VwA9t"
     },
     "contents": {
       "sectionListRenderer": {
@@ -28,9 +28,9 @@
                   "availableChartsInfo": [
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-10-18"
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-10-15"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -39,16 +39,10 @@
                       "latestEndDate": "2026-10-15"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-10-15"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-10-17"
+                      "latestEndDate": "2026-10-18"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
@@ -61,6 +55,12 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-10-15"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-10-18"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -1424,7 +1424,7 @@
                       },
                       {
                         "id": "DPEodkHzH-s",
-                        "title": "Tate McRae - Housewife (Official Video)",
+                        "title": "Housewife (Official Video)",
                         "viewCount": "1745941",
                         "thumbnail": {
                           "thumbnails": [
@@ -1485,12 +1485,13 @@
                         ],
                         "songProducers": [
                           "Ryan Tedder",
-                          "Grant Boutin"
+                          "Grant Boutin",
+                          "Jasper Harris"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IsEBCAISbwonVGF0ZSBNY1JhZSAtIEhvdXNld2lmZSAoT2ZmaWNpYWwgVmlkZW8pEjRodHRwczovL2kueXRpbWcuY29tL3ZpL0RQRW9ka0h6SC1zL21heHJlc2RlZmF1bHQuanBnGgIyMSIKVGF0ZSBNY1JhZRo2ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDE9jdCAxOCwgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrQBCAISYgoaSG91c2V3aWZlIChPZmZpY2lhbCBWaWRlbykSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRFBFb2RrSHpILXMvbWF4cmVzZGVmYXVsdC5qcGcaAjIxIgpUYXRlIE1jUmFlGjYKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMT2N0IDE4LCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMDAB",
                         "externalChannelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
                         "channelName": "TateMcRaeVEVO",
-                        "serializedShareEntity": "CgtEUEVvZGtIekgtc3K-AwgHEjdUYXRlIE1jUmFlIC0gSG91c2V3aWZlIChPZmZpY2lhbCBWaWRlbykgaXMgIzIxIGdsb2JhbGx5GlhUYXRlIE1jUmFlIC0gSG91c2V3aWZlIChPZmZpY2lhbCBWaWRlbykgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gT2N0IDE4LCAyMDI2MokCCoYCSXNFQkNBSVNid29uVkdGMFpTQk5ZMUpoWlNBdElFaHZkWE5sZDJsbVpTQW9UMlptYVdOcFlXd2dWbWxrWlc4cEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDBSUVJXOWthMGg2U0MxekwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSXlNU0lLVkdGMFpTQk5ZMUpoWlJvMkNoeEVZV2xzZVNCVWIzQWdUWFZ6YVdNZ1ZtbGtaVzl6SUVOb1lYSjBFZ1pIYkc5aVlXd2FERTlqZENBeE9Dd2dNakF5TmpnREloSUtCeU0yUmpaRVJUa1NCeU13TURBd01EQXdBUVIbc2hhcmVjYXJkXzE3OTIzMDY4MDBfMjEuanBnggLhAxK6Amh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jc0VCQ0FJU2J3b25WR0YwWlNCTlkxSmhaU0F0SUVodmRYTmxkMmxtWlNBb1QyWm1hV05wWVd3Z1ZtbGtaVzhwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMFJRUlc5a2EwaDZTQzF6TDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJeU1TSUtWR0YwWlNCTlkxSmhaUm8yQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURFOWpkQ0F4T0N3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRGjdUYXRlIE1jUmFlIC0gSG91c2V3aWZlIChPZmZpY2lhbCBWaWRlbykgaXMgIzIxIGdsb2JhbGx5IlhUYXRlIE1jUmFlIC0gSG91c2V3aWZlIChPZmZpY2lhbCBWaWRlbykgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gT2N0IDE4LCAyMDI2Kg8ICSILCgAQAxgBIJrR1Ak%3D"
+                        "serializedShareEntity": "CgtEUEVvZGtIekgtc3KSAwgHEipIb3VzZXdpZmUgKE9mZmljaWFsIFZpZGVvKSBpcyAjMjEgZ2xvYmFsbHkaS0hvdXNld2lmZSAoT2ZmaWNpYWwgVmlkZW8pIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE9jdCAxOCwgMjAyNjL3AQr0AUlyUUJDQUlTWWdvYVNHOTFjMlYzYVdabElDaFBabVpwWTJsaGJDQldhV1JsYnlrU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2UkZCRmIyUnJTSHBJTFhNdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqSXhJZ3BVWVhSbElFMWpVbUZsR2pZS0hFUmhhV3g1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb01UMk4wSURFNExDQXlNREkyT0FNaUVnb0hJelpHTmtSRk9SSUhJekF3TURBd01EQUJSG3NoYXJlY2FyZF8xNzkyMzA2ODAwXzIxLmpwZ4ICtQMSqAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXJRQkNBSVNZZ29hU0c5MWMyVjNhV1psSUNoUFptWnBZMmxoYkNCV2FXUmxieWtTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZSRkJGYjJSclNIcElMWE12YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpJeElncFVZWFJsSUUxalVtRmxHallLSEVSaGFXeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTVQyTjBJREU0TENBeU1ESTJPQU1pRWdvSEl6WkdOa1JGT1JJSEl6QXdNREF3TURBQhoqSG91c2V3aWZlIChPZmZpY2lhbCBWaWRlbykgaXMgIzIxIGdsb2JhbGx5IktIb3VzZXdpZmUgKE9mZmljaWFsIFZpZGVvKSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBPY3QgMTgsIDIwMjYqDwgJIgsKABADGAEgmtHUCQ%3D%3D"
                       },
                       {
                         "id": "A7ShtPRP2Mc",
@@ -6126,6 +6127,18 @@
                           {
                             "kgMid": "/m/01shqcj",
                             "name": "Justice"
+                          },
+                          {
+                            "kgMid": "/m/05236vx",
+                            "name": "Tame Impala"
+                          },
+                          {
+                            "kgMid": "/m/0ttl474",
+                            "name": "SZA"
+                          },
+                          {
+                            "kgMid": "/g/11nw59yvh4",
+                            "name": "Grand Theft Auto VI"
                           }
                         ],
                         "isVisible": true,
@@ -6151,10 +6164,10 @@
                           "Justice",
                           "Kevin Parker"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrkBCAISZwoiRmxvd2VyIEluIEEgSHVycmljYW5lIFtmcm9tIEdUQVZJXRI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS81ZFB3Qld2bWNiUS9tYXhyZXNkZWZhdWx0LmpwZxoCOTEiB0p1c3RpY2UaNgocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxPY3QgMTgsIDIwMjY4AyISCgcjNkY2REU5EgcjMDAwMDAwMAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuEBCAISjgEKIkZsb3dlciBJbiBBIEh1cnJpY2FuZSBbZnJvbSBHVEFWSV0SNGh0dHBzOi8vaS55dGltZy5jb20vdmkvNWRQd0JXdm1jYlEvbWF4cmVzZGVmYXVsdC5qcGcaAjkxIgdKdXN0aWNlIgtUYW1lIEltcGFsYSIDU1pBIhNHcmFuZCBUaGVmdCBBdXRvIFZJGjYKHERhaWx5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMT2N0IDE4LCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMDAB",
                         "externalChannelId": "UCQ5Ssrs48yJBfOesfDqXUeA",
                         "channelName": "Justice",
-                        "serializedShareEntity": "Cgs1ZFB3Qld2bWNiUXKpAwgHEjJGbG93ZXIgSW4gQSBIdXJyaWNhbmUgW2Zyb20gR1RBVkldIGlzICM5MSBnbG9iYWxseRpTRmxvd2VyIEluIEEgSHVycmljYW5lIFtmcm9tIEdUQVZJXSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBPY3QgMTgsIDIwMjYy_gEK-wFJcmtCQ0FJU1p3b2lSbXh2ZDJWeUlFbHVJRUVnU0hWeWNtbGpZVzVsSUZ0bWNtOXRJRWRVUVZaSlhSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM4MVpGQjNRbGQyYldOaVVTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVEVpQjBwMWMzUnBZMlVhTmdvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneFBZM1FnTVRnc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRVIbc2hhcmVjYXJkXzE3OTIzMDY4MDBfOTEuanBnggLMAxKvAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcmtCQ0FJU1p3b2lSbXh2ZDJWeUlFbHVJRUVnU0hWeWNtbGpZVzVsSUZ0bWNtOXRJRWRVUVZaSlhSSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM4MVpGQjNRbGQyYldOaVVTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NPVEVpQjBwMWMzUnBZMlVhTmdvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneFBZM1FnTVRnc0lESXdNalk0QXlJU0NnY2pOa1kyUkVVNUVnY2pNREF3TURBd01BRRoyRmxvd2VyIEluIEEgSHVycmljYW5lIFtmcm9tIEdUQVZJXSBpcyAjOTEgZ2xvYmFsbHkiU0Zsb3dlciBJbiBBIEh1cnJpY2FuZSBbZnJvbSBHVEFWSV0gb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gT2N0IDE4LCAyMDI2Kg8ICSILCgAQAxgBIJrR1Ak%3D"
+                        "serializedShareEntity": "Cgs1ZFB3Qld2bWNiUXLeAwgHEjJGbG93ZXIgSW4gQSBIdXJyaWNhbmUgW2Zyb20gR1RBVkldIGlzICM5MSBnbG9iYWxseRpTRmxvd2VyIEluIEEgSHVycmljYW5lIFtmcm9tIEdUQVZJXSBvbiBHbG9iYWwgRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBPY3QgMTgsIDIwMjYyswIKsAJJdUVCQ0FJU2pnRUtJa1pzYjNkbGNpQkpiaUJCSUVoMWNuSnBZMkZ1WlNCYlpuSnZiU0JIVkVGV1NWMFNOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdk5XUlFkMEpYZG0xallsRXZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamt4SWdkS2RYTjBhV05sSWd0VVlXMWxJRWx0Y0dGc1lTSURVMXBCSWhOSGNtRnVaQ0JVYUdWbWRDQkJkWFJ2SUZaSkdqWUtIRVJoYVd4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NVDJOMElERTRMQ0F5TURJMk9BTWlFZ29ISXpaR05rUkZPUklISXpBd01EQXdNREFCUhtzaGFyZWNhcmRfMTc5MjMwNjgwMF85MS5qcGeCAoEEEuQCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl1RUJDQUlTamdFS0lrWnNiM2RsY2lCSmJpQkJJRWgxY25KcFkyRnVaU0JiWm5KdmJTQkhWRUZXU1YwU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2TldSUWQwSlhkbTFqWWxFdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqa3hJZ2RLZFhOMGFXTmxJZ3RVWVcxbElFbHRjR0ZzWVNJRFUxcEJJaE5IY21GdVpDQlVhR1ZtZENCQmRYUnZJRlpKR2pZS0hFUmhhV3g1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb01UMk4wSURFNExDQXlNREkyT0FNaUVnb0hJelpHTmtSRk9SSUhJekF3TURBd01EQUIaMkZsb3dlciBJbiBBIEh1cnJpY2FuZSBbZnJvbSBHVEFWSV0gaXMgIzkxIGdsb2JhbGx5IlNGbG93ZXIgSW4gQSBIdXJyaWNhbmUgW2Zyb20gR1RBVkldIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE9jdCAxOCwgMjAyNioPCAkiCwoAEAMYASCa0dQJ"
                       },
                       {
                         "id": "MYFFA242azM",
@@ -6808,9 +6821,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj91OPa28aXAxW6DYQEHbg4B6U="
+        "trackingParams": "CAEQui8iEwix1b_pz8eXAxUc9z8EHZXAD20="
       }
     },
-    "trackingParams": "CAAQhGciEwj91OPa28aXAxW6DYQEHbg4B6XKAQRmN00j"
+    "trackingParams": "CAAQhGciEwix1b_pz8eXAxUc9z8EHZXAD23KAQR8Xfcn"
   }
 }
