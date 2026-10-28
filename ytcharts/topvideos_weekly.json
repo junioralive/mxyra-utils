@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-10-28T12:01:20.836483+00:00",
+  "captured_at_utc": "2026-10-28T22:07:27.529028+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgswLWdIb0VpOVh4USiHyIfXBjIKCgJVUxIEGgAgaA%3D%3D",
-      "responseId": "IhMIzNa9jdXclwMVFlEGBR22gzRq"
+      "visitorData": "CgtuXy1RU2NaY2xyTSiW5InXBjIKCgJVUxIEGgAgGA%3D%3D",
+      "responseId": "IhMIk4q8ytzdlwMV6VIGBR0JLhSs"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,18 +27,18 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-10-22"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-10-22"
                     },
                     {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-10-22"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
@@ -46,6 +46,12 @@
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-10-22"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-10-22"
@@ -55,12 +61,6 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-10-26"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-10-22"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -620,7 +620,7 @@
                       },
                       {
                         "id": "p1potl1sbjA",
-                        "title": "Ramayana: Ravana Tandav (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Vishal D, Kumar V",
+                        "title": "Ravana Tandav",
                         "viewCount": "14775805",
                         "thumbnail": {
                           "thumbnails": [
@@ -659,8 +659,8 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/m/01_qph",
-                            "name": "Lacuna Coil"
+                            "kgMid": "/m/01ww39j",
+                            "name": "Vishal Dadlani"
                           }
                         ],
                         "isVisible": true,
@@ -673,10 +673,10 @@
                           "A.R. Rahman",
                           "Kumar Vishwas"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvwBCAISqAEKYFJhbWF5YW5hOiBSYXZhbmEgVGFuZGF2IChTb25nKSB8IE5hbWl0IE0sIE5pdGVzaCBUIHwgUmFuYmlyLCBZYXNoIHwgQVIgUmFobWFuLCBWaXNoYWwgRCwgS3VtYXIgVhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9wMXBvdGwxc2JqQS9tYXhyZXNkZWZhdWx0LmpwZxoBOSILTGFjdW5hIENvaWwaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMT2N0IDIyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqsBCAISWAoNUmF2YW5hIFRhbmRhdhI0aHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9wMXBvdGwxc2JqQS9tYXhyZXNkZWZhdWx0LmpwZxoBOSIOVmlzaGFsIERhZGxhbmkaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMT2N0IDIyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
                         "externalChannelId": "UCq-Fj5jknLsUf-MWSy4_brA",
                         "channelName": "T-Series",
-                        "serializedShareEntity": "CgtwMXBvdGwxc2JqQXL-BAgHEm9SYW1heWFuYTogUmF2YW5hIFRhbmRhdiAoU29uZykgfCBOYW1pdCBNLCBOaXRlc2ggVCB8IFJhbmJpciwgWWFzaCB8IEFSIFJhaG1hbiwgVmlzaGFsIEQsIEt1bWFyIFYgaXMgIzkgZ2xvYmFsbHkakgFSYW1heWFuYTogUmF2YW5hIFRhbmRhdiAoU29uZykgfCBOYW1pdCBNLCBOaXRlc2ggVCB8IFJhbmJpciwgWWFzaCB8IEFSIFJhaG1hbiwgVmlzaGFsIEQsIEt1bWFyIFYgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE9jdCAyMiwgMjAyNjLXAgrUAkl2d0JDQUlTcUFFS1lGSmhiV0Y1WVc1aE9pQlNZWFpoYm1FZ1ZHRnVaR0YySUNoVGIyNW5LU0I4SUU1aGJXbDBJRTBzSUU1cGRHVnphQ0JVSUh3Z1VtRnVZbWx5TENCWllYTm9JSHdnUVZJZ1VtRm9iV0Z1TENCV2FYTm9ZV3dnUkN3Z1MzVnRZWElnVmhJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzl3TVhCdmRHd3hjMkpxUVM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQk9TSUxUR0ZqZFc1aElFTnZhV3dhTndvZFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb01UMk4wSURJeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9UQUJSGnNoYXJlY2FyZF8xNzkyNjUyNDAwXzkuanBnggKiBRKIA2h0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdndCQ0FJU3FBRUtZRkpoYldGNVlXNWhPaUJTWVhaaGJtRWdWR0Z1WkdGMklDaFRiMjVuS1NCOElFNWhiV2wwSUUwc0lFNXBkR1Z6YUNCVUlId2dVbUZ1WW1seUxDQlpZWE5vSUh3Z1FWSWdVbUZvYldGdUxDQldhWE5vWVd3Z1JDd2dTM1Z0WVhJZ1ZoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5d01YQnZkR3d4YzJKcVFTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JPU0lMVEdGamRXNWhJRU52YVd3YU53b2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NVDJOMElESXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCGm9SYW1heWFuYTogUmF2YW5hIFRhbmRhdiAoU29uZykgfCBOYW1pdCBNLCBOaXRlc2ggVCB8IFJhbmJpciwgWWFzaCB8IEFSIFJhaG1hbiwgVmlzaGFsIEQsIEt1bWFyIFYgaXMgIzkgZ2xvYmFsbHkikgFSYW1heWFuYTogUmF2YW5hIFRhbmRhdiAoU29uZykgfCBOYW1pdCBNLCBOaXRlc2ggVCB8IFJhbmJpciwgWWFzaCB8IEFSIFJhaG1hbiwgVmlzaGFsIEQsIEt1bWFyIFYgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE9jdCAyMiwgMjAyNioPCAkiCwoAEAMYAiCe0dQJ"
+                        "serializedShareEntity": "CgtwMXBvdGwxc2JqQXLrAggHEhxSYXZhbmEgVGFuZGF2IGlzICM5IGdsb2JhbGx5Gj9SYXZhbmEgVGFuZGF2IG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBPY3QgMjIsIDIwMjYy6wEK6AFJcXNCQ0FJU1dBb05VbUYyWVc1aElGUmhibVJoZGhJMGFIUjBjSE02THk5cExubDBhVzFuTG1OdmJTOTJhUzl3TVhCdmRHd3hjMkpxUVM5dFlYaHlaWE5rWldaaGRXeDBMbXB3WnhvQk9TSU9WbWx6YUdGc0lFUmhaR3hoYm1rYU53b2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NVDJOMElESXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCUhpzaGFyZWNhcmRfMTc5MjY1MjQwMF85LmpwZ4ICjwMSnAJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXFzQkNBSVNXQW9OVW1GMllXNWhJRlJoYm1SaGRoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5d01YQnZkR3d4YzJKcVFTOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0JPU0lPVm1semFHRnNJRVJoWkd4aGJta2FOd29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTVQyTjBJREl5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQhocUmF2YW5hIFRhbmRhdiBpcyAjOSBnbG9iYWxseSI_UmF2YW5hIFRhbmRhdiBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gT2N0IDIyLCAyMDI2Kg8ICSILCgAQAxgCIJ7R1Ak%3D"
                       },
                       {
                         "id": "ebZj_nrmH-c",
@@ -4749,12 +4749,12 @@
                             "name": "Jangi Reddy"
                           },
                           {
-                            "kgMid": "",
-                            "name": "Singer Prabha"
-                          },
-                          {
                             "kgMid": "/m/0hht5gt",
                             "name": "Anirudh Ravichander"
+                          },
+                          {
+                            "kgMid": "",
+                            "name": "Singer Prabha"
                           },
                           {
                             "kgMid": "/m/0111f_13",
@@ -4771,10 +4771,10 @@
                           "Anirudh Ravichander",
                           "Kasarla Shyam"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItsBCAIShwEKC1llc2hhbmFndWxhEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2FNN1pjRS1RMW80L21heHJlc2RlZmF1bHQuanBnGgI2OSILSmFuZ2kgUmVkZHkiDVNpbmdlciBQcmFiaGEiE0FuaXJ1ZGggUmF2aWNoYW5kZXIiDUthc2FybGEgU2h5YW0aNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMT2N0IDIyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItsBCAIShwEKC1llc2hhbmFndWxhEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2FNN1pjRS1RMW80L21heHJlc2RlZmF1bHQuanBnGgI2OSILSmFuZ2kgUmVkZHkiE0FuaXJ1ZGggUmF2aWNoYW5kZXIiDVNpbmdlciBQcmFiaGEiDUthc2FybGEgU2h5YW0aNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMT2N0IDIyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
                         "externalChannelId": "UC68nKdrLbLL0Vj7ilVkLmmg",
                         "channelName": "Saregama Telugu",
-                        "serializedShareEntity": "CgthTTdaY0UtUTFvNHKpAwgHEhtZZXNoYW5hZ3VsYSBpcyAjNjkgZ2xvYmFsbHkaPVllc2hhbmFndWxhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBPY3QgMjIsIDIwMjYyqwIKqAJJdHNCQ0FJU2h3RUtDMWxsYzJoaGJtRm5kV3hoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMkZOTjFwalJTMVJNVzgwTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMk9TSUxTbUZ1WjJrZ1VtVmtaSGtpRFZOcGJtZGxjaUJRY21GaWFHRWlFMEZ1YVhKMVpHZ2dVbUYyYVdOb1lXNWtaWElpRFV0aGMyRnliR0VnVTJoNVlXMGFOd29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTVQyTjBJREl5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQlIbc2hhcmVjYXJkXzE3OTI2NTI0MDBfNjkuanBnggLMAxLcAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdHNCQ0FJU2h3RUtDMWxsYzJoaGJtRm5kV3hoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMkZOTjFwalJTMVJNVzgwTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMk9TSUxTbUZ1WjJrZ1VtVmtaSGtpRFZOcGJtZGxjaUJRY21GaWFHRWlFMEZ1YVhKMVpHZ2dVbUYyYVdOb1lXNWtaWElpRFV0aGMyRnliR0VnVTJoNVlXMGFOd29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTVQyTjBJREl5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQhobWWVzaGFuYWd1bGEgaXMgIzY5IGdsb2JhbGx5Ij1ZZXNoYW5hZ3VsYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gT2N0IDIyLCAyMDI2Kg8ICSILCgAQAxgCIJ7R1Ak%3D"
+                        "serializedShareEntity": "CgthTTdaY0UtUTFvNHKpAwgHEhtZZXNoYW5hZ3VsYSBpcyAjNjkgZ2xvYmFsbHkaPVllc2hhbmFndWxhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBPY3QgMjIsIDIwMjYyqwIKqAJJdHNCQ0FJU2h3RUtDMWxsYzJoaGJtRm5kV3hoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMkZOTjFwalJTMVJNVzgwTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMk9TSUxTbUZ1WjJrZ1VtVmtaSGtpRTBGdWFYSjFaR2dnVW1GMmFXTm9ZVzVrWlhJaURWTnBibWRsY2lCUWNtRmlhR0VpRFV0aGMyRnliR0VnVTJoNVlXMGFOd29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTVQyTjBJREl5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQlIbc2hhcmVjYXJkXzE3OTI2NTI0MDBfNjkuanBnggLMAxLcAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JdHNCQ0FJU2h3RUtDMWxsYzJoaGJtRm5kV3hoRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMkZOTjFwalJTMVJNVzgwTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMk9TSUxTbUZ1WjJrZ1VtVmtaSGtpRTBGdWFYSjFaR2dnVW1GMmFXTm9ZVzVrWlhJaURWTnBibWRsY2lCUWNtRmlhR0VpRFV0aGMyRnliR0VnVTJoNVlXMGFOd29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTVQyTjBJREl5TENBeU1ESTJPQU1pRWdvSEl6QXdNREF3TUJJSEl6WkdOa1JGT1RBQhobWWVzaGFuYWd1bGEgaXMgIzY5IGdsb2JhbGx5Ij1ZZXNoYW5hZ3VsYSBvbiBHbG9iYWwgV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3Mgb24gT2N0IDIyLCAyMDI2Kg8ICSILCgAQAxgCIJ7R1Ak%3D"
                       },
                       {
                         "id": "rz1hAo3Hiy4",
@@ -6844,9 +6844,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjM1r2N1dyXAxUWUQYFHbaDNGo="
+        "trackingParams": "CAEQui8iEwiTirzK3N2XAxXpUgYFHQkuFKw="
       }
     },
-    "trackingParams": "CAAQhGciEwjM1r2N1dyXAxUWUQYFHbaDNGrKAQRaTO0o"
+    "trackingParams": "CAAQhGciEwiTirzK3N2XAxXpUgYFHQkuFKzKAQRDyWeF"
   }
 }
