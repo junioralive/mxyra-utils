@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-10-29T12:12:33.897540+00:00",
+  "captured_at_utc": "2026-10-29T22:23:45.124746+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtsemozeGdiUWJuYyio8IzXBjIKCgJVUxIEGgAgHQ%3D%3D",
-      "responseId": "IhMI-KmVvZnflwMVdvvCBB3r8BQP"
+      "visitorData": "Cgs5VVF6clFSS1JiOCjnjo_XBjIKCgJVUxIEGgAgHw%3D%3D",
+      "responseId": "IhMIw-avi6LglwMVBt4_BB0q7C89"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,24 +27,6 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-10-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-10-27"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-10-22"
-                    },
-                    {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -57,9 +39,27 @@
                       "latestEndDate": "2026-10-27"
                     },
                     {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-10-22"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-10-27"
+                    },
+                    {
                       "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-10-22"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-10-22"
                     }
                   ],
@@ -609,7 +609,10 @@
                           "day": 11
                         },
                         "songwriters": [
-                          "Vadim Gubski"
+                          "Elias Ribeiro Dos Santos",
+                          "Ryan Andrade",
+                          "José Henrique Carvalho Martins",
+                          "Mohamed Saadani"
                         ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IowCCAIStgEKDkVMQSBQRUlEQSBGVU5LEn5odHRwczovL3l0My5nb29nbGV1c2VyY29udGVudC5jb20vTjhEci1tMWF2US1pcTlGYjVLOUVCMXBqcjNRNVBkOHRFbWJWMFdsNHJfbnBTdFlKelQwSmlpR0ktUkZmdWE3NWhCRGQ2ZmhtU0RxSGdleHM9dzkwMC1oOTAwLXAaAjEyIgdESiBWMkJFIgZESiBTTUciB1hTS0FZMTEiBkRKIGxseho5Ch9EYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIENoYXJ0EgZHbG9iYWwaDE9jdCAyNywgMjAyNjgGIhIKByNGRjNFRUMSByMwMDAwMDAwAQ",
                         "serializedShareEntity": "CgtDZ3ZxZUx2azBsMHLzAwgHEh5FTEEgUEVJREEgRlVOSyBpcyAjMTIgZ2xvYmFsbHkaQkVMQSBQRUlEQSBGVU5LIG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIE9jdCAyNywgMjAyNjLtAgrqAklvd0NDQUlTdGdFS0RrVk1RU0JRUlVsRVFTQkdWVTVMRW41b2RIUndjem92TDNsME15NW5iMjluYkdWMWMyVnlZMjl1ZEdWdWRDNWpiMjB2VGpoRWNpMXRNV0YyVVMxcGNUbEdZalZMT1VWQ01YQnFjak5STlZCa09IUkZiV0pXTUZkc05ISmZibkJUZEZsS2VsUXdTbWxwUjBrdFVrWm1kV0UzTldoQ1JHUTJabWh0VTBSeFNHZGxlSE05ZHprd01DMW9PVEF3TFhBYUFqRXlJZ2RFU2lCV01rSkZJZ1pFU2lCVFRVY2lCMWhUUzBGWk1URWlCa1JLSUd4c2VobzVDaDlFWVdsc2VTQlViM0FnVTI5dVozTWdiMjRnVTJodmNuUnpJRU5vWVhKMEVnWkhiRzlpWVd3YURFOWpkQ0F5Tnl3Z01qQXlOamdHSWhJS0J5TkdSak5GUlVNU0J5TXdNREF3TURBd0FRUhtzaGFyZWNhcmRfMTc5MzA4NDQwMF8xMi5qcGeCApYEEp4DaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlvd0NDQUlTdGdFS0RrVk1RU0JRUlVsRVFTQkdWVTVMRW41b2RIUndjem92TDNsME15NW5iMjluYkdWMWMyVnlZMjl1ZEdWdWRDNWpiMjB2VGpoRWNpMXRNV0YyVVMxcGNUbEdZalZMT1VWQ01YQnFjak5STlZCa09IUkZiV0pXTUZkc05ISmZibkJUZEZsS2VsUXdTbWxwUjBrdFVrWm1kV0UzTldoQ1JHUTJabWh0VTBSeFNHZGxlSE05ZHprd01DMW9PVEF3TFhBYUFqRXlJZ2RFU2lCV01rSkZJZ1pFU2lCVFRVY2lCMWhUUzBGWk1URWlCa1JLSUd4c2VobzVDaDlFWVdsc2VTQlViM0FnVTI5dVozTWdiMjRnVTJodmNuUnpJRU5vWVhKMEVnWkhiRzlpWVd3YURFOWpkQ0F5Tnl3Z01qQXlOamdHSWhJS0J5TkdSak5GUlVNU0J5TXdNREF3TURBd0FRGh5FTEEgUEVJREEgRlVOSyBpcyAjMTIgZ2xvYmFsbHkiQkVMQSBQRUlEQSBGVU5LIG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIE9jdCAyNywgMjAyNioPCAoiCwoAEAYYASCj0dQJ"
@@ -774,7 +777,7 @@
                         "releaseDate": {
                           "year": 2026,
                           "month": 3,
-                          "day": 16
+                          "day": 18
                         },
                         "songwriters": [
                           "Ella Kamgaing"
@@ -2210,9 +2213,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj4qZW9md-XAxV2-8IEHevwFA8="
+        "trackingParams": "CAEQui8iEwjD5q-LouCXAxUG3j8EHSrsLz0="
       }
     },
-    "trackingParams": "CAAQhGciEwj4qZW9md-XAxV2-8IEHevwFA_KAQSVmF4r"
+    "trackingParams": "CAAQhGciEwjD5q-LouCXAxUG3j8EHSrsLz3KAQTVr3Jl"
   }
 }
