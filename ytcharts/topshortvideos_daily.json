@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/daily",
-  "captured_at_utc": "2026-10-30T12:03:03.527772+00:00",
+  "captured_at_utc": "2026-10-30T21:54:33.644086+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtZWDYzMTFlV1RlSSjujpLXBjIKCgJVUxIEGgAgKg%3D%3D",
-      "responseId": "IhMIv9j1m9nhlwMVTd4_BB0TLgkd"
+      "visitorData": "CgtVc214RHctUVlmNCiQpJTXBjIKCgJVUxIEGgAgMA%3D%3D",
+      "responseId": "IhMI7tj5tt3ilwMVRbXCAR0ucRQH"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,7 +27,19 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-10-22"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-10-29"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-10-22"
@@ -39,22 +51,10 @@
                       "latestEndDate": "2026-10-28"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-10-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-10-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-10-28"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -493,6 +493,7 @@
                             "name": "Pamela Chopra"
                           },
                           {
+                            "kgMid": "/g/11y4q_fvhv",
                             "name": "Manpreet Kaur"
                           }
                         ],
@@ -955,7 +956,7 @@
                         "releaseDate": {
                           "year": 2025,
                           "month": 11,
-                          "day": 11
+                          "day": 8
                         },
                         "songwriters": [
                           "Spencer Burgan"
@@ -1891,10 +1892,6 @@
                           {
                             "kgMid": "/g/11btnqc9gm",
                             "name": "Allexinno & Starchild"
-                          },
-                          {
-                            "kgMid": "/m/03f7qpr",
-                            "name": "Starchild"
                           }
                         ],
                         "isVisible": true,
@@ -1908,8 +1905,8 @@
                           "Mircea Madalin Vanca",
                           "Ionica Nicolae Cristinel"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IoQCCAISrgEKBkpvYW5uYRJ-aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0lLeDREeVRTU2tReE9oZzFEN0JKWHRqMW9XUkNQaEtoaG03Tl9ZOXRLSmplNmw1Qk03Z3g1VWRMQVlyb0FfZ2NFTlJNN01FVFNjU1FHTmo1PXc5MDAtaDkwMC1wGgI0MyIVQWxsZXhpbm5vICYgU3RhcmNoaWxkIglTdGFyY2hpbGQaOQofRGFpbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBDaGFydBIGR2xvYmFsGgxPY3QgMjgsIDIwMjY4BiISCgcjRkYzRUVDEgcjMDAwMDAwMAE",
-                        "serializedShareEntity": "CgtmV3ZUMVBtVVhwWXLYAwgHEhZKb2FubmEgaXMgIzQzIGdsb2JhbGx5GjpKb2FubmEgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gT2N0IDI4LCAyMDI2MuICCt8CSW9RQ0NBSVNyZ0VLQmtwdllXNXVZUkotYUhSMGNITTZMeTk1ZERNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMGxMZURSRWVWUlRVMnRSZUU5b1p6RkVOMEpLV0hScU1XOVhVa05RYUV0b2FHMDNUbDlaT1hSTFNtcGxObXcxUWswM1ozZzFWV1JNUVZseWIwRmZaMk5GVGxKTk4wMUZWRk5qVTFGSFRtbzFQWGM1TURBdGFEa3dNQzF3R2dJME15SVZRV3hzWlhocGJtNXZJQ1lnVTNSaGNtTm9hV3hrSWdsVGRHRnlZMmhwYkdRYU9Rb2ZSR0ZwYkhrZ1ZHOXdJRk52Ym1keklHOXVJRk5vYjNKMGN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d4UFkzUWdNamdzSURJd01qWTRCaUlTQ2djalJrWXpSVVZERWdjak1EQXdNREF3TUFFUhtzaGFyZWNhcmRfMTc5MzE3MDgwMF80My5qcGeCAvsDEpMDaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlvUUNDQUlTcmdFS0JrcHZZVzV1WVJKLWFIUjBjSE02THk5NWRETXVaMjl2WjJ4bGRYTmxjbU52Ym5SbGJuUXVZMjl0TDBsTGVEUkVlVlJUVTJ0UmVFOW9aekZFTjBKS1dIUnFNVzlYVWtOUWFFdG9hRzAzVGw5Wk9YUkxTbXBsTm13MVFrMDNaM2cxVldSTVFWbHliMEZmWjJORlRsSk5OMDFGVkZOalUxRkhUbW8xUFhjNU1EQXRhRGt3TUMxd0dnSTBNeUlWUVd4c1pYaHBibTV2SUNZZ1UzUmhjbU5vYVd4a0lnbFRkR0Z5WTJocGJHUWFPUW9mUkdGcGJIa2dWRzl3SUZOdmJtZHpJRzl1SUZOb2IzSjBjeUJEYUdGeWRCSUdSMnh2WW1Gc0dneFBZM1FnTWpnc0lESXdNalk0QmlJU0NnY2pSa1l6UlVWREVnY2pNREF3TURBd01BRRoWSm9hbm5hIGlzICM0MyBnbG9iYWxseSI6Sm9hbm5hIG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIE9jdCAyOCwgMjAyNioPCAoiCwoAEAYYASCk0dQJ"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IvkBCAISowEKBkpvYW5uYRJ-aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0lLeDREeVRTU2tReE9oZzFEN0JKWHRqMW9XUkNQaEtoaG03Tl9ZOXRLSmplNmw1Qk03Z3g1VWRMQVlyb0FfZ2NFTlJNN01FVFNjU1FHTmo1PXc5MDAtaDkwMC1wGgI0MyIVQWxsZXhpbm5vICYgU3RhcmNoaWxkGjkKH0RhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgQ2hhcnQSBkdsb2JhbBoMT2N0IDI4LCAyMDI2OAYiEgoHI0ZGM0VFQxIHIzAwMDAwMDAB",
+                        "serializedShareEntity": "CgtmV3ZUMVBtVVhwWXLJAwgHEhZKb2FubmEgaXMgIzQzIGdsb2JhbGx5GjpKb2FubmEgb24gR2xvYmFsIERhaWx5IFRvcCBTb25ncyBvbiBTaG9ydHMgb24gT2N0IDI4LCAyMDI2MtMCCtACSXZrQkNBSVNvd0VLQmtwdllXNXVZUkotYUhSMGNITTZMeTk1ZERNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMGxMZURSRWVWUlRVMnRSZUU5b1p6RkVOMEpLV0hScU1XOVhVa05RYUV0b2FHMDNUbDlaT1hSTFNtcGxObXcxUWswM1ozZzFWV1JNUVZseWIwRmZaMk5GVGxKTk4wMUZWRk5qVTFGSFRtbzFQWGM1TURBdGFEa3dNQzF3R2dJME15SVZRV3hzWlhocGJtNXZJQ1lnVTNSaGNtTm9hV3hrR2prS0gwUmhhV3g1SUZSdmNDQlRiMjVuY3lCdmJpQlRhRzl5ZEhNZ1EyaGhjblFTQmtkc2IySmhiQm9NVDJOMElESTRMQ0F5TURJMk9BWWlFZ29ISTBaR00wVkZReElISXpBd01EQXdNREFCUhtzaGFyZWNhcmRfMTc5MzE3MDgwMF80My5qcGeCAuwDEoQDaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl2a0JDQUlTb3dFS0JrcHZZVzV1WVJKLWFIUjBjSE02THk5NWRETXVaMjl2WjJ4bGRYTmxjbU52Ym5SbGJuUXVZMjl0TDBsTGVEUkVlVlJUVTJ0UmVFOW9aekZFTjBKS1dIUnFNVzlYVWtOUWFFdG9hRzAzVGw5Wk9YUkxTbXBsTm13MVFrMDNaM2cxVldSTVFWbHliMEZmWjJORlRsSk5OMDFGVkZOalUxRkhUbW8xUFhjNU1EQXRhRGt3TUMxd0dnSTBNeUlWUVd4c1pYaHBibTV2SUNZZ1UzUmhjbU5vYVd4a0dqa0tIMFJoYVd4NUlGUnZjQ0JUYjI1bmN5QnZiaUJUYUc5eWRITWdRMmhoY25RU0JrZHNiMkpoYkJvTVQyTjBJREk0TENBeU1ESTJPQVlpRWdvSEkwWkdNMFZGUXhJSEl6QXdNREF3TURBQhoWSm9hbm5hIGlzICM0MyBnbG9iYWxseSI6Sm9hbm5hIG9uIEdsb2JhbCBEYWlseSBUb3AgU29uZ3Mgb24gU2hvcnRzIG9uIE9jdCAyOCwgMjAyNioPCAoiCwoAEAYYASCk0dQJ"
                       },
                       {
                         "id": "G:r6YibI5ShCQ",
@@ -2231,9 +2228,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwi_2PWb2eGXAxVN3j8EHRMuCR0="
+        "trackingParams": "CAEQui8iEwju2Pm23eKXAxVFtcIBHS5xFAc="
       }
     },
-    "trackingParams": "CAAQhGciEwi_2PWb2eGXAxVN3j8EHRMuCR3KAQSDjgCr"
+    "trackingParams": "CAAQhGciEwju2Pm23eKXAxVFtcIBHS5xFAfKAQQZOuNJ"
   }
 }

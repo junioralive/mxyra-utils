@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-10-30T12:02:40.989422+00:00",
+  "captured_at_utc": "2026-10-30T21:54:11.049443+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtfazFYQktyZndLWSjXjpLXBjIKCgJVUxIEGgAgLg%3D%3D",
-      "responseId": "IhMIrtCSkdnhlwMVTd4_BB0TLgkd"
+      "visitorData": "CgtyQjRjUmJHOWQ5RSj5o5TXBjIKCgJVUxIEGgAgTg%3D%3D",
+      "responseId": "IhMI6cGSrN3ilwMVLqzCAR0QxhHI"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,7 +27,19 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-10-22"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-10-29"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-10-22"
@@ -39,22 +51,10 @@
                       "latestEndDate": "2026-10-28"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-10-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-10-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-10-28"
                     },
                     {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
@@ -4601,16 +4601,16 @@
                             "name": "Natanael Cano"
                           },
                           {
-                            "kgMid": "/g/11pwf3lxhl",
-                            "name": "Ovi"
-                          },
-                          {
                             "kgMid": "/g/11sv6sgjpy",
                             "name": "Tito Double P"
                           },
                           {
                             "kgMid": "/g/11vs4dm3wj",
                             "name": "Victor Mendivil"
+                          },
+                          {
+                            "kgMid": "/g/11pwf3lxhl",
+                            "name": "Ovi"
                           }
                         ],
                         "isVisible": true,
@@ -4630,10 +4630,10 @@
                           "Wicked Outside",
                           "Pimp Rulo"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItIBCAISfwoPT0xJVklBIExBIEZMQUtBEjRodHRwczovL2kueXRpbWcuY29tL3ZpL01ZRkZBMjQyYXpNL21heHJlc2RlZmF1bHQuanBnGgI2NyINTmF0YW5hZWwgQ2FubyIDT3ZpIg1UaXRvIERvdWJsZSBQIg9WaWN0b3IgTWVuZGl2aWwaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMT2N0IDIyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItIBCAISfwoPT0xJVklBIExBIEZMQUtBEjRodHRwczovL2kueXRpbWcuY29tL3ZpL01ZRkZBMjQyYXpNL21heHJlc2RlZmF1bHQuanBnGgI2NyINTmF0YW5hZWwgQ2FubyINVGl0byBEb3VibGUgUCIPVmljdG9yIE1lbmRpdmlsIgNPdmkaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMT2N0IDIyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
                         "externalChannelId": "UCW2_ESwKrYgSjqQjrR09n0g",
                         "channelName": "Natanael Cano",
-                        "serializedShareEntity": "CgtNWUZGQTI0MmF6TXKlAwgHEh9PTElWSUEgTEEgRkxBS0EgaXMgIzY3IGdsb2JhbGx5GkFPTElWSUEgTEEgRkxBS0Egb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE9jdCAyMiwgMjAyNjKfAgqcAkl0SUJDQUlTZndvUFQweEpWa2xCSUV4QklFWk1RVXRCRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMDFaUmtaQk1qUXlZWHBOTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMk55SU5UbUYwWVc1aFpXd2dRMkZ1YnlJRFQzWnBJZzFVYVhSdklFUnZkV0pzWlNCUUlnOVdhV04wYjNJZ1RXVnVaR2wyYVd3YU53b2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NVDJOMElESXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCUhtzaGFyZWNhcmRfMTc5MjY1MjQwMF82Ny5qcGeCAsgDEtACaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl0SUJDQUlTZndvUFQweEpWa2xCSUV4QklFWk1RVXRCRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMDFaUmtaQk1qUXlZWHBOTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMk55SU5UbUYwWVc1aFpXd2dRMkZ1YnlJRFQzWnBJZzFVYVhSdklFUnZkV0pzWlNCUUlnOVdhV04wYjNJZ1RXVnVaR2wyYVd3YU53b2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NVDJOMElESXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCGh9PTElWSUEgTEEgRkxBS0EgaXMgIzY3IGdsb2JhbGx5IkFPTElWSUEgTEEgRkxBS0Egb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE9jdCAyMiwgMjAyNioPCAkiCwoAEAMYAiCe0dQJ"
+                        "serializedShareEntity": "CgtNWUZGQTI0MmF6TXKlAwgHEh9PTElWSUEgTEEgRkxBS0EgaXMgIzY3IGdsb2JhbGx5GkFPTElWSUEgTEEgRkxBS0Egb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE9jdCAyMiwgMjAyNjKfAgqcAkl0SUJDQUlTZndvUFQweEpWa2xCSUV4QklFWk1RVXRCRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMDFaUmtaQk1qUXlZWHBOTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMk55SU5UbUYwWVc1aFpXd2dRMkZ1YnlJTlZHbDBieUJFYjNWaWJHVWdVQ0lQVm1samRHOXlJRTFsYm1ScGRtbHNJZ05QZG1rYU53b2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NVDJOMElESXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCUhtzaGFyZWNhcmRfMTc5MjY1MjQwMF82Ny5qcGeCAsgDEtACaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUl0SUJDQUlTZndvUFQweEpWa2xCSUV4QklFWk1RVXRCRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMDFaUmtaQk1qUXlZWHBOTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJMk55SU5UbUYwWVc1aFpXd2dRMkZ1YnlJTlZHbDBieUJFYjNWaWJHVWdVQ0lQVm1samRHOXlJRTFsYm1ScGRtbHNJZ05QZG1rYU53b2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NVDJOMElESXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCGh9PTElWSUEgTEEgRkxBS0EgaXMgIzY3IGdsb2JhbGx5IkFPTElWSUEgTEEgRkxBS0Egb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE9jdCAyMiwgMjAyNioPCAkiCwoAEAMYAiCe0dQJ"
                       },
                       {
                         "id": "49x5rfxmv4E",
@@ -5480,7 +5480,7 @@
                         "artists": [
                           {
                             "kgMid": "/m/01mn02z",
-                            "name": "Yulduz Usmonova"
+                            "name": "Yulduz"
                           }
                         ],
                         "isVisible": true,
@@ -5489,10 +5489,10 @@
                           "month": 10,
                           "day": 12
                         },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=ItkBCAIShQEKOFl1bGR1eiBVc21vbm92YSwgWGFtZGFtIFNvYmlyb3YgLSBQZXNodGEgKFV4bGFtYXlzaXptaT8pEjRodHRwczovL2kueXRpbWcuY29tL3ZpL05KUzFCZHZUa1hNL21heHJlc2RlZmF1bHQuanBnGgI4MCIPWXVsZHV6IFVzbW9ub3ZhGjcKHVdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaDE9jdCAyMiwgMjAyNjgDIhIKByMwMDAwMDASByM2RjZERTkwAQ",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=Is8BCAISfAo4WXVsZHV6IFVzbW9ub3ZhLCBYYW1kYW0gU29iaXJvdiAtIFBlc2h0YSAoVXhsYW1heXNpem1pPykSNGh0dHBzOi8vaS55dGltZy5jb20vdmkvTkpTMUJkdlRrWE0vbWF4cmVzZGVmYXVsdC5qcGcaAjgwIgZZdWxkdXoaNwodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoMT2N0IDIyLCAyMDI2OAMiEgoHIzAwMDAwMBIHIzZGNkRFOTAB",
                         "externalChannelId": "UCrwGAQfaJhRapPETC-la2pQ",
                         "channelName": "Yulduz Usmanova",
-                        "serializedShareEntity": "CgtOSlMxQmR2VGtYTXKBBAgHEkhZdWxkdXogVXNtb25vdmEsIFhhbWRhbSBTb2Jpcm92IC0gUGVzaHRhIChVeGxhbWF5c2l6bWk_KSBpcyAjODAgZ2xvYmFsbHkaall1bGR1eiBVc21vbm92YSwgWGFtZGFtIFNvYmlyb3YgLSBQZXNodGEgKFV4bGFtYXlzaXptaT8pIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBPY3QgMjIsIDIwMjYyqQIKpgJJdGtCQ0FJU2hRRUtPRmwxYkdSMWVpQlZjMjF2Ym05MllTd2dXR0Z0WkdGdElGTnZZbWx5YjNZZ0xTQlFaWE5vZEdFZ0tGVjRiR0Z0WVhsemFYcHRhVDhwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMDVLVXpGQ1pIWlVhMWhOTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJNE1DSVBXWFZzWkhWNklGVnpiVzl1YjNaaEdqY0tIVmRsWld0c2VTQlViM0FnVFhWemFXTWdWbWxrWlc5eklFTm9ZWEowRWdaSGJHOWlZV3dhREU5amRDQXlNaXdnTWpBeU5qZ0RJaElLQnlNd01EQXdNREFTQnlNMlJqWkVSVGt3QVFSG3NoYXJlY2FyZF8xNzkyNjUyNDAwXzgwLmpwZ4ICpAQS2gJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXRrQkNBSVNoUUVLT0ZsMWJHUjFlaUJWYzIxdmJtOTJZU3dnV0dGdFpHRnRJRk52WW1seWIzWWdMU0JRWlhOb2RHRWdLRlY0YkdGdFlYbHphWHB0YVQ4cEVqUm9kSFJ3Y3pvdkwya3VlWFJwYldjdVkyOXRMM1pwTDA1S1V6RkNaSFpVYTFoTkwyMWhlSEpsYzJSbFptRjFiSFF1YW5CbkdnSTRNQ0lQV1hWc1pIVjZJRlZ6Ylc5dWIzWmhHamNLSFZkbFpXdHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YURFOWpkQ0F5TWl3Z01qQXlOamdESWhJS0J5TXdNREF3TURBU0J5TTJSalpFUlRrd0FRGkhZdWxkdXogVXNtb25vdmEsIFhhbWRhbSBTb2Jpcm92IC0gUGVzaHRhIChVeGxhbWF5c2l6bWk_KSBpcyAjODAgZ2xvYmFsbHkiall1bGR1eiBVc21vbm92YSwgWGFtZGFtIFNvYmlyb3YgLSBQZXNodGEgKFV4bGFtYXlzaXptaT8pIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBPY3QgMjIsIDIwMjYqDwgJIgsKABADGAIgntHUCQ%3D%3D"
+                        "serializedShareEntity": "CgtOSlMxQmR2VGtYTXLzAwgHEkhZdWxkdXogVXNtb25vdmEsIFhhbWRhbSBTb2Jpcm92IC0gUGVzaHRhIChVeGxhbWF5c2l6bWk_KSBpcyAjODAgZ2xvYmFsbHkaall1bGR1eiBVc21vbm92YSwgWGFtZGFtIFNvYmlyb3YgLSBQZXNodGEgKFV4bGFtYXlzaXptaT8pIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBPY3QgMjIsIDIwMjYymwIKmAJJczhCQ0FJU2ZBbzRXWFZzWkhWNklGVnpiVzl1YjNaaExDQllZVzFrWVcwZ1UyOWlhWEp2ZGlBdElGQmxjMmgwWVNBb1ZYaHNZVzFoZVhOcGVtMXBQeWtTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZUa3BUTVVKa2RsUnJXRTB2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpnd0lnWlpkV3hrZFhvYU53b2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9NVDJOMElESXlMQ0F5TURJMk9BTWlFZ29ISXpBd01EQXdNQklISXpaR05rUkZPVEFCUhtzaGFyZWNhcmRfMTc5MjY1MjQwMF84MC5qcGeCApYEEswCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlzOEJDQUlTZkFvNFdYVnNaSFY2SUZWemJXOXViM1poTENCWVlXMWtZVzBnVTI5aWFYSnZkaUF0SUZCbGMyaDBZU0FvVlhoc1lXMWhlWE5wZW0xcFB5a1NOR2gwZEhCek9pOHZhUzU1ZEdsdFp5NWpiMjB2ZG1rdlRrcFRNVUprZGxScldFMHZiV0Y0Y21WelpHVm1ZWFZzZEM1cWNHY2FBamd3SWdaWmRXeGtkWG9hTndvZFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb01UMk4wSURJeUxDQXlNREkyT0FNaUVnb0hJekF3TURBd01CSUhJelpHTmtSRk9UQUIaSFl1bGR1eiBVc21vbm92YSwgWGFtZGFtIFNvYmlyb3YgLSBQZXNodGEgKFV4bGFtYXlzaXptaT8pIGlzICM4MCBnbG9iYWxseSJqWXVsZHV6IFVzbW9ub3ZhLCBYYW1kYW0gU29iaXJvdiAtIFBlc2h0YSAoVXhsYW1heXNpem1pPykgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE9jdCAyMiwgMjAyNioPCAkiCwoAEAMYAiCe0dQJ"
                       },
                       {
                         "id": "XjGEJDig1uo",
@@ -6843,9 +6843,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiu0JKR2eGXAxVN3j8EHRMuCR0="
+        "trackingParams": "CAEQui8iEwjpwZKs3eKXAxUurMIBHRDGEcg="
       }
     },
-    "trackingParams": "CAAQhGciEwiu0JKR2eGXAxVN3j8EHRMuCR3KAQRRTy-I"
+    "trackingParams": "CAAQhGciEwjpwZKs3eKXAxUurMIBHRDGEcjKAQRDNBYa"
   }
 }
