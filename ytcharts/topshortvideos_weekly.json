@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topshortvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopShortsSongs/global/weekly",
-  "captured_at_utc": "2026-10-30T21:54:44.890325+00:00",
+  "captured_at_utc": "2026-10-31T03:53:11.406123+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtpSTRua1AwOTU1QSibpJTXBjIKCgJVUxIEGgAgIA%3D%3D",
-      "responseId": "IhMIl6mnvN3ilwMV1InCAR2hrymn"
+      "visitorData": "Cgt0cGw5TkFPR0VWMCiezJXXBjIKCgJVUxIEGgAgWA%3D%3D",
+      "responseId": "IhMImZOzy63jlwMVX9Q_BB04tAZ4"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,19 +27,25 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-10-22"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-10-29"
                     },
                     {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-10-22"
+                    },
+                    {
                       "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-10-22"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-10-22"
@@ -48,18 +54,12 @@
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-10-28"
+                      "latestEndDate": "2026-10-29"
                     },
                     {
                       "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-10-22"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
                       "latestEndDate": "2026-10-22"
                     }
                   ],
@@ -1058,7 +1058,8 @@
                             "name": "Pawan Singh"
                           },
                           {
-                            "name": "Meenu Arora"
+                            "kgMid": "/g/11b7_s__hf",
+                            "name": "Sunil Chhaila Bihari"
                           }
                         ],
                         "isVisible": true,
@@ -1072,8 +1073,8 @@
                           "Lovely Sharma",
                           "Manoj Matalbi"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IuACCAISiQIKZuCkhuCkguCkliDgpLjgpYcg4KSG4KSC4KS44KWCIOCkhiDgpJzgpL7gpK_gpYfgpJfgpL4g4KSH4KS4IOCkl-CkvuCkqOClhyDgpJXgpYsg4KS44KWB4KSo4KSo4KWHIOCkquCksBKAAWh0dHBzOi8veXQzLmdvb2dsZXVzZXJjb250ZW50LmNvbS80X0tHdVRGcFBFd2lNWTV5UlR0S2IzMDdienBQQ2VhQUF0MEhaZ05Pb2VqNEVISVQxX3FORkpaNmM5emRmdWZVVElDcDZRY2tma2swTDlOMjVRPXc5MDAtaDkwMC1wGgIyMyILUGF3YW4gU2luZ2giC01lZW51IEFyb3JhGjoKIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIENoYXJ0EgZHbG9iYWwaDE9jdCAyMiwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMwAQ",
-                        "serializedShareEntity": "CgtjcGhIVThVZndORXKVBggHEnbgpIbgpILgpJYg4KS44KWHIOCkhuCkguCkuOClgiDgpIYg4KSc4KS-4KSv4KWH4KSX4KS-IOCkh-CkuCDgpJfgpL7gpKjgpYcg4KSV4KWLIOCkuOClgeCkqOCkqOClhyDgpKrgpLAgaXMgIzIzIGdsb2JhbGx5GpsB4KSG4KSC4KSWIOCkuOClhyDgpIbgpILgpLjgpYIg4KSGIOCknOCkvuCkr-Clh-Ckl-CkviDgpIfgpLgg4KSX4KS-4KSo4KWHIOCkleCliyDgpLjgpYHgpKjgpKjgpYcg4KSq4KSwIG9uIEdsb2JhbCBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBvbiBPY3QgMjIsIDIwMjYy3QMK2gNJdUFDQ0FJU2lRSUtadUNraHVDa2d1Q2tsaURncExqZ3BZY2c0S1NHNEtTQzRLUzQ0S1dDSU9Da2hpRGdwSnpncEw3Z3BLX2dwWWZncEpmZ3BMNGc0S1NINEtTNElPQ2tsLUNrdnVDa3FPQ2xoeURncEpYZ3BZc2c0S1M0NEtXQjRLU280S1NvNEtXSElPQ2txdUNrc0JLQUFXaDBkSEJ6T2k4dmVYUXpMbWR2YjJkc1pYVnpaWEpqYjI1MFpXNTBMbU52YlM4MFgwdEhkVlJHY0ZCRmQybE5XVFY1VWxSMFMySXpNRGRpZW5CUVEyVmhRVUYwTUVoYVowNVBiMlZxTkVWSVNWUXhYM0ZPUmtwYU5tTTVlbVJtZFdaVlZFbERjRFpSWTJ0bWEyc3dURGxPTWpWUlBYYzVNREF0YURrd01DMXdHZ0l5TXlJTFVHRjNZVzRnVTJsdVoyZ2lDMDFsWlc1MUlFRnliM0poR2pvS0lGZGxaV3RzZVNCVWIzQWdVMjl1WjNNZ2IyNGdVMmh2Y25SeklFTm9ZWEowRWdaSGJHOWlZV3dhREU5amRDQXlNaXdnTWpBeU5qZ0dJaElLQnlNd01EQXdNREFTQnlOR1JqTkZSVU13QVFSG3NoYXJlY2FyZF8xNzkyNjUyNDAwXzIzLmpwZ4ICuAYSjgRodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXVBQ0NBSVNpUUlLWnVDa2h1Q2tndUNrbGlEZ3BMamdwWWNnNEtTRzRLU0M0S1M0NEtXQ0lPQ2toaURncEp6Z3BMN2dwS19ncFlmZ3BKZmdwTDRnNEtTSDRLUzRJT0NrbC1Da3Z1Q2txT0NsaHlEZ3BKWGdwWXNnNEtTNDRLV0I0S1NvNEtTbzRLV0hJT0NrcXVDa3NCS0FBV2gwZEhCek9pOHZlWFF6TG1kdmIyZHNaWFZ6WlhKamIyNTBaVzUwTG1OdmJTODBYMHRIZFZSR2NGQkZkMmxOV1RWNVVsUjBTMkl6TURkaWVuQlFRMlZoUVVGME1FaGFaMDVQYjJWcU5FVklTVlF4WDNGT1JrcGFObU01ZW1SbWRXWlZWRWxEY0RaUlkydG1hMnN3VERsT01qVlJQWGM1TURBdGFEa3dNQzF3R2dJeU15SUxVR0YzWVc0Z1UybHVaMmdpQzAxbFpXNTFJRUZ5YjNKaEdqb0tJRmRsWld0c2VTQlViM0FnVTI5dVozTWdiMjRnVTJodmNuUnpJRU5vWVhKMEVnWkhiRzlpWVd3YURFOWpkQ0F5TWl3Z01qQXlOamdHSWhJS0J5TXdNREF3TURBU0J5TkdSak5GUlVNd0FRGnbgpIbgpILgpJYg4KS44KWHIOCkhuCkguCkuOClgiDgpIYg4KSc4KS-4KSv4KWH4KSX4KS-IOCkh-CkuCDgpJfgpL7gpKjgpYcg4KSV4KWLIOCkuOClgeCkqOCkqOClhyDgpKrgpLAgaXMgIzIzIGdsb2JhbGx5IpsB4KSG4KSC4KSWIOCkuOClhyDgpIbgpILgpLjgpYIg4KSGIOCknOCkvuCkr-Clh-Ckl-CkviDgpIfgpLgg4KSX4KS-4KSo4KWHIOCkleCliyDgpLjgpYHgpKjgpKjgpYcg4KSq4KSwIG9uIEdsb2JhbCBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBvbiBPY3QgMjIsIDIwMjYqDwgKIgsKABAGGAIgntHUCQ%3D%3D"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IukCCAISkgIKZuCkhuCkguCkliDgpLjgpYcg4KSG4KSC4KS44KWCIOCkhiDgpJzgpL7gpK_gpYfgpJfgpL4g4KSH4KS4IOCkl-CkvuCkqOClhyDgpJXgpYsg4KS44KWB4KSo4KSo4KWHIOCkquCksBKAAWh0dHBzOi8veXQzLmdvb2dsZXVzZXJjb250ZW50LmNvbS80X0tHdVRGcFBFd2lNWTV5UlR0S2IzMDdienBQQ2VhQUF0MEhaZ05Pb2VqNEVISVQxX3FORkpaNmM5emRmdWZVVElDcDZRY2tma2swTDlOMjVRPXc5MDAtaDkwMC1wGgIyMyILUGF3YW4gU2luZ2giFFN1bmlsIENoaGFpbGEgQmloYXJpGjoKIFdlZWtseSBUb3AgU29uZ3Mgb24gU2hvcnRzIENoYXJ0EgZHbG9iYWwaDE9jdCAyMiwgMjAyNjgGIhIKByMwMDAwMDASByNGRjNFRUMwAQ",
+                        "serializedShareEntity": "CgtjcGhIVThVZndORXKhBggHEnbgpIbgpILgpJYg4KS44KWHIOCkhuCkguCkuOClgiDgpIYg4KSc4KS-4KSv4KWH4KSX4KS-IOCkh-CkuCDgpJfgpL7gpKjgpYcg4KSV4KWLIOCkuOClgeCkqOCkqOClhyDgpKrgpLAgaXMgIzIzIGdsb2JhbGx5GpsB4KSG4KSC4KSWIOCkuOClhyDgpIbgpILgpLjgpYIg4KSGIOCknOCkvuCkr-Clh-Ckl-CkviDgpIfgpLgg4KSX4KS-4KSo4KWHIOCkleCliyDgpLjgpYHgpKjgpKjgpYcg4KSq4KSwIG9uIEdsb2JhbCBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBvbiBPY3QgMjIsIDIwMjYy6QMK5gNJdWtDQ0FJU2tnSUtadUNraHVDa2d1Q2tsaURncExqZ3BZY2c0S1NHNEtTQzRLUzQ0S1dDSU9Da2hpRGdwSnpncEw3Z3BLX2dwWWZncEpmZ3BMNGc0S1NINEtTNElPQ2tsLUNrdnVDa3FPQ2xoeURncEpYZ3BZc2c0S1M0NEtXQjRLU280S1NvNEtXSElPQ2txdUNrc0JLQUFXaDBkSEJ6T2k4dmVYUXpMbWR2YjJkc1pYVnpaWEpqYjI1MFpXNTBMbU52YlM4MFgwdEhkVlJHY0ZCRmQybE5XVFY1VWxSMFMySXpNRGRpZW5CUVEyVmhRVUYwTUVoYVowNVBiMlZxTkVWSVNWUXhYM0ZPUmtwYU5tTTVlbVJtZFdaVlZFbERjRFpSWTJ0bWEyc3dURGxPTWpWUlBYYzVNREF0YURrd01DMXdHZ0l5TXlJTFVHRjNZVzRnVTJsdVoyZ2lGRk4xYm1sc0lFTm9hR0ZwYkdFZ1FtbG9ZWEpwR2pvS0lGZGxaV3RzZVNCVWIzQWdVMjl1WjNNZ2IyNGdVMmh2Y25SeklFTm9ZWEowRWdaSGJHOWlZV3dhREU5amRDQXlNaXdnTWpBeU5qZ0dJaElLQnlNd01EQXdNREFTQnlOR1JqTkZSVU13QVFSG3NoYXJlY2FyZF8xNzkyNjUyNDAwXzIzLmpwZ4ICxAYSmgRodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXVrQ0NBSVNrZ0lLWnVDa2h1Q2tndUNrbGlEZ3BMamdwWWNnNEtTRzRLU0M0S1M0NEtXQ0lPQ2toaURncEp6Z3BMN2dwS19ncFlmZ3BKZmdwTDRnNEtTSDRLUzRJT0NrbC1Da3Z1Q2txT0NsaHlEZ3BKWGdwWXNnNEtTNDRLV0I0S1NvNEtTbzRLV0hJT0NrcXVDa3NCS0FBV2gwZEhCek9pOHZlWFF6TG1kdmIyZHNaWFZ6WlhKamIyNTBaVzUwTG1OdmJTODBYMHRIZFZSR2NGQkZkMmxOV1RWNVVsUjBTMkl6TURkaWVuQlFRMlZoUVVGME1FaGFaMDVQYjJWcU5FVklTVlF4WDNGT1JrcGFObU01ZW1SbWRXWlZWRWxEY0RaUlkydG1hMnN3VERsT01qVlJQWGM1TURBdGFEa3dNQzF3R2dJeU15SUxVR0YzWVc0Z1UybHVaMmdpRkZOMWJtbHNJRU5vYUdGcGJHRWdRbWxvWVhKcEdqb0tJRmRsWld0c2VTQlViM0FnVTI5dVozTWdiMjRnVTJodmNuUnpJRU5vWVhKMEVnWkhiRzlpWVd3YURFOWpkQ0F5TWl3Z01qQXlOamdHSWhJS0J5TXdNREF3TURBU0J5TkdSak5GUlVNd0FRGnbgpIbgpILgpJYg4KS44KWHIOCkhuCkguCkuOClgiDgpIYg4KSc4KS-4KSv4KWH4KSX4KS-IOCkh-CkuCDgpJfgpL7gpKjgpYcg4KSV4KWLIOCkuOClgeCkqOCkqOClhyDgpKrgpLAgaXMgIzIzIGdsb2JhbGx5IpsB4KSG4KSC4KSWIOCkuOClhyDgpIbgpILgpLjgpYIg4KSGIOCknOCkvuCkr-Clh-Ckl-CkviDgpIfgpLgg4KSX4KS-4KSo4KWHIOCkleCliyDgpLjgpYHgpKjgpKjgpYcg4KSq4KSwIG9uIEdsb2JhbCBXZWVrbHkgVG9wIFNvbmdzIG9uIFNob3J0cyBvbiBPY3QgMjIsIDIwMjYqDwgKIgsKABAGGAIgntHUCQ%3D%3D"
                       },
                       {
                         "id": "G:I_KqYdxbOy4",
@@ -2215,9 +2216,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwiXqae83eKXAxXUicIBHaGvKac="
+        "trackingParams": "CAEQui8iEwiZk7PLreOXAxVf1D8EHTi0Bng="
       }
     },
-    "trackingParams": "CAAQhGciEwiXqae83eKXAxXUicIBHaGvKafKAQRn9Ee7"
+    "trackingParams": "CAAQhGciEwiZk7PLreOXAxVf1D8EHTi0BnjKAQSefBzr"
   }
 }
