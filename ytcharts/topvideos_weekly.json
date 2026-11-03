@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-11-02T14:39:22.677953+00:00",
+  "captured_at_utc": "2026-11-03T00:26:10.485343+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtIUDJSTGlucThKVSiRwaLXBjIKCgJVUxIEGgAgYg%3D%3D",
-      "responseId": "IhMI89y04MHplwMV99fCBB0hZA6I"
+      "visitorData": "CgtObkR0dXlJaG03USiZ1KTXBjIKCgJVUxIEGgAgHQ%3D%3D",
+      "responseId": "IhMIisLn9MTqlwMVLCStBh3ENCXf"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,19 +27,13 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-10-29"
-                    },
-                    {
                       "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-10-31"
+                      "latestEndDate": "2026-11-01"
                     },
                     {
-                      "chartType": "CHART_TYPE_ARTISTS",
+                      "chartType": "CHART_TYPE_TRACKS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-10-29"
@@ -51,7 +45,7 @@
                       "latestEndDate": "2026-10-29"
                     },
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartType": "CHART_TYPE_ARTISTS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-10-29"
@@ -60,7 +54,13 @@
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-10-31"
+                      "latestEndDate": "2026-11-01"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-10-29"
                     }
                   ],
                   "backgroundColor": "#A54CFF"
@@ -4933,6 +4933,11 @@
                           "month": 7,
                           "day": 20
                         },
+                        "songwriters": [
+                          "Manoj Kumar",
+                          "Sunaad Gowtham",
+                          "Naveen Visharadh"
+                        ],
                         "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IoECCAISrQEKYkVydSBQZXJ1IEhydWRheWEgVmlkZW8gU29uZyhQcmVtYWRhIE9vcmFsaSkgLSBTaHJlZXJhYW0sIFJhbWlrYSBTaGl2dSwgTWFub2ogS3VtYXIsIFN1bmFhZCBHb3d0aGFtEjRodHRwczovL2kueXRpbWcuY29tL3ZpLzRJR29fem1SY2NRL21heHJlc2RlZmF1bHQuanBnGgI3MiINTmluYWFkYSBOYXlhaxo3Ch1XZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgxPY3QgMjksIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
                         "externalChannelId": "UCXMSabpv84RC1Q7V2DhwSDA",
                         "channelName": "Vanilla Entertainments",
@@ -6809,9 +6814,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjz3LTgwemXAxX318IEHSFkDog="
+        "trackingParams": "CAEQui8iEwiKwuf0xOqXAxUsJK0GHcQ0Jd8="
       }
     },
-    "trackingParams": "CAAQhGciEwjz3LTgwemXAxX318IEHSFkDojKAQRn4grO"
+    "trackingParams": "CAAQhGciEwiKwuf0xOqXAxUsJK0GHcQ0Jd_KAQRcR9VE"
   }
 }
