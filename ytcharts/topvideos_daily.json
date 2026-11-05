@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_daily",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/daily",
-  "captured_at_utc": "2026-11-05T13:55:22.416600+00:00",
+  "captured_at_utc": "2026-11-05T23:12:35.739744+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "Cgt2aWdZcUNfdzlwVSjBlbLXBjIKCgJVUxIEGgAgNA%3D%3D",
-      "responseId": "IhMIys_Rwf3wlwMVS8fCBB3vkwzN"
+      "visitorData": "CgtqeHNDcllueWtIayjamrTXBjIKCgJVUxIEGgAgbA%3D%3D",
+      "responseId": "IhMIi57wh_rxlwMVkkheAx3BviPt"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,24 +27,6 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_TRACKS",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2016-02-25",
-                      "latestEndDate": "2026-10-29"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
-                      "earliestEndDate": "2023-11-06",
-                      "latestEndDate": "2026-11-03"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-10-29"
-                    },
-                    {
                       "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
@@ -55,6 +37,24 @@
                       "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
                       "earliestEndDate": "2016-02-25",
                       "latestEndDate": "2026-10-29"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_TRACKS",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2016-02-25",
+                      "latestEndDate": "2026-10-29"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-10-29"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
+                      "earliestEndDate": "2023-11-06",
+                      "latestEndDate": "2026-11-03"
                     },
                     {
                       "chartType": "CHART_TYPE_VIDEOS",
@@ -2144,62 +2144,16 @@
                         "serializedShareEntity": "CgtoR3U3QlZReTVHMHK3BAgHEl5OaMawIE3hu5l0IE5nxrDhu51pIFLGsG5nIC0gQ2jhu6cgVOG7i2NoIE1haSB4IEdpw6FtIMSQ4buRYyBIw6AgfCBPZmZpY2lhbCBNL1YgaXMgIzMwIGdsb2JhbGx5Gn5OaMawIE3hu5l0IE5nxrDhu51pIFLGsG5nIC0gQ2jhu6cgVOG7i2NoIE1haSB4IEdpw6FtIMSQ4buRYyBIw6AgfCBPZmZpY2lhbCBNL1Ygb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gTm92IDMsIDIwMjYytQIKsgJJdUlCQ0FJU2tBRUtUazVveHJBZ1RlRzdtWFFnVG1mR3NPRzduV2tnVXNhd2JtY2dMU0JEYU9HN3B5QlU0YnVMWTJnZ1RXRnBJSGdnUjJuRG9XMGd4SkRodTVGaklFakRvQ0I4SUU5bVptbGphV0ZzSUUwdlZoSTBhSFIwY0hNNkx5OXBMbmwwYVcxbkxtTnZiUzkyYVM5b1IzVTNRbFpSZVRWSE1DOXRZWGh5WlhOa1pXWmhkV3gwTG1wd1p4b0NNekFpQkU5VFFVUWFOUW9jUkdGcGJIa2dWRzl3SUUxMWMybGpJRlpwWkdWdmN5QkRhR0Z5ZEJJR1IyeHZZbUZzR2d0T2IzWWdNeXdnTWpBeU5qZ0RJaElLQnlNMlJqWkVSVGtTQnlNd01EQXdNREF3QVFSG3NoYXJlY2FyZF8xNzkzNjkyODAwXzMwLmpwZ4IC2gQS5gJodHRwczovL2NoYXJ0cy55b3V0dWJlLmNvbS9pbWFnZS9hbmFseXRpY3MvY2hhcnRzP3I9SXVJQkNBSVNrQUVLVGs1b3hyQWdUZUc3bVhRZ1RtZkdzT0c3bldrZ1VzYXdibWNnTFNCRGFPRzdweUJVNGJ1TFkyZ2dUV0ZwSUhnZ1IybkRvVzBneEpEaHU1RmpJRWpEb0NCOElFOW1abWxqYVdGc0lFMHZWaEkwYUhSMGNITTZMeTlwTG5sMGFXMW5MbU52YlM5MmFTOW9SM1UzUWxaUmVUVkhNQzl0WVhoeVpYTmtaV1poZFd4MExtcHdaeG9DTXpBaUJFOVRRVVFhTlFvY1JHRnBiSGtnVkc5d0lFMTFjMmxqSUZacFpHVnZjeUJEYUdGeWRCSUdSMnh2WW1Gc0dndE9iM1lnTXl3Z01qQXlOamdESWhJS0J5TTJSalpFUlRrU0J5TXdNREF3TURBd0FRGl5OaMawIE3hu5l0IE5nxrDhu51pIFLGsG5nIC0gQ2jhu6cgVOG7i2NoIE1haSB4IEdpw6FtIMSQ4buRYyBIw6AgfCBPZmZpY2lhbCBNL1YgaXMgIzMwIGdsb2JhbGx5In5OaMawIE3hu5l0IE5nxrDhu51pIFLGsG5nIC0gQ2jhu6cgVOG7i2NoIE1haSB4IEdpw6FtIMSQ4buRYyBIw6AgfCBPZmZpY2lhbCBNL1Ygb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gTm92IDMsIDIwMjYqDwgJIgsKABADGAEg79HUCQ%3D%3D"
                       },
                       {
-                        "id": "iMpS4pIRRvY",
-                        "title": "KristaFoxx - Love All Day (Official Music Video)",
                         "viewCount": "1460389",
-                        "thumbnail": {
-                          "thumbnails": [
-                            {
-                              "url": "https://i.ytimg.com/vi/iMpS4pIRRvY/default.jpg",
-                              "width": 120,
-                              "height": 90
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/iMpS4pIRRvY/mqdefault.jpg",
-                              "width": 320,
-                              "height": 180
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/iMpS4pIRRvY/hqdefault.jpg",
-                              "width": 480,
-                              "height": 360
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/iMpS4pIRRvY/sddefault.jpg",
-                              "width": 640,
-                              "height": 480
-                            },
-                            {
-                              "url": "https://i.ytimg.com/vi/iMpS4pIRRvY/maxresdefault.jpg",
-                              "width": 1920,
-                              "height": 1080
-                            }
-                          ]
-                        },
-                        "videoDuration": 198,
                         "chartEntryMetadata": {
                           "currentPosition": 31,
                           "previousPosition": 22,
                           "percentViewsChange": -0.0883776,
                           "periodsOnChart": 4
                         },
-                        "isAvailable": true,
-                        "artists": [
-                          {
-                            "kgMid": "/g/11zbqn3lb_",
-                            "name": "KristaFoxx"
-                          }
-                        ],
+                        "isAvailable": false,
                         "isVisible": true,
-                        "releaseDate": {
-                          "year": 2026,
-                          "month": 10,
-                          "day": 29
-                        },
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IskBCAISeAowS3Jpc3RhRm94eCAtIExvdmUgQWxsIERheSAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8pEjRodHRwczovL2kueXRpbWcuY29tL3ZpL2lNcFM0cElSUnZZL21heHJlc2RlZmF1bHQuanBnGgIzMSIKS3Jpc3RhRm94eBo1ChxEYWlseSBUb3AgTXVzaWMgVmlkZW9zIENoYXJ0EgZHbG9iYWwaC05vdiAzLCAyMDI2OAMiEgoHIzZGNkRFORIHIzAwMDAwMDAB",
-                        "externalChannelId": "UCteG7FeGXdqSjBbDRYwjYKg",
-                        "channelName": "KristaFoxx",
-                        "serializedShareEntity": "CgtpTXBTNHBJUlJ2WXLZAwgHEkBLcmlzdGFGb3h4IC0gTG92ZSBBbGwgRGF5IChPZmZpY2lhbCBNdXNpYyBWaWRlbykgaXMgIzMxIGdsb2JhbGx5GmBLcmlzdGFGb3h4IC0gTG92ZSBBbGwgRGF5IChPZmZpY2lhbCBNdXNpYyBWaWRlbykgb24gR2xvYmFsIERhaWx5IFRvcCBNdXNpYyBWaWRlb3Mgb24gTm92IDMsIDIwMjYykwIKkAJJc2tCQ0FJU2VBb3dTM0pwYzNSaFJtOTRlQ0F0SUV4dmRtVWdRV3hzSUVSaGVTQW9UMlptYVdOcFlXd2dUWFZ6YVdNZ1ZtbGtaVzhwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMmxOY0ZNMGNFbFNVblpaTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJek1TSUtTM0pwYzNSaFJtOTRlQm8xQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YUMwNXZkaUF6TENBeU1ESTJPQU1pRWdvSEl6WkdOa1JGT1JJSEl6QXdNREF3TURBQlIbc2hhcmVjYXJkXzE3OTM2OTI4MDBfMzEuanBnggL8AxLEAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1Jc2tCQ0FJU2VBb3dTM0pwYzNSaFJtOTRlQ0F0SUV4dmRtVWdRV3hzSUVSaGVTQW9UMlptYVdOcFlXd2dUWFZ6YVdNZ1ZtbGtaVzhwRWpSb2RIUndjem92TDJrdWVYUnBiV2N1WTI5dEwzWnBMMmxOY0ZNMGNFbFNVblpaTDIxaGVISmxjMlJsWm1GMWJIUXVhbkJuR2dJek1TSUtTM0pwYzNSaFJtOTRlQm8xQ2h4RVlXbHNlU0JVYjNBZ1RYVnphV01nVm1sa1pXOXpJRU5vWVhKMEVnWkhiRzlpWVd3YUMwNXZkaUF6TENBeU1ESTJPQU1pRWdvSEl6WkdOa1JGT1JJSEl6QXdNREF3TURBQhpAS3Jpc3RhRm94eCAtIExvdmUgQWxsIERheSAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8pIGlzICMzMSBnbG9iYWxseSJgS3Jpc3RhRm94eCAtIExvdmUgQWxsIERheSAoT2ZmaWNpYWwgTXVzaWMgVmlkZW8pIG9uIEdsb2JhbCBEYWlseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE5vdiAzLCAyMDI2Kg8ICSILCgAQAxgBIO_R1Ak%3D"
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IlkIAhIICgASABoCMzEaNQocRGFpbHkgVG9wIE11c2ljIFZpZGVvcyBDaGFydBIGR2xvYmFsGgtOb3YgMywgMjAyNjgDIhIKByM2RjZERTkSByMwMDAwMDAwAQ"
                       },
                       {
                         "id": "Mmw-PpWhKFg",
@@ -6807,9 +6761,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwjKz9HB_fCXAxVLx8IEHe-TDM0="
+        "trackingParams": "CAEQui8iEwiLnvCH-vGXAxWSSF4DHcG-I-0="
       }
     },
-    "trackingParams": "CAAQhGciEwjKz9HB_fCXAxVLx8IEHe-TDM3KAQSP__WN"
+    "trackingParams": "CAAQhGciEwiLnvCH-vGXAxWSSF4DHcG-I-3KAQTVDUfo"
   }
 }
