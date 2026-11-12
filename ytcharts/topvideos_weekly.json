@@ -2,12 +2,12 @@
   "kind": "youtube_charts_capture",
   "name": "topvideos_weekly",
   "page_url": "https://charts.youtube.com/charts/TopVideos/global/weekly",
-  "captured_at_utc": "2026-11-12T06:40:54.126761+00:00",
+  "captured_at_utc": "2026-11-12T19:29:27.437061+00:00",
   "source_api_url": "https://charts.youtube.com/youtubei/v1/browse?alt=json",
   "payload": {
     "responseContext": {
-      "visitorData": "CgtaX0x3ZUhSV3BKSSjsvtXXBjIKCgJVUxIEGgAgbQ%3D%3D",
-      "responseId": "IhMI9664uumBmAMVq0IGBR1Z0TON"
+      "visitorData": "CgtzT1lvMDc0aDFJSSiOp9jXBjIKCgJVUxIEGgAgPg%3D%3D",
+      "responseId": "IhMIytP7npWDmAMVLHESAR1MaykL"
     },
     "contents": {
       "sectionListRenderer": {
@@ -27,16 +27,10 @@
                   },
                   "availableChartsInfo": [
                     {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartType": "CHART_TYPE_VIDEOS",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-11-10"
-                    },
-                    {
-                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
-                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
-                      "earliestEndDate": "2023-11-02",
-                      "latestEndDate": "2026-11-05"
                     },
                     {
                       "chartType": "CHART_TYPE_ARTISTS",
@@ -45,7 +39,13 @@
                       "latestEndDate": "2026-11-05"
                     },
                     {
-                      "chartType": "CHART_TYPE_VIDEOS",
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
+                      "chartPeriodType": "CHART_PERIOD_TYPE_WEEKLY",
+                      "earliestEndDate": "2023-11-02",
+                      "latestEndDate": "2026-11-05"
+                    },
+                    {
+                      "chartType": "CHART_TYPE_SHORTS_TRACKS_BY_USAGE",
                       "chartPeriodType": "CHART_PERIOD_TYPE_DAILY",
                       "earliestEndDate": "2023-11-06",
                       "latestEndDate": "2026-11-10"
@@ -788,10 +788,6 @@
                         "isAvailable": true,
                         "artists": [
                           {
-                            "kgMid": "/g/11wc909c89",
-                            "name": "Dancing Green Alien"
-                          },
-                          {
                             "kgMid": "/m/082hb9",
                             "name": "El Chombo"
                           }
@@ -805,10 +801,10 @@
                         "songwriters": [
                           "Rodney Sebastian Clark Donalds"
                         ],
-                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IrwBCAISagoORGFtZSBUdSBDb3NpdGESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRnpHNHVEZ2plM00vbWF4cmVzZGVmYXVsdC5qcGcaAjExIhNEYW5jaW5nIEdyZWVuIEFsaWVuIglFbCBDaG9tYm8aNgodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLTm92IDUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
+                        "shareCardUrl": "https://charts.youtube.com/image/analytics/charts?r=IqcBCAISVQoORGFtZSBUdSBDb3NpdGESNGh0dHBzOi8vaS55dGltZy5jb20vdmkvRnpHNHVEZ2plM00vbWF4cmVzZGVmYXVsdC5qcGcaAjExIglFbCBDaG9tYm8aNgodV2Vla2x5IFRvcCBNdXNpYyBWaWRlb3MgQ2hhcnQSBkdsb2JhbBoLTm92IDUsIDIwMjY4AyISCgcjMDAwMDAwEgcjNkY2REU5MAE",
                         "externalChannelId": "UC4rasfm9J-X4jNl9SvXp8xA",
                         "channelName": "Ultra Records",
-                        "serializedShareEntity": "CgtGekc0dURnamUzTXKFAwgHEh5EYW1lIFR1IENvc2l0YSBpcyAjMTEgZ2xvYmFsbHkaP0RhbWUgVHUgQ29zaXRhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBOb3YgNSwgMjAyNjKCAgr_AUlyd0JDQUlTYWdvT1JHRnRaU0JVZFNCRGIzTnBkR0VTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZSbnBITkhWRVoycGxNMDB2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpFeEloTkVZVzVqYVc1bklFZHlaV1Z1SUVGc2FXVnVJZ2xGYkNCRGFHOXRZbThhTmdvZFYyVmxhMng1SUZSdmNDQk5kWE5wWXlCV2FXUmxiM01nUTJoaGNuUVNCa2RzYjJKaGJCb0xUbTkySURVc0lESXdNalk0QXlJU0NnY2pNREF3TURBd0VnY2pOa1kyUkVVNU1BRVIbc2hhcmVjYXJkXzE3OTM4NjU2MDBfMTEuanBnggKoAxKzAmh0dHBzOi8vY2hhcnRzLnlvdXR1YmUuY29tL2ltYWdlL2FuYWx5dGljcy9jaGFydHM_cj1JcndCQ0FJU2Fnb09SR0Z0WlNCVWRTQkRiM05wZEdFU05HaDBkSEJ6T2k4dmFTNTVkR2x0Wnk1amIyMHZkbWt2Um5wSE5IVkVaMnBsTTAwdmJXRjRjbVZ6WkdWbVlYVnNkQzVxY0djYUFqRXhJaE5FWVc1amFXNW5JRWR5WldWdUlFRnNhV1Z1SWdsRmJDQkRhRzl0WW04YU5nb2RWMlZsYTJ4NUlGUnZjQ0JOZFhOcFl5QldhV1JsYjNNZ1EyaGhjblFTQmtkc2IySmhiQm9MVG05MklEVXNJREl3TWpZNEF5SVNDZ2NqTURBd01EQXdFZ2NqTmtZMlJFVTVNQUUaHkRhbWUgVHUgQ29zaXRhIGlzICMxMSBnbG9iYWxseSI_RGFtZSBUdSBDb3NpdGEgb24gR2xvYmFsIFdlZWtseSBUb3AgTXVzaWMgVmlkZW9zIG9uIE5vdiA1LCAyMDI2Kg8ICSILCgAQAxgCIPHR1Ak%3D"
+                        "serializedShareEntity": "CgtGekc0dURnamUzTXLpAggHEh5EYW1lIFR1IENvc2l0YSBpcyAjMTEgZ2xvYmFsbHkaP0RhbWUgVHUgQ29zaXRhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBOb3YgNSwgMjAyNjLmAQrjAUlxY0JDQUlTVlFvT1JHRnRaU0JVZFNCRGIzTnBkR0VTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZSbnBITkhWRVoycGxNMDB2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpFeElnbEZiQ0JEYUc5dFltOGFOZ29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFRtOTJJRFVzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFUhtzaGFyZWNhcmRfMTc5Mzg2NTYwMF8xMS5qcGeCAowDEpcCaHR0cHM6Ly9jaGFydHMueW91dHViZS5jb20vaW1hZ2UvYW5hbHl0aWNzL2NoYXJ0cz9yPUlxY0JDQUlTVlFvT1JHRnRaU0JVZFNCRGIzTnBkR0VTTkdoMGRIQnpPaTh2YVM1NWRHbHRaeTVqYjIwdmRta3ZSbnBITkhWRVoycGxNMDB2YldGNGNtVnpaR1ZtWVhWc2RDNXFjR2NhQWpFeElnbEZiQ0JEYUc5dFltOGFOZ29kVjJWbGEyeDVJRlJ2Y0NCTmRYTnBZeUJXYVdSbGIzTWdRMmhoY25RU0JrZHNiMkpoYkJvTFRtOTJJRFVzSURJd01qWTRBeUlTQ2djak1EQXdNREF3RWdjak5rWTJSRVU1TUFFGh5EYW1lIFR1IENvc2l0YSBpcyAjMTEgZ2xvYmFsbHkiP0RhbWUgVHUgQ29zaXRhIG9uIEdsb2JhbCBXZWVrbHkgVG9wIE11c2ljIFZpZGVvcyBvbiBOb3YgNSwgMjAyNioPCAkiCwoAEAMYAiDx0dQJ"
                       },
                       {
                         "id": "8XXPxLLgwt8",
@@ -6843,9 +6839,9 @@
             }
           }
         ],
-        "trackingParams": "CAEQui8iEwj3rri66YGYAxWrQgYFHVnRM40="
+        "trackingParams": "CAEQui8iEwjK0_uelYOYAxUscRIBHUxrKQs="
       }
     },
-    "trackingParams": "CAAQhGciEwj3rri66YGYAxWrQgYFHVnRM43KAQTFNFLQ"
+    "trackingParams": "CAAQhGciEwjK0_uelYOYAxUscRIBHUxrKQvKAQT79GZ3"
   }
 }
